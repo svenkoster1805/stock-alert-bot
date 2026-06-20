@@ -2480,5 +2480,39 @@
     "research_action": "verder onderzoeken",
     "position_type": "kleine speculatieve positie",
     "price_at_alert": null
+  },
+  {
+    "alert_id": "b600b7aac64ad3068e2df15d294a5158688a819569e6726e0fc9d14c777ce2ae",
+    "time": "2026-06-20T10:14:23.201349+00:00",
+    "symbol": "TRIP",
+    "company": "Tripadvisor",
+    "source": "Google News RSS",
+    "title": "Tripadvisor shares surge after $700 million sale of TheFork to American Express (TRIP) - MSN",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLVBrQ3ozejZHSnFObFFhcXRVSjJxaUdKZ015NkFBemg2R043LWwyTXFvSHhwS3NRZzlOQndHS1hQMjNPQnB2bU94ZmFONGpUWlItak5lWV8tQk9CczZ3cmFsUmFLa1hsWElSc2k5eEFweDY4ZlAzVm5ScFNRb3RCVmlnQnpicHRyREpYVjRrZ3JQU211WDRKT2pGZ0V5Tk44WXdpMTN3THhaek5FQWFaYTFTYk42Qzk4U3lXSGVsOTNfZElwQmlmNVdfRHd3dw?oc=5",
+    "event_type": "Overname/Desinvestering",
+    "opportunity_score": 8,
+    "risk_score": 7,
+    "hype_score": 4,
+    "urgency_score": 6,
+    "research_action": "verder onderzoeken",
+    "position_type": "alleen volgen",
+    "price_at_alert": null
+  },
+  {
+    "alert_id": "a6b72548b206c6502ad7e2431d299d25645dc0f8ab6250c8dc710dea933207d0",
+    "time": "2026-06-20T10:16:21.197876+00:00",
+    "symbol": "VESTLAND:KL",
+    "company": "Vestland Holdings Berhad",
+    "source": "Google News RSS",
+    "title": "Vestland secures RM65 mil piling works contract in Kuala Lumpur - The Edge Malaysia",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHUmwzcG9kZ0J6UWFZSkpTdFAxVzh4RlNqZlF6TmZ6QUNqdEVUR1FJcFJNSlBZaFlRZjh2V0tzbmxIcGpfeUpkaG42dElUdVB1?oc=5",
+    "event_type": "contracten",
+    "opportunity_score": 7,
+    "risk_score": 6,
+    "hype_score": 2,
+    "urgency_score": 6,
+    "research_action": "verder onderzoeken",
+    "position_type": "alleen volgen",
+    "price_at_alert": null
   }
 ]
