@@ -2514,5 +2514,39 @@
     "research_action": "verder onderzoeken",
     "position_type": "alleen volgen",
     "price_at_alert": null
+  },
+  {
+    "alert_id": "562bbde692c4e3e0b9df05fa1759f9c8635cc6b5a963cacdeca2555f123b818b",
+    "time": "2026-06-20T15:57:51.288658+00:00",
+    "symbol": "RR",
+    "company": "Rolls-Royce",
+    "source": "Google News RSS",
+    "title": "Rolls-Royce shares surge as SMR unit bags multi-billion pound Swedish nuclear contract - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOUURFUEpoZnBaSTZiY3cxVTlUSlRjQTNRb0NuOUZHNkRmTDQyTlN4NlNMZUIwUy1yN1UxODRjdGUzWGkxZWhMd0huQXBRRzBMcVBwMnNqOFlzRmtBbUZWZlVsOXBqbFV2a3lqbEk1dktpd0FBbWUyWm5Ma1dQUEVQOUY5aFoxdFVfeWdmZlh1VFdQRTNPZU1zbUExVzFwTktTbkQzamlEWXFQU1NWd3ZIbWNTeVVlNHMzQmhXbF9DRjEzS1ZlY2RpdGhBcUVvNmo5TGp0ekFoTFl3RDFFY25XWGlFZDRZUzZ5YWI0MmhWX3dIaHpraTJvZjd2cmZsR1A3SDZtNjZIbThlYkVpcWFkTGNoM1FrT2ZIWDIyTGtTd1JTOWtVQ29oeEszLXV6M21pUGNrVnZJbVZVUlB6Y2ZOSTlSN1JfNnl5MkZwVXhEX3o5MlhxMktxeWdSMm1ZeHJ4NEg3cGNqYw?oc=5",
+    "event_type": "Contract (nucleaire energie)",
+    "opportunity_score": 8,
+    "risk_score": 6,
+    "hype_score": 3,
+    "urgency_score": 7,
+    "research_action": "verder onderzoeken",
+    "position_type": "lange termijn research",
+    "price_at_alert": null
+  },
+  {
+    "alert_id": "e5d36da8299c7e3b4fa809d64e307ed135737e099f44c57a82854f446cf24cf4",
+    "time": "2026-06-20T15:58:10.115798+00:00",
+    "symbol": "MU",
+    "company": "Micron Technology",
+    "source": "Google News RSS",
+    "title": "Micron Technology Earnings Report Checks Artificial Intelligence Stock Market Momentum - sekbernews.id",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JTi05QmlfMk5zUXhaWlJkcTdWbmMyZVJFQjdvVi1iTzBzWWdZYXE2S3dxSmZ0aGNTTW9OaEFmbkNrQXdveG5TMFVyVFBPYmFCdy05cm9HMVMtaTZ3RUlmdFZzVEQ0QW5hck5pbXJyTkFvRXc?oc=5",
+    "event_type": "Kwartaalcijfers & AI-momentum",
+    "opportunity_score": 7,
+    "risk_score": 7,
+    "hype_score": 7,
+    "urgency_score": 8,
+    "research_action": "verder onderzoeken",
+    "position_type": "alleen volgen",
+    "price_at_alert": null
   }
 ]
