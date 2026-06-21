@@ -1,0 +1,65 @@
+name: Stock Alert Bot V4 Catalyst Fastlane
+
+on:
+  schedule:
+    # GitHub's shortest supported schedule is every 5 minutes. Offset from :00
+    # to reduce queue delays. UTC; covers Europe + US news/trading hours.
+    - cron: "2/5 6-22 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      run_mode:
+        description: "fast / test"
+        required: false
+        default: "fast"
+      test_message:
+        description: "Stuur een Telegram testbericht? true/false"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+# Newer scans replace an old queued scan. This prevents a backlog from making
+# an alert stale before it even starts.
+concurrency:
+  group: stock-alert-fastlane
+  cancel-in-progress: true
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run V4 Catalyst Fastlane
+        run: python stock_alert_bot_v4.py
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          RUN_MODE: ${{ github.event.inputs.run_mode || 'fast' }}
+          TEST_MESSAGE: ${{ github.event.inputs.test_message || 'false' }}
+
+      - name: Save event memory and logs
+        run: |
+          git config user.name "stock-alert-bot"
+          git config user.email "stock-alert-bot@users.noreply.github.com"
+          touch seen.json event_memory.json alerts_log.json filtered_log.json signals_log.json performance_log.json latency_log.json source_health.json
+          git add seen.json event_memory.json alerts_log.json filtered_log.json signals_log.json performance_log.json latency_log.json source_health.json
+          git diff --staged --quiet || git commit -m "Update V4 Catalyst Fastlane memory"
+          git pull --rebase || true
+          git push
