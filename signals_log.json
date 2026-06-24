@@ -14,5 +14,21 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-06-24T17:31:58.718482+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WEYCO GROUP INC (0000106532) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]

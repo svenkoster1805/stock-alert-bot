@@ -7,5 +7,14 @@
     "event_family": "M_AND_A",
     "news_age_minutes": 27,
     "original_time_verified": true
+  },
+  {
+    "time": "2026-06-24T17:31:54.182950+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 21,
+    "original_time_verified": true
   }
 ]

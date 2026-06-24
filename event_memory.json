@@ -4,5 +4,11 @@
     "symbol": "FILER",
     "title": "8-K - Comstock Inc. (0001120970) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "24a949f88edd856651a60ffcca738f4c0be00b713447b7026e40bbe1a278013c": {
+    "first_alert_at": "2026-06-24T17:31:54.182934+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WEYCO GROUP INC (0000106532) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
