@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "time": "2026-06-24T10:28:58.735387+00:00",
+    "symbol": "FILER",
+    "company": "Comstock Inc. (0001120970) (Filer)",
+    "event_key": "4a33295416108e6dfe00a0414e239a5ac8749ea6350cb384466ace7911707f92",
+    "event_family": "M_AND_A",
+    "title": "8-K - Comstock Inc. (0001120970) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1120970/000143774926021491/0001437749-26-021491-index.htm",
+    "news_age_minutes": 27,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  }
+]
