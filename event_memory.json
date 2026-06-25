@@ -10,5 +10,11 @@
     "symbol": "FILER",
     "title": "8-K - WEYCO GROUP INC (0000106532) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "fd120e3a3ecbcbda91617b276aad2bd13e95565d89be309629f90e16294ea5a7": {
+    "first_alert_at": "2026-06-25T10:20:27.467159+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MoonLake Immunotherapeutics (0001821586) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

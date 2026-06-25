@@ -30,5 +30,21 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-06-25T10:20:47.850307+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MoonLake Immunotherapeutics (0001821586) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "MoonLake Immunotherapeutics heeft op 25 juni 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname, fusie of samenwerking. Dergelijke gebeurtenissen kunnen de toekomstige waardering en operationele richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn nog onbekend. Zonder deze details is de impact op de financiële positie en vooruitzichten van MoonLake Immunotherapeutics onduidelijk.",
+      "invalidation_nl": "De economische impact is niet te beoordelen zonder de financiële details en de aard van de overeenkomst.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de overeenkomst zijn essentieel voor een accurate beoordeling."
+    }
   }
 ]
