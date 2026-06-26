@@ -1,32 +1,32 @@
 {
   "fmp_press_release": {
-    "success": 1,
+    "success": 2,
     "errors": 1,
-    "last": "2026-06-25T22:57:58.629876+00:00",
+    "last": "2026-06-26T13:34:28.956676+00:00",
     "detail": "60 rows"
   },
   "sec": {
-    "success": 15,
+    "success": 16,
     "errors": 0,
-    "last": "2026-06-25T22:57:59.072057+00:00",
+    "last": "2026-06-26T13:34:30.405526+00:00",
     "detail": "90 rows"
   },
   "fmp_stock": {
-    "success": 1,
+    "success": 2,
     "errors": 1,
-    "last": "2026-06-25T22:57:59.393022+00:00",
+    "last": "2026-06-26T13:34:30.479723+00:00",
     "detail": "70 rows"
   },
   "fmp_general": {
-    "success": 1,
+    "success": 2,
     "errors": 1,
-    "last": "2026-06-25T22:57:59.716721+00:00",
+    "last": "2026-06-26T13:34:30.553907+00:00",
     "detail": "50 rows"
   },
   "google": {
-    "success": 15,
+    "success": 16,
     "errors": 0,
-    "last": "2026-06-25T22:58:00.996886+00:00",
-    "detail": "12 rows"
+    "last": "2026-06-26T13:34:31.764700+00:00",
+    "detail": "16 rows"
   }
 }
