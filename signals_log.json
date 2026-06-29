@@ -62,5 +62,21 @@
       "is_already_priced": false,
       "notes": "Verdere analyse van de volledige 8-K filing is noodzakelijk om de economische relevantie te bepalen."
     }
+  },
+  {
+    "time": "2026-06-29T19:24:57.302718+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WinVest Acquisition Corp. (0001854463) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "WinVest Acquisition Corp. heeft een 8-K-document ingediend over een wijziging van de certificerende accountant en financiële overzichten/bijlagen.",
+      "why_nl": "Een wijziging van de accountant is doorgaans een routinezaak en heeft zelden directe economische relevantie voor beleggers, tenzij er sprake is van onregelmatigheden.",
+      "risk_nl": "Er is geen direct risico verbonden aan deze specifieke melding, aangezien het geen M&A-transactie betreft.",
+      "invalidation_nl": "De inhoud van de 8-K-melding (wijziging accountant) komt niet overeen met het opgegeven eventtype (M&A).",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding betreft geen fusie of overname."
+    }
   }
 ]
