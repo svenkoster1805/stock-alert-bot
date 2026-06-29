@@ -73,5 +73,30 @@
       "is_already_priced": false,
       "notes": "Nadere details over de overeenkomst zijn essentieel voor een accurate beoordeling."
     }
+  },
+  {
+    "time": "2026-06-29T12:49:07.089205+00:00",
+    "symbol": "FILER",
+    "company": "JATT II Acquisition Corp. (0002112446) (Filer)",
+    "event_key": "396e3fb26ffe902cf3cede7036f3a4b04f045d773113220177984acfb764deac",
+    "event_family": "M_AND_A",
+    "title": "8-K - JATT II Acquisition Corp. (0002112446) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2112446/000119312526286926/0001193125-26-286926-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "JATT II Acquisition Corp. heeft een definitieve materiële overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC. De filing vermeldt ook de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "De aankondiging van een definitieve overnameovereenkomst kan een significante impact hebben op de toekomstige waardering van het bedrijf. De verkoop van aandelen kan duiden op financiering voor de transactie.",
+      "risk_nl": "De specifieke details van de overname, zoals het doelbedrijf, de overnameprijs en de volledige voorwaarden, zijn niet bekend. Dit maakt een inschatting van de economische impact onmogelijk.",
+      "invalidation_nl": "Zonder de concrete details van de overname, zoals het over te nemen bedrijf en de contractwaarde, is dit nieuws niet direct economisch te beoordelen.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van de volledige 8-K filing is noodzakelijk om de economische relevantie te bepalen."
+    }
   }
 ]
