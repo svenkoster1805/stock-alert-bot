@@ -78,5 +78,21 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding betreft geen fusie of overname."
     }
+  },
+  {
+    "time": "2026-06-30T10:44:23.083656+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CREATIVE REALITIES, INC. (0001356093) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CREATIVE REALITIES, INC. heeft op 30 juni 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC. De filing omvat ook Regulation FD Disclosure en financiële bijlagen.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan de toekomstige strategie en financiële prestaties van het bedrijf aanzienlijk beïnvloeden. Dit kan leiden tot een herwaardering van het aandeel.",
+      "risk_nl": "De specifieke aard, de financiële voorwaarden en de betrokken partijen van de overeenkomst zijn onbekend. Dit maakt de potentiële impact op het bedrijf en de aandeelhouders onzeker.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud, waarde of partijen van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Verdere openbaarmaking van de overeenkomst is essentieel voor een economische beoordeling."
+    }
   }
 ]

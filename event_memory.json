@@ -28,5 +28,11 @@
     "symbol": "FILER",
     "title": "8-K - WinVest Acquisition Corp. (0001854463) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "38fd9a8e4c4c040f5527f4673cdedcc4d0090fba56b7f6b3f30094f4ce1dc5b6": {
+    "first_alert_at": "2026-06-30T10:44:10.253372+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CREATIVE REALITIES, INC. (0001356093) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

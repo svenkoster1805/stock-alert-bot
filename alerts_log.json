@@ -123,5 +123,30 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding betreft geen fusie of overname."
     }
+  },
+  {
+    "time": "2026-06-30T10:44:23.444819+00:00",
+    "symbol": "FILER",
+    "company": "CREATIVE REALITIES, INC. (0001356093) (Filer)",
+    "event_key": "38fd9a8e4c4c040f5527f4673cdedcc4d0090fba56b7f6b3f30094f4ce1dc5b6",
+    "event_family": "M_AND_A",
+    "title": "8-K - CREATIVE REALITIES, INC. (0001356093) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1356093/000143774926022083/0001437749-26-022083-index.htm",
+    "news_age_minutes": 28,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CREATIVE REALITIES, INC. heeft op 30 juni 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC. De filing omvat ook Regulation FD Disclosure en financiële bijlagen.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan de toekomstige strategie en financiële prestaties van het bedrijf aanzienlijk beïnvloeden. Dit kan leiden tot een herwaardering van het aandeel.",
+      "risk_nl": "De specifieke aard, de financiële voorwaarden en de betrokken partijen van de overeenkomst zijn onbekend. Dit maakt de potentiële impact op het bedrijf en de aandeelhouders onzeker.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud, waarde of partijen van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Verdere openbaarmaking van de overeenkomst is essentieel voor een economische beoordeling."
+    }
   }
 ]
