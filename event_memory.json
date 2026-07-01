@@ -34,5 +34,17 @@
     "symbol": "FILER",
     "title": "8-K - CREATIVE REALITIES, INC. (0001356093) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "6944759dedb206940ab60064e26d115da13fc2d5bf9af02920a212881b18c8a1": {
+    "first_alert_at": "2026-07-01T10:56:33.723860+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Energy Vault Holdings, Inc. (0001828536) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "15523510a24122b26738b5c96801d15ea3c050a401db2ef4f50a993e80e926b4": {
+    "first_alert_at": "2026-07-01T10:56:44.931266+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PEABODY ENERGY CORP (0001064728) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

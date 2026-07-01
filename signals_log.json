@@ -94,5 +94,37 @@
       "is_already_priced": false,
       "notes": "Verdere openbaarmaking van de overeenkomst is essentieel voor een economische beoordeling."
     }
+  },
+  {
+    "time": "2026-07-01T10:56:43.849010+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Energy Vault Holdings, Inc. (0001828536) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Energy Vault Holdings, Inc. heeft een 8-K rapport ingediend met betrekking tot een materiële overeenkomst, financiële verplichtingen en de verkoop van aandelen.",
+      "why_nl": "Deze gebeurtenissen kunnen de financiële positie en kapitaalstructuur van het bedrijf beïnvloeden, wat relevant is voor beleggers.",
+      "risk_nl": "De specifieke details en financiële impact van de genoemde overeenkomsten en verplichtingen zijn niet bekend.",
+      "invalidation_nl": "De publicatiedatum van het evenement ligt in de toekomst, waardoor het geen actuele informatie is voor handelsbeslissingen.",
+      "is_already_priced": false,
+      "notes": "Het 8-K rapport is een toekomstige indiening en is momenteel niet beschikbaar voor analyse."
+    }
+  },
+  {
+    "time": "2026-07-01T10:56:54.467856+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PEABODY ENERGY CORP (0001064728) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "PEABODY ENERGY CORP heeft op 1 juli 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst in het kader van een M&A-gebeurtenis kan de waardering van het bedrijf significant beïnvloeden. Dit kan leiden tot een overnamepremie of strategische herpositionering.",
+      "risk_nl": "De specifieke financiële voorwaarden en de tegenpartij van de overeenkomst zijn niet bekend. Zonder deze details is de economische impact op PEABODY ENERGY CORP onduidelijk.",
+      "invalidation_nl": "De contractwaarde en gedetailleerde voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een definitieve overeenkomst, maar de economische impact is nog onbekend."
+    }
   }
 ]

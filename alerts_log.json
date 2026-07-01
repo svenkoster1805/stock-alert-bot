@@ -148,5 +148,55 @@
       "is_already_priced": false,
       "notes": "Verdere openbaarmaking van de overeenkomst is essentieel voor een economische beoordeling."
     }
+  },
+  {
+    "time": "2026-07-01T10:56:44.399311+00:00",
+    "symbol": "FILER",
+    "company": "Energy Vault Holdings, Inc. (0001828536) (Filer)",
+    "event_key": "6944759dedb206940ab60064e26d115da13fc2d5bf9af02920a212881b18c8a1",
+    "event_family": "M_AND_A",
+    "title": "8-K - Energy Vault Holdings, Inc. (0001828536) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1828536/000182853626000083/0001828536-26-000083-index.htm",
+    "news_age_minutes": 0,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Energy Vault Holdings, Inc. heeft een 8-K rapport ingediend met betrekking tot een materiële overeenkomst, financiële verplichtingen en de verkoop van aandelen.",
+      "why_nl": "Deze gebeurtenissen kunnen de financiële positie en kapitaalstructuur van het bedrijf beïnvloeden, wat relevant is voor beleggers.",
+      "risk_nl": "De specifieke details en financiële impact van de genoemde overeenkomsten en verplichtingen zijn niet bekend.",
+      "invalidation_nl": "De publicatiedatum van het evenement ligt in de toekomst, waardoor het geen actuele informatie is voor handelsbeslissingen.",
+      "is_already_priced": false,
+      "notes": "Het 8-K rapport is een toekomstige indiening en is momenteel niet beschikbaar voor analyse."
+    }
+  },
+  {
+    "time": "2026-07-01T10:56:54.959702+00:00",
+    "symbol": "FILER",
+    "company": "PEABODY ENERGY CORP (0001064728) (Filer)",
+    "event_key": "15523510a24122b26738b5c96801d15ea3c050a401db2ef4f50a993e80e926b4",
+    "event_family": "M_AND_A",
+    "title": "8-K - PEABODY ENERGY CORP (0001064728) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1064728/000119312526291466/0001193125-26-291466-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "PEABODY ENERGY CORP heeft op 1 juli 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst in het kader van een M&A-gebeurtenis kan de waardering van het bedrijf significant beïnvloeden. Dit kan leiden tot een overnamepremie of strategische herpositionering.",
+      "risk_nl": "De specifieke financiële voorwaarden en de tegenpartij van de overeenkomst zijn niet bekend. Zonder deze details is de economische impact op PEABODY ENERGY CORP onduidelijk.",
+      "invalidation_nl": "De contractwaarde en gedetailleerde voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een definitieve overeenkomst, maar de economische impact is nog onbekend."
+    }
   }
 ]
