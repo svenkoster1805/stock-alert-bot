@@ -126,5 +126,123 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding bevestigt een definitieve overeenkomst, maar de economische impact is nog onbekend."
     }
+  },
+  {
+    "time": "2026-07-02T20:43:36.987195+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cheniere Energy, Inc. (0000003570) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Cheniere Energy, Inc. heeft een materiële definitieve overeenkomst gesloten, wat resulteert in een directe financiële verplichting of een verplichting onder een off-balance sheet regeling. Dit is gemeld in een 8-K filing bij de SEC.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en een financiële verplichting kan de toekomstige kasstromen en balans van Cheniere Energy significant beïnvloeden. Dit kan duiden op een strategische zet die de groeivooruitzichten van het bedrijf kan veranderen.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de tegenpartij en de financiële impact, zijn onbekend. Zonder deze details is het onmogelijk om de potentiële waardecreatie of risico's voor aandeelhouders te beoordelen.",
+      "invalidation_nl": "De essentiële details van de M&A-transactie, zoals de overnamepartij, de waarde en de voorwaarden, ontbreken volledig in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst en financiële verplichting, maar de inhoudelijke details van de M&A ontbreken."
+    }
+  },
+  {
+    "time": "2026-07-02T20:43:54.090278+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KKR Infrastructure Conglomerate LLC (0001948056) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "KKR Infrastructure Conglomerate LLC heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een recente 8-K filing bij de SEC. De filing vermeldt ook wijzigingen in statuten en de indiening van zaken ter stemming aan aandeelhouders.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst kan duiden op een significante M&A-transactie die de financiële positie van het bedrijf kan beïnvloeden. Wijzigingen in statuten en aandeelhoudersstemmingen ondersteunen de mogelijkheid van een grote bedrijfstransformatie.",
+      "risk_nl": "De specifieke financiële voorwaarden, de tegenpartij en de aard van de overeenkomst zijn niet bekend, wat de impact onzeker maakt. Er is geen garantie dat de aandeelhouders de voorgestelde zaken zullen goedkeuren.",
+      "invalidation_nl": "De contractwaarde en de gedetailleerde formele voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de inhoudelijke details ontbreken voor een concrete beoordeling."
+    }
+  },
+  {
+    "time": "2026-07-02T20:44:03.121999+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Nuvve Holding Corp. (0001836875) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Nuvve Holding Corp. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij SEC.gov. De melding bevat geen details over de aard of de voorwaarden van deze overeenkomst.",
+      "why_nl": "Een materiële overeenkomst kan aanzienlijke financiële of strategische gevolgen hebben voor het bedrijf. Zonder verdere details is de economische relevantie echter niet vast te stellen.",
+      "risk_nl": "Het grootste risico is de onbekende aard van de overeenkomst, die zowel positief als negatief kan uitpakken. Er zijn geen financiële voorwaarden of partijen bekendgemaakt.",
+      "invalidation_nl": "De specifieke aard en de financiële details van de materiële overeenkomst zijn niet bekendgemaakt in de verstrekte samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de inhoud is niet beschikbaar in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-07-02T20:44:03.812922+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Kite Realty Group, L.P. (0001636315) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-02T20:44:04.469134+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KITE REALTY GROUP TRUST (0001286043) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-02T20:44:05.153785+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Algorhythm Holdings, Inc. (0000923601) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-02T20:44:05.815206+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MANGOCEUTICALS, INC. (0001938046) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-02T20:44:06.481329+00:00",
+    "symbol": "FILER",
+    "title": "8-K - OS Therapies Inc (0001795091) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

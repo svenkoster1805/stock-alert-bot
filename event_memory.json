@@ -46,5 +46,53 @@
     "symbol": "FILER",
     "title": "8-K - PEABODY ENERGY CORP (0001064728) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "26332625ac08665033a65e4bec6a8545c98c03e267e998351d9877d7d1777277": {
+    "first_alert_at": "2026-07-02T20:43:27.840033+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cheniere Energy, Inc. (0000003570) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7fc198236ca6929f5945d61323e55f232dd6f2bb40f4694e5600581cb975f593": {
+    "first_alert_at": "2026-07-02T20:43:37.670390+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KKR Infrastructure Conglomerate LLC (0001948056) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1ed774cec38c2667cf31e3295e9d4a6fc7abf64ef968710b950f702327f29fac": {
+    "first_alert_at": "2026-07-02T20:43:54.820042+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Nuvve Holding Corp. (0001836875) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e25bf76985f0c44a9c062e157a44f89c86f9295cdb60639203492e86bb0a1567": {
+    "first_alert_at": "2026-07-02T20:44:03.812901+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Kite Realty Group, L.P. (0001636315) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e9c679a28d7ecad651bbb15c116727a983d87be7c72cf6c4230fc40fceaeb52d": {
+    "first_alert_at": "2026-07-02T20:44:04.469110+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KITE REALTY GROUP TRUST (0001286043) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7adc803c8ff55089d1336960965c1af8b15e210a78a22b566c5786769752783c": {
+    "first_alert_at": "2026-07-02T20:44:05.153764+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Algorhythm Holdings, Inc. (0000923601) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "cc18a6a4a3b83cc6b0dc9b76a380896743c0fe6360113eaa4be2cffa3a925085": {
+    "first_alert_at": "2026-07-02T20:44:05.815186+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MANGOCEUTICALS, INC. (0001938046) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "edac061831088c3553242288f328b5ca06808f370d5f8e3a3fef5ae40c8904d0": {
+    "first_alert_at": "2026-07-02T20:44:06.481309+00:00",
+    "symbol": "FILER",
+    "title": "8-K - OS Therapies Inc (0001795091) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
