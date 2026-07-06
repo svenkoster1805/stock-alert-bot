@@ -244,5 +244,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-06T17:18:32.082835+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Synergy Empire Ltd (0001766267) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WATCH",
+      "confidence": 1,
+      "summary_nl": "Synergy Empire Ltd heeft een materiële definitieve overeenkomst gesloten en de acquisitie of verkoop van activa voltooid. Dit heeft geleid tot een wijziging in de zeggenschap over de registrant, zoals gemeld in een 8-K/A filing bij SEC.gov.",
+      "why_nl": "De voltooiing van een acquisitie of verkoop en een wijziging in zeggenschap duiden op een significante strategische verschuiving. Dit kan de toekomstige inkomsten, activa en de waardering van het bedrijf potentieel beïnvloeden.",
+      "risk_nl": "De specifieke financiële voorwaarden, zoals de contractwaarde van de acquisitie of verkoop, zijn niet bekend. Zonder deze details is de precieze impact op de balans en winst- en verliesrekening onduidelijk.",
+      "invalidation_nl": "De contractwaarde en de volledige voorwaarden van de materiële overeenkomst zijn niet gespecificeerd in de verstrekte samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K/A filing van SEC.gov bevestigt een voltooide acquisitie en wijziging van zeggenschap, maar zonder financiële details."
+    }
   }
 ]
