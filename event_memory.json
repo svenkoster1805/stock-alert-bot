@@ -100,5 +100,23 @@
     "symbol": "FILER",
     "title": "8-K/A - Synergy Empire Ltd (0001766267) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "f990f1fe5fcd175775dd98e6f6e7ad39a58eb8659e88ce3af88585a66d4abeb7": {
+    "first_alert_at": "2026-07-08T13:17:28.706617+00:00",
+    "symbol": "FILER",
+    "title": "8-K - STERLING INFRASTRUCTURE, INC. (0000874238) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1c21f0d42018e29a222c2c83c22771f632d4e2e084e95d7d110e6223a35deb3c": {
+    "first_alert_at": "2026-07-08T13:17:37.481761+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Evolus, Inc. (0001570562) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "086f8b1254a88d5c2e404dab484ae8c2d9af1f66318ed6c75e5b2ea952100e4b": {
+    "first_alert_at": "2026-07-08T13:17:48.128068+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Onfolio Holdings, Inc (0001825452) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

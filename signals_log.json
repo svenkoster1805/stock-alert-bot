@@ -260,5 +260,53 @@
       "is_already_priced": false,
       "notes": "De 8-K/A filing van SEC.gov bevestigt een voltooide acquisitie en wijziging van zeggenschap, maar zonder financiële details."
     }
+  },
+  {
+    "time": "2026-07-08T13:17:36.201259+00:00",
+    "symbol": "FILER",
+    "title": "8-K - STERLING INFRASTRUCTURE, INC. (0000874238) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "STERLING INFRASTRUCTURE, INC. heeft een 8-K-rapport ingediend bij de SEC. Dit rapport vermeldt het aangaan van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan de financiële positie en toekomstige vooruitzichten van het bedrijf significant beïnvloeden. De bijbehorende financiële verplichting duidt op een concrete transactie met economische impact.",
+      "risk_nl": "De specifieke aard, partijen en financiële voorwaarden van de overeenkomst zijn nog onbekend. Zonder deze details is de impact op de aandeelhouderswaarde onduidelijk en kan deze zowel positief als negatief zijn.",
+      "invalidation_nl": "Er zijn geen details over de contractwaarde, de betrokken partijen of de specifieke voorwaarden van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn essentieel om de economische relevantie te kunnen beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-08T13:17:47.033744+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Evolus, Inc. (0001570562) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Evolus, Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een recente 8-K filing bij SEC.gov. Dit document, gepubliceerd op 8 juli 2026, bevat disclosures onder Item 1.01 en 7.01.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke transactie zoals een overname of samenwerking, wat de toekomstige financiële positie van Evolus kan beïnvloeden. Dit kan leiden tot een herwaardering van het bedrijf.",
+      "risk_nl": "De specifieke financiële voorwaarden, de aard en de omvang van de overeenkomst zijn niet bekend, waardoor de economische impact onzeker blijft. Zonder deze details is een accurate beoordeling van de potentiële gevolgen niet mogelijk.",
+      "invalidation_nl": "De concrete financiële details en volledige voorwaarden van de materiële definitieve overeenkomst zijn niet beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van de volledige 8-K filing is essentieel om de aard en de potentiële impact van deze overeenkomst te begrijpen."
+    }
+  },
+  {
+    "time": "2026-07-08T13:18:00.715736+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Onfolio Holdings, Inc (0001825452) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Onfolio Holdings, Inc heeft een 8-K melding ingediend bij de SEC over het aangaan van een materiële definitieve overeenkomst.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, wat de toekomstige waarde van het bedrijf kan beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de waarde en de voorwaarden, zijn nog onbekend. Zonder deze details is de economische impact onduidelijk.",
+      "invalidation_nl": "De contractwaarde en de specifieke voorwaarden van de materiële definitieve overeenkomst zijn niet bekendgemaakt in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt het bestaan van een overeenkomst, maar de economische impact is nog niet te beoordelen zonder verdere details."
+    }
   }
 ]
