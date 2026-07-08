@@ -308,5 +308,53 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt het bestaan van een overeenkomst, maar de economische impact is nog niet te beoordelen zonder verdere details."
     }
+  },
+  {
+    "time": "2026-07-08T21:54:46.869859+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - CAPSTONE COMPANIES, INC. (0000814926) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Capstone Companies, Inc. heeft op 8 juli 2026 een materiële definitieve overeenkomst gesloten. Dit is gemeld in een 8-K/A filing bij SEC.gov.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische verandering of transactie voor het bedrijf. Dit kan de toekomstige inkomsten, activa of eigendomsstructuur van Capstone Companies beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn onbekend. Zonder details over de tegenpartij of de waarde is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "De essentiële details van de overeenkomst, zoals de contractwaarde en de betrokken partijen, zijn niet bekendgemaakt in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de materiële definitieve overeenkomst zijn nodig voor een volledige beoordeling."
+    }
+  },
+  {
+    "time": "2026-07-08T21:55:00.058062+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Clean Energy Technologies, Inc. (0001329606) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Clean Energy Technologies, Inc. heeft een 8-K-rapport ingediend waarin de totstandkoming van een materiële definitieve overeenkomst, de creatie van een directe financiële verplichting en de niet-geregistreerde verkoop van aandelen worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst en financiële verplichting kan duiden op een belangrijke strategische stap of transactie. De verkoop van aandelen kan kapitaal aantrekken voor deze transactie of andere bedrijfsdoeleinden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de materiële overeenkomst, inclusief de financiële impact en de identiteit van de betrokken partijen, zijn niet gespecificeerd in de samenvatting. Dit creëert onzekerheid over de uiteindelijke waardecreatie of -vernietiging.",
+      "invalidation_nl": "De samenvatting bevat geen concrete details over de aard, omvang of partijen van de materiële definitieve overeenkomst, waardoor een geïnformeerde handelsbeslissing onmogelijk is.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de materiële overeenkomst zijn vereist om de impact op het bedrijf te beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-08T21:55:13.800853+00:00",
+    "symbol": "FILER",
+    "title": "8-K - XCF Global, Inc. (0002019793) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "XCF Global, Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij SEC. Dit omvat ook de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "De sluiting van een materiële overeenkomst kan de bedrijfsstrategie en financiële positie van XCF Global significant beïnvloeden. De verkoop van aandelen kan duiden op financiering voor deze overeenkomst of een andere kapitaaltransactie.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn onbekend, wat de impact op de waardering van het bedrijf onduidelijk maakt. Zonder details over de tegenpartij of de transactie is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "De samenvatting bevat geen details over de overnamepartner, de overnameprijs of de specifieke voorwaarden van de materiële overeenkomst.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van de volledige 8-K filing is vereist om de economische impact te bepalen."
+    }
   }
 ]

@@ -118,5 +118,23 @@
     "symbol": "FILER",
     "title": "8-K - Onfolio Holdings, Inc (0001825452) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "feb0ecbb401d1a098f00560ef206a0af09ea76c4da5160937459bfdb55f15768": {
+    "first_alert_at": "2026-07-08T21:54:34.773274+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - CAPSTONE COMPANIES, INC. (0000814926) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "9de8a3667affe1787d9ad30310f1cb0ba005b83502fdea0dafcde0dfda7de282": {
+    "first_alert_at": "2026-07-08T21:54:47.856658+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Clean Energy Technologies, Inc. (0001329606) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "da1012e4ce9a9f674eb28ecd13492bb53166ace341a4a9c3b1e3545cce11867f": {
+    "first_alert_at": "2026-07-08T21:55:01.166100+00:00",
+    "symbol": "FILER",
+    "title": "8-K - XCF Global, Inc. (0002019793) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
