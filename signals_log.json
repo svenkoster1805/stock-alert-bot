@@ -372,5 +372,137 @@
       "is_already_priced": false,
       "notes": "Nadere analyse van het 8-K-formulier is nodig om de volledige context en impact van de beëindiging te begrijpen."
     }
+  },
+  {
+    "time": "2026-07-09T20:56:24.646663+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Titan Acquisition Corp. (0002009183) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Titan Acquisition Corp. heeft op 9 juli 2026 een 8-K/A-formulier ingediend bij de SEC. Dit formulier betreft Item 9.01: Financiële Overzichten en Bijlagen.",
+      "why_nl": "Een fusie of overname kan de toekomstige financiële prestaties en marktpositie van een bedrijf significant beïnvloeden. Dit kan leiden tot waardeverandering voor aandeelhouders.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete details over een M&A-transactie in de ingediende documenten. Zonder deze informatie is elke beoordeling van risico's of kansen speculatief.",
+      "invalidation_nl": "De ingediende 8-K/A betreft uitsluitend financiële overzichten en bijlagen, en bevat geen details over een fusie of overname.",
+      "is_already_priced": false,
+      "notes": "De 'event' type M&A komt niet overeen met de inhoud van de 8-K/A indiening."
+    }
+  },
+  {
+    "time": "2026-07-09T20:56:35.128393+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AIR INDUSTRIES GROUP (0001009891) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AIR INDUSTRIES GROUP heeft een 8-K-formulier ingediend bij de SEC, waarin de onderneming melding maakt van het aangaan van een materiële definitieve overeenkomst. Dit omvat ook een Regulation FD Disclosure en bijbehorende financiële overzichten en bijlagen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst, mogelijk gerelateerd aan een M&A-gebeurtenis, kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of toekomstige inkomstenstromen.",
+      "risk_nl": "De specifieke financiële voorwaarden, zoals de contractwaarde en de impact op de balans, zijn niet gespecificeerd in de samenvatting. Er is een risico dat de details van de overeenkomst minder gunstig zijn dan verwacht.",
+      "invalidation_nl": "De exacte financiële impact en de volledige voorwaarden van de materiële definitieve overeenkomst zijn niet bekendgemaakt in de verstrekte samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is zeer recent en afkomstig van een betrouwbare bron, wat de urgentie van verdere analyse onderstreept."
+    }
+  },
+  {
+    "time": "2026-07-09T20:56:46.248123+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Roadzen Inc. (0001868640) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Roadzen Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de onderneming melding maakt van het aangaan van een materiële definitieve overeenkomst.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, die de toekomstige bedrijfsvoering en financiële positie van Roadzen Inc. kan beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op de onderneming en aandeelhouders niet kan worden beoordeeld. Zonder deze details is het risico op een negatieve of neutrale uitkomst hoog.",
+      "invalidation_nl": "Er is geen informatie beschikbaar over de contractwaarde, de tegenpartij of de precieze aard van de overeenkomst.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de overeenkomst zijn essentieel voor een economische beoordeling."
+    }
+  },
+  {
+    "time": "2026-07-09T20:56:47.296317+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Morgan Stanley Direct Lending Fund (0001782524) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-09T20:56:48.258437+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bone Biologics Corp (0001419554) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-09T20:56:49.241699+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Netcapital Inc. (0001414767) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-09T20:56:50.365564+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Innovative Eyewear Inc (0001808377) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-09T20:56:51.506541+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Osprey Acquisition Corp. III (0002113481) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-09T20:56:52.508198+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CleanCore Solutions, Inc. (0001956741) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

@@ -142,5 +142,59 @@
     "symbol": "FILER",
     "title": "8-K - Shutterstock, Inc. (0001549346) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "61f6b4cb3b5c739a2c9fb2707ee35421a9dbbd7ed3881209da6cb93ff3d23c77": {
+    "first_alert_at": "2026-07-09T20:56:11.865903+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Titan Acquisition Corp. (0002009183) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "fc5a6882cfab0c8902512c6c278a2f7ae8944443fbfff1413ac3a91d34c0a6f1": {
+    "first_alert_at": "2026-07-09T20:56:25.729034+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AIR INDUSTRIES GROUP (0001009891) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ffbc49b0586bad69a7661cff74abf58442e9d82fc503f1aaf7a8da49ccef1915": {
+    "first_alert_at": "2026-07-09T20:56:36.367534+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Roadzen Inc. (0001868640) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "05a425424bde88ecda0ad5c37b832aebbdb2746e3de8bd5612f05d67ffed3ad8": {
+    "first_alert_at": "2026-07-09T20:56:47.296295+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Morgan Stanley Direct Lending Fund (0001782524) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "697dfa28a36adb03a078ebc0053e1ef84c9a2f25440a7caeac5253acdec6abaa": {
+    "first_alert_at": "2026-07-09T20:56:48.258413+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bone Biologics Corp (0001419554) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "256fd0ebcde57a87dd1762bd598e51f5c045f56b00472db30355a7637ff1f0db": {
+    "first_alert_at": "2026-07-09T20:56:49.241676+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Netcapital Inc. (0001414767) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "26c4ef1b14e9fc89eed95c7225c7fe0759a3b0a3cb7d8b09df88ed6e8324d50b": {
+    "first_alert_at": "2026-07-09T20:56:50.365540+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Innovative Eyewear Inc (0001808377) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "77c9a5c211a7982fa4b81e426ea35266d4e7c0103dd87ca470f128677b7eac9a": {
+    "first_alert_at": "2026-07-09T20:56:51.506519+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Osprey Acquisition Corp. III (0002113481) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "00c5a02d71d9973e73638f6b906e6e0b80fff2ff81eebf513e3b28864033351a": {
+    "first_alert_at": "2026-07-09T20:56:52.508177+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CleanCore Solutions, Inc. (0001956741) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
