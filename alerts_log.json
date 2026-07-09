@@ -563,5 +563,30 @@
       "is_already_priced": false,
       "notes": "Nadere analyse van de volledige 8-K filing is vereist om de economische impact te bepalen."
     }
+  },
+  {
+    "time": "2026-07-09T10:33:05.798182+00:00",
+    "symbol": "FILER",
+    "company": "Shutterstock, Inc. (0001549346) (Filer)",
+    "event_key": "8f5c79a3130732f5114807ae9f124609160264e42ce6231b2f9d55461b0ae16c",
+    "event_family": "M_AND_A",
+    "title": "8-K - Shutterstock, Inc. (0001549346) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1549346/000114036126028035/0001140361-26-028035-index.htm",
+    "news_age_minutes": 28,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Shutterstock, Inc. heeft op 9 juli 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de beëindiging van een materiële definitieve overeenkomst onder Item 1.02.",
+      "why_nl": "De beëindiging van een materiële overeenkomst kan aanzienlijke financiële gevolgen hebben voor Shutterstock, afhankelijk van de aard en waarde van de overeenkomst. Dit kan leiden tot wijzigingen in verwachte inkomsten, kosten of strategische plannen.",
+      "risk_nl": "De specifieke aard, waarde en voorwaarden van de beëindigde overeenkomst zijn niet bekend uit de verstrekte gegevens. Hierdoor is de precieze impact op de financiële prestaties en de aandelenkoers van Shutterstock onduidelijk.",
+      "invalidation_nl": "De volledige details van de beëindigde overeenkomst en de financiële implicaties zijn niet beschikbaar in dit fragment.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van het 8-K-formulier is nodig om de volledige context en impact van de beëindiging te begrijpen."
+    }
   }
 ]

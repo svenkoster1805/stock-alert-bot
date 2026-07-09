@@ -136,5 +136,11 @@
     "symbol": "FILER",
     "title": "8-K - XCF Global, Inc. (0002019793) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "8f5c79a3130732f5114807ae9f124609160264e42ce6231b2f9d55461b0ae16c": {
+    "first_alert_at": "2026-07-09T10:32:49.179946+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Shutterstock, Inc. (0001549346) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
