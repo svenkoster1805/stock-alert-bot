@@ -504,5 +504,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-10T18:41:40.839135+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SUIC Worldwide Holdings Ltd. (0001394108) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "SUIC Worldwide Holdings Ltd. heeft een definitieve overeenkomst gesloten en de overname of verkoop van activa voltooid. Dit resulteerde in een wijziging van zeggenschap en aanpassingen in het bestuur en management.",
+      "why_nl": "De voltooiing van een overname of verkoop kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden. Een wijziging van zeggenschap duidt op een fundamentele transformatie van de onderneming.",
+      "risk_nl": "De specifieke financiële voorwaarden van de overname of verkoop zijn niet bekend, waardoor de impact op de aandeelhouderswaarde onduidelijk is. Zonder deze details is een accurate waardering van de transactie niet mogelijk.",
+      "invalidation_nl": "De samenvatting bevat geen concrete financiële details zoals de transactiewaarde of de prijs per aandeel.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt de voltooiing van een M&A-transactie en een wijziging van zeggenschap."
+    }
   }
 ]
