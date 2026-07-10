@@ -826,5 +826,103 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt de voltooiing van een M&A-transactie en een wijziging van zeggenschap."
     }
+  },
+  {
+    "time": "2026-07-10T20:06:24.140706+00:00",
+    "symbol": "FILER",
+    "company": "InMed Pharmaceuticals Inc. (0001728328) (Filer)",
+    "event_key": "f936df16c9b6d35c7f52c2f76598abf8e405bdc35322b3573606ee22abb09b00",
+    "event_family": "M_AND_A",
+    "title": "8-K - InMed Pharmaceuticals Inc. (0001728328) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1728328/000121390026077127/0001213900-26-077127-index.htm",
+    "news_age_minutes": 4,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "InMed Pharmaceuticals Inc. heeft een 8-K-document ingediend bij de SEC, waarin de onderneming melding maakt van het aangaan van een materiële definitieve overeenkomst.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap voor het bedrijf, mogelijk gerelateerd aan een fusie of overname.",
+      "risk_nl": "De specifieke aard, partijen en financiële voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op het bedrijf onduidelijk is.",
+      "invalidation_nl": "Er zijn geen details over de contractwaarde, de betrokken partijen of de exacte voorwaarden van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt het bestaan van een overeenkomst, maar de inhoud is niet gespecificeerd."
+    }
+  },
+  {
+    "time": "2026-07-10T20:06:35.954791+00:00",
+    "symbol": "FILER",
+    "company": "CYABRA, INC. (0002032341) (Filer)",
+    "event_key": "09a58047008aebad1c9f396f7faf540f92821dc52979bd393aba6af7e1faa535",
+    "event_family": "M_AND_A",
+    "title": "8-K - CYABRA, INC. (0002032341) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2032341/000121390026077124/0001213900-26-077124-index.htm",
+    "news_age_minutes": 4,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 14,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CYABRA, INC. heeft een 8-K ingediend op 10 juli 2026, waarin de sluiting van een materiële definitieve overeenkomst wordt gemeld. De filing vermeldt ook de niet-geregistreerde verkoop van aandelen en wijzigingen in de statuten.",
+      "why_nl": "Een materiële definitieve overeenkomst kan een belangrijke strategische transactie inhouden, zoals een overname of fusie, die de toekomstige waarde van het bedrijf significant kan beïnvloeden. De gerelateerde verkoop van aandelen en statutenwijzigingen kunnen de kapitaalstructuur en governance van het bedrijf aanpassen.",
+      "risk_nl": "De specifieke aard, partijen en financiële voorwaarden van de materiële definitieve overeenkomst zijn onbekend, waardoor de economische impact niet kan worden beoordeeld. Zonder deze details is er een aanzienlijk risico op een ongunstige of irrelevante uitkomst voor beleggers.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de betrokken partijen, de aard van de transactie en de financiële voorwaarden, ontbreken volledig.",
+      "is_already_priced": false,
+      "notes": "De 8-K bevestigt een overeenkomst, maar de specifieke M&A-details die nodig zijn voor een handelsbesluit ontbreken."
+    }
+  },
+  {
+    "time": "2026-07-10T20:06:46.127943+00:00",
+    "symbol": "FILER",
+    "company": "Crinetics Pharmaceuticals, Inc. (0001658247) (Filer)",
+    "event_key": "096cd4fb2fb5f8657ccb3f2d8d1212da96b96679666c8bf0879abafde1386db2",
+    "event_family": "M_AND_A",
+    "title": "8-K - Crinetics Pharmaceuticals, Inc. (0001658247) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1658247/000114036126028208/0001140361-26-028208-index.htm",
+    "news_age_minutes": 4,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Crinetics Pharmaceuticals, Inc. heeft een materiële definitieve overeenkomst gesloten. Daarnaast zijn er wijzigingen in de directie of bepaalde functionarissen, inclusief compensatieregelingen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. Wijzigingen in het management en compensatie kunnen duiden op een nieuwe bedrijfsfase of belangrijke transactie.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de materiële definitieve overeenkomst zijn onbekend. Zonder details over de inhoud is de impact op de bedrijfswaardering onduidelijk.",
+      "invalidation_nl": "De aard van de \"Material Definitive Agreement\" is niet gespecificeerd en er zijn geen financiële details bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke gebeurtenis, maar de specifieke aard en impact zijn nog onduidelijk."
+    }
+  },
+  {
+    "time": "2026-07-10T20:06:47.208825+00:00",
+    "symbol": "FILER",
+    "company": "Z Squared Inc. (0001759186) (Filer)",
+    "event_key": "9ea06adc6dade4b248450c977fb96f223591b84f8186569b22ba0a1e505b2ba5",
+    "event_family": "M_AND_A",
+    "title": "8-K - Z Squared Inc. (0001759186) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1759186/000118518526002886/0001185185-26-002886-index.htm",
+    "news_age_minutes": 5,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

@@ -520,5 +520,67 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt de voltooiing van een M&A-transactie en een wijziging van zeggenschap."
     }
+  },
+  {
+    "time": "2026-07-10T20:06:23.620406+00:00",
+    "symbol": "FILER",
+    "title": "8-K - InMed Pharmaceuticals Inc. (0001728328) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "InMed Pharmaceuticals Inc. heeft een 8-K-document ingediend bij de SEC, waarin de onderneming melding maakt van het aangaan van een materiële definitieve overeenkomst.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap voor het bedrijf, mogelijk gerelateerd aan een fusie of overname.",
+      "risk_nl": "De specifieke aard, partijen en financiële voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op het bedrijf onduidelijk is.",
+      "invalidation_nl": "Er zijn geen details over de contractwaarde, de betrokken partijen of de exacte voorwaarden van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt het bestaan van een overeenkomst, maar de inhoud is niet gespecificeerd."
+    }
+  },
+  {
+    "time": "2026-07-10T20:06:35.391055+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CYABRA, INC. (0002032341) (Filer)",
+    "score": 14,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CYABRA, INC. heeft een 8-K ingediend op 10 juli 2026, waarin de sluiting van een materiële definitieve overeenkomst wordt gemeld. De filing vermeldt ook de niet-geregistreerde verkoop van aandelen en wijzigingen in de statuten.",
+      "why_nl": "Een materiële definitieve overeenkomst kan een belangrijke strategische transactie inhouden, zoals een overname of fusie, die de toekomstige waarde van het bedrijf significant kan beïnvloeden. De gerelateerde verkoop van aandelen en statutenwijzigingen kunnen de kapitaalstructuur en governance van het bedrijf aanpassen.",
+      "risk_nl": "De specifieke aard, partijen en financiële voorwaarden van de materiële definitieve overeenkomst zijn onbekend, waardoor de economische impact niet kan worden beoordeeld. Zonder deze details is er een aanzienlijk risico op een ongunstige of irrelevante uitkomst voor beleggers.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de betrokken partijen, de aard van de transactie en de financiële voorwaarden, ontbreken volledig.",
+      "is_already_priced": false,
+      "notes": "De 8-K bevestigt een overeenkomst, maar de specifieke M&A-details die nodig zijn voor een handelsbesluit ontbreken."
+    }
+  },
+  {
+    "time": "2026-07-10T20:06:45.591430+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Crinetics Pharmaceuticals, Inc. (0001658247) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Crinetics Pharmaceuticals, Inc. heeft een materiële definitieve overeenkomst gesloten. Daarnaast zijn er wijzigingen in de directie of bepaalde functionarissen, inclusief compensatieregelingen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. Wijzigingen in het management en compensatie kunnen duiden op een nieuwe bedrijfsfase of belangrijke transactie.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de materiële definitieve overeenkomst zijn onbekend. Zonder details over de inhoud is de impact op de bedrijfswaardering onduidelijk.",
+      "invalidation_nl": "De aard van de \"Material Definitive Agreement\" is niet gespecificeerd en er zijn geen financiële details bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke gebeurtenis, maar de specifieke aard en impact zijn nog onduidelijk."
+    }
+  },
+  {
+    "time": "2026-07-10T20:06:46.640685+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Z Squared Inc. (0001759186) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
