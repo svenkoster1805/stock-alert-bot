@@ -226,5 +226,47 @@
     "symbol": "FILER",
     "title": "8-K - Z Squared Inc. (0001759186) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "410494546f975af79f108166ff860315e20495298a0648d030f23b4387966e61": {
+    "first_alert_at": "2026-07-10T21:17:42.614672+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Plum Acquisition Corp, IV (0002030482) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0dcecde7af73cba342ba32b426329092659dce0754843a6db13eb77cf5865517": {
+    "first_alert_at": "2026-07-10T21:17:50.535096+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Columbus Circle Capital Corp III (0002123471) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f82aadc91cb429eec2819f64b1a7af6dfa594298bf0e517f40d0a7744370e9e5": {
+    "first_alert_at": "2026-07-10T21:18:03.535856+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AMASS BRANDS (0001851491) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e5c99c0621035efa7cf3f34f51dbeb59498034d7dce9873a66010310a3b08690": {
+    "first_alert_at": "2026-07-10T21:18:13.099820+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SOLESENCE, INC. (0000883107) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b701c794d27cdfc01d453139bf4ae07fe85dbf01c9e6e0495f31144912eccf1c": {
+    "first_alert_at": "2026-07-10T21:18:13.864151+00:00",
+    "symbol": "FILER",
+    "title": "8-K - LINCOLN EDUCATIONAL SERVICES CORP (0001286613) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "525e76f0cb36cfae23e0067afa0a58e0760f6d2904db8acd167f2e9a463eeab5": {
+    "first_alert_at": "2026-07-10T21:18:14.635063+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sunshine Biopharma Inc. (0001402328) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4ed7e768bda48dc9e20fefe636bb189971c518a257e0368aecfdb3bb4ba5fb7c": {
+    "first_alert_at": "2026-07-10T21:18:15.392320+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Viking Acquisition Corp. II (0002139246) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
