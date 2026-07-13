@@ -1141,5 +1141,55 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de inhoud is niet gespecificeerd in de verstrekte gegevens."
     }
+  },
+  {
+    "time": "2026-07-13T17:24:51.367007+00:00",
+    "symbol": "FILER",
+    "company": "DATA I/O CORP (0000351998) (Filer)",
+    "event_key": "4fb7f950b6ab05bbff3216b7c289368dfdf011bfea8ee8113bfdad999b33fbd9",
+    "event_family": "M_AND_A",
+    "title": "8-K - DATA I/O CORP (0000351998) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/351998/000165495426006627/0001654954-26-006627-index.htm",
+    "news_age_minutes": 4,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "DATA I/O CORP heeft een 8-K ingediend waarin de beëindiging van een materiële overeenkomst en versnelde financiële verplichtingen worden gemeld. Ook zijn er ongeregistreerde verkopen van aandelen en wijzigingen in directie en management.",
+      "why_nl": "De beëindiging van een materiële overeenkomst en versnelde financiële verplichtingen kunnen een negatieve impact hebben op de financiële positie van het bedrijf. Dit kan leiden tot onzekerheid bij beleggers.",
+      "risk_nl": "De exacte aard en financiële impact van de beëindigde overeenkomst en de versnelde verplichtingen zijn niet gespecificeerd in de samenvatting. De redenen voor de directiewijzigingen zijn ook onduidelijk.",
+      "invalidation_nl": "De gebeurteniscategorie 'M&A' wordt direct tegengesproken door de melding van de 'Termination of a Material Definitive Agreement' in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevat meerdere items die duiden op negatieve ontwikkelingen en onzekerheid."
+    }
+  },
+  {
+    "time": "2026-07-13T17:25:05.756387+00:00",
+    "symbol": "FILER",
+    "company": "FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer)",
+    "event_key": "59d547988fc84f51eb5c803c8b8d4ce757e24e4298e19bc0dffabb974f7a9dcb",
+    "event_family": "M_AND_A",
+    "title": "8-K - FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2026738/000119312526301797/0001193125-26-301797-index.htm",
+    "news_age_minutes": 7,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "FORTRESS CREDIT REALTY INCOME TRUST heeft een 8-K ingediend over een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting.",
+      "why_nl": "Zonder details over de aard, partijen en waarde van de overeenkomst, is de economische relevantie voor een M&A-transactie onduidelijk.",
+      "risk_nl": "Het grootste risico is dat de overeenkomst geen M&A betreft of dat de voorwaarden ongunstig zijn, wat niet uit de huidige informatie blijkt.",
+      "invalidation_nl": "Er zijn geen specifieke details over de M&A-transactie, zoals de betrokken partijen of de contractwaarde.",
+      "is_already_priced": false,
+      "notes": "De 8-K bevestigt een materiële gebeurtenis, maar niet de aard van een M&A-deal."
+    }
   }
 ]
