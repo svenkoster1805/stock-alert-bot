@@ -292,5 +292,35 @@
     "symbol": "FILER",
     "title": "8-K - FORTRESS CREDIT REALTY INCOME TRUST (0002026738) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "73d405091122b4a69120393b9c0653b559a0555bad27f0590ff712b38c15ac8f": {
+    "first_alert_at": "2026-07-13T20:08:44.114989+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Blue Acquisition Corp/Cayman (0002059654) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "9386e5eab1fcf340d75459c82ab85e15aafb9ec3ee1edfae5f9c595aedc4893f": {
+    "first_alert_at": "2026-07-13T20:08:56.092990+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Athena Technology Acquisition Corp. II (0001882198) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "8ad6a472280d16565fb5c38bdbd4e1cc3ba5bef44daf832369d49f9c5ea59a86": {
+    "first_alert_at": "2026-07-13T20:09:03.809755+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Singularity Future Technology Ltd. (0001422892) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "20516d15097e24e7c8a6bd916a7157567c2c5ab4afff967739f49fc9def8515f": {
+    "first_alert_at": "2026-07-13T20:09:12.615569+00:00",
+    "symbol": "FILER",
+    "title": "8-K - REVELATION BIOSCIENCES, INC. (0001810560) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "8aaf02eefd0f803c25007c55b4c3bf3067cddc9ea12500ae9717a58b23294890": {
+    "first_alert_at": "2026-07-13T20:09:13.668543+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MSP Recovery, Inc. (0001802450) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

@@ -1191,5 +1191,126 @@
       "is_already_priced": false,
       "notes": "De 8-K bevestigt een materiële gebeurtenis, maar niet de aard van een M&A-deal."
     }
+  },
+  {
+    "time": "2026-07-13T20:08:55.711390+00:00",
+    "symbol": "FILER",
+    "company": "/A - Blue Acquisition Corp/Cayman (0002059654) (Filer)",
+    "event_key": "73d405091122b4a69120393b9c0653b559a0555bad27f0590ff712b38c15ac8f",
+    "event_family": "M_AND_A",
+    "title": "8-K/A - Blue Acquisition Corp/Cayman (0002059654) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2059654/000118518526002914/0001185185-26-002914-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Blue Acquisition Corp/Cayman heeft op 13 juli 2026 een 8-K/A-formulier ingediend bij SEC.gov. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst (Item 1.01).",
+      "why_nl": "De melding van een materiële definitieve overeenkomst duidt op een significante bedrijfsgebeurtenis, zoals een fusie of overname. Dit kan de toekomstige waardering en strategische richting van het bedrijf beïnvloeden.",
+      "risk_nl": "De specifieke financiële voorwaarden en de volledige impact van de overeenkomst zijn nog onbekend. Zonder deze details is het moeilijk om de precieze economische waarde of risico's te beoordelen.",
+      "invalidation_nl": "De concrete contractwaarde en gedetailleerde voorwaarden van de overeenkomst zijn niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "Een 8-K/A met Item 1.01 bevestigt het bestaan van een bindende overeenkomst, maar de details ontbreken."
+    }
+  },
+  {
+    "time": "2026-07-13T20:09:03.398753+00:00",
+    "symbol": "FILER",
+    "company": "Athena Technology Acquisition Corp. II (0001882198) (Filer)",
+    "event_key": "9386e5eab1fcf340d75459c82ab85e15aafb9ec3ee1edfae5f9c595aedc4893f",
+    "event_family": "M_AND_A",
+    "title": "8-K - Athena Technology Acquisition Corp. II (0001882198) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1882198/000121390026077552/0001213900-26-077552-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Athena Technology Acquisition Corp. II heeft een 8-K formulier ingediend bij de SEC, met vermelding van 'Other Events' en 'Financial Statements and Exhibits'. De melding is recent gepubliceerd op 13 juli 2026.",
+      "why_nl": "Zonder specifieke details over de inhoud van de 8-K is de economische relevantie van deze melding onduidelijk. Er is geen informatie die een fusie of overname bevestigt of beschrijft.",
+      "risk_nl": "Het ontbreken van concrete informatie over een fusie of overname maakt het onmogelijk om risico's te beoordelen. De algemene aard van de melding biedt geen basis voor een investeringsbeslissing.",
+      "invalidation_nl": "De 8-K melding bevat geen details die de M&A gebeurtenis bevestigen of specificeren.",
+      "is_already_priced": false,
+      "notes": "De algemene aard van de 8-K melding biedt geen basis voor een handelsbeslissing."
+    }
+  },
+  {
+    "time": "2026-07-13T20:09:12.213453+00:00",
+    "symbol": "FILER",
+    "company": "Singularity Future Technology Ltd. (0001422892) (Filer)",
+    "event_key": "8ad6a472280d16565fb5c38bdbd4e1cc3ba5bef44daf832369d49f9c5ea59a86",
+    "event_family": "M_AND_A",
+    "title": "8-K - Singularity Future Technology Ltd. (0001422892) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1422892/000121390026077549/0001213900-26-077549-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Singularity Future Technology Ltd. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, die de toekomstige bedrijfsvoering beïnvloedt. De verkoop van aandelen kan financiering voor deze overeenkomst verschaffen of een onderdeel zijn van de transactie.",
+      "risk_nl": "De specifieke aard en financiële details van de overeenkomst zijn onbekend, wat de impact op de onderneming onduidelijk maakt. Zonder deze details is het risico op een ongunstige transactie of verwatering van aandelen onbeoordeelbaar.",
+      "invalidation_nl": "De essentiële details zoals contractwaarde, partijen en voorwaarden van de overeenkomst ontbreken volledig.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van het volledige 8-K-document is noodzakelijk om de implicaties te begrijpen."
+    }
+  },
+  {
+    "time": "2026-07-13T20:09:13.123839+00:00",
+    "symbol": "FILER",
+    "company": "REVELATION BIOSCIENCES, INC. (0001810560) (Filer)",
+    "event_key": "20516d15097e24e7c8a6bd916a7157567c2c5ab4afff967739f49fc9def8515f",
+    "event_family": "M_AND_A",
+    "title": "8-K - REVELATION BIOSCIENCES, INC. (0001810560) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1810560/000119312526302008/0001193125-26-302008-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 14,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-13T20:09:14.099568+00:00",
+    "symbol": "FILER",
+    "company": "MSP Recovery, Inc. (0001802450) (Filer)",
+    "event_key": "8aaf02eefd0f803c25007c55b4c3bf3067cddc9ea12500ae9717a58b23294890",
+    "event_family": "M_AND_A",
+    "title": "8-K - MSP Recovery, Inc. (0001802450) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1802450/000121390026077545/0001213900-26-077545-index.htm",
+    "news_age_minutes": 7,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
