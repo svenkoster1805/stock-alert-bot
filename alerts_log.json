@@ -1091,5 +1091,55 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-13T12:21:42.026904+00:00",
+    "symbol": "FILER",
+    "company": "Matinas BioPharma Holdings, Inc. (0001582554) (Filer)",
+    "event_key": "1c658d87ae7a504a8c0d541b15c59b62978418e768f402a6e7f0bc97888316d3",
+    "event_family": "M_AND_A",
+    "title": "8-K - Matinas BioPharma Holdings, Inc. (0001582554) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1582554/000149315226032938/0001493152-26-032938-index.htm",
+    "news_age_minutes": 16,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Matinas BioPharma Holdings heeft een definitieve materiële overeenkomst gesloten en er is een wijziging in de zeggenschap van de registrant. Dit blijkt uit een recente 8-K filing bij de SEC.",
+      "why_nl": "Een materiële overeenkomst en wijziging van zeggenschap duiden op een mogelijke overname of fusie, wat de aandelenkoers significant kan beïnvloeden. Dit kan leiden tot een premie voor aandeelhouders of een strategische herpositionering van het bedrijf.",
+      "risk_nl": "De specifieke voorwaarden van de overeenkomst, inclusief de contractwaarde en de identiteit van de tegenpartij, zijn niet bekend. Zonder deze details is de financiële impact onduidelijk.",
+      "invalidation_nl": "Er is geen contractwaarde of gedetailleerde voorwaarden van de overeenkomst beschikbaar in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een definitieve gebeurtenis, maar de economische details ontbreken in het verstrekte fragment."
+    }
+  },
+  {
+    "time": "2026-07-13T12:21:51.172249+00:00",
+    "symbol": "FILER",
+    "company": "MALIBU BOATS, INC. (0001590976) (Filer)",
+    "event_key": "cfe2b5e3548004cd7f0230929cf413f590daa9aa666717d336ca9ab240065138",
+    "event_family": "M_AND_A",
+    "title": "8-K - MALIBU BOATS, INC. (0001590976) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1590976/000159097626000029/0001590976-26-000029-index.htm",
+    "news_age_minutes": 16,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Malibu Boats, Inc. heeft een materiële definitieve overeenkomst gesloten en een directe financiële verplichting aangegaan, zoals gemeld in een recente 8-K filing bij de SEC.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. De aard van de overeenkomst en de financiële verplichting kunnen leiden tot een waardeverandering.",
+      "risk_nl": "De specifieke aard, omvang en voorwaarden van de overeenkomst zijn onbekend, wat de impact op het bedrijf onduidelijk maakt. Zonder details is het risico op een verkeerde inschatting hoog.",
+      "invalidation_nl": "Er zijn geen details over de tegenpartij, de contractwaarde of de specifieke voorwaarden van de overeenkomst beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de inhoud is niet gespecificeerd in de verstrekte gegevens."
+    }
   }
 ]

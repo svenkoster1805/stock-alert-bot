@@ -686,5 +686,37 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-13T12:21:41.636881+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Matinas BioPharma Holdings, Inc. (0001582554) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Matinas BioPharma Holdings heeft een definitieve materiële overeenkomst gesloten en er is een wijziging in de zeggenschap van de registrant. Dit blijkt uit een recente 8-K filing bij de SEC.",
+      "why_nl": "Een materiële overeenkomst en wijziging van zeggenschap duiden op een mogelijke overname of fusie, wat de aandelenkoers significant kan beïnvloeden. Dit kan leiden tot een premie voor aandeelhouders of een strategische herpositionering van het bedrijf.",
+      "risk_nl": "De specifieke voorwaarden van de overeenkomst, inclusief de contractwaarde en de identiteit van de tegenpartij, zijn niet bekend. Zonder deze details is de financiële impact onduidelijk.",
+      "invalidation_nl": "Er is geen contractwaarde of gedetailleerde voorwaarden van de overeenkomst beschikbaar in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een definitieve gebeurtenis, maar de economische details ontbreken in het verstrekte fragment."
+    }
+  },
+  {
+    "time": "2026-07-13T12:21:50.761453+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MALIBU BOATS, INC. (0001590976) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Malibu Boats, Inc. heeft een materiële definitieve overeenkomst gesloten en een directe financiële verplichting aangegaan, zoals gemeld in een recente 8-K filing bij de SEC.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. De aard van de overeenkomst en de financiële verplichting kunnen leiden tot een waardeverandering.",
+      "risk_nl": "De specifieke aard, omvang en voorwaarden van de overeenkomst zijn onbekend, wat de impact op het bedrijf onduidelijk maakt. Zonder details is het risico op een verkeerde inschatting hoog.",
+      "invalidation_nl": "Er zijn geen details over de tegenpartij, de contractwaarde of de specifieke voorwaarden van de overeenkomst beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de inhoud is niet gespecificeerd in de verstrekte gegevens."
+    }
   }
 ]
