@@ -322,5 +322,23 @@
     "symbol": "FILER",
     "title": "8-K - MSP Recovery, Inc. (0001802450) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "8a2473693c3805f7f8e0580e4b1cf8ecb733167aad4ba75450d5048733bfd6ef": {
+    "first_alert_at": "2026-07-13T21:11:58.207641+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WRAP TECHNOLOGIES, INC. (0001702924) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1bbaca8bdd3f6fb458bcf04c7973b0d8ae9648f985aab2b5e757f6e66684598f": {
+    "first_alert_at": "2026-07-13T21:12:09.200326+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Tavia Acquisition Corp. (0002020385) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "14411a28776e3951e9e2302e3b15c43f53967b1a09d92e57fd3e0ec6ce1092e1": {
+    "first_alert_at": "2026-07-13T21:12:14.621145+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Aptera Motors Corp (0001786471) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

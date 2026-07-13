@@ -1312,5 +1312,80 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-13T21:12:08.594024+00:00",
+    "symbol": "FILER",
+    "company": "WRAP TECHNOLOGIES, INC. (0001702924) (Filer)",
+    "event_key": "8a2473693c3805f7f8e0580e4b1cf8ecb733167aad4ba75450d5048733bfd6ef",
+    "event_family": "M_AND_A",
+    "title": "8-K - WRAP TECHNOLOGIES, INC. (0001702924) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1702924/000149315226033073/0001493152-26-033073-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "WRAP TECHNOLOGIES, INC. heeft op 13 juli 2026 een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Dit rapport is 1 minuut oud en heeft een hoge bronscore.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische of financiële ontwikkeling voor het bedrijf. Dergelijke overeenkomsten kunnen de toekomstige inkomsten, activa of de kapitaalstructuur van WRAP TECHNOLOGIES, INC. significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, inhoud en financiële implicaties van de overeenkomst zijn onbekend, waardoor de potentiële impact op de bedrijfswaardering niet kan worden ingeschat. Zonder deze details is er een aanzienlijk risico op misinterpretatie of onjuiste verwachtingen.",
+      "invalidation_nl": "Er zijn geen concrete details over de materiële definitieve overeenkomst beschikbaar, zoals de aard, waarde of betrokken partijen, om een geïnformeerde handelsbeslissing te kunnen nemen.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de materiële definitieve overeenkomst zijn essentieel voor een beoordeling."
+    }
+  },
+  {
+    "time": "2026-07-13T21:12:14.059928+00:00",
+    "symbol": "FILER",
+    "company": "Tavia Acquisition Corp. (0002020385) (Filer)",
+    "event_key": "1bbaca8bdd3f6fb458bcf04c7973b0d8ae9648f985aab2b5e757f6e66684598f",
+    "event_family": "M_AND_A",
+    "title": "8-K - Tavia Acquisition Corp. (0002020385) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2020385/000121390026077643/0001213900-26-077643-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Tavia Acquisition Corp. heeft een 8-K formulier ingediend bij de SEC, met daarin een Regulation FD Disclosure en financiële overzichten en bijlagen.",
+      "why_nl": "De ingediende 8-K bevat geen specifieke details over een fusie of overname, waardoor de economische relevantie onduidelijk is.",
+      "risk_nl": "Zonder concrete informatie over de inhoud van de Regulation FD Disclosure of de aard van de financiële overzichten, is de impact op de belegger onbekend.",
+      "invalidation_nl": "De verstrekte gegevens bevatten geen details over een fusie of overname, ondanks de geclaimde event type.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing zelf is geen bevestiging van een M&A-transactie."
+    }
+  },
+  {
+    "time": "2026-07-13T21:12:24.513600+00:00",
+    "symbol": "FILER",
+    "company": "Aptera Motors Corp (0001786471) (Filer)",
+    "event_key": "14411a28776e3951e9e2302e3b15c43f53967b1a09d92e57fd3e0ec6ce1092e1",
+    "event_family": "M_AND_A",
+    "title": "8-K - Aptera Motors Corp (0001786471) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1786471/000149315226033058/0001493152-26-033058-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Aptera Motors Corp heeft een 8-K ingediend op 13 juli 2026, waarin de afsluiting van een materiële definitieve overeenkomst en de niet-geregistreerde verkoop van aandelen worden gemeld.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op kapitaalverhoging, maar ook op verwatering voor bestaande aandeelhouders.",
+      "risk_nl": "De aard en financiële voorwaarden van de materiële overeenkomst zijn onbekend, wat de impact op het bedrijf onduidelijk maakt. De verwatering door de verkoop van aandelen is nog niet kwantificeerbaar.",
+      "invalidation_nl": "De specifieke details, zoals de contractwaarde of de exacte aard van de overeenkomst, zijn niet bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op belangrijke bedrijfsactiviteit, maar de economische impact is nog onduidelijk zonder verdere details."
+    }
   }
 ]
