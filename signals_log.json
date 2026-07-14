@@ -1044,5 +1044,95 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-14T21:45:14.518106+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Viking Acquisition Corp. II (0002139246) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Viking Acquisition Corp. II heeft een 8-K-formulier ingediend bij de SEC, met vermelding van 'Other Events' en 'Financial Statements and Exhibits'. Dit document is op 14 juli 2026 gepubliceerd.",
+      "why_nl": "Dit is niet economisch relevant omdat de aard van de 'Other Events' niet gespecificeerd is. Zonder concrete details over een fusie of overname is de impact onbekend.",
+      "risk_nl": "Het grootste risico is dat de inhoud van de 8-K niet bekend is, waardoor elke conclusie over een M&A speculatief is. Er is geen informatie over contractwaarde of voorwaarden.",
+      "invalidation_nl": "De samenvatting van de 8-K vermeldt geen details over een fusie of overname, ondanks de geclassificeerde gebeurtenis als M&A.",
+      "is_already_priced": false,
+      "notes": "De 8-K-filing is te algemeen om een M&A-gebeurtenis te bevestigen met economische details."
+    }
+  },
+  {
+    "time": "2026-07-14T21:45:23.936525+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Banzai International, Inc. (0001826011) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Banzai International, Inc. heeft op 14 juli 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC. Dit document bevat ook disclosures onder Regulation FD en financiële overzichten.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of verkoop, die de toekomstige waarde van het bedrijf kan beïnvloeden. Dit kan leiden tot veranderingen in de bedrijfsstructuur of financiële prestaties.",
+      "risk_nl": "Het grootste risico is het ontbreken van details over de aard, omvang en financiële voorwaarden van de overeenkomst, waardoor de impact onbekend is. Zonder deze informatie is het onmogelijk om de economische waarde of risico's te beoordelen.",
+      "invalidation_nl": "Er is geen contractwaarde, tegenpartij of specifieke voorwaarden van de overeenkomst bekend om een geïnformeerde beslissing te nemen.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een overeenkomst, maar de inhoudelijke details ontbreken in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-07-14T21:45:35.689679+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Figure Technology Solutions, Inc. (0002064124) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Figure Technology Solutions, Inc. heeft een 8-K ingediend over een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting. Dit document is op 14 juli 2026 gepubliceerd op SEC.gov.",
+      "why_nl": "Een materiële definitieve overeenkomst en financiële verplichting kunnen duiden op een overname, fusie of andere significante transactie. Dit kan de financiële positie en toekomstige strategie van het bedrijf aanzienlijk beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de aard van de transactie en de financiële voorwaarden, zijn niet bekend. Zonder deze informatie is de impact op het bedrijf onduidelijk.",
+      "invalidation_nl": "De contractwaarde en de volledige formele voorwaarden van de overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is recent en van een betrouwbare bron, maar de economische details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-07-14T21:45:36.569357+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bleichroeder Acquisition Corp. III (0002128045) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-14T21:45:37.395607+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-14T21:45:38.224225+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Oak Woods Acquisition Corp (0001945422) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

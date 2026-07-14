@@ -406,5 +406,41 @@
     "symbol": "FILER",
     "title": "8-K - WEST PHARMACEUTICAL SERVICES INC (0000105770) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "56ade7c57f0d60a188232937dde34e9a7e816da770076f48c863781eb0de8cba": {
+    "first_alert_at": "2026-07-14T21:45:04.931621+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Viking Acquisition Corp. II (0002139246) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f79eb491f09f6fc9a64e5f098c5fd85fe908cd9b277a8e58b7b03e42dec67ec7": {
+    "first_alert_at": "2026-07-14T21:45:15.416126+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Banzai International, Inc. (0001826011) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "3383199fd6fceac3b87f0fa15500a85695e0cbf743b341210b269479e118993b": {
+    "first_alert_at": "2026-07-14T21:45:24.858351+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Figure Technology Solutions, Inc. (0002064124) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "9c40382885af1b3f05e4faddd938bf27ce83333f6ff1e2967eff6a89dbc047b3": {
+    "first_alert_at": "2026-07-14T21:45:36.569331+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bleichroeder Acquisition Corp. III (0002128045) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5e573d5eec97aa8bbdec6f3dc7f4a94978da6f2bee5c7d75717f91afb07e2bd4": {
+    "first_alert_at": "2026-07-14T21:45:37.395580+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "23bea0c93d1725c3b2eb8654a3dcfe8e48441c2012c9b67b462307d13f11dcfb": {
+    "first_alert_at": "2026-07-14T21:45:38.224200+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Oak Woods Acquisition Corp (0001945422) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
