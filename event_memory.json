@@ -370,5 +370,41 @@
     "symbol": "FILER",
     "title": "8-K - DAVEY TREE EXPERT CO (0000277638) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "5ace66b1f868770fe379edc422cc04585167c17db47f1e90fba3b1d1a5d16060": {
+    "first_alert_at": "2026-07-14T20:52:32.971594+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AUTOZONE INC (0000866787) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "731e29ca8699eb84ab1afa0aa7df27d2428d62b338c77e3c3450ae667a52c01b": {
+    "first_alert_at": "2026-07-14T20:52:45.124188+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Evofem Biosciences, Inc. (0001618835) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f7f0fda17b0dd08821004192ca7d2f4f5bfb651a1dc6123cef7aed6b841fd50f": {
+    "first_alert_at": "2026-07-14T20:53:01.457391+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DISCIPLINED GROWTH ACQUISITION Corp (0002111038) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "bae79ffb82ed275194fb659b7728c816b2ba652850d61a6ab97ecd5ad4514973": {
+    "first_alert_at": "2026-07-14T20:53:11.751653+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bayview Acquisition Corp (0001969475) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5dbf4ca28cec701978a46d0d1e652bfae79b9207e99ff48d026fa31138beb3aa": {
+    "first_alert_at": "2026-07-14T20:53:12.734763+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Two Hands Corp (0001494413) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "941861dda8c0565837e07c8fa23a2b8b66082d13077aa95c3dc0a572078ce956": {
+    "first_alert_at": "2026-07-14T20:53:13.635410+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WEST PHARMACEUTICAL SERVICES INC (0000105770) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

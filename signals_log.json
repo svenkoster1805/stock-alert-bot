@@ -954,5 +954,95 @@
       "is_already_priced": false,
       "notes": "De 8-K melding duidt op een belangrijke gebeurtenis, maar de aard van de 'Material Definitive Agreement' is niet gespecificeerd."
     }
+  },
+  {
+    "time": "2026-07-14T20:52:44.047869+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AUTOZONE INC (0000866787) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AUTOZONE INC heeft een materiële definitieve overeenkomst gesloten en een directe financiële verplichting aangegaan, zoals gemeld in een recente 8-K filing bij de SEC.",
+      "why_nl": "Een materiële definitieve overeenkomst en financiële verplichting kunnen de strategie en financiële positie van AUTOZONE INC aanzienlijk beïnvloeden.",
+      "risk_nl": "De exacte aard, omvang en financiële details van de overeenkomst zijn niet bekend, wat de impact onzeker maakt.",
+      "invalidation_nl": "Er is geen contractwaarde of specifieke details over de transactie bekendgemaakt.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële gebeurtenis, maar mist cruciale economische details."
+    }
+  },
+  {
+    "time": "2026-07-14T20:53:00.329848+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Evofem Biosciences, Inc. (0001618835) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Evofem Biosciences, Inc. heeft op 14 juli 2026 een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst en een financiële verplichting kan duiden op een belangrijke strategische stap, zoals een overname, desinvestering of een grote financiering, die de financiële positie of bedrijfsactiviteiten van Evofem Biosciences aanzienlijk kan beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de contractwaarde en de betrokken partijen, zijn niet bekend, wat de impact op de onderneming onzeker maakt.",
+      "invalidation_nl": "Er zijn geen concrete details over de aard van de M&A-transactie, de contractwaarde of de betrokken partijen beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een overeenkomst, maar de inhoud van de M&A-transactie is onbekend."
+    }
+  },
+  {
+    "time": "2026-07-14T20:53:10.712368+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DISCIPLINED GROWTH ACQUISITION Corp (0002111038) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "DISCIPLINED GROWTH ACQUISITION Corp heeft op 14 juli 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier omvat Item 8.01 (Overige Gebeurtenissen) en Item 9.01 (Financiële Overzichten en Bijlagen).",
+      "why_nl": "De ingediende 8-K vermeldt generieke items zonder specifieke details over een fusie of overname. Zonder verdere informatie is de economische relevantie van deze melding onduidelijk.",
+      "risk_nl": "Het grootste risico is dat de inhoud van de 8-K niet bekend is, waardoor de aard van de 'Overige Gebeurtenissen' onduidelijk blijft. Dit kan leiden tot speculatie zonder concrete feiten.",
+      "invalidation_nl": "De samenvatting van de 8-K bevat geen concrete economische details of bevestiging van een M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De algemene aard van de 8-K-items maakt een beoordeling van een M&A-event onmogelijk."
+    }
+  },
+  {
+    "time": "2026-07-14T20:53:11.751674+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bayview Acquisition Corp (0001969475) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-14T20:53:12.734784+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Two Hands Corp (0001494413) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-14T20:53:13.635431+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WEST PHARMACEUTICAL SERVICES INC (0000105770) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
