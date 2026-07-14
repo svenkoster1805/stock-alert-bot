@@ -1387,5 +1387,30 @@
       "is_already_priced": false,
       "notes": "De 8-K melding duidt op belangrijke bedrijfsactiviteit, maar de economische impact is nog onduidelijk zonder verdere details."
     }
+  },
+  {
+    "time": "2026-07-14T10:08:22.999356+00:00",
+    "symbol": "FILER",
+    "company": "Alto Neuroscience, Inc. (0001999480) (Filer)",
+    "event_key": "86f0b4d9cadabd46b5d0365f75cd4627a4bdd4b09131bc2ca1e186efbc75d387",
+    "event_family": "M_AND_A",
+    "title": "8-K - Alto Neuroscience, Inc. (0001999480) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1999480/000110465926083274/0001104659-26-083274-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Alto Neuroscience, Inc. heeft een 8-K-rapport ingediend bij de SEC. Dit rapport vermeldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie, zoals een overname of fusie. Dit kan de waardering van het bedrijf aanzienlijk beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn nog onbekend. Zonder deze details is de impact op de aandeelhouderswaarde onduidelijk.",
+      "invalidation_nl": "De contractwaarde en gedetailleerde voorwaarden van de materiële definitieve overeenkomst zijn niet beschikbaar in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de economische impact te beoordelen."
+    }
   }
 ]

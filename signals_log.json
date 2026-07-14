@@ -874,5 +874,21 @@
       "is_already_priced": false,
       "notes": "De 8-K melding duidt op belangrijke bedrijfsactiviteit, maar de economische impact is nog onduidelijk zonder verdere details."
     }
+  },
+  {
+    "time": "2026-07-14T10:08:22.511451+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Alto Neuroscience, Inc. (0001999480) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Alto Neuroscience, Inc. heeft een 8-K-rapport ingediend bij de SEC. Dit rapport vermeldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie, zoals een overname of fusie. Dit kan de waardering van het bedrijf aanzienlijk beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn nog onbekend. Zonder deze details is de impact op de aandeelhouderswaarde onduidelijk.",
+      "invalidation_nl": "De contractwaarde en gedetailleerde voorwaarden van de materiële definitieve overeenkomst zijn niet beschikbaar in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de economische impact te beoordelen."
+    }
   }
 ]
