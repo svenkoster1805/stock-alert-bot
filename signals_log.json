@@ -922,5 +922,21 @@
       "is_already_priced": false,
       "notes": "Verdere details over de \"Material Definitive Agreement\" zijn nodig om de economische relevantie volledig te kunnen beoordelen."
     }
+  },
+  {
+    "time": "2026-07-14T18:36:17.666519+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Fidelity Private Credit Co LLC (0001899996) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Fidelity Private Credit Co LLC heeft een materiële definitieve overeenkomst gesloten en een directe financiële verplichting aangegaan, zoals gemeld in een 8-K filing bij SEC.gov.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en financiële verplichting kan de balans en toekomstige kasstromen van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst, inclusief de tegenpartij en de impact op de waardering, zijn onbekend.",
+      "invalidation_nl": "Er zijn geen details over de contractwaarde, de aard van de M&A of de formele voorwaarden beschikbaar in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële gebeurtenis, maar de details van de M&A zijn niet gespecificeerd."
+    }
   }
 ]
