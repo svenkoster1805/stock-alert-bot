@@ -890,5 +890,21 @@
       "is_already_priced": false,
       "notes": "Verdere details over de overeenkomst zijn nodig om de economische impact te beoordelen."
     }
+  },
+  {
+    "time": "2026-07-14T12:52:53.759806+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FIRST BANCORP /NC/ (0000811589) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "FIRST BANCORP /NC/ heeft op 14 juli 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en andere gebeurtenissen.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst duidt op een significante zakelijke transactie, zoals een fusie of overname. Dit kan de financiële positie of strategische richting van FIRST BANCORP /NC/ aanzienlijk beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële details van de overeenkomst zijn niet bekendgemaakt in de samenvatting. Zonder deze details is de impact op de waardering van het bedrijf onduidelijk.",
+      "invalidation_nl": "De contractwaarde en volledige voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de economische impact te beoordelen."
+    }
   }
 ]
