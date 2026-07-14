@@ -364,5 +364,11 @@
     "symbol": "FILER",
     "title": "8-K - Fidelity Private Credit Co LLC (0001899996) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "7508cfe24f951cc80ed554fcfe8312528c486300f5dd0e27ea40940166f7701f": {
+    "first_alert_at": "2026-07-14T19:53:56.955519+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DAVEY TREE EXPERT CO (0000277638) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

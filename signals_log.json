@@ -938,5 +938,21 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt een materiële gebeurtenis, maar de details van de M&A zijn niet gespecificeerd."
     }
+  },
+  {
+    "time": "2026-07-14T19:54:07.920482+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DAVEY TREE EXPERT CO (0000277638) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "DAVEY TREE EXPERT CO heeft een 8-K-rapport ingediend over het aangaan van een materiële definitieve overeenkomst en een directe financiële verplichting. Dit rapport is op 14 juli 2026 gepubliceerd op SEC.gov.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en een financiële verplichting kan de financiële positie en toekomstige strategie van het bedrijf significant beïnvloeden. Dit kan duiden op een belangrijke zakelijke ontwikkeling, mogelijk een overname of een grote investering.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de materiële overeenkomst en de financiële verplichting zijn nog onbekend. Zonder deze details is de impact op het bedrijf en de aandeelhouders onduidelijk.",
+      "invalidation_nl": "Er zijn geen concrete details over een overname, zoals de overnamepartij, de waarde of de voorwaarden, beschikbaar in de bron.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke gebeurtenis, maar de aard van de 'Material Definitive Agreement' is niet gespecificeerd."
+    }
   }
 ]
