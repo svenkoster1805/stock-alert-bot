@@ -1437,5 +1437,30 @@
       "is_already_priced": false,
       "notes": "Verdere details over de overeenkomst zijn nodig om de economische impact te beoordelen."
     }
+  },
+  {
+    "time": "2026-07-14T17:24:33.271829+00:00",
+    "symbol": "FILER",
+    "company": "BION ENVIRONMENTAL TECHNOLOGIES INC (0000875729) (Filer)",
+    "event_key": "3e590ca9917faea485023ee9bdd4ecac71270532c80237e8168f07f42f566110",
+    "event_family": "M_AND_A",
+    "title": "8-K - BION ENVIRONMENTAL TECHNOLOGIES INC (0000875729) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/875729/000107997326000947/0001079973-26-000947-index.htm",
+    "news_age_minutes": 20,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BION ENVIRONMENTAL TECHNOLOGIES INC heeft op 14 juli 2026 een 8-K-rapport ingediend bij de SEC. Dit rapport vermeldt de \"Entry into a Material Definitive Agreement\" en \"Regulation FD Disclosure\".",
+      "why_nl": "De melding van een \"Material Definitive Agreement\" duidt op een bindende overeenkomst die de financiële positie of strategie van het bedrijf significant kan beïnvloeden. Dit kan een voorbode zijn van een fusie, overname of een andere belangrijke zakelijke transactie.",
+      "risk_nl": "De specifieke aard en de financiële voorwaarden van de \"Material Definitive Agreement\" zijn onbekend, waardoor de impact op het bedrijf en de aandeelhouderswaarde onduidelijk is. Zonder details over de tegenpartij of de inhoud van de overeenkomst is een accurate beoordeling niet mogelijk.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de betrokken partijen of de exacte aard van de M&A-transactie beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de \"Material Definitive Agreement\" zijn nodig om de economische relevantie volledig te kunnen beoordelen."
+    }
   }
 ]

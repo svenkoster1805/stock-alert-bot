@@ -352,5 +352,11 @@
     "symbol": "FILER",
     "title": "8-K - FIRST BANCORP /NC/ (0000811589) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "3e590ca9917faea485023ee9bdd4ecac71270532c80237e8168f07f42f566110": {
+    "first_alert_at": "2026-07-14T17:24:20.295015+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BION ENVIRONMENTAL TECHNOLOGIES INC (0000875729) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
