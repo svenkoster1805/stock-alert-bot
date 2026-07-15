@@ -1182,5 +1182,37 @@
       "is_already_priced": false,
       "notes": "De 8-K-filing duidt op een belangrijke gebeurtenis, maar de samenvatting mist cruciale details voor een directe beoordeling."
     }
+  },
+  {
+    "time": "2026-07-15T18:54:19.867146+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - HNO International, Inc. (0001342916) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "HNO International, Inc. heeft een materieel definitief akkoord gesloten, wat leidt tot een directe financiële verplichting en de verkoop van niet-geregistreerde aandelen. Dit is gemeld in een 8-K/A-document bij SEC.gov.",
+      "why_nl": "Een materieel definitief akkoord kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. De creatie van financiële verplichtingen en de uitgifte van aandelen duiden op een kapitaaltransactie met potentiële impact op de waardering.",
+      "risk_nl": "De specifieke aard, waarde en voorwaarden van het akkoord zijn onbekend, waardoor de impact op het bedrijf onduidelijk is. Zonder details over de tegenpartij of de transactie is het risico op een ongunstige deal niet in te schatten.",
+      "invalidation_nl": "Er is geen contractwaarde, tegenpartij of concrete details over de aard van de M&A-transactie bekendgemaakt in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K/A melding bevestigt een definitief akkoord, maar de economische details ontbreken nog voor een beoordeling."
+    }
+  },
+  {
+    "time": "2026-07-15T18:54:38.219315+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Tennessee Valley Authority (0001376986) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Tennessee Valley Authority heeft een 8-K ingediend over het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting. De filing bevat geen specifieke details over de aard van deze overeenkomst.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en een directe financiële verplichting kan de financiële positie en toekomstige strategie van het bedrijf significant beïnvloeden. Dit kan duiden op een belangrijke zakelijke transactie.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de overeenkomst, inclusief de financiële impact en of het een M&A betreft, zijn niet gespecificeerd in de samenvatting. Zonder deze details is de economische relevantie onduidelijk.",
+      "invalidation_nl": "De samenvatting van de 8-K filing specificeert niet dat het een fusie of overname betreft, noch zijn er details over de contractwaarde of formele voorwaarden.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële gebeurtenis, maar de aard van de overeenkomst is onbekend en niet expliciet als M&A benoemd."
+    }
   }
 ]

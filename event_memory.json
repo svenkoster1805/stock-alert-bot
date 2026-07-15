@@ -460,5 +460,17 @@
     "symbol": "FILER",
     "title": "8-K - FIRST MID BANCSHARES, INC. (0000700565) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "f2dae687877d693c47b305bc8ce3b18204c15f644bc3e495e64201fa5b1374a1": {
+    "first_alert_at": "2026-07-15T18:54:10.357576+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - HNO International, Inc. (0001342916) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "dd31dd33ec2d8e4f2f35659e13840587f86c2ffd8416d98a53d2cb5da1bb4b5d": {
+    "first_alert_at": "2026-07-15T18:54:20.765889+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Tennessee Valley Authority (0001376986) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

@@ -1875,5 +1875,55 @@
       "is_already_priced": false,
       "notes": "De 8-K-filing duidt op een belangrijke gebeurtenis, maar de samenvatting mist cruciale details voor een directe beoordeling."
     }
+  },
+  {
+    "time": "2026-07-15T18:54:20.281318+00:00",
+    "symbol": "FILER",
+    "company": "/A - HNO International, Inc. (0001342916) (Filer)",
+    "event_key": "f2dae687877d693c47b305bc8ce3b18204c15f644bc3e495e64201fa5b1374a1",
+    "event_family": "M_AND_A",
+    "title": "8-K/A - HNO International, Inc. (0001342916) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1342916/000134291626000043/0001342916-26-000043-index.htm",
+    "news_age_minutes": 9,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "HNO International, Inc. heeft een materieel definitief akkoord gesloten, wat leidt tot een directe financiële verplichting en de verkoop van niet-geregistreerde aandelen. Dit is gemeld in een 8-K/A-document bij SEC.gov.",
+      "why_nl": "Een materieel definitief akkoord kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. De creatie van financiële verplichtingen en de uitgifte van aandelen duiden op een kapitaaltransactie met potentiële impact op de waardering.",
+      "risk_nl": "De specifieke aard, waarde en voorwaarden van het akkoord zijn onbekend, waardoor de impact op het bedrijf onduidelijk is. Zonder details over de tegenpartij of de transactie is het risico op een ongunstige deal niet in te schatten.",
+      "invalidation_nl": "Er is geen contractwaarde, tegenpartij of concrete details over de aard van de M&A-transactie bekendgemaakt in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K/A melding bevestigt een definitief akkoord, maar de economische details ontbreken nog voor een beoordeling."
+    }
+  },
+  {
+    "time": "2026-07-15T18:54:38.663112+00:00",
+    "symbol": "FILER",
+    "company": "Tennessee Valley Authority (0001376986) (Filer)",
+    "event_key": "dd31dd33ec2d8e4f2f35659e13840587f86c2ffd8416d98a53d2cb5da1bb4b5d",
+    "event_family": "M_AND_A",
+    "title": "8-K - Tennessee Valley Authority (0001376986) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000033/0001376986-26-000033-index.htm",
+    "news_age_minutes": 9,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Tennessee Valley Authority heeft een 8-K ingediend over het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting. De filing bevat geen specifieke details over de aard van deze overeenkomst.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en een directe financiële verplichting kan de financiële positie en toekomstige strategie van het bedrijf significant beïnvloeden. Dit kan duiden op een belangrijke zakelijke transactie.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de overeenkomst, inclusief de financiële impact en of het een M&A betreft, zijn niet gespecificeerd in de samenvatting. Zonder deze details is de economische relevantie onduidelijk.",
+      "invalidation_nl": "De samenvatting van de 8-K filing specificeert niet dat het een fusie of overname betreft, noch zijn er details over de contractwaarde of formele voorwaarden.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële gebeurtenis, maar de aard van de overeenkomst is onbekend en niet expliciet als M&A benoemd."
+    }
   }
 ]
