@@ -1214,5 +1214,37 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een materiële gebeurtenis, maar de aard van de overeenkomst is onbekend en niet expliciet als M&A benoemd."
     }
+  },
+  {
+    "time": "2026-07-15T20:04:07.585501+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Prestige Consumer Healthcare Inc. (0001295947) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Prestige Consumer Healthcare Inc. heeft een materiële definitieve overeenkomst gesloten en een directe financiële verplichting aangegaan, zoals gemeld in een 8-K filing bij SEC.gov.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. De aard van de financiële verplichting is echter nog onbekend.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de aard van de transactie en de financiële voorwaarden, zijn niet bekend. Zonder deze details is de impact onduidelijk.",
+      "invalidation_nl": "Er is geen contractwaarde, tegenpartij of specifieke aard van de M&A-transactie vermeld in de beschikbare gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een definitieve overeenkomst, maar de economisch relevante details ontbreken."
+    }
+  },
+  {
+    "time": "2026-07-15T20:04:15.798212+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AEON Biopharma, Inc. (0001837607) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AEON Biopharma, Inc. heeft een 8-K formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Dit document is op 15 juli 2026 gepubliceerd.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een fusie of overname, die de toekomstige waarde van het bedrijf kan beïnvloeden. Dergelijke gebeurtenissen kunnen leiden tot significante koersbewegingen.",
+      "risk_nl": "De specifieke aard, de voorwaarden en de financiële impact van de overeenkomst zijn nog onbekend. Zonder deze details is het onmogelijk de economische relevantie te beoordelen.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud van de materiële definitieve overeenkomst, zoals de betrokken partijen, de contractwaarde of de specifieke voorwaarden.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de impact op AEON Biopharma te kunnen beoordelen."
+    }
   }
 ]

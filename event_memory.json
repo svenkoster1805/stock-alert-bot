@@ -472,5 +472,17 @@
     "symbol": "FILER",
     "title": "8-K - Tennessee Valley Authority (0001376986) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "a36c09c3b030b2c72b642f517c35cbf7eeb080c6905db561045985af465bf160": {
+    "first_alert_at": "2026-07-15T20:04:01.054700+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Prestige Consumer Healthcare Inc. (0001295947) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ea2d8c5e71f1f4ec789ae86b218db1167d3e87cc0a84af09368c3d22f3712041": {
+    "first_alert_at": "2026-07-15T20:04:08.834738+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AEON Biopharma, Inc. (0001837607) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
