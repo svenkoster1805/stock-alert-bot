@@ -1246,5 +1246,81 @@
       "is_already_priced": false,
       "notes": "Verdere details over de overeenkomst zijn nodig om de impact op AEON Biopharma te kunnen beoordelen."
     }
+  },
+  {
+    "time": "2026-07-15T21:12:19.532763+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Samos Energy Acquisition Corp (0002125567) (Filer)",
+    "score": 14,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Samos Energy Acquisition Corp heeft een 8-K ingediend bij de SEC, waarin de ondertekening van een materiële definitieve overeenkomst wordt gemeld. De filing omvat ook de verkoop van aandelen en wijzigingen in het bestuur en de statuten.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst duidt op een concrete transactie die de bedrijfsstructuur en toekomstige strategie van Samos Energy kan beïnvloeden. Dit kan leiden tot significante veranderingen in de waardering van het bedrijf.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de financiële voorwaarden en de impact op de balans, zijn niet bekend uit deze samenvatting. Zonder deze details is een accurate beoordeling van de economische waarde of risico's onmogelijk.",
+      "invalidation_nl": "De essentiële financiële details en de identiteit van de overnamepartner ontbreken in de verstrekte samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing met Item 1.01 bevestigt een definitieve overeenkomst, maar de volledige inhoud is nodig voor een gedetailleerde analyse."
+    }
+  },
+  {
+    "time": "2026-07-15T21:12:40.269150+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Autonomix Medical, Inc. (0001617867) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Autonomix Medical, Inc. heeft een 8-K-rapport ingediend over het aangaan van een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op kapitaalverhoging of een herstructurering.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de materiële overeenkomst zijn onbekend, wat de impact onvoorspelbaar maakt. De details van de niet-geregistreerde aandelenverkoop zijn ook niet gespecificeerd.",
+      "invalidation_nl": "De bron vermeldt geen concrete details over een overname, alleen een algemene 'materiële definitieve overeenkomst' en aandelenverkoop.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een materiële overeenkomst en aandelenverkoop, maar specificeert geen overnamedetails."
+    }
+  },
+  {
+    "time": "2026-07-15T21:12:54.927332+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Fermi Inc. (0002071778) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Fermi Inc. heeft een materiële definitieve overeenkomst gesloten, wat leidt tot een directe financiële verplichting en de verkoop van niet-geregistreerde aandelen. Dit is recentelijk ingediend als een 8-K bij de SEC.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op financiering voor deze transactie.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn niet gedetailleerd in de samenvatting. Zonder deze details is de precieze implicatie voor beleggers onduidelijk.",
+      "invalidation_nl": "De samenvatting van de 8-K vermeldt geen specifieke details over de tegenpartij, de overnameprijs of de exacte aard van de M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K bevestigt een materiële overeenkomst, maar de specifieke M&A-details ontbreken in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-07-15T21:12:55.832645+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Palmer Square Capital BDC Inc. (0001794776) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-15T21:12:57.306863+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Runway Growth Finance Corp. (0001653384) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

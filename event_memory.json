@@ -484,5 +484,35 @@
     "symbol": "FILER",
     "title": "8-K - AEON Biopharma, Inc. (0001837607) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "cecb881eb357e9cb337d9ea3798f4aed6e6aa4e8d56e8bf042651fcd880078f1": {
+    "first_alert_at": "2026-07-15T21:12:05.110003+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Samos Energy Acquisition Corp (0002125567) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4fd7e4b517a2d02c1232845bdbe0961229089dd6fed688a746bdf81c94469c1e": {
+    "first_alert_at": "2026-07-15T21:12:20.468788+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Autonomix Medical, Inc. (0001617867) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a217c2729d252f57126b4c214d7008b0663c7373a0bc007511b16eee3d8e7bc6": {
+    "first_alert_at": "2026-07-15T21:12:41.340515+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Fermi Inc. (0002071778) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ba32c06bc40b1bb3f715966a5c35621f7b2b2b0afa497659c21df0971780300e": {
+    "first_alert_at": "2026-07-15T21:12:55.832620+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Palmer Square Capital BDC Inc. (0001794776) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f3fa2bbbb200818b5542499d215b23ab9173f0e09752c68bbb20ad45d3a24402": {
+    "first_alert_at": "2026-07-15T21:12:57.306804+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Runway Growth Finance Corp. (0001653384) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
