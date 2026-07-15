@@ -448,5 +448,17 @@
     "symbol": "FILER",
     "title": "8-K - Senti Biosciences Holdings, Inc. (0001854270) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "14a86071cf4020ac3514ec1d9f1023fb5e0418c414252072801fe99169dc2b28": {
+    "first_alert_at": "2026-07-15T13:06:24.268503+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Quality Industrial Corp. (0001393781) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "9758ead3c4e65e016532008873936fcb162861ed23b05e7d0bc3654550884b8a": {
+    "first_alert_at": "2026-07-15T13:06:34.174685+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FIRST MID BANCSHARES, INC. (0000700565) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

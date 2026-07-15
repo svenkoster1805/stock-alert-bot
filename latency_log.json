@@ -673,5 +673,23 @@
     "event_family": "M_AND_A",
     "news_age_minutes": 20,
     "original_time_verified": true
+  },
+  {
+    "time": "2026-07-15T13:06:24.268513+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 5,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-07-15T13:06:34.174697+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 5,
+    "original_time_verified": true
   }
 ]
