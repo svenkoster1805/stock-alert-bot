@@ -514,5 +514,17 @@
     "symbol": "FILER",
     "title": "8-K - Runway Growth Finance Corp. (0001653384) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "81316a71cfaff3e90ca5ec12f01601a8ed033d487407ae521b70c5f51124c82e": {
+    "first_alert_at": "2026-07-16T11:56:55.745138+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Arbutus Biopharma Corp (0001447028) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "eae9a824f029cb7f65ca99e8bd2f9096b4e97374c57ab0d44cde99adab9542fc": {
+    "first_alert_at": "2026-07-16T11:57:08.420699+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AtaiBeckley Inc. (0002081043) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

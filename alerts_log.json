@@ -2096,5 +2096,55 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-16T11:57:08.047628+00:00",
+    "symbol": "FILER",
+    "company": "Arbutus Biopharma Corp (0001447028) (Filer)",
+    "event_key": "81316a71cfaff3e90ca5ec12f01601a8ed033d487407ae521b70c5f51124c82e",
+    "event_family": "M_AND_A",
+    "title": "8-K - Arbutus Biopharma Corp (0001447028) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1447028/000117184326004708/0001171843-26-004708-index.htm",
+    "news_age_minutes": 25,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Arbutus Biopharma Corp heeft op 16 juli 2026 een 8-K-rapport ingediend waarin de beëindiging van een materiële definitieve overeenkomst wordt gemeld. Het rapport vermeldt ook het vertrek van bestuurders of bepaalde functionarissen en compensatieregelingen.",
+      "why_nl": "De beëindiging van een materiële overeenkomst kan duiden op een mislukte deal of strategische wijziging, wat de toekomstige vooruitzichten van het bedrijf kan beïnvloeden. Het vertrek van functionarissen kan hieraan gerelateerd zijn en wijst op interne veranderingen.",
+      "risk_nl": "De specifieke aard en financiële impact van de beëindigde overeenkomst zijn onbekend, waardoor de economische gevolgen onduidelijk zijn. Zonder deze details is het moeilijk om de impact op de waardering van het bedrijf te bepalen.",
+      "invalidation_nl": "De aard van de beëindigde overeenkomst en de financiële implicaties zijn niet gespecificeerd, waardoor een concrete economische beoordeling onmogelijk is.",
+      "is_already_priced": false,
+      "notes": "De classificatie als M&A-event is misleidend, aangezien het om een beëindiging van een overeenkomst gaat en niet om een nieuwe deal."
+    }
+  },
+  {
+    "time": "2026-07-16T11:57:17.454908+00:00",
+    "symbol": "FILER",
+    "company": "AtaiBeckley Inc. (0002081043) (Filer)",
+    "event_key": "eae9a824f029cb7f65ca99e8bd2f9096b4e97374c57ab0d44cde99adab9542fc",
+    "event_family": "M_AND_A",
+    "title": "8-K - AtaiBeckley Inc. (0002081043) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2081043/000114036126028604/0001140361-26-028604-index.htm",
+    "news_age_minutes": 29,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AtaiBeckley Inc. heeft op 16 juli 2026 een materieel definitief akkoord gesloten, zoals gemeld in een 8-K filing bij de SEC. Dit omvat ook een Regulation FD Disclosure.",
+      "why_nl": "De melding van een 'Material Definitive Agreement' kan duiden op een belangrijke strategische stap die de toekomstige financiële prestaties van het bedrijf beïnvloedt. Zonder verdere details is de aard van deze impact echter onduidelijk.",
+      "risk_nl": "De specifieke aard en de financiële voorwaarden van het akkoord zijn onbekend, wat de impact op de aandeelhouderswaarde onzeker maakt. Zonder details over de inhoud is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "De aard van de 'Material Definitive Agreement' en de financiële details zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van de volledige 8-K filing is vereist om de inhoud van het akkoord te bepalen."
+    }
   }
 ]
