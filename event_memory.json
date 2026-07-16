@@ -574,5 +574,59 @@
     "symbol": "FILER",
     "title": "8-K - Palomino Laboratories Inc. (0001938569) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "14609cbb036be6e8b6a08f838b3be53e0a6141804fbc777a0cf8244957e32795": {
+    "first_alert_at": "2026-07-16T21:15:12.571124+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Caring Brands, Inc. (0002020737) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f2145332d29270ee3d095a5a7d4541478c3a3bcb4ef2169ae984e0dfb9b27029": {
+    "first_alert_at": "2026-07-16T21:15:20.895684+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HEICO CORP (0000046619) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e10f0c2127bf9df28ce9cc5b9b91f6316718d2acaa730952bceb38cd339449ec": {
+    "first_alert_at": "2026-07-16T21:15:30.866220+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bally's Chicago, Inc. (0001935799) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "52d05d5848c5acdc349d8b07525d0423cd96d18cb2123d9081fc5dee41f370f9": {
+    "first_alert_at": "2026-07-16T21:15:50.312192+00:00",
+    "symbol": "FILER",
+    "title": "8-K - USA Rare Earth, Inc. (0001970622) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e7a24370706da2fdd88fc0b5942873bfa629a3ba7ea668905b39a5d6b207e69d": {
+    "first_alert_at": "2026-07-16T21:15:51.520194+00:00",
+    "symbol": "FILER",
+    "title": "8-K - JFB Construction Holdings (0002024306) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e279010cc994588b454083a6f68ef2d047879150bf039464030abb8ae301b5e0": {
+    "first_alert_at": "2026-07-16T21:15:52.624531+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SpringBig Holdings, Inc. (0001801602) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "518372942434787fd796d8f8df47fc01118fdc3c25da71a0e0c2c21372ed8e1f": {
+    "first_alert_at": "2026-07-16T21:15:54.315644+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Array Technologies, Inc. (0001820721) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7202afafb8aebc004b29c71b906bad163132e2f608600e862f675dc5ea990203": {
+    "first_alert_at": "2026-07-16T21:15:55.361101+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Toyota Auto Receivables 2026-C Owner Trust (0002099541) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "32019fdc74977b4266c1d030d4e3cc2fc0e3dc420bcaa7fa21f25c70634252d6": {
+    "first_alert_at": "2026-07-16T21:15:56.470455+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TOYOTA AUTO FINANCE RECEIVABLES LLC (0001131131) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
