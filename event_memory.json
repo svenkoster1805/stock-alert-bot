@@ -526,5 +526,53 @@
     "symbol": "FILER",
     "title": "8-K - AtaiBeckley Inc. (0002081043) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "69f5e96a3f0588cbbee712bf60c3dec848fc1cdf54bfc7c7a1083feb6d044da3": {
+    "first_alert_at": "2026-07-16T20:10:05.381161+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CION Investment Corp (0001534254) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "56baa49326d7e08a6c034fabad509e834c9a12c5ab71feca34120400f171da73": {
+    "first_alert_at": "2026-07-16T20:10:16.034938+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CrossAmerica Partners LP (0001538849) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2ffc485a7018d56eaa2cecddb8f26fbbee1a21698c4bc1c960ab2af5e5dc3dc4": {
+    "first_alert_at": "2026-07-16T20:10:19.995591+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Inhibrx Biosciences, Inc. (0002007919) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5da64e08aacbde7065cb89f05f692ffb8fe162eb8d2fc9e05b3f764c8255ca0e": {
+    "first_alert_at": "2026-07-16T20:10:39.736386+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Rocket Companies, Inc. (0001805284) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d0929322b5abc355acde7c2972c7df02e654c8c83af12ea6ac936d9feacc3585": {
+    "first_alert_at": "2026-07-16T20:10:40.607120+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VPR Brands, LP. (0001376231) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "973aef065a824dae0bf765648d9097c13762cd9869d7e9b8ee9ece9af86e03f6": {
+    "first_alert_at": "2026-07-16T20:10:41.304171+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Quantum Cyber N.V. (0001874252) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0abb60f6a34df9b2bfb3246b596977bd24c44278b597ab2e509e5a8ea0eda056": {
+    "first_alert_at": "2026-07-16T20:10:42.205138+00:00",
+    "symbol": "FILER",
+    "title": "8-K - RESOURCES CONNECTION, INC. (0001084765) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ec3db91d8e94811b64b09f9545fd89a0ec2d6c5d8637437cdccbcec3f55a50c9": {
+    "first_alert_at": "2026-07-16T20:10:43.076515+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Palomino Laboratories Inc. (0001938569) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
