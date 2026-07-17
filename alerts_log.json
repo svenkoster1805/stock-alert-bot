@@ -2599,5 +2599,80 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de details van de M&A-transactie ontbreken."
     }
+  },
+  {
+    "time": "2026-07-17T12:47:39.986292+00:00",
+    "symbol": "FILER",
+    "company": "VivoSim Labs, INC. (0001497253) (Filer)",
+    "event_key": "35154c05b3ec84dea438b277abfc83634d7a887422c9b2c3f79fa47e31637af4",
+    "event_family": "M_AND_A",
+    "title": "8-K - VivoSim Labs, INC. (0001497253) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1497253/000119312526306849/0001193125-26-306849-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "VivoSim Labs, INC. heeft een 8-K ingediend over een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen. Dit document is op 17 juli 2026 gepubliceerd op SEC.gov.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op financiering voor groei of een transactie, wat impact heeft op de kapitaalstructuur.",
+      "risk_nl": "De specifieke aard en voorwaarden van de materiële overeenkomst en de aandelenverkoop zijn onbekend. Zonder deze details is de economische impact op VivoSim Labs, INC. niet te bepalen.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud van de materiële overeenkomst of de voorwaarden van de aandelenverkoop beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van de volledige 8-K filing is vereist om de economische relevantie te beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-17T12:47:54.682372+00:00",
+    "symbol": "FILER",
+    "company": "Sadot Group Inc. (0001701756) (Filer)",
+    "event_key": "c3b30fe719383d7f5cb4cee16b19cc1f648081cd62c924ae65051c5b1c36bbaf",
+    "event_family": "M_AND_A",
+    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226000952/0001731122-26-000952-index.htm",
+    "news_age_minutes": 16,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WATCH",
+      "confidence": 1,
+      "summary_nl": "Sadot Group Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin de voltooiing van een acquisitie of desinvestering van activa en het aangaan van een materiële definitieve overeenkomst worden gemeld.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de financiële positie en strategische richting van het bedrijf aanzienlijk beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva en toekomstige winstgevendheid.",
+      "risk_nl": "De specifieke aard en omvang van de acquisitie of desinvestering zijn onbekend, evenals de financiële voorwaarden. Zonder deze details is de impact op de aandeelhouderswaarde onduidelijk.",
+      "invalidation_nl": "De essentiële economische details, zoals de contractwaarde en de identiteit van de betrokken partijen, ontbreken in de verstrekte samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een materiële gebeurtenis, maar de details zijn cruciaal voor een economische beoordeling."
+    }
+  },
+  {
+    "time": "2026-07-17T12:48:04.348867+00:00",
+    "symbol": "FILER",
+    "company": "Kimbell Royalty Partners, LP (0001657788) (Filer)",
+    "event_key": "0659f98ed40355a8a0a852a960b8ce2a5e4248e74fec485de9291cb7fd55fe6b",
+    "event_family": "M_AND_A",
+    "title": "8-K - Kimbell Royalty Partners, LP (0001657788) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1657788/000110465926084429/0001104659-26-084429-index.htm",
+    "news_age_minutes": 29,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Kimbell Royalty Partners, LP heeft een materiële definitieve overeenkomst gesloten en niet-geregistreerde aandelen uitgegeven, zoals gemeld in een 8-K filing bij de SEC. Dit document is 29 minuten geleden gepubliceerd.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De uitgifte van aandelen kan duiden op financiering voor een acquisitie of andere bedrijfsactiviteiten.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn onbekend. Zonder deze details is de impact op de belegger onduidelijk.",
+      "invalidation_nl": "Er zijn geen economische details (zoals contractwaarde of specifieke activa) beschikbaar om de impact van de overeenkomst te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing duidt op een concrete gebeurtenis, maar de inhoudelijke details ontbreken in de verstrekte gegevens."
+    }
   }
 ]

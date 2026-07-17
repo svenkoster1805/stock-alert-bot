@@ -640,5 +640,23 @@
     "symbol": "FILER",
     "title": "8-K - Uniti Group Inc. (0002020795) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "35154c05b3ec84dea438b277abfc83634d7a887422c9b2c3f79fa47e31637af4": {
+    "first_alert_at": "2026-07-17T12:47:31.332692+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VivoSim Labs, INC. (0001497253) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "c3b30fe719383d7f5cb4cee16b19cc1f648081cd62c924ae65051c5b1c36bbaf": {
+    "first_alert_at": "2026-07-17T12:47:40.852386+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0659f98ed40355a8a0a852a960b8ce2a5e4248e74fec485de9291cb7fd55fe6b": {
+    "first_alert_at": "2026-07-17T12:47:55.219068+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Kimbell Royalty Partners, LP (0001657788) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
