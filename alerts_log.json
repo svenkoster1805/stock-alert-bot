@@ -2574,5 +2574,30 @@
       "is_already_priced": false,
       "notes": "De 8-K-samenvatting vermeldt geen specifieke M&A-details, alleen generieke 'Overige Gebeurtenissen'."
     }
+  },
+  {
+    "time": "2026-07-17T11:41:18.909011+00:00",
+    "symbol": "FILER",
+    "company": "Uniti Group Inc. (0002020795) (Filer)",
+    "event_key": "d43c0cc78c4f4806764c450277e0d429b976fb0c83ace4519f063c631ef53868",
+    "event_family": "M_AND_A",
+    "title": "8-K - Uniti Group Inc. (0002020795) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2020795/000095010326010759/0000950103-26-010759-index.htm",
+    "news_age_minutes": 16,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Uniti Group Inc. heeft een materiële definitieve overeenkomst gesloten en een directe financiële verplichting of verplichting buiten de balans gecreëerd, zoals gemeld in een 8-K filing bij SEC.gov.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en financiële verplichting kan de toekomstige financiële positie en operationele strategie van Uniti Group Inc. significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of inkomstenstromen.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn niet gespecificeerd, waardoor de impact op de onderneming onduidelijk blijft. Zonder details over de tegenpartij of de transactiewaarde is de economische implicatie moeilijk te beoordelen.",
+      "invalidation_nl": "De contractwaarde, de specifieke voorwaarden van de M&A en de identiteit van de tegenpartij zijn niet bekendgemaakt in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de details van de M&A-transactie ontbreken."
+    }
   }
 ]

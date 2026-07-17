@@ -634,5 +634,11 @@
     "symbol": "FILER",
     "title": "8-K - Tribeca Strategic Acquisition Corp. (0002094919) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "d43c0cc78c4f4806764c450277e0d429b976fb0c83ace4519f063c631ef53868": {
+    "first_alert_at": "2026-07-17T11:41:08.837575+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Uniti Group Inc. (0002020795) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
