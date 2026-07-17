@@ -706,5 +706,29 @@
     "symbol": "FILER",
     "title": "8-K - Calisa Acquisition Corp (0002026767) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "88692ed9d7afff94f37575db2d8cd60a184b4210e40bec9a697ac33ada3f72de": {
+    "first_alert_at": "2026-07-17T21:20:34.894559+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Penguin Solutions, Inc. (0001616533) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ca8bcdf0681707d3a00d847f7913265e8b6ed711752d1cef73b7f9378af6082e": {
+    "first_alert_at": "2026-07-17T21:20:47.958093+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Jet.AI Inc. (0001861622) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "9991907e521d5c8de2dd90bfb4ddaf1eaa8a7b3336c66c974abdadcca9530ded": {
+    "first_alert_at": "2026-07-17T21:21:01.120603+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NKGen Biotech, Inc. (0001845459) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "30af76f56604f62ac6812550b1a6a91ceaff16dfe9007d711dda107e897cada2": {
+    "first_alert_at": "2026-07-17T21:21:13.329514+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Advanced Biomed Inc. (0001941029) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
