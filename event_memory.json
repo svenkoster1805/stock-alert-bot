@@ -628,5 +628,11 @@
     "symbol": "FILER",
     "title": "8-K - TOYOTA AUTO FINANCE RECEIVABLES LLC (0001131131) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "229f5787a1b60b8bf283efbb8a76cf755cd95dbbe6687f7c8216c2a62bae1145": {
+    "first_alert_at": "2026-07-17T10:11:53.788503+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Tribeca Strategic Acquisition Corp. (0002094919) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

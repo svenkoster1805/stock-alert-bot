@@ -1604,5 +1604,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-17T10:12:09.265719+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Tribeca Strategic Acquisition Corp. (0002094919) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Tribeca Strategic Acquisition Corp. heeft op 17 juli 2026 een 8-K-formulier ingediend bij de SEC, waarin 'Overige Gebeurtenissen' en 'Financiële Overzichten en Bijlagen' worden vermeld.",
+      "why_nl": "Een 8-K-melding duidt op een materiële gebeurtenis die de bedrijfsvoering of financiële positie kan beïnvloeden. Hoewel de specifieke aard van de gebeurtenis niet is gedetailleerd, kan een M&A-gerelateerde aankondiging significant zijn voor beleggers.",
+      "risk_nl": "De exacte aard van de 'Overige Gebeurtenissen' is onbekend, waardoor de impact op het bedrijf en de belegger onduidelijk is. Zonder details over een mogelijke M&A is er geen basis voor een investeringsbeslissing.",
+      "invalidation_nl": "Er is geen concrete informatie over een fusie of overname, noch over de voorwaarden of waarde ervan.",
+      "is_already_priced": false,
+      "notes": "De 8-K-samenvatting vermeldt geen specifieke M&A-details, alleen generieke 'Overige Gebeurtenissen'."
+    }
   }
 ]
