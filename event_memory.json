@@ -658,5 +658,53 @@
     "symbol": "FILER",
     "title": "8-K - Kimbell Royalty Partners, LP (0001657788) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "425b8eeb1e9d5c6cbe4896ce3ec7c47f37612fc21f313d405903013a0282bb78": {
+    "first_alert_at": "2026-07-17T20:25:55.420255+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Hilton Grand Vacations Inc. (0001674168) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f3f19507d125dce9038329c6ea65856556f752e303fe86b3ed632f61600a6197": {
+    "first_alert_at": "2026-07-17T20:26:05.012713+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GENERATION INCOME PROPERTIES, INC. (0001651721) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "6db5ffdafb07c895afc7ac9f30827c0f12d97f1d42e929601ce4e7d0ec008882": {
+    "first_alert_at": "2026-07-17T20:26:12.821247+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GM Financial Consumer Automobile Receivables Trust 2026-3 (0002138743) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1edab65250f53356420b23283659f3c41acaefff311f39db433b3d63ad179f1b": {
+    "first_alert_at": "2026-07-17T20:26:25.496805+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AFS SENSUB CORP. (0001347185) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ecd85fb59be83951843fe3c6bff7b2bc7fe1550699a904d4513477a876fe1769": {
+    "first_alert_at": "2026-07-17T20:26:26.592757+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bain Capital Private Credit (0001899017) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f787e1fefb7d7a226a21b5c28d5f2cdc84491d8f4189a5dfe56440c2abb7f860": {
+    "first_alert_at": "2026-07-17T20:26:27.943424+00:00",
+    "symbol": "FILER",
+    "title": "8-K - EyePoint, Inc. (0001314102) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f73a9c7f4369e22a9499a62c29c9d28bece29f821682bd8bb5d7c1b1c98d736c": {
+    "first_alert_at": "2026-07-17T20:26:29.256514+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Csquare, Inc. (0002105398) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "8b4c73fd9c3ec0cb097e6db0586d4e97751c88a175cf044623198605fe2f4c8d": {
+    "first_alert_at": "2026-07-17T20:26:30.436021+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Calisa Acquisition Corp (0002026767) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

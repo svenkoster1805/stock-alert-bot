@@ -1684,5 +1684,123 @@
       "is_already_priced": false,
       "notes": "De 8-K filing duidt op een concrete gebeurtenis, maar de inhoudelijke details ontbreken in de verstrekte gegevens."
     }
+  },
+  {
+    "time": "2026-07-17T20:26:03.930542+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Hilton Grand Vacations Inc. (0001674168) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Hilton Grand Vacations Inc. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische zet die de toekomstige inkomsten en activa van het bedrijf beïnvloedt. De creatie van een directe financiële verplichting heeft directe gevolgen voor de balans en cashflow van Hilton Grand Vacations Inc.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de financiële impact en de tegenpartij, zijn nog niet bekend uit deze samenvatting. Zonder deze details is het moeilijk om de volledige implicaties voor de aandeelhouderswaarde te beoordelen.",
+      "invalidation_nl": "De samenvatting van de 8-K-melding bevat geen concrete details over de aard, omvang of financiële voorwaarden van de materiële overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De volledige 8-K-filing moet worden geraadpleegd voor de specifieke details van de overeenkomst en de financiële verplichting."
+    }
+  },
+  {
+    "time": "2026-07-17T20:26:11.522706+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GENERATION INCOME PROPERTIES, INC. (0001651721) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "GENERATION INCOME PROPERTIES, INC. heeft een materiële definitieve overeenkomst gesloten, wat mogelijk duidt op een fusie of overname. Dit is gemeld in een recente 8-K filing bij de SEC.",
+      "why_nl": "Een dergelijke overeenkomst kan de structuur en toekomstige inkomsten van het bedrijf significant veranderen, wat een directe impact kan hebben op de aandelenkoers.",
+      "risk_nl": "De specifieke aard, partijen en financiële voorwaarden van de M&A-overeenkomst zijn onbekend, waardoor de potentiële impact niet kan worden beoordeeld.",
+      "invalidation_nl": "Zonder details over de overname of fusie, zoals de betrokken partijen en de financiële voorwaarden, is er geen basis voor een handelsbeslissing.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de inhoud van de M&A is nog niet bekendgemaakt."
+    }
+  },
+  {
+    "time": "2026-07-17T20:26:24.274283+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GM Financial Consumer Automobile Receivables Trust 2026-3 (0002138743) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "GM Financial Consumer Automobile Receivables Trust 2026-3 heeft een 8-K filing ingediend over het aangaan van een materiële definitieve overeenkomst. De filing vermeldt ook andere gebeurtenissen en financiële overzichten en bijlagen.",
+      "why_nl": "Zonder details over de aard van de overeenkomst, de betrokken partijen of de financiële impact, is de economische relevantie onduidelijk. Het is niet bevestigd dat dit een fusie- of overnameactiviteit betreft voor deze securitisatietrust.",
+      "risk_nl": "Het grootste risico is de volledige afwezigheid van specifieke informatie over de inhoud van de materiële overeenkomst. Hierdoor is de impact op de trust of de onderliggende activa onbekend.",
+      "invalidation_nl": "De aard van de 'materiële definitieve overeenkomst' is niet gespecificeerd en er is geen bevestiging dat het een fusie of overname betreft voor deze securitisatietrust.",
+      "is_already_priced": false,
+      "notes": "De classificatie als M&A-event is niet voldoende onderbouwd door de beschikbare informatie."
+    }
+  },
+  {
+    "time": "2026-07-17T20:26:25.496827+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AFS SENSUB CORP. (0001347185) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-17T20:26:26.592781+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bain Capital Private Credit (0001899017) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-17T20:26:27.943446+00:00",
+    "symbol": "FILER",
+    "title": "8-K - EyePoint, Inc. (0001314102) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-17T20:26:29.256539+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Csquare, Inc. (0002105398) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-17T20:26:30.436045+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Calisa Acquisition Corp (0002026767) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
