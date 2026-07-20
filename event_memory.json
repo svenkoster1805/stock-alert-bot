@@ -730,5 +730,35 @@
     "symbol": "FILER",
     "title": "8-K - Advanced Biomed Inc. (0001941029) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "bc7f7949b38a81433c10d070c7176972293e63346bbd4a63b67a797ff9b4b379": {
+    "first_alert_at": "2026-07-20T21:18:47.829796+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TOP Financial Group Ltd (0001848275) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2d52a3fa7ab36e636411902fc6577df42f8b2f650167c279fbdaf40dd37198d8": {
+    "first_alert_at": "2026-07-20T21:19:07.220853+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Tempus AI, Inc. (0001717115) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "9b6f5be2de4978010f1cceff3042cc07087e54471a13aa1359c89b56d6fce8cf": {
+    "first_alert_at": "2026-07-20T21:19:16.283839+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Compass Digital Acquisition Corp. (0001851909) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d296dacc576406795e0185a4f324b59b14bde6cfe04b60cd60493f211fa99c38": {
+    "first_alert_at": "2026-07-20T21:19:27.189532+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Optex Systems Holdings Inc (0001397016) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "6d4b212a310b9c8ab7efbfeca2d1e852a8c093c0153f71c66a86b03e6fbc90a4": {
+    "first_alert_at": "2026-07-20T21:19:28.366670+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Drugs Made In America Acquisition Corp. (0002028614) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

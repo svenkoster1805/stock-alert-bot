@@ -1864,5 +1864,81 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-20T21:19:06.065262+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TOP Financial Group Ltd (0001848275) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "TOP Financial Group Ltd heeft een materieel definitief akkoord gesloten en niet-geregistreerde aandelen verkocht, zoals gemeld in een 8-K filing bij de SEC op 20 juli 2026. De filing bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "Een materieel definitief akkoord kan duiden op een belangrijke strategische stap of transactie voor het bedrijf. De uitgifte van aandelen kan kapitaal aantrekken voor toekomstige groei of acquisities.",
+      "risk_nl": "De aard en de financiële voorwaarden van het materiële akkoord zijn onbekend, evenals de impact van de niet-geregistreerde aandelenverkoop op de bestaande aandeelhouders. Zonder details is de economische impact onduidelijk.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard van het materiële akkoord, de tegenpartij, de contractwaarde of de specifieke voorwaarden van de M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing vermeldt een materieel definitief akkoord en aandelenverkoop, maar geen specifieke M&A-details."
+    }
+  },
+  {
+    "time": "2026-07-20T21:19:15.183990+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Tempus AI, Inc. (0001717115) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Tempus AI, Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Het document bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De aard en voorwaarden van deze overeenkomst zijn echter nog onbekend.",
+      "risk_nl": "Het grootste risico is het ontbreken van details over de aard, omvang en financiële implicaties van de overeenkomst. Zonder deze informatie is de impact op de belegger onduidelijk.",
+      "invalidation_nl": "Er zijn geen specifieke details over de tegenpartij, de aard van de overeenkomst of de financiële voorwaarden beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de inhoud is nog niet openbaar gemaakt."
+    }
+  },
+  {
+    "time": "2026-07-20T21:19:26.046137+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Compass Digital Acquisition Corp. (0001851909) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "TRADEABLE",
+      "confidence": 1,
+      "summary_nl": "Compass Digital Acquisition Corp. heeft een materiële definitieve overeenkomst beëindigd. Dit is gemeld in een 8-K filing bij SEC.gov op 20 juli 2026.",
+      "why_nl": "De beëindiging van een materiële overeenkomst kan duiden op het mislukken van een overname of fusie, wat de toekomstige strategie en waardering van het bedrijf beïnvloedt. Dit kan leiden tot onzekerheid over de groeivooruitzichten en de koers van het aandeel.",
+      "risk_nl": "De specifieke redenen voor de beëindiging en de financiële gevolgen hiervan zijn nog onbekend. Het is onduidelijk of er alternatieve deals of strategieën klaarliggen.",
+      "invalidation_nl": "Zonder details over de beëindigde overeenkomst of de financiële impact is de omvang van de koersreactie onvoorspelbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing vermeldt ook de indiening van zaken ter stemming aan aandeelhouders en andere gebeurtenissen."
+    }
+  },
+  {
+    "time": "2026-07-20T21:19:27.189556+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Optex Systems Holdings Inc (0001397016) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-20T21:19:28.366693+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Drugs Made In America Acquisition Corp. (0002028614) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
