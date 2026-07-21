@@ -760,5 +760,11 @@
     "symbol": "FILER",
     "title": "8-K - Drugs Made In America Acquisition Corp. (0002028614) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "145b38e1240b5c9612a8f03520d4c114c924fb5e045817422e5f048b1c1901f8": {
+    "first_alert_at": "2026-07-21T10:39:32.335047+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VisionWave Holdings, Inc. (0002038439) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

@@ -1940,5 +1940,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-21T10:39:40.443817+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VisionWave Holdings, Inc. (0002038439) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "VisionWave Holdings, Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een recente 8-K filing bij de SEC. Deze filing vermeldt ook de creatie van een directe financiële verplichting en de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke bedrijfstransactie zoals een overname of fusie, wat de toekomstige financiële positie en groeivooruitzichten van het bedrijf significant kan beïnvloeden. De bijbehorende financiële verplichtingen en aandelenuitgifte zijn direct relevant voor de waardering.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de aard van de transactie en de financiële voorwaarden, zijn nog onbekend. Zonder deze details is de impact op VisionWave Holdings, Inc. onduidelijk en speculatief.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de contractwaarde en de identiteit van de betrokken partijen, ontbreken in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een definitieve overeenkomst, maar de inhoudelijke details zijn nog niet beschikbaar."
+    }
   }
 ]
