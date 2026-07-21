@@ -3158,5 +3158,55 @@
       "is_already_priced": false,
       "notes": "Verdere details over de overeenkomst zijn nodig om de economische impact volledig te kunnen beoordelen."
     }
+  },
+  {
+    "time": "2026-07-21T20:08:32.861377+00:00",
+    "symbol": "FILER",
+    "company": "JUPITER NEUROSCIENCES, INC. (0001679628) (Filer)",
+    "event_key": "e378806de9a3e756852f1aeba592eee2b955a80e76a36ea83de408ced6e1e522",
+    "event_family": "M_AND_A",
+    "title": "8-K - JUPITER NEUROSCIENCES, INC. (0001679628) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1679628/000149315226034077/0001493152-26-034077-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "JUPITER NEUROSCIENCES, INC. heeft een 8-K-rapport ingediend op 21 juli 2026. Dit rapport vermeldt de totstandkoming van een materiële definitieve overeenkomst en de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, die de toekomstige waarde van het bedrijf beïnvloedt. De verkoop van aandelen kan kapitaal aantrekken voor groei of de balans versterken.",
+      "risk_nl": "De specifieke aard, partijen en financiële voorwaarden van de materiële definitieve overeenkomst en de M&A zijn onbekend, waardoor de impact op de onderneming onduidelijk is. Zonder details over de verkoop van aandelen is het risico op verwatering of de effectiviteit van de kapitaalverhoging niet te beoordelen.",
+      "invalidation_nl": "De essentiële details over de inhoud van de materiële definitieve overeenkomst en de specifieke voorwaarden van de M&A ontbreken volledig in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een gebeurtenis, maar de economische impact is onduidelijk zonder de inhoud van de overeenkomst."
+    }
+  },
+  {
+    "time": "2026-07-21T20:08:41.399886+00:00",
+    "symbol": "FILER",
+    "company": "Aeon Acquisition I Corp. (0002082526) (Filer)",
+    "event_key": "6bca7c5d29f9cd98d9ae3febb67919406e75f709b8edb7f421db72a2c8210bc5",
+    "event_family": "M_AND_A",
+    "title": "8-K - Aeon Acquisition I Corp. (0002082526) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2082526/000149315226034070/0001493152-26-034070-index.htm",
+    "news_age_minutes": 6,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Aeon Acquisition I Corp. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC. Dit omvat ook de creatie van een directe financiële verplichting.",
+      "why_nl": "De aankondiging van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een fusie of overname. Dit kan de toekomstige waardering en operationele richting van het bedrijf beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, voorwaarden en financiële impact, zijn nog onbekend. Zonder deze informatie is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er is geen informatie over de aard, omvang of financiële waarde van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt het bestaan van een overeenkomst, maar niet de inhoud ervan."
+    }
   }
 ]
