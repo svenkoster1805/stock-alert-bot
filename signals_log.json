@@ -1956,5 +1956,37 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt een definitieve overeenkomst, maar de inhoudelijke details zijn nog niet beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-21T12:11:14.411105+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bleichroeder Acquisition Corp. III (0002128045) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Bleichroeder Acquisition Corp. III heeft een 8-K filing ingediend over het vertrek en de benoeming van directeuren of bepaalde functionarissen, inclusief hun compensatieregelingen.",
+      "why_nl": "Wijzigingen in het management en compensatieregelingen kunnen invloed hebben op de bedrijfsstrategie en toekomstige prestaties.",
+      "risk_nl": "De specifieke redenen voor de managementwijzigingen en de impact op de bedrijfsstrategie zijn niet gespecificeerd in de samenvatting.",
+      "invalidation_nl": "De 8-K filing betreft managementwijzigingen (Item 5.02), niet een fusie of overname, wat de veronderstelde gebeurtenis tegenspreekt.",
+      "is_already_priced": false,
+      "notes": "De opgegeven gebeurtenis (M&A) komt niet overeen met de inhoud van de 8-K samenvatting."
+    }
+  },
+  {
+    "time": "2026-07-21T12:11:27.831680+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Aether Holdings, Inc. (0002026353) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Aether Holdings, Inc. heeft een 8-K-melding ingediend bij de SEC over het aangaan van een materiële definitieve overeenkomst. Dit document is op 21 juli 2026 gepubliceerd en is 10 minuten oud.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische zet, zoals een overname of verkoop, die de toekomstige financiële prestaties van het bedrijf kan beïnvloeden. Dit kan leiden tot een herwaardering van het aandeel door de markt.",
+      "risk_nl": "De specifieke aard en financiële details van de overeenkomst zijn nog onbekend, waardoor de impact op Aether Holdings, Inc. niet kan worden beoordeeld. Zonder deze details is het risico op een ongunstige uitkomst of teleurstelling groot.",
+      "invalidation_nl": "De contractwaarde en de exacte voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de economische impact volledig te kunnen beoordelen."
+    }
   }
 ]
