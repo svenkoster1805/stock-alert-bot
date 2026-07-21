@@ -790,5 +790,35 @@
     "symbol": "FILER",
     "title": "8-K - Aeon Acquisition I Corp. (0002082526) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "6ffba5614a85ebe5413d7eaa65514dddc632303cdbe9cae8c7d9a9b00f5290c1": {
+    "first_alert_at": "2026-07-21T21:31:31.711773+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Vivakor, Inc. (0001450704) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "389621dc0dc00ae3cc49394e549409e3c26ad6cc9a4d057d0726f0b5ca9b2391": {
+    "first_alert_at": "2026-07-21T21:31:48.956180+00:00",
+    "symbol": "FILER",
+    "title": "8-K - T-REX Acquisition Corp. (0001437750) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "817c729f51713be240268359327c163281097ebc2c9084c59cf21fa058bae2dd": {
+    "first_alert_at": "2026-07-21T21:31:52.254453+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Nutex Health Inc. (0001479681) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "92ff2b6cca829cffa209ce32d364c36332671ea4b4e1daa1d83273de9c69e0ef": {
+    "first_alert_at": "2026-07-21T21:31:59.699337+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Galaxy Gaming, Inc. (0000013156) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "9cba16998f27debeabe5140ba00199edc1a2b27f5a6d96cf39caad6c58eac4b1": {
+    "first_alert_at": "2026-07-21T21:32:00.676775+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NORTHPOINTE BANCSHARES INC (0001336706) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

@@ -3208,5 +3208,126 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt het bestaan van een overeenkomst, maar niet de inhoud ervan."
     }
+  },
+  {
+    "time": "2026-07-21T21:31:48.466523+00:00",
+    "symbol": "FILER",
+    "company": "Vivakor, Inc. (0001450704) (Filer)",
+    "event_key": "6ffba5614a85ebe5413d7eaa65514dddc632303cdbe9cae8c7d9a9b00f5290c1",
+    "event_family": "M_AND_A",
+    "title": "8-K - Vivakor, Inc. (0001450704) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626007719/0001829126-26-007719-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Vivakor, Inc. heeft op 21 juli 2026 een materiële definitieve overeenkomst gesloten en niet-geregistreerde aandelen verkocht, zoals gemeld in een 8-K filing bij SEC.gov.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op kapitaalverhoging of een herstructurering.",
+      "risk_nl": "De aard en de financiële voorwaarden van de materiële overeenkomst zijn onbekend, wat de impact op de waarde van het bedrijf onzeker maakt. Er is geen informatie over de kopende partij of de prijs per aandeel bij de verkoop van aandelen.",
+      "invalidation_nl": "De aard en de financiële details van de materiële definitieve overeenkomst zijn niet bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst en aandelenverkoop, maar de details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-07-21T21:31:51.776419+00:00",
+    "symbol": "FILER",
+    "company": "T-REX Acquisition Corp. (0001437750) (Filer)",
+    "event_key": "389621dc0dc00ae3cc49394e549409e3c26ad6cc9a4d057d0726f0b5ca9b2391",
+    "event_family": "M_AND_A",
+    "title": "8-K - T-REX Acquisition Corp. (0001437750) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1437750/000147793226004431/0001477932-26-004431-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-07-21T21:31:59.202505+00:00",
+    "symbol": "FILER",
+    "company": "Nutex Health Inc. (0001479681) (Filer)",
+    "event_key": "817c729f51713be240268359327c163281097ebc2c9084c59cf21fa058bae2dd",
+    "event_family": "M_AND_A",
+    "title": "8-K - Nutex Health Inc. (0001479681) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1479681/000162828026049061/0001628280-26-049061-index.htm",
+    "news_age_minutes": 9,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Nutex Health Inc. heeft een 8-K-formulier ingediend bij SEC.gov. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst (Item 1.01).",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een fusie, overname of andere strategische transactie. Dit kan de toekomstige financiële positie en operationele strategie van Nutex Health Inc. significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend. Zonder details over de tegenpartij of de waarde is de economische relevantie moeilijk in te schatten.",
+      "invalidation_nl": "De details van de materiële definitieve overeenkomst, zoals de contractwaarde en de betrokken partijen, zijn niet gespecificeerd in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van het volledige 8-K-document is vereist om de impact te bepalen."
+    }
+  },
+  {
+    "time": "2026-07-21T21:32:00.193179+00:00",
+    "symbol": "FILER",
+    "company": "Galaxy Gaming, Inc. (0000013156) (Filer)",
+    "event_key": "92ff2b6cca829cffa209ce32d364c36332671ea4b4e1daa1d83273de9c69e0ef",
+    "event_family": "M_AND_A",
+    "title": "8-K - Galaxy Gaming, Inc. (0000013156) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/13156/000119312526310570/0001193125-26-310570-index.htm",
+    "news_age_minutes": 10,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-21T21:32:01.141562+00:00",
+    "symbol": "FILER",
+    "company": "NORTHPOINTE BANCSHARES INC (0001336706) (Filer)",
+    "event_key": "9cba16998f27debeabe5140ba00199edc1a2b27f5a6d96cf39caad6c58eac4b1",
+    "event_family": "M_AND_A",
+    "title": "8-K - NORTHPOINTE BANCSHARES INC (0001336706) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1336706/000133670626000059/0001336706-26-000059-index.htm",
+    "news_age_minutes": 12,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

@@ -2020,5 +2020,81 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt het bestaan van een overeenkomst, maar niet de inhoud ervan."
     }
+  },
+  {
+    "time": "2026-07-21T21:31:47.949299+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Vivakor, Inc. (0001450704) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Vivakor, Inc. heeft op 21 juli 2026 een materiële definitieve overeenkomst gesloten en niet-geregistreerde aandelen verkocht, zoals gemeld in een 8-K filing bij SEC.gov.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op kapitaalverhoging of een herstructurering.",
+      "risk_nl": "De aard en de financiële voorwaarden van de materiële overeenkomst zijn onbekend, wat de impact op de waarde van het bedrijf onzeker maakt. Er is geen informatie over de kopende partij of de prijs per aandeel bij de verkoop van aandelen.",
+      "invalidation_nl": "De aard en de financiële details van de materiële definitieve overeenkomst zijn niet bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst en aandelenverkoop, maar de details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-07-21T21:31:51.315151+00:00",
+    "symbol": "FILER",
+    "title": "8-K - T-REX Acquisition Corp. (0001437750) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-07-21T21:31:58.721940+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Nutex Health Inc. (0001479681) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Nutex Health Inc. heeft een 8-K-formulier ingediend bij SEC.gov. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst (Item 1.01).",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een fusie, overname of andere strategische transactie. Dit kan de toekomstige financiële positie en operationele strategie van Nutex Health Inc. significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend. Zonder details over de tegenpartij of de waarde is de economische relevantie moeilijk in te schatten.",
+      "invalidation_nl": "De details van de materiële definitieve overeenkomst, zoals de contractwaarde en de betrokken partijen, zijn niet gespecificeerd in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van het volledige 8-K-document is vereist om de impact te bepalen."
+    }
+  },
+  {
+    "time": "2026-07-21T21:31:59.699364+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Galaxy Gaming, Inc. (0000013156) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-21T21:32:00.676801+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NORTHPOINTE BANCSHARES INC (0001336706) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
