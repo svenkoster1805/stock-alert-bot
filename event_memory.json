@@ -820,5 +820,35 @@
     "symbol": "FILER",
     "title": "8-K - NORTHPOINTE BANCSHARES INC (0001336706) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "2b976196aa59424d26246e7969ddbb973041ed71777cd271b253bce246f578c3": {
+    "first_alert_at": "2026-07-22T21:04:59.203459+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Datavault AI Inc. (0001682149) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7a00c035ac48d327bf13775c1c202daafe593638749ff681fb8ab235433221f7": {
+    "first_alert_at": "2026-07-22T21:05:07.605014+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BETA Technologies, Inc. (0001784570) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "374deef6b2d6a8d6134143122c96fd52b54858f0a7c9e5593a849bc38b2abf4d": {
+    "first_alert_at": "2026-07-22T21:05:32.176046+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WYNN RESORTS LTD (0001174922) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ce02321a581b70cfd3b4e5eb8f9711b2b0d7a018490c07e0bb1d17a672303235": {
+    "first_alert_at": "2026-07-22T21:05:40.685722+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Vita Coco Company, Inc. (0001482981) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "6759238fd021881640dd94aacd6f5c6a632427e156b7b231ad35c70866f14672": {
+    "first_alert_at": "2026-07-22T21:05:41.428562+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FutureCorp Space Acquisition 1 (0002131853) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
