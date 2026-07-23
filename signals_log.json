@@ -2298,5 +2298,37 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-23T21:18:46.929434+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AUDDIA INC. (0001554818) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AUDDIA INC. heeft een 8-K formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Dit document is op 23 juli 2026 gepubliceerd.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, die de toekomstige waarde van het bedrijf significant kan beïnvloeden. Dit kan leiden tot een herwaardering van het aandeel.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend. Zonder deze details is het onmogelijk om de potentiële waardecreatie of -vernietiging te beoordelen.",
+      "invalidation_nl": "Er is geen contractwaarde, tegenpartij of gedetailleerde voorwaarden van de overeenkomst bekendgemaakt.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de inhoudelijke details ontbreken nog voor een economische analyse."
+    }
+  },
+  {
+    "time": "2026-07-23T21:19:00.363339+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ocean Power Technologies, Inc. (0001378140) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Ocean Power Technologies, Inc. heeft een 8-K ingediend met meldingen over het aangaan en beëindigen van materiële definitieve overeenkomsten. De filing bevat ook informatie over bedrijfsresultaten, wijzigingen in directie en compensatieregelingen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie voor het bedrijf. De beëindiging van een andere overeenkomst kan ook financiële of operationele gevolgen hebben.",
+      "risk_nl": "De specifieke aard, de financiële waarde en de gedetailleerde voorwaarden van de aangegane en beëindigde overeenkomsten zijn niet bekend. Dit maakt een economische beoordeling onmogelijk.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard, waarde of specifieke voorwaarden van de materiële definitieve overeenkomsten beschikbaar in de verstrekte gegevens om een handelsbeslissing te onderbouwen.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is recent, maar de inhoudelijke details ontbreken om een handelsbeslissing te nemen."
+    }
   }
 ]

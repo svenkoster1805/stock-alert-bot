@@ -898,5 +898,17 @@
     "symbol": "FILER",
     "title": "8-K - Ford Credit Auto Lease Two LLC (0001519881) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "d7465623c33329d0b01c940ef9677ca1a2b211fe5ffd41acf4cf1f69b46cba79": {
+    "first_alert_at": "2026-07-23T21:18:38.544271+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AUDDIA INC. (0001554818) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a0f3feb750aa3f2846c9191dfb7b615e23306f82840c38709ccd1168b3019ae7": {
+    "first_alert_at": "2026-07-23T21:18:47.917847+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ocean Power Technologies, Inc. (0001378140) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
