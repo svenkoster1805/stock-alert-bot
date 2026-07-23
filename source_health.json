@@ -2,31 +2,31 @@
   "fmp_press_release": {
     "success": 3,
     "errors": 4,
-    "last": "2026-07-23T21:18:26.409455+00:00",
+    "last": "2026-07-23T22:27:15.984684+00:00",
     "detail": "402 Client Error: Payment Required for url: https://financialmodelingprep.com/stable/news/press-releases-latest?page=0&limit=60&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
   },
   "sec": {
-    "success": 230,
+    "success": 231,
     "errors": 218,
-    "last": "2026-07-23T21:18:27.002173+00:00",
+    "last": "2026-07-23T22:27:16.433534+00:00",
     "detail": "90 rows"
   },
   "fmp_stock": {
     "success": 3,
     "errors": 4,
-    "last": "2026-07-23T21:18:27.224341+00:00",
+    "last": "2026-07-23T22:27:16.692200+00:00",
     "detail": "402 Client Error: Payment Required for url: https://financialmodelingprep.com/stable/news/stock-latest?page=0&limit=70&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
   },
   "fmp_general": {
     "success": 3,
     "errors": 4,
-    "last": "2026-07-23T21:18:27.414059+00:00",
+    "last": "2026-07-23T22:27:16.953827+00:00",
     "detail": "402 Client Error: Payment Required for url: https://financialmodelingprep.com/stable/news/general-latest?page=0&limit=50&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
   },
   "google": {
-    "success": 232,
+    "success": 233,
     "errors": 0,
-    "last": "2026-07-23T21:18:28.998445+00:00",
-    "detail": "21 rows"
+    "last": "2026-07-23T22:27:18.319489+00:00",
+    "detail": "13 rows"
   }
 }
