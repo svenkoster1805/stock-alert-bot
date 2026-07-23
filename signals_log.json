@@ -2236,5 +2236,67 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding is een officiële bron, maar de inhoudelijke details ontbreken in het fragment."
     }
+  },
+  {
+    "time": "2026-07-23T20:05:33.747784+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GridAI Technologies Corp. (0001604191) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "GridAI Technologies Corp. (FILER) heeft een 8-K ingediend bij SEC.gov, waarin de totstandkoming van een materiële definitieve overeenkomst (Item 1.01) wordt gemeld. Het document bevat ook financiële overzichten en bijlagen (Item 9.01).",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap voor GridAI Technologies Corp. Dit kan de toekomstige financiële prestaties en marktpositie van het bedrijf beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn niet bekend. Zonder deze details is de potentiële waarde of het risico voor beleggers onduidelijk.",
+      "invalidation_nl": "De contractwaarde, gedetailleerde voorwaarden en de aard van de M&A-transactie zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van de 8-K filing is nodig om de details van de materiële overeenkomst te achterhalen."
+    }
+  },
+  {
+    "time": "2026-07-23T20:05:35.744239+00:00",
+    "symbol": "FILER",
+    "title": "8-K - EVI INDUSTRIES, INC. (0000065312) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-07-23T20:05:51.672839+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ford Credit Auto Lease Trust 2026-B (0002144097) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Ford Credit Auto Lease Trust 2026-B heeft een 8-K filing ingediend waarin de afsluiting van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan de financiële positie of operationele structuur van de trust significant beïnvloeden, wat relevant is voor beleggers.",
+      "risk_nl": "De specifieke aard, de partijen en de financiële voorwaarden van deze materiële overeenkomst zijn niet gespecificeerd, waardoor de impact onduidelijk is.",
+      "invalidation_nl": "De beschikbare informatie bevat geen details over de contractwaarde, de betrokken partijen of de exacte aard van de overeenkomst om de economische impact te beoordelen.",
+      "is_already_priced": false,
+      "notes": "Een 8-K filing met Item 1.01 duidt op een belangrijke gebeurtenis, maar zonder verdere details is de concrete impact onduidelijk."
+    }
+  },
+  {
+    "time": "2026-07-23T20:05:52.848374+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ford Credit Auto Lease Two LLC (0001519881) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

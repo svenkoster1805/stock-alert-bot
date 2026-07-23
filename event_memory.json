@@ -874,5 +874,29 @@
     "symbol": "FILER",
     "title": "8-K - Bridgecrest Auto Funding LLC (0001974820) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "480d376a29742fecc9475d56364cb625e485020cb6eb08c6ea4aa1526bd7d3ce": {
+    "first_alert_at": "2026-07-23T20:05:26.250723+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GridAI Technologies Corp. (0001604191) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "dde15c2ac2e1f428e524ffc4791d2c3763ddf5a66a86aa93689bbbd93c30557a": {
+    "first_alert_at": "2026-07-23T20:05:34.884161+00:00",
+    "symbol": "FILER",
+    "title": "8-K - EVI INDUSTRIES, INC. (0000065312) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d7aa9eb841b91ff00e595f511cff8fa0fdf743ad6b94be260f526aa033403123": {
+    "first_alert_at": "2026-07-23T20:05:36.874473+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ford Credit Auto Lease Trust 2026-B (0002144097) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "c7f86898e907ce82a1280e9633f57a8f8ca32d5880497401e96f53e5fea2d2a8": {
+    "first_alert_at": "2026-07-23T20:05:52.848343+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ford Credit Auto Lease Two LLC (0001519881) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
