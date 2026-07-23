@@ -862,5 +862,17 @@
     "symbol": "FILER",
     "title": "8-K - VPR Brands, LP. (0001376231) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "59db21248ac63c0a9294237de381e9f436e5635b883012a4d8b8e41ecade90f7": {
+    "first_alert_at": "2026-07-23T18:51:50.741069+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bridgecrest Lending Auto Securitization Trust 2026-3 (0002138886) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f7d984246c3c86c387daca1bcdf1d43b75a4754e136d6e9fd6ce5f8fb75795aa": {
+    "first_alert_at": "2026-07-23T18:52:06.712889+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bridgecrest Auto Funding LLC (0001974820) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

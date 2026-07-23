@@ -2204,5 +2204,37 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt het bestaan van een overeenkomst, maar de inhoud is niet gespecificeerd in dit fragment."
     }
+  },
+  {
+    "time": "2026-07-23T18:52:05.884823+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bridgecrest Lending Auto Securitization Trust 2026-3 (0002138886) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Bridgecrest Lending Auto Securitization Trust 2026-3 heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en andere gebeurtenissen.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan de financiële positie of operationele strategie van de trust beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of toekomstige kasstromen, afhankelijk van de aard van de overeenkomst.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de materiële definitieve overeenkomst zijn onbekend. Zonder deze details is de impact op de trust en haar beleggers onduidelijk.",
+      "invalidation_nl": "De samenvatting van de 8-K vermeldt geen details over de aard of waarde van de overeenkomst, noch bevestigt het expliciet dat het een M&A-transactie betreft.",
+      "is_already_priced": false,
+      "notes": "De 8-K-indiening is recent, maar de inhoudelijke details ontbreken in de samenvatting om de aard van de overeenkomst te bepalen."
+    }
+  },
+  {
+    "time": "2026-07-23T18:52:20.602732+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bridgecrest Auto Funding LLC (0001974820) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Bridgecrest Auto Funding LLC heeft op 23 juli 2026 een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van een materiële definitieve overeenkomst. Dit document is zeer recent gepubliceerd.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of financiële transactie voor het bedrijf. Dit kan de toekomstige waardering of operationele richting beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn niet bekend uit de verstrekte informatie. Zonder details is de economische relevantie onduidelijk.",
+      "invalidation_nl": "De markt voor dit aandeel is niet beschikbaar, waardoor het niet verhandelbaar is voor de belegger.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is een officiële bron, maar de inhoudelijke details ontbreken in het fragment."
+    }
   }
 ]
