@@ -3698,5 +3698,55 @@
       "is_already_priced": false,
       "notes": "De 8-K filing is recent, maar de inhoudelijke details ontbreken om een handelsbeslissing te nemen."
     }
+  },
+  {
+    "time": "2026-07-24T12:05:56.408296+00:00",
+    "symbol": "FILER",
+    "company": "Sadot Group Inc. (0001701756) (Filer)",
+    "event_key": "84ee455f0b974067bdd0c1dddcefc7e10a62721810425f42d8c977329c578a3e",
+    "event_family": "M_AND_A",
+    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226000972/0001731122-26-000972-index.htm",
+    "news_age_minutes": 4,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Sadot Group Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij SEC.gov. Dit document is op 24 juli 2026 ingediend en bevat geen verdere details over de aard van de overeenkomst.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. Echter, zonder details over de inhoud is de economische relevantie onduidelijk.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete details over de aard, omvang en voorwaarden van de overeenkomst. Dit maakt elke inschatting van de impact speculatief.",
+      "invalidation_nl": "Er zijn geen specifieke details over de betrokken partijen, de contractwaarde of de exacte voorwaarden van de overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Verdere informatie uit de 8-K filing is noodzakelijk om de aard en impact van deze overeenkomst te beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-24T12:06:10.547919+00:00",
+    "symbol": "FILER",
+    "company": "SAFETY INSURANCE GROUP INC (0001172052) (Filer)",
+    "event_key": "ff61680c0b8acf7567e904ba36fd97c827e3005af846e064bd6b3e5a8867ee48",
+    "event_family": "M_AND_A",
+    "title": "8-K - SAFETY INSURANCE GROUP INC (0001172052) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1172052/000110465926086488/0001104659-26-086488-index.htm",
+    "news_age_minutes": 5,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "SAFETY INSURANCE GROUP INC heeft een materieel definitief akkoord gesloten, zoals gemeld in een 8-K filing bij de SEC op 24 juli 2026. De filing omvat Item 1.01: Entry into a Material Definitive Agreement en Item 9.01: Financial Statements and Exhibits.",
+      "why_nl": "Een materieel definitief akkoord kan duiden op een belangrijke strategische stap, zoals een overname of fusie, wat de toekomstige waarde van het bedrijf kan beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van het akkoord zijn onbekend, waardoor de impact op het bedrijf en de aandeelhouders onduidelijk is.",
+      "invalidation_nl": "Zonder details over de partijen, de aard van de transactie en de financiële voorwaarden is geen economische beoordeling mogelijk.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een akkoord, maar de inhoud is niet beschikbaar in de verstrekte gegevens."
+    }
   }
 ]

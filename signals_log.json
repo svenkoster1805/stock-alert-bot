@@ -2330,5 +2330,37 @@
       "is_already_priced": false,
       "notes": "De 8-K filing is recent, maar de inhoudelijke details ontbreken om een handelsbeslissing te nemen."
     }
+  },
+  {
+    "time": "2026-07-24T12:05:56.030518+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Sadot Group Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij SEC.gov. Dit document is op 24 juli 2026 ingediend en bevat geen verdere details over de aard van de overeenkomst.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. Echter, zonder details over de inhoud is de economische relevantie onduidelijk.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete details over de aard, omvang en voorwaarden van de overeenkomst. Dit maakt elke inschatting van de impact speculatief.",
+      "invalidation_nl": "Er zijn geen specifieke details over de betrokken partijen, de contractwaarde of de exacte voorwaarden van de overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Verdere informatie uit de 8-K filing is noodzakelijk om de aard en impact van deze overeenkomst te beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-24T12:06:10.144923+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SAFETY INSURANCE GROUP INC (0001172052) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "SAFETY INSURANCE GROUP INC heeft een materieel definitief akkoord gesloten, zoals gemeld in een 8-K filing bij de SEC op 24 juli 2026. De filing omvat Item 1.01: Entry into a Material Definitive Agreement en Item 9.01: Financial Statements and Exhibits.",
+      "why_nl": "Een materieel definitief akkoord kan duiden op een belangrijke strategische stap, zoals een overname of fusie, wat de toekomstige waarde van het bedrijf kan beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van het akkoord zijn onbekend, waardoor de impact op het bedrijf en de aandeelhouders onduidelijk is.",
+      "invalidation_nl": "Zonder details over de partijen, de aard van de transactie en de financiële voorwaarden is geen economische beoordeling mogelijk.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een akkoord, maar de inhoud is niet beschikbaar in de verstrekte gegevens."
+    }
   }
 ]

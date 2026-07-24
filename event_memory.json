@@ -910,5 +910,17 @@
     "symbol": "FILER",
     "title": "8-K - Ocean Power Technologies, Inc. (0001378140) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "84ee455f0b974067bdd0c1dddcefc7e10a62721810425f42d8c977329c578a3e": {
+    "first_alert_at": "2026-07-24T12:05:40.576925+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ff61680c0b8acf7567e904ba36fd97c827e3005af846e064bd6b3e5a8867ee48": {
+    "first_alert_at": "2026-07-24T12:05:56.806657+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SAFETY INSURANCE GROUP INC (0001172052) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
