@@ -928,5 +928,11 @@
     "symbol": "FILER",
     "title": "8-K - LFTD PARTNERS INC. (0001391135) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "6dddca3278aa9410604fe58649635348c9aec10213af62e204374e009605aba1": {
+    "first_alert_at": "2026-07-24T20:04:44.157497+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AMR Resources Acquisition Corp. (0002110119) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

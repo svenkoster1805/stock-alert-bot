@@ -2378,5 +2378,21 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een definitieve overeenkomst, maar de economische impact is nog onbekend door gebrek aan details."
     }
+  },
+  {
+    "time": "2026-07-24T20:04:54.139682+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AMR Resources Acquisition Corp. (0002110119) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AMR Resources Acquisition Corp. heeft op 24 juli 2026 een 8-K document ingediend bij de SEC. Dit document bevat 'Other Events' (Item 8.01) en 'Financial Statements and Exhibits' (Item 9.01).",
+      "why_nl": "Een 8-K filing kan belangrijke bedrijfsevenementen signaleren die de waarde van het bedrijf kunnen beïnvloeden. Hoewel de specifieke aard van de 'Other Events' onbekend is, kan dit duiden op een aankomende transactie of strategische wijziging.",
+      "risk_nl": "Het grootste risico is het gebrek aan specifieke details over de aard van de 'Other Events' en de M&A-transactie. Zonder concrete voorwaarden of een contractwaarde is de impact op de belegger onduidelijk.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard, voorwaarden of waarde van de vermeende M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is recent, maar de samenvatting geeft geen details over de M&A-transactie."
+    }
   }
 ]
