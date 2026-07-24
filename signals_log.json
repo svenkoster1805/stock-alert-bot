@@ -2394,5 +2394,95 @@
       "is_already_priced": false,
       "notes": "De 8-K filing is recent, maar de samenvatting geeft geen details over de M&A-transactie."
     }
+  },
+  {
+    "time": "2026-07-24T21:17:21.567273+00:00",
+    "symbol": "FILER",
+    "title": "8-K - INVO Fertility, Inc. (0001417926) (Filer)",
+    "score": 14,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "INVO Fertility, Inc. heeft op 24 juli 2026 een 8-K filing ingediend bij de SEC. Deze filing meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie. Dit kan de toekomstige waardering en operationele richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, de tegenpartij en de financiële voorwaarden van de overeenkomst zijn onbekend. Zonder deze details is het onmogelijk om de impact op de aandeelhouderswaarde te beoordelen.",
+      "invalidation_nl": "Er is geen informatie over de tegenpartij, de overnameprijs of de voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing vermeldt ook andere items zoals ongeregistreerde verkoop van aandelen en wijzigingen in statuten."
+    }
+  },
+  {
+    "time": "2026-07-24T21:17:29.647073+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Algorhythm Holdings, Inc. (0000923601) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Algorhythm Holdings, Inc. heeft een 8-K-formulier ingediend op 24 juli 2026, waarin het aangaan van een materiële definitieve overeenkomst en de niet-geregistreerde verkoop van aandelen worden gemeld. Het formulier bevat ook informatie over het vertrek en de benoeming van directeuren of functionarissen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische zet, zoals een overname of fusie, wat de toekomstige waarde van het bedrijf kan beïnvloeden. De verkoop van aandelen kan kapitaal aantrekken voor groei of financiering van de overeenkomst.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de materiële definitieve overeenkomst zijn onbekend. Zonder details over de tegenpartij, de waarde of de strategische rationale is het risico op een ongunstige uitkomst hoog.",
+      "invalidation_nl": "Er is geen concrete informatie over de inhoud, waarde of partijen van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de details die nodig zijn voor een beoordeling ontbreken volledig."
+    }
+  },
+  {
+    "time": "2026-07-24T21:17:38.428388+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - CareCloud, Inc. (0001582982) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CareCloud, Inc. heeft op 24 juli 2026 een 8-K/A-formulier ingediend bij SEC.gov. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de financiële positie of strategische richting van het bedrijf significant beïnvloeden. Afhankelijk van de inhoud kan dit leiden tot veranderingen in activa, passiva of toekomstige inkomstenstromen.",
+      "risk_nl": "Het grootste risico is de onbekende aard en voorwaarden van de overeenkomst. Zonder details over de inhoud, zoals contractwaarde of partijen, is de impact op CareCloud onduidelijk.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, partijen of financiële voorwaarden van de materiële definitieve overeenkomst bekend.",
+      "is_already_priced": false,
+      "notes": "De aard van de 'materiële definitieve overeenkomst' is niet gespecificeerd in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-07-24T21:17:39.150215+00:00",
+    "symbol": "FILER",
+    "title": "8-K - 1606 CORP. (0001877461) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-24T21:17:40.002060+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Matinas BioPharma Holdings, Inc. (0001582554) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-24T21:17:40.764026+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ALLURION TECHNOLOGIES, INC. (0001964979) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
