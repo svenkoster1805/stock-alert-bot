@@ -994,5 +994,47 @@
     "symbol": "FILER",
     "title": "8-K - Novelis Inc. (0001304280) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "56dcc8e366690c5d1f45c4fec61f41d1564bbfb8e3109f3c2183a9c08d20f7b0": {
+    "first_alert_at": "2026-07-27T20:11:52.264694+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Translational Development Acquisition Corp. (0001926599) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "69b5cd9472bb81f4c07717f389d3ffc9ce60a7226605d459a31761f2e29331a5": {
+    "first_alert_at": "2026-07-27T20:12:05.853318+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SOMNIGROUP INTERNATIONAL INC. (0001206264) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "12d186c842c92558cc357daf61edfd94f4a8cc9c13036cda0ec0a357ab78fd7a": {
+    "first_alert_at": "2026-07-27T20:12:15.161376+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SmartKem, Inc. (0001817760) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d6741cdb5b6ffef72054dc59f960d66fb67aaa8534691cc97fa263ea0077534b": {
+    "first_alert_at": "2026-07-27T20:12:23.615114+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FOXO TECHNOLOGIES INC. (0001812360) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "24968e5802b155358fd78b8f5cfe2ffd43dca5955074aeda23d1095b1e2f3e26": {
+    "first_alert_at": "2026-07-27T20:12:24.936526+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Zeta Global Holdings Corp. (0001851003) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "fdaf5246a11938d418a6f349bda1bd417616251176273c64cdd67d9cfe652105": {
+    "first_alert_at": "2026-07-27T20:12:25.859140+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Gossamer Bio, Inc. (0001728117) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "393756b2ace3efd545d287260ce708fdeb3912b85940c7c77753c551938308e7": {
+    "first_alert_at": "2026-07-27T20:12:26.842106+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Oyocar Group Inc. (0001994582) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
