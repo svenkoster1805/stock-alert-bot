@@ -1036,5 +1036,29 @@
     "symbol": "FILER",
     "title": "8-K - Oyocar Group Inc. (0001994582) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "5fa5eb573259f17a61b8dad7baca6f60323e029d7fd117b4bf60e3b70869f240": {
+    "first_alert_at": "2026-07-27T21:29:48.930995+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ocean Power Technologies, Inc. (0001378140) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a50be438d63131565776f1a0cd69615c0a85bc00fed600de729abdb1155d1a1f": {
+    "first_alert_at": "2026-07-27T21:29:57.090018+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BED BATH & BEYOND, INC. (0001130713) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "c9742cab5ed113202459ceeaf50c93a90d3aa3e39a950ad46d8ce572e598750a": {
+    "first_alert_at": "2026-07-27T21:30:09.678366+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Co-Diagnostics, Inc. (0001692415) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2a9807abe4e71e674271895ed9e538f8b162b0b6bc82eacff61b63af682d46fd": {
+    "first_alert_at": "2026-07-27T21:30:20.061888+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Venu Holding Corp (0001770501) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

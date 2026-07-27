@@ -2652,5 +2652,67 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-27T21:29:56.431998+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ocean Power Technologies, Inc. (0001378140) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Ocean Power Technologies, Inc. (FILER) heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of samenwerking. Dit kan de toekomstige financiële prestaties en marktpositie van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend. Zonder deze details is het onmogelijk de potentiële waarde of risico's voor beleggers te beoordelen.",
+      "invalidation_nl": "De details van de materiële definitieve overeenkomst, zoals de tegenpartij, de waarde en de precieze voorwaarden, zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële overeenkomst zijn nodig om de impact te kunnen beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-27T21:30:08.931553+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BED BATH & BEYOND, INC. (0001130713) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BED BATH & BEYOND, INC. heeft op 27 juli 2026 een 8-K-formulier ingediend bij SEC.gov. Dit formulier meldt het aangaan van een materiële definitieve overeenkomst en de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan duiden op een belangrijke strategische stap, zoals een fusie, overname of herstructurering. De verkoop van aandelen kan de kapitaalstructuur beïnvloeden en mogelijk financiering voor deze overeenkomst verschaffen of juist leiden tot verwatering.",
+      "risk_nl": "De specifieke aard en voorwaarden van de materiële overeenkomst, inclusief de betrokken partijen en financiële impact, zijn onbekend. De niet-geregistreerde verkoop van aandelen kan leiden tot verwatering voor bestaande aandeelhouders, afhankelijk van de voorwaarden.",
+      "invalidation_nl": "De details van de materiële overeenkomst en de impact op de M&A-status van het bedrijf zijn niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de inhoud van de 8-K filing zijn essentieel voor een accurate beoordeling van de M&A-gebeurtenis."
+    }
+  },
+  {
+    "time": "2026-07-27T21:30:19.372260+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Co-Diagnostics, Inc. (0001692415) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Co-Diagnostics, Inc. heeft op 27 juli 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC. Dit document bevat informatie over de overeenkomst en financiële bijlagen.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, wat de toekomstige waarde van het bedrijf kan beïnvloeden. Dit kan leiden tot veranderingen in de bedrijfsstructuur of financiële prestaties.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend. Zonder deze details is het onmogelijk om de economische relevantie of het potentiële effect op de aandelenkoers te beoordelen.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de betrokken partijen of de precieze voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt het bestaan van een overeenkomst, maar de inhoud is niet gespecificeerd in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-07-27T21:30:20.061910+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Venu Holding Corp (0001770501) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
