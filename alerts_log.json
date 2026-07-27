@@ -4017,5 +4017,30 @@
       "is_already_priced": false,
       "notes": "De 8-K melding duidt op een belangrijke gebeurtenis, maar de aard van de 'Material Definitive Agreement' is nog niet gespecificeerd."
     }
+  },
+  {
+    "time": "2026-07-27T15:37:30.153842+00:00",
+    "symbol": "FILER",
+    "company": "Novelis Inc. (0001304280) (Filer)",
+    "event_key": "cbcc3c2f91591839bddfa0aa2c48009ecf89e4294b499b2571081d9f603679a3",
+    "event_family": "M_AND_A",
+    "title": "8-K - Novelis Inc. (0001304280) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1304280/000130428026000026/0001304280-26-000026-index.htm",
+    "news_age_minutes": 23,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Novelis Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin de aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting worden gemeld. Dit document is op 27 juli 2026 gepubliceerd.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en een financiële verplichting kan de balans en toekomstige kasstromen van Novelis Inc. significant beïnvloeden. Dit kan leiden tot veranderingen in de bedrijfsgrootte, marktpositie of operationele efficiëntie.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn niet bekend, wat het onmogelijk maakt om de impact nauwkeurig te beoordelen. Zonder details over de tegenpartij, de waarde of de aard van de verplichting is het risico op een verkeerde inschatting hoog.",
+      "invalidation_nl": "De concrete details van de materiële overeenkomst en de financiële verplichting, zoals contractwaarde en specifieke voorwaarden, ontbreken volledig in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse vereist toegang tot de volledige 8-K filing om de details van de overeenkomst te achterhalen."
+    }
   }
 ]
