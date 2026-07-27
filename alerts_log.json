@@ -3942,5 +3942,80 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-27T12:53:31.563780+00:00",
+    "symbol": "FILER",
+    "company": "KUSTOM ENTERTAINMENT, INC. (0001342958) (Filer)",
+    "event_key": "345a31d72e140fd86d9c20c89531a27fa3d2782f68880b0d0a57288eaf6a0ff9",
+    "event_family": "M_AND_A",
+    "title": "8-K - KUSTOM ENTERTAINMENT, INC. (0001342958) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1342958/000149315226034719/0001493152-26-034719-index.htm",
+    "news_age_minutes": 7,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "KUSTOM ENTERTAINMENT, INC. heeft een 8-K-formulier ingediend waarin de 'Entry into a Material Definitive Agreement' wordt gemeld. Dit document is 7 minuten geleden gepubliceerd op SEC.gov.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, wat de toekomstige waarde van het bedrijf kan beïnvloeden. Dit kan leiden tot een herwaardering van het aandeel.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend. Zonder details is de economische relevantie niet te beoordelen.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de tegenpartij of de exacte aard van de overeenkomst.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de impact te kunnen beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-27T12:53:43.996760+00:00",
+    "symbol": "FILER",
+    "company": "LUXFER HOLDINGS PLC (0001096056) (Filer)",
+    "event_key": "898839e52484465d230e9668f62b03089dc1dd1ae4246b3c9a3f230573b8bbba",
+    "event_family": "M_AND_A",
+    "title": "8-K - LUXFER HOLDINGS PLC (0001096056) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1096056/000207709626000223/0002077096-26-000223-index.htm",
+    "news_age_minutes": 21,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "LUXFER HOLDINGS PLC heeft een 8-K document ingediend bij de SEC op 27 juli 2026. Dit document meldt de totstandkoming van een materiële definitieve overeenkomst (Item 1.01).",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke transactie, zoals een overname of verkoop, die de financiële positie van het bedrijf beïnvloedt. Dit kan leiden tot significante veranderingen in de waardering van het aandeel.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn niet bekend. Zonder deze details is de impact op de bedrijfswaardering onduidelijk en kan de marktreactie onvoorspelbaar zijn.",
+      "invalidation_nl": "De concrete details van de M&A-transactie, zoals de betrokken partijen, de contractwaarde en de specifieke voorwaarden, ontbreken in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van het volledige 8-K document is noodzakelijk om de aard en impact van de overeenkomst te bepalen."
+    }
+  },
+  {
+    "time": "2026-07-27T12:53:51.396707+00:00",
+    "symbol": "FILER",
+    "company": "GENERATION INCOME PROPERTIES, INC. (0001651721) (Filer)",
+    "event_key": "b91aac091699cde1300d3c5f9ba75e96c814e64973d0160655791c84a892b753",
+    "event_family": "M_AND_A",
+    "title": "8-K - GENERATION INCOME PROPERTIES, INC. (0001651721) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1651721/000119312526316965/0001193125-26-316965-index.htm",
+    "news_age_minutes": 22,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "GENERATION INCOME PROPERTIES, INC. heeft op 27 juli 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie voor het bedrijf. Afhankelijk van de aard kan dit de financiële positie of toekomstige groeivooruitzichten beïnvloeden.",
+      "risk_nl": "De specifieke inhoud en voorwaarden van de overeenkomst zijn nog onbekend. Zonder deze details is het onmogelijk de impact op het bedrijf of de aandeelhouders te beoordelen.",
+      "invalidation_nl": "Er zijn geen details over de aard, partijen of financiële voorwaarden van de materiële overeenkomst bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke gebeurtenis, maar de aard van de 'Material Definitive Agreement' is nog niet gespecificeerd."
+    }
   }
 ]

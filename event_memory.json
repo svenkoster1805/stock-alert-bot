@@ -970,5 +970,23 @@
     "symbol": "FILER",
     "title": "8-K - ALLURION TECHNOLOGIES, INC. (0001964979) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "345a31d72e140fd86d9c20c89531a27fa3d2782f68880b0d0a57288eaf6a0ff9": {
+    "first_alert_at": "2026-07-27T12:53:25.906551+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KUSTOM ENTERTAINMENT, INC. (0001342958) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "898839e52484465d230e9668f62b03089dc1dd1ae4246b3c9a3f230573b8bbba": {
+    "first_alert_at": "2026-07-27T12:53:32.058763+00:00",
+    "symbol": "FILER",
+    "title": "8-K - LUXFER HOLDINGS PLC (0001096056) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b91aac091699cde1300d3c5f9ba75e96c814e64973d0160655791c84a892b753": {
+    "first_alert_at": "2026-07-27T12:53:44.421597+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GENERATION INCOME PROPERTIES, INC. (0001651721) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
