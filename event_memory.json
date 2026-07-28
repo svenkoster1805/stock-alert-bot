@@ -1066,5 +1066,11 @@
     "symbol": "FILER",
     "title": "8-K - Waste Connections, Inc. (0001318220) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "b47957a5c0d38d23560769f7056e9b146b977fa02a0c7e645a574d7537e9d8cf": {
+    "first_alert_at": "2026-07-28T18:13:28.451469+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CONAGRA BRANDS INC. (0000023217) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
