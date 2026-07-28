@@ -1072,5 +1072,35 @@
     "symbol": "FILER",
     "title": "8-K - CONAGRA BRANDS INC. (0000023217) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "5e4a2b1cb7062ac3e91d0ca4728e3c1a0052816838d71904d7215bd16a61672e": {
+    "first_alert_at": "2026-07-28T21:01:29.135828+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Charlton Aria Acquisition Corp (0002024459) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "c260e0f58086081fc5ed027f120a74449291cd529073f49e8918045fe4de22a1": {
+    "first_alert_at": "2026-07-28T21:01:38.800236+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Galaxy Digital Inc. (0001859392) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "26859860e667382e4869f832f92650cf45b65c8fa8d48dec22de7f8a55e35b56": {
+    "first_alert_at": "2026-07-28T21:01:51.820181+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Southern Cross Acquisition I Corp. (0002116230) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "26b6b3fbfa7be7ae185215a7648bf39f3fc278838420b204a23c051ce0eea298": {
+    "first_alert_at": "2026-07-28T21:02:07.260393+00:00",
+    "symbol": "FILER",
+    "title": "8-K - LiveOne, Inc. (0001491419) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "64c9322a4d50b1290ceada6c78688d0d091828ac61dbbfc087e3b51d0642b6cc": {
+    "first_alert_at": "2026-07-28T21:02:08.362810+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CADIZ INC (0000727273) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

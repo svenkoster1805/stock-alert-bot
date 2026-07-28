@@ -2746,5 +2746,81 @@
       "is_already_priced": false,
       "notes": "De 8-K-filing bevestigt het bestaan van een gebeurtenis, maar de inhoud is niet beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-28T21:01:37.716421+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Charlton Aria Acquisition Corp (0002024459) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Charlton Aria Acquisition Corp heeft een 8-K ingediend over wijzigingen in directie en management, inclusief compensatieregelingen, en financiële overzichten. Dit document is op 28 juli 2026 gepubliceerd.",
+      "why_nl": "Dit nieuwsfeit beschrijft managementwijzigingen en financiële documenten, wat op zichzelf geen directe M&A-transactie is. Er zijn geen economische details over een fusie of overname aanwezig.",
+      "risk_nl": "De verstrekte informatie bevat geen details over een fusie of overname, waardoor de economische relevantie voor een M&A-strategie ontbreekt. De inhoud van de 8-K ondersteunt de event-classificatie niet.",
+      "invalidation_nl": "De 8-K filing details (Item 5.02 en 9.01) ondersteunen de classificatie als een M&A-event niet.",
+      "is_already_priced": false,
+      "notes": "De event-tag 'M_AND_A' wordt niet bevestigd door de inhoud van de 8-K samenvatting."
+    }
+  },
+  {
+    "time": "2026-07-28T21:01:50.645342+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Galaxy Digital Inc. (0001859392) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Galaxy Digital Inc. heeft een materieel definitief akkoord gesloten en een directe financiële verplichting of een verplichting buiten de balans gecreëerd. Dit is gemeld in een 8-K filing bij de SEC op 28 juli 2026.",
+      "why_nl": "Een materieel definitief akkoord en de creatie van een financiële verplichting kunnen duiden op een belangrijke bedrijfstransactie, zoals een overname of fusie. Dit kan de financiële positie en toekomstige strategie van Galaxy Digital Inc. aanzienlijk beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van het akkoord, inclusief de contractwaarde, zijn nog onbekend. Zonder deze details is de impact op de onderneming en de aandeelhouders onduidelijk.",
+      "invalidation_nl": "Er is geen contractwaarde of gedetailleerde voorwaarden van de overeenkomst bekend om de economische impact te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële gebeurtenis, maar de details ontbreken voor een handelsbeslissing."
+    }
+  },
+  {
+    "time": "2026-07-28T21:02:06.051135+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Southern Cross Acquisition I Corp. (0002116230) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Southern Cross Acquisition I Corp. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier omvat Item 8.01 (Overige Gebeurtenissen) en Item 9.01 (Financiële Overzichten en Bijlagen).",
+      "why_nl": "De inhoud van Item 8.01 is niet gespecificeerd, waardoor de economische relevantie onduidelijk blijft. Zonder concrete details kan geen impact op de onderneming worden vastgesteld.",
+      "risk_nl": "Het grootste risico is de onbekende aard van de 'Overige Gebeurtenissen' die in het 8-K-formulier worden genoemd. Zonder verdere informatie is de potentiële impact op de belegger onduidelijk.",
+      "invalidation_nl": "De samenvatting van het 8-K-formulier (Item 8.01: Other Events) is te generiek en bevat geen specifieke details over een M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De verstrekte samenvatting bevat geen specifieke informatie over een fusie- of overnamegebeurtenis."
+    }
+  },
+  {
+    "time": "2026-07-28T21:02:07.260416+00:00",
+    "symbol": "FILER",
+    "title": "8-K - LiveOne, Inc. (0001491419) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-28T21:02:08.362832+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CADIZ INC (0000727273) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

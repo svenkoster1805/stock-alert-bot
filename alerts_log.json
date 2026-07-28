@@ -4357,5 +4357,126 @@
       "is_already_priced": false,
       "notes": "De 8-K-filing bevestigt het bestaan van een gebeurtenis, maar de inhoud is niet beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-28T21:01:38.260105+00:00",
+    "symbol": "FILER",
+    "company": "Charlton Aria Acquisition Corp (0002024459) (Filer)",
+    "event_key": "5e4a2b1cb7062ac3e91d0ca4728e3c1a0052816838d71904d7215bd16a61672e",
+    "event_family": "M_AND_A",
+    "title": "8-K - Charlton Aria Acquisition Corp (0002024459) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2024459/000121390026082335/0001213900-26-082335-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Charlton Aria Acquisition Corp heeft een 8-K ingediend over wijzigingen in directie en management, inclusief compensatieregelingen, en financiële overzichten. Dit document is op 28 juli 2026 gepubliceerd.",
+      "why_nl": "Dit nieuwsfeit beschrijft managementwijzigingen en financiële documenten, wat op zichzelf geen directe M&A-transactie is. Er zijn geen economische details over een fusie of overname aanwezig.",
+      "risk_nl": "De verstrekte informatie bevat geen details over een fusie of overname, waardoor de economische relevantie voor een M&A-strategie ontbreekt. De inhoud van de 8-K ondersteunt de event-classificatie niet.",
+      "invalidation_nl": "De 8-K filing details (Item 5.02 en 9.01) ondersteunen de classificatie als een M&A-event niet.",
+      "is_already_priced": false,
+      "notes": "De event-tag 'M_AND_A' wordt niet bevestigd door de inhoud van de 8-K samenvatting."
+    }
+  },
+  {
+    "time": "2026-07-28T21:01:51.223406+00:00",
+    "symbol": "FILER",
+    "company": "Galaxy Digital Inc. (0001859392) (Filer)",
+    "event_key": "c260e0f58086081fc5ed027f120a74449291cd529073f49e8918045fe4de22a1",
+    "event_family": "M_AND_A",
+    "title": "8-K - Galaxy Digital Inc. (0001859392) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000079/0001859392-26-000079-index.htm",
+    "news_age_minutes": 4,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Galaxy Digital Inc. heeft een materieel definitief akkoord gesloten en een directe financiële verplichting of een verplichting buiten de balans gecreëerd. Dit is gemeld in een 8-K filing bij de SEC op 28 juli 2026.",
+      "why_nl": "Een materieel definitief akkoord en de creatie van een financiële verplichting kunnen duiden op een belangrijke bedrijfstransactie, zoals een overname of fusie. Dit kan de financiële positie en toekomstige strategie van Galaxy Digital Inc. aanzienlijk beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van het akkoord, inclusief de contractwaarde, zijn nog onbekend. Zonder deze details is de impact op de onderneming en de aandeelhouders onduidelijk.",
+      "invalidation_nl": "Er is geen contractwaarde of gedetailleerde voorwaarden van de overeenkomst bekend om de economische impact te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële gebeurtenis, maar de details ontbreken voor een handelsbeslissing."
+    }
+  },
+  {
+    "time": "2026-07-28T21:02:06.692777+00:00",
+    "symbol": "FILER",
+    "company": "Southern Cross Acquisition I Corp. (0002116230) (Filer)",
+    "event_key": "26859860e667382e4869f832f92650cf45b65c8fa8d48dec22de7f8a55e35b56",
+    "event_family": "M_AND_A",
+    "title": "8-K - Southern Cross Acquisition I Corp. (0002116230) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2116230/000192998026000389/0001929980-26-000389-index.htm",
+    "news_age_minutes": 15,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Southern Cross Acquisition I Corp. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier omvat Item 8.01 (Overige Gebeurtenissen) en Item 9.01 (Financiële Overzichten en Bijlagen).",
+      "why_nl": "De inhoud van Item 8.01 is niet gespecificeerd, waardoor de economische relevantie onduidelijk blijft. Zonder concrete details kan geen impact op de onderneming worden vastgesteld.",
+      "risk_nl": "Het grootste risico is de onbekende aard van de 'Overige Gebeurtenissen' die in het 8-K-formulier worden genoemd. Zonder verdere informatie is de potentiële impact op de belegger onduidelijk.",
+      "invalidation_nl": "De samenvatting van het 8-K-formulier (Item 8.01: Other Events) is te generiek en bevat geen specifieke details over een M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De verstrekte samenvatting bevat geen specifieke informatie over een fusie- of overnamegebeurtenis."
+    }
+  },
+  {
+    "time": "2026-07-28T21:02:07.783338+00:00",
+    "symbol": "FILER",
+    "company": "LiveOne, Inc. (0001491419) (Filer)",
+    "event_key": "26b6b3fbfa7be7ae185215a7648bf39f3fc278838420b204a23c051ce0eea298",
+    "event_family": "M_AND_A",
+    "title": "8-K - LiveOne, Inc. (0001491419) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1491419/000121390026082313/0001213900-26-082313-index.htm",
+    "news_age_minutes": 16,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-28T21:02:08.873749+00:00",
+    "symbol": "FILER",
+    "company": "CADIZ INC (0000727273) (Filer)",
+    "event_key": "64c9322a4d50b1290ceada6c78688d0d091828ac61dbbfc087e3b51d0642b6cc",
+    "event_family": "M_AND_A",
+    "title": "8-K - CADIZ INC (0000727273) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/727273/000121390026082311/0001213900-26-082311-index.htm",
+    "news_age_minutes": 19,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
