@@ -4307,5 +4307,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-28T12:58:17.691465+00:00",
+    "symbol": "FILER",
+    "company": "Waste Connections, Inc. (0001318220) (Filer)",
+    "event_key": "a6c445065251e3c582db70626fc7784c6b873ebbd4c0238d6c7dd4510a4d27c3",
+    "event_family": "M_AND_A",
+    "title": "8-K - Waste Connections, Inc. (0001318220) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318220/000110465926087330/0001104659-26-087330-index.htm",
+    "news_age_minutes": 18,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Waste Connections, Inc. heeft op 28 juli 2026 een 8-K-formulier ingediend bij SEC.gov. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst (Item 1.01).",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie, zoals een overname of fusie. Dergelijke gebeurtenissen kunnen de toekomstige financiële prestaties en marktpositie van het bedrijf beïnvloeden.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn onbekend. Zonder deze details is het onmogelijk om de potentiële impact op Waste Connections, Inc. te beoordelen.",
+      "invalidation_nl": "Er zijn geen details over de tegenpartij, de contractwaarde of de specifieke voorwaarden van de overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig voor een economische beoordeling."
+    }
   }
 ]

@@ -2714,5 +2714,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-28T12:58:17.176367+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Waste Connections, Inc. (0001318220) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Waste Connections, Inc. heeft op 28 juli 2026 een 8-K-formulier ingediend bij SEC.gov. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst (Item 1.01).",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie, zoals een overname of fusie. Dergelijke gebeurtenissen kunnen de toekomstige financiële prestaties en marktpositie van het bedrijf beïnvloeden.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn onbekend. Zonder deze details is het onmogelijk om de potentiële impact op Waste Connections, Inc. te beoordelen.",
+      "invalidation_nl": "Er zijn geen details over de tegenpartij, de contractwaarde of de specifieke voorwaarden van de overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig voor een economische beoordeling."
+    }
   }
 ]

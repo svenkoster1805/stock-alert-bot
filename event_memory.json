@@ -1060,5 +1060,11 @@
     "symbol": "FILER",
     "title": "8-K - Venu Holding Corp (0001770501) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "a6c445065251e3c582db70626fc7784c6b873ebbd4c0238d6c7dd4510a4d27c3": {
+    "first_alert_at": "2026-07-28T12:58:08.927707+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Waste Connections, Inc. (0001318220) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
