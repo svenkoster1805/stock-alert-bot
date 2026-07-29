@@ -1114,5 +1114,11 @@
     "symbol": "FILER",
     "title": "8-K - CID Holdco, Inc. (0002033770) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "80586de969d9a67a5d605041e22a54ee2bda4f10a7760413248758795dbd08fe": {
+    "first_alert_at": "2026-07-29T13:06:42.163659+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TIPTREE INC. (0001393726) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
