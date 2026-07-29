@@ -1144,5 +1144,35 @@
     "symbol": "FILER",
     "title": "8-K - Boot Barn Holdings, Inc. (0001610250) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "f55082e95197e62345b0d65fd0f0554969d36c8764d3a576971ed0e42ce95a64": {
+    "first_alert_at": "2026-07-29T21:14:42.790834+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HCW Biologics Inc. (0001828673) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0a88595f71fc04fafc63fc3a57155f2ea1f2f17b0f6d93ab1f1fd4209bca59c8": {
+    "first_alert_at": "2026-07-29T21:14:54.326029+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Onconetix, Inc. (0001782107) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5fe7988231084bf20629722829883328bb92bf16e17b5df66b64857922affde2": {
+    "first_alert_at": "2026-07-29T21:15:14.204322+00:00",
+    "symbol": "FILER",
+    "title": "8-K - OS Therapies Inc (0001795091) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f7f0019d3d4b50e14004b6fc285bdb14cab1c5a5af062c2103d0bd37167a2674": {
+    "first_alert_at": "2026-07-29T21:15:24.772058+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Meridian Holdings Inc./NV (0001437925) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2467339e2a47895fbd548a44bf50da42085cc5e7a6c4232bc9ac01d689a52627": {
+    "first_alert_at": "2026-07-29T21:15:25.798072+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NEXTNRG, INC. (0001817004) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

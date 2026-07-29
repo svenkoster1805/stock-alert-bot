@@ -2932,5 +2932,81 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-29T21:14:53.231780+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HCW Biologics Inc. (0001828673) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "HCW Biologics Inc. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op een kapitaalinjectie, wat belangrijk is voor de financiering van toekomstige activiteiten.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst en de aandelenverkoop zijn onbekend. Zonder deze details is de impact op de waardering van het bedrijf onduidelijk en kan deze zowel positief als negatief zijn.",
+      "invalidation_nl": "De essentiële details over de inhoud, waarde en partijen van de materiële overeenkomst en aandelenverkoop ontbreken volledig.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van het volledige 8-K-document is noodzakelijk om de economische relevantie te bepalen."
+    }
+  },
+  {
+    "time": "2026-07-29T21:15:13.216823+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Onconetix, Inc. (0001782107) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Onconetix, Inc. heeft een 8-K-rapport ingediend waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Het rapport vermeldt ook de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst duidt op een concrete stap in een mogelijke fusie of overname. Dit kan de toekomstige waardering en strategische richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke financiële voorwaarden en de impact van de overeenkomst zijn niet bekendgemaakt in de samenvatting. Er is geen informatie over de contractwaarde of de volledige implicaties voor aandeelhouders.",
+      "invalidation_nl": "Er is geen contractwaarde of gedetailleerde voorwaarden van de overeenkomst beschikbaar om een geïnformeerde handelsbeslissing te nemen.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is zeer recent en afkomstig van een betrouwbare bron (SEC.gov)."
+    }
+  },
+  {
+    "time": "2026-07-29T21:15:23.807526+00:00",
+    "symbol": "FILER",
+    "title": "8-K - OS Therapies Inc (0001795091) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "OS Therapies Inc heeft op 29 juli 2026 een 8-K melding ingediend over de beëindiging van een materiële definitieve overeenkomst. De melding is recent gepubliceerd en afkomstig van SEC.gov.",
+      "why_nl": "De beëindiging van een materiële overeenkomst kan de toekomstige strategie of financiële vooruitzichten van het bedrijf beïnvloeden. Dit kan leiden tot onzekerheid bij beleggers.",
+      "risk_nl": "De specifieke aard en de financiële impact van de beëindigde overeenkomst zijn onbekend. Zonder deze details is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "De aard van de beëindigde overeenkomst en de financiële gevolgen zijn niet gespecificeerd in de bron.",
+      "is_already_priced": false,
+      "notes": "De event-classificatie als M&A wordt niet ondersteund door de samenvatting van een beëindigde overeenkomst."
+    }
+  },
+  {
+    "time": "2026-07-29T21:15:24.772087+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Meridian Holdings Inc./NV (0001437925) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-29T21:15:25.798101+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NEXTNRG, INC. (0001817004) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
