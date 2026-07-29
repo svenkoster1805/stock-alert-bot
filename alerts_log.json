@@ -4553,5 +4553,103 @@
       "is_already_priced": false,
       "notes": "Verdere analyse van het volledige 8-K document is noodzakelijk om de economische impact te beoordelen."
     }
+  },
+  {
+    "time": "2026-07-29T20:16:37.896428+00:00",
+    "symbol": "FILER",
+    "company": "Cadre Holdings, Inc. (0001860543) (Filer)",
+    "event_key": "c24d4acf05a7d266ef6f6c7e6ec7fd286d427d203e3daf85e4cd60f84987965a",
+    "event_family": "M_AND_A",
+    "title": "8-K - Cadre Holdings, Inc. (0001860543) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1860543/000110465926088148/0001104659-26-088148-index.htm",
+    "news_age_minutes": 0,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Cadre Holdings, Inc. heeft een materiële definitieve overeenkomst gesloten en een directe financiële verplichting aangegaan. Dit is gemeld in een 8-K filing bij SEC.gov.",
+      "why_nl": "Een materiële overeenkomst en financiële verplichting kunnen duiden op een overname of fusie die de financiële positie en groeivooruitzichten van het bedrijf beïnvloedt. Dit kan leiden tot een herwaardering van het aandeel.",
+      "risk_nl": "De specifieke aard, omvang en voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op Cadre Holdings onduidelijk is. Zonder details is het risico op een negatieve verrassing hoog.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de overnamepartij of de specifieke voorwaarden van de overeenkomst.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de economische impact te kunnen beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-29T20:16:52.301071+00:00",
+    "symbol": "FILER",
+    "company": "Constellation Acquisition Corp I (0001834032) (Filer)",
+    "event_key": "0d4dd15393f9e058e282e4105c6cf731ef0728753add5f901323afdf9d8b9729",
+    "event_family": "M_AND_A",
+    "title": "8-K - Constellation Acquisition Corp I (0001834032) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1834032/000121390026082814/0001213900-26-082814-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Constellation Acquisition Corp I heeft op 29 juli 2026 een 8-K-formulier ingediend. Dit formulier betreft de creatie van een directe financiële verplichting of een verplichting onder een off-balance sheet regeling.",
+      "why_nl": "De creatie van een financiële verplichting kan de kapitaalstructuur en de toekomstige financiële prestaties van het bedrijf beïnvloeden. Dit kan leiden tot veranderingen in de schuldpositie of liquiditeit van de onderneming.",
+      "risk_nl": "De specifieke aard, omvang en voorwaarden van de financiële verplichting zijn onbekend. Zonder verdere details is het onduidelijk welke impact dit heeft op de waardering of strategie van het bedrijf.",
+      "invalidation_nl": "De samenvatting beschrijft een financiële verplichting (Item 2.03), niet de details van een fusie of overname, waardoor de M&A-gebeurtenis niet bevestigd is.",
+      "is_already_priced": false,
+      "notes": "De verstrekte informatie over de financiële verplichting is te algemeen om een concrete M&A-gebeurtenis te beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-29T20:17:05.331203+00:00",
+    "symbol": "FILER",
+    "company": "BNB PLUS CORP. (0000744452) (Filer)",
+    "event_key": "fe7d853396268005dc299220afc0b46f43145919ca0663c5fb9017a943be1955",
+    "event_family": "M_AND_A",
+    "title": "8-K - BNB PLUS CORP. (0000744452) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/744452/000110465926088139/0001104659-26-088139-index.htm",
+    "news_age_minutes": 5,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BNB PLUS CORP. heeft een 8-K melding ingediend over het aangaan en beëindigen van materiële overeenkomsten, de verkoop van aandelen en wijzigingen in het management.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf beïnvloeden. Specifieke details ontbreken echter.",
+      "risk_nl": "De aard, partijen en financiële voorwaarden van de materiële overeenkomst zijn onbekend, wat de impact onvoorspelbaar maakt. Er is ook sprake van beëindiging van een andere overeenkomst.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard, partijen of financiële voorwaarden van de 'Material Definitive Agreement' om dit als een specifieke M&A-transactie te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevat meerdere items, waaronder het aangaan en beëindigen van materiële overeenkomsten, zonder verdere specificatie."
+    }
+  },
+  {
+    "time": "2026-07-29T20:17:06.203298+00:00",
+    "symbol": "FILER",
+    "company": "Boot Barn Holdings, Inc. (0001610250) (Filer)",
+    "event_key": "f5ede564998b90887af1677ca9172a01a727b7c26c9e9b9d25988e9b8d4d23c3",
+    "event_family": "M_AND_A",
+    "title": "8-K - Boot Barn Holdings, Inc. (0001610250) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1610250/000110465926088137/0001104659-26-088137-index.htm",
+    "news_age_minutes": 7,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

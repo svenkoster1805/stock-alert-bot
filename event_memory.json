@@ -1120,5 +1120,29 @@
     "symbol": "FILER",
     "title": "8-K - TIPTREE INC. (0001393726) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "c24d4acf05a7d266ef6f6c7e6ec7fd286d427d203e3daf85e4cd60f84987965a": {
+    "first_alert_at": "2026-07-29T20:16:28.298050+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cadre Holdings, Inc. (0001860543) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0d4dd15393f9e058e282e4105c6cf731ef0728753add5f901323afdf9d8b9729": {
+    "first_alert_at": "2026-07-29T20:16:38.377317+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Constellation Acquisition Corp I (0001834032) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "fe7d853396268005dc299220afc0b46f43145919ca0663c5fb9017a943be1955": {
+    "first_alert_at": "2026-07-29T20:16:52.786993+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BNB PLUS CORP. (0000744452) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f5ede564998b90887af1677ca9172a01a727b7c26c9e9b9d25988e9b8d4d23c3": {
+    "first_alert_at": "2026-07-29T20:17:05.763205+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Boot Barn Holdings, Inc. (0001610250) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
