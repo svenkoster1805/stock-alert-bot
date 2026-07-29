@@ -1102,5 +1102,17 @@
     "symbol": "FILER",
     "title": "8-K - CADIZ INC (0000727273) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "76960b411d646684b04bf1f73c845bab8a474f8015f45ef69689a5fae834e489": {
+    "first_alert_at": "2026-07-29T11:09:42.738003+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bandwidth Inc. (0001514416) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "76455d12fd02f69359a4dcfa28c4fc73bb3ce20242d95b761f8a2c27f57b7a41": {
+    "first_alert_at": "2026-07-29T11:10:03.680544+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CID Holdco, Inc. (0002033770) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

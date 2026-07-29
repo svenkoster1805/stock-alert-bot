@@ -4478,5 +4478,55 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-29T11:10:02.850364+00:00",
+    "symbol": "FILER",
+    "company": "Bandwidth Inc. (0001514416) (Filer)",
+    "event_key": "76960b411d646684b04bf1f73c845bab8a474f8015f45ef69689a5fae834e489",
+    "event_family": "M_AND_A",
+    "title": "8-K - Bandwidth Inc. (0001514416) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1514416/000151441626000055/0001514416-26-000055-index.htm",
+    "news_age_minutes": 8,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Bandwidth Inc. heeft een 8-K ingediend waarin de 'Entry into a Material Definitive Agreement' wordt gemeld. Het document bevat ook informatie over bedrijfsresultaten en wijzigingen in directie en compensatieregelingen.",
+      "why_nl": "Een materiële definitieve overeenkomst, in de context van een M&A-gebeurtenis, kan de strategische richting en financiële vooruitzichten van het bedrijf significant beïnvloeden. De aard en omvang van de overeenkomst zijn echter cruciaal voor de economische relevantie.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete details over de partijen, de voorwaarden en de financiële impact van de overeenkomst. Zonder deze informatie is de daadwerkelijke waarde of het risico voor beleggers onduidelijk.",
+      "invalidation_nl": "Er is geen contractwaarde, formele voorwaarden of specifieke details van de M&A-overeenkomst bekend om een handelsbeslissing te rechtvaardigen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de specifieke M&A-details die nodig zijn voor een beoordeling ontbreken."
+    }
+  },
+  {
+    "time": "2026-07-29T11:10:15.852250+00:00",
+    "symbol": "FILER",
+    "company": "CID Holdco, Inc. (0002033770) (Filer)",
+    "event_key": "76455d12fd02f69359a4dcfa28c4fc73bb3ce20242d95b761f8a2c27f57b7a41",
+    "event_family": "M_AND_A",
+    "title": "8-K - CID Holdco, Inc. (0002033770) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2033770/000121390026082509/0001213900-26-082509-index.htm",
+    "news_age_minutes": 9,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "TRADEABLE",
+      "confidence": 1,
+      "summary_nl": "CID Holdco, Inc. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de beëindiging van een materiële definitieve overeenkomst.",
+      "why_nl": "De beëindiging van een materiële overeenkomst kan de financiële vooruitzichten of strategische plannen van het bedrijf beïnvloeden. Dit kan leiden tot onzekerheid over toekomstige inkomsten of projecten die aan de overeenkomst waren gekoppeld.",
+      "risk_nl": "De specifieke aard en de financiële impact van de beëindigde overeenkomst zijn niet gespecificeerd in de samenvatting. Het is onduidelijk of er boetes, compensaties of andere gevolgen zijn verbonden aan deze beëindiging.",
+      "invalidation_nl": "De details van de beëindigde overeenkomst en de financiële gevolgen zijn onbekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevat Item 1.02 (Termination of a Material Definitive Agreement) en Item 9.01 (Financial Statements and Exhibits)."
+    }
   }
 ]
