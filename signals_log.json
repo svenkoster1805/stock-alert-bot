@@ -3056,5 +3056,37 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding is recent, maar de details over de M&A-gebeurtenis ontbreken in de samenvatting."
     }
+  },
+  {
+    "time": "2026-07-30T12:15:07.487845+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FORUM MARKETS Inc (0001690080) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "FORUM MARKETS Inc heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke transactie, zoals een overname of verkoop. Dit kan de financiële positie of strategische richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de aard, waarde en voorwaarden, zijn nog onbekend. Zonder deze informatie is de impact op de belegger onduidelijk en speculatief.",
+      "invalidation_nl": "De contractwaarde en de volledige voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de beschikbare gegevens.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de economische impact te beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-30T12:15:19.606809+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MARKETAXESS HOLDINGS INC (0001278021) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Op 30 juli 2026 heeft MARKETAXESS HOLDINGS INC een 8-K formulier ingediend, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de financiële positie en strategische richting van het bedrijf aanzienlijk beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of toekomstige inkomstenstromen, afhankelijk van de aard van de overeenkomst.",
+      "risk_nl": "De exacte aard en financiële voorwaarden van de materiële definitieve overeenkomst zijn onbekend. Dit maakt het onmogelijk om de potentiële impact op de bedrijfswaardering of toekomstige prestaties te beoordelen.",
+      "invalidation_nl": "Er is geen contractwaarde, formele voorwaarden of specifieke details van de overeenkomst bekendgemaakt.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke ontwikkeling, maar de details zijn cruciaal voor een economische beoordeling."
+    }
   }
 ]

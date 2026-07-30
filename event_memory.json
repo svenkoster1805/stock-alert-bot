@@ -1192,5 +1192,17 @@
     "symbol": "FILER",
     "title": "8-K - Southern Cross Acquisition I Corp. (0002116230) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "58b9e6482e0bd246b21f57fd9e3dbf5d11df73a90b2a9a0095578284eea77f69": {
+    "first_alert_at": "2026-07-30T12:15:01.228087+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FORUM MARKETS Inc (0001690080) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d3e0d3d10d3bfd9f33b67f1f8341d2c384af0aab6fb6201542e44d24e13f2797": {
+    "first_alert_at": "2026-07-30T12:15:08.615014+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MARKETAXESS HOLDINGS INC (0001278021) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
