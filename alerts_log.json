@@ -4897,5 +4897,55 @@
       "is_already_priced": false,
       "notes": "De 8-K melding duidt op een belangrijke ontwikkeling, maar de details zijn cruciaal voor een economische beoordeling."
     }
+  },
+  {
+    "time": "2026-07-30T20:22:43.321291+00:00",
+    "symbol": "FILER",
+    "company": "/A - SPLASH BEVERAGE GROUP, INC. (0001553788) (Filer)",
+    "event_key": "7a2db40ef394b6495fde164d0a174580ca4330c3519025ea13c9c39bf0637de1",
+    "event_family": "M_AND_A",
+    "title": "8-K/A - SPLASH BEVERAGE GROUP, INC. (0001553788) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1553788/000173112226000990/0001731122-26-000990-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "SPLASH BEVERAGE GROUP, INC. heeft op 30 juli 2026 een 8-K/A-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap voor het bedrijf. Dit kan de toekomstige financiële prestaties en marktpositie van SPLASH BEVERAGE GROUP beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de financiële impact, zijn nog onbekend. Zonder deze details is het onmogelijk de economische waarde of risico's correct in te schatten.",
+      "invalidation_nl": "De samenvatting bevat geen details over de tegenpartij, de overnamesom of de specifieke aard van de M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig voor een volledige beoordeling."
+    }
+  },
+  {
+    "time": "2026-07-30T20:22:50.538971+00:00",
+    "symbol": "FILER",
+    "company": "FREQUENCY ELECTRONICS INC (0000039020) (Filer)",
+    "event_key": "cc3dfb9d70cfa38d2e0f415a74edd99248ba75e8d8c6c0af18d753ff97d84218",
+    "event_family": "M_AND_A",
+    "title": "8-K - FREQUENCY ELECTRONICS INC (0000039020) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/39020/000118518526003177/0001185185-26-003177-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "FREQUENCY ELECTRONICS INC heeft een 8-K-formulier ingediend over de totstandkoming van een materiële definitieve overeenkomst. Het formulier, ingediend op 30 juli 2026, bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan aanzienlijke financiële of strategische gevolgen hebben voor het bedrijf. De aard en de specifieke voorwaarden van deze overeenkomst zijn echter nog onbekend.",
+      "risk_nl": "Het grootste risico is dat de details van de overeenkomst onbekend zijn, waardoor de impact op het bedrijf en de aandeelhouders niet kan worden beoordeeld. De overeenkomst kan ook negatief uitpakken voor de onderneming.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard, partijen of financiële voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K-filing is zeer recent, maar de samenvatting geeft geen bruikbare details over de overeenkomst."
+    }
   }
 ]

@@ -1204,5 +1204,17 @@
     "symbol": "FILER",
     "title": "8-K - MARKETAXESS HOLDINGS INC (0001278021) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "7a2db40ef394b6495fde164d0a174580ca4330c3519025ea13c9c39bf0637de1": {
+    "first_alert_at": "2026-07-30T20:22:30.381084+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - SPLASH BEVERAGE GROUP, INC. (0001553788) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "cc3dfb9d70cfa38d2e0f415a74edd99248ba75e8d8c6c0af18d753ff97d84218": {
+    "first_alert_at": "2026-07-30T20:22:43.888576+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FREQUENCY ELECTRONICS INC (0000039020) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
