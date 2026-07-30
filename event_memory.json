@@ -1216,5 +1216,29 @@
     "symbol": "FILER",
     "title": "8-K - FREQUENCY ELECTRONICS INC (0000039020) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "29197d212afa8e6305110e764f5dbb832eb5932a8babbdd454dc64e3b3f4b5a4": {
+    "first_alert_at": "2026-07-30T21:38:10.756332+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DT Cloud Star Acquisition Corp (0002017950) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2a76c22feb3df5cb5370a26e7749ed4cc6e9a2dafa4307faf85c8d39c17f1c58": {
+    "first_alert_at": "2026-07-30T21:38:21.792828+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FRANKLIN RESOURCES INC (0000038777) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1b0ac6d065235ebf9e6ab523cf290a860e7b6fffa51d145fab2e220b41aade48": {
+    "first_alert_at": "2026-07-30T21:38:32.702573+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Soulpower Acquisition Corp. (0002025608) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "6e396c7380d67b92bbe760401861c1cc9f96d7211d0585e23ada45640b059f8d": {
+    "first_alert_at": "2026-07-30T21:38:42.556248+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Aldeyra Therapeutics, Inc. (0001341235) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

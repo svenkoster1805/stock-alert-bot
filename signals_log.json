@@ -3120,5 +3120,67 @@
       "is_already_priced": false,
       "notes": "De 8-K-filing is zeer recent, maar de samenvatting geeft geen bruikbare details over de overeenkomst."
     }
+  },
+  {
+    "time": "2026-07-30T21:38:20.761056+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DT Cloud Star Acquisition Corp (0002017950) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "DT Cloud Star Acquisition Corp heeft op 30 juli 2026 een 8-K rapport ingediend. Dit rapport betreft 'Other Events' en is recent gepubliceerd.",
+      "why_nl": "Een 8-K melding kan belangrijke bedrijfsontwikkelingen signaleren die de waarde van het bedrijf kunnen beïnvloeden. De aard van de 'Other Events' is echter cruciaal voor de economische relevantie.",
+      "risk_nl": "De specifieke inhoud van de 'Other Events' is niet bekend, waardoor de aard en impact van de melding onduidelijk zijn. Zonder details is elke conclusie speculatief.",
+      "invalidation_nl": "Er zijn geen concrete details over een fusie of overname, contractwaarde of formele voorwaarden vermeld in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "De classificatie als M&A-event wordt niet ondersteund door de inhoud van de samenvatting of snippet."
+    }
+  },
+  {
+    "time": "2026-07-30T21:38:31.713822+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FRANKLIN RESOURCES INC (0000038777) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Franklin Resources Inc. heeft een materiële definitieve overeenkomst gesloten en een andere beëindigd, wat mogelijk nieuwe financiële verplichtingen creëert. Dit is officieel gemeld in een 8-K filing bij de SEC.",
+      "why_nl": "De sluiting van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische zet zoals een overname of desinvestering. Dit kan de toekomstige financiële prestaties en de waardering van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn onbekend, wat de impact op het bedrijf onzeker maakt. De beëindiging van een andere overeenkomst kan ook onverwachte gevolgen hebben.",
+      "invalidation_nl": "Er is geen informatie over de tegenpartij, de overnameprijs of de gedetailleerde voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de essentiële details voor een handelsbeslissing ontbreken in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-07-30T21:38:41.602501+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Soulpower Acquisition Corp. (0002025608) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Soulpower Acquisition Corp. (Filer) heeft op 30 juli 2026 een 8-K-rapport ingediend bij de SEC. Dit rapport omvat een Regulation FD Disclosure en financiële overzichten en bijlagen.",
+      "why_nl": "Een 8-K-rapport van een acquisitiebedrijf kan duiden op belangrijke ontwikkelingen met betrekking tot een potentiële fusie of overname. Dit kan de strategische richting en toekomstige waarde van het bedrijf beïnvloeden.",
+      "risk_nl": "De exacte inhoud van de Regulation FD Disclosure en de bijlagen is onbekend, waardoor de aard en impact van de gebeurtenis onduidelijk zijn. Er is geen concrete informatie over een definitieve overeenkomst, contractwaarde of de betrokken partijen.",
+      "invalidation_nl": "Er is geen definitieve overeenkomst, contractwaarde of formele voorwaarden bekendgemaakt.",
+      "is_already_priced": false,
+      "notes": "Verdere details uit het volledige 8-K-rapport zijn nodig om de relevantie van deze M&A-gebeurtenis te beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-30T21:38:42.556269+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Aldeyra Therapeutics, Inc. (0001341235) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
