@@ -1174,5 +1174,23 @@
     "symbol": "FILER",
     "title": "8-K - NEXTNRG, INC. (0001817004) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "8161aa150f000faedab3fa9f39d240a7e5263b882c785efc1c80b32ae46056f6": {
+    "first_alert_at": "2026-07-30T10:38:47.093207+00:00",
+    "symbol": "FILER",
+    "title": "8-K - T1 Energy Inc. (0001992243) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "23904e3cd3524c9e278816c6c926deca25190069e7fcf23d607b008241126cbc": {
+    "first_alert_at": "2026-07-30T10:38:55.183525+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GROUP 1 AUTOMOTIVE INC (0001031203) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a3cb4d192efec2ba7d740f273e444b90619ab112dc4e186394ba2714d09255b8": {
+    "first_alert_at": "2026-07-30T10:39:10.221826+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Southern Cross Acquisition I Corp. (0002116230) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

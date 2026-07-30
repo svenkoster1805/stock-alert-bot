@@ -4772,5 +4772,80 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-30T10:38:54.824265+00:00",
+    "symbol": "FILER",
+    "company": "T1 Energy Inc. (0001992243) (Filer)",
+    "event_key": "8161aa150f000faedab3fa9f39d240a7e5263b882c785efc1c80b32ae46056f6",
+    "event_family": "M_AND_A",
+    "title": "8-K - T1 Energy Inc. (0001992243) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1992243/000121390026083033/0001213900-26-083033-index.htm",
+    "news_age_minutes": 6,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "T1 Energy Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de aangaan van een materiële definitieve overeenkomst wordt gemeld. Ook worden de creatie van een directe financiële verplichting en de niet-geregistreerde verkoop van aandelen genoemd.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, wat de toekomstige waarde van het bedrijf kan beïnvloeden. De financiering via aandelenverkoop en nieuwe verplichtingen zijn direct gerelateerd aan de uitvoering hiervan.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de aard van de transactie, de tegenpartij en de financiële voorwaarden, zijn nog onbekend. Zonder deze informatie is de impact op de financiële positie en strategie van T1 Energy Inc. onduidelijk.",
+      "invalidation_nl": "De economische details van de materiële definitieve overeenkomst, inclusief de contractwaarde en de exacte aard van de M&A, zijn niet gespecificeerd in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke ontwikkeling, maar de specifieke inhoud van de overeenkomst is cruciaal voor een beoordeling."
+    }
+  },
+  {
+    "time": "2026-07-30T10:39:09.643423+00:00",
+    "symbol": "FILER",
+    "company": "GROUP 1 AUTOMOTIVE INC (0001031203) (Filer)",
+    "event_key": "23904e3cd3524c9e278816c6c926deca25190069e7fcf23d607b008241126cbc",
+    "event_family": "M_AND_A",
+    "title": "8-K - GROUP 1 AUTOMOTIVE INC (0001031203) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000121/0001031203-26-000121-index.htm",
+    "news_age_minutes": 13,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "GROUP 1 AUTOMOTIVE INC heeft op 30 juli 2026 een 8-K-rapport ingediend bij de SEC. Dit rapport vermeldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische transactie, zoals een overname of fusie. Dit kan de toekomstige financiële prestaties en marktpositie van het bedrijf beïnvloeden.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn niet bekendgemaakt in de samenvatting. Zonder deze details is de impact op de onderneming onzeker.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de betrokken partijen of de exacte voorwaarden van de M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de details van de M&A-transactie ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-07-30T10:39:20.426702+00:00",
+    "symbol": "FILER",
+    "company": "Southern Cross Acquisition I Corp. (0002116230) (Filer)",
+    "event_key": "a3cb4d192efec2ba7d740f273e444b90619ab112dc4e186394ba2714d09255b8",
+    "event_family": "M_AND_A",
+    "title": "8-K - Southern Cross Acquisition I Corp. (0002116230) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2116230/000192998026000397/0001929980-26-000397-index.htm",
+    "news_age_minutes": 22,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Southern Cross Acquisition I Corp. heeft op 30 juli 2026 een 8-K-formulier ingediend bij de SEC, gerelateerd aan een fusie of overname. Dit document omvat 'Other Events' en 'Financial Statements and Exhibits'.",
+      "why_nl": "Een fusie of overname kan de waardering en strategische richting van een bedrijf significant beïnvloeden. De indiening van een 8-K-formulier voor een dergelijke gebeurtenis duidt op een materiële ontwikkeling.",
+      "risk_nl": "De specifieke details van de fusie of overname, zoals de partijen, voorwaarden en contractwaarde, zijn niet bekend. Zonder deze informatie is de economische impact onzeker en speculatief.",
+      "invalidation_nl": "De verstrekte gegevens bevatten geen concrete details over de M&A-overeenkomst, zoals de partijen, voorwaarden of contractwaarde.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is recent, maar de details over de M&A-gebeurtenis ontbreken in de samenvatting."
+    }
   }
 ]
