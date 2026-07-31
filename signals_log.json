@@ -3276,5 +3276,179 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-31T21:19:12.924211+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NORTHWEST BIOTHERAPEUTICS INC (0001072379) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "NORTHWEST BIOTHERAPEUTICS INC heeft een materiële definitieve overeenkomst gesloten en een directe financiële verplichting of een verplichting buiten de balans gecreëerd. Dit is gemeld in een 8-K filing bij SEC.gov op 31 juli 2026.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst en een financiële verplichting kan de financiële positie en toekomstige strategie van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of operationele activiteiten.",
+      "risk_nl": "De specifieke aard van de overeenkomst, de betrokken partijen en de financiële voorwaarden zijn nog onbekend. Zonder deze details is de impact op de belegger niet te beoordelen.",
+      "invalidation_nl": "Er zijn geen details over de tegenpartij, de aard van de M&A-transactie of de financiële waarde van de overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een definitieve overeenkomst, maar de inhoudelijke details ontbreken voor een concrete beoordeling."
+    }
+  },
+  {
+    "time": "2026-07-31T21:19:21.793317+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Onar Holding Corp (0001682265) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Onar Holding Corp heeft een 8-K ingediend bij de SEC, waarin de 'Entry into a Material Definitive Agreement' wordt gemeld. Dit document, met AccNo 0001477932-26-004647, is op 31 juli 2026 gepubliceerd.",
+      "why_nl": "Een materiële definitieve overeenkomst, zoals een M&A, kan de financiële positie en toekomstige vooruitzichten van een bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in de waardering van het bedrijf.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de contractwaarde en de exacte voorwaarden, zijn niet gespecificeerd in de samenvatting. Zonder deze details is de impact op de financiële positie onduidelijk.",
+      "invalidation_nl": "De informatie geeft aan dat de markt voor dit aandeel niet beschikbaar is voor de belegger.",
+      "is_already_priced": false,
+      "notes": "Hoewel een definitieve overeenkomst is gemeld, is het aandeel niet verhandelbaar voor de Nederlandse belegger."
+    }
+  },
+  {
+    "time": "2026-07-31T21:19:29.597666+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Plum Acquisition Corp. III (0001845550) (Filer)",
+    "score": 14,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Plum Acquisition Corp. III (FILER) heeft op 31 juli 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier vermeldt materiële wijzigingen in de rechten van effectenhouders en andere gebeurtenissen.",
+      "why_nl": "Een 8-K-melding over materiële wijzigingen kan duiden op belangrijke bedrijfsontwikkelingen, zoals een fusie of overname. Dit kan de toekomstige waardering en structuur van het bedrijf beïnvloeden.",
+      "risk_nl": "De specifieke details van de 'andere gebeurtenissen' en de 'materiële wijzigingen' zijn niet bekend. Zonder concrete voorwaarden of een contractwaarde is de impact op de belegger onduidelijk.",
+      "invalidation_nl": "Er is geen concrete informatie over een definitieve fusieovereenkomst, contractwaarde of formele voorwaarden beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is recent, maar de inhoud van de M&A-gerelateerde details ontbreekt in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-07-31T21:19:30.564796+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Market Technology Acquisition Corp (0002133136) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-31T21:19:31.674876+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Clean Energy Technologies, Inc. (0001329606) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-31T21:19:32.765907+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Agriculture & Natural Solutions Acquisition Corp (0001854149) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-31T21:19:33.838844+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VASO Corp (0000839087) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-31T21:19:35.074440+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NOCERA, INC. (0001756180) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-31T21:19:36.211444+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Transglobal Management Group, Inc. (0001434601) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-31T21:19:37.311636+00:00",
+    "symbol": "FILER",
+    "title": "8-K - T1 Energy Inc. (0001992243) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-31T21:19:38.545801+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Profusa, Inc. (0001859807) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-07-31T21:19:39.623188+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DELUXE CORP (0000027996) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
