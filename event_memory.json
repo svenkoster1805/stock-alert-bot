@@ -1246,5 +1246,11 @@
     "symbol": "FILER",
     "title": "8-K - PSQ Holdings, Inc. (0001847064) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "9d092bfdf81532dc75db1848e989d0011bddd6173beaa470af834acd2469a81c": {
+    "first_alert_at": "2026-07-31T13:07:35.828967+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Columbus Acquisition Corp/Cayman Islands (0002028201) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
