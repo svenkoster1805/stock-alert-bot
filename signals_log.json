@@ -3182,5 +3182,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-31T11:14:33.036756+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PSQ Holdings, Inc. (0001847064) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "PSQ Holdings, Inc. heeft op 31 juli 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een fusie of overname. Dit kan de toekomstige groeivooruitzichten of de financiële structuur van het bedrijf significant beïnvloeden.",
+      "risk_nl": "Het grootste risico is de onbekende aard en de specifieke voorwaarden van de overeenkomst. Zonder details over de tegenpartij, waarde of impact is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er is nog geen contractwaarde, formele voorwaarden of officiële bevestiging van de specifieke aard van de M&A-transactie beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de inhoud van de materiële definitieve overeenkomst zijn essentieel om de impact op PSQ Holdings, Inc. te kunnen beoordelen."
+    }
   }
 ]

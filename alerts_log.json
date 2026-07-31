@@ -5045,5 +5045,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-07-31T11:14:33.522774+00:00",
+    "symbol": "FILER",
+    "company": "PSQ Holdings, Inc. (0001847064) (Filer)",
+    "event_key": "11362dec97818282b8e4bae19879cda2d918c7cbf8034a985c7573ffa31eb0d5",
+    "event_family": "M_AND_A",
+    "title": "8-K - PSQ Holdings, Inc. (0001847064) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1847064/000110465926088966/0001104659-26-088966-index.htm",
+    "news_age_minutes": 13,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "PSQ Holdings, Inc. heeft op 31 juli 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een fusie of overname. Dit kan de toekomstige groeivooruitzichten of de financiële structuur van het bedrijf significant beïnvloeden.",
+      "risk_nl": "Het grootste risico is de onbekende aard en de specifieke voorwaarden van de overeenkomst. Zonder details over de tegenpartij, waarde of impact is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er is nog geen contractwaarde, formele voorwaarden of officiële bevestiging van de specifieke aard van de M&A-transactie beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de inhoud van de materiële definitieve overeenkomst zijn essentieel om de impact op PSQ Holdings, Inc. te kunnen beoordelen."
+    }
   }
 ]
