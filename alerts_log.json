@@ -5095,5 +5095,103 @@
       "is_already_priced": false,
       "notes": "De 8-K/A bevestigt een overeenkomst, maar de inhoud ervan is nog niet gespecificeerd."
     }
+  },
+  {
+    "time": "2026-07-31T20:08:27.070924+00:00",
+    "symbol": "FILER",
+    "company": "Sphere 3D Corp. (0001591956) (Filer)",
+    "event_key": "82ac67fb494ca7d4e24dcdbc3726b0b9e4daec6732cad8707d3c9ced7298d7cb",
+    "event_family": "M_AND_A",
+    "title": "8-K - Sphere 3D Corp. (0001591956) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1591956/000106299326003959/0001062993-26-003959-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Sphere 3D Corp. heeft een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en andere gebeurtenissen worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie, zoals een fusie of overname, die de toekomstige financiële positie van het bedrijf kan beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op het bedrijf en de aandeelhouders onduidelijk is.",
+      "invalidation_nl": "Er zijn geen details over de tegenpartij, de contractwaarde of de specifieke voorwaarden van de overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een overeenkomst, maar de inhoud van de M&A-transactie is niet gespecificeerd in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-07-31T20:08:34.349857+00:00",
+    "symbol": "FILER",
+    "company": "POWERCOMPUTE, INC. (0001640384) (Filer)",
+    "event_key": "e5b5abcc7e53f6d946c0bcff280f21f20cc7f7e9f28bb7ca23079a70e3b060c1",
+    "event_family": "M_AND_A",
+    "title": "8-K - POWERCOMPUTE, INC. (0001640384) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1640384/000119312526328471/0001193125-26-328471-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "POWERCOMPUTE, INC. heeft op 31 juli 2026 een 8-K formulier ingediend. Dit formulier vermeldt de totstandkoming van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst en een financiële verplichting kan duiden op een belangrijke transactie. Dit kan de financiële positie en toekomstige groeivooruitzichten van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de financiële impact, zijn nog onbekend. Zonder details over de tegenpartij of de waarde is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard, waarde of partijen van de overeenkomst beschikbaar om een handelsbeslissing te onderbouwen.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële definitieve overeenkomst en financiële verplichting zijn nodig voor een beoordeling."
+    }
+  },
+  {
+    "time": "2026-07-31T20:08:42.135118+00:00",
+    "symbol": "FILER",
+    "company": "AIxCrypto Holdings, Inc. (0001460702) (Filer)",
+    "event_key": "3e4b6580ddecddb39748fc857b3990642977bcf18ce5d61769fee25a195aa172",
+    "event_family": "M_AND_A",
+    "title": "8-K - AIxCrypto Holdings, Inc. (0001460702) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226035628/0001493152-26-035628-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AIxCrypto Holdings, Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de financiële positie of strategische richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de overeenkomst zijn onbekend, waardoor de impact onduidelijk is.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, partijen of financiële voorwaarden van de overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de economische relevantie te beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-31T20:08:43.445518+00:00",
+    "symbol": "FILER",
+    "company": "NN INC (0000918541) (Filer)",
+    "event_key": "d27711a931852d22a6674ef39d0cffb5181794f58fb884d5c232f70f865f3654",
+    "event_family": "M_AND_A",
+    "title": "8-K - NN INC (0000918541) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/918541/000091854126000057/0000918541-26-000057-index.htm",
+    "news_age_minutes": 8,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

@@ -3214,5 +3214,67 @@
       "is_already_priced": false,
       "notes": "De 8-K/A bevestigt een overeenkomst, maar de inhoud ervan is nog niet gespecificeerd."
     }
+  },
+  {
+    "time": "2026-07-31T20:08:26.537887+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sphere 3D Corp. (0001591956) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Sphere 3D Corp. heeft een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en andere gebeurtenissen worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie, zoals een fusie of overname, die de toekomstige financiële positie van het bedrijf kan beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op het bedrijf en de aandeelhouders onduidelijk is.",
+      "invalidation_nl": "Er zijn geen details over de tegenpartij, de contractwaarde of de specifieke voorwaarden van de overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een overeenkomst, maar de inhoud van de M&A-transactie is niet gespecificeerd in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-07-31T20:08:33.805535+00:00",
+    "symbol": "FILER",
+    "title": "8-K - POWERCOMPUTE, INC. (0001640384) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "POWERCOMPUTE, INC. heeft op 31 juli 2026 een 8-K formulier ingediend. Dit formulier vermeldt de totstandkoming van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst en een financiële verplichting kan duiden op een belangrijke transactie. Dit kan de financiële positie en toekomstige groeivooruitzichten van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de financiële impact, zijn nog onbekend. Zonder details over de tegenpartij of de waarde is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard, waarde of partijen van de overeenkomst beschikbaar om een handelsbeslissing te onderbouwen.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële definitieve overeenkomst en financiële verplichting zijn nodig voor een beoordeling."
+    }
+  },
+  {
+    "time": "2026-07-31T20:08:41.553139+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AIxCrypto Holdings, Inc. (0001460702) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AIxCrypto Holdings, Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de financiële positie of strategische richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de overeenkomst zijn onbekend, waardoor de impact onduidelijk is.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, partijen of financiële voorwaarden van de overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de economische relevantie te beoordelen."
+    }
+  },
+  {
+    "time": "2026-07-31T20:08:42.686419+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NN INC (0000918541) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
