@@ -1348,5 +1348,29 @@
     "symbol": "FILER",
     "title": "8-K - DELUXE CORP (0000027996) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "b2f2121a64f958ad53ff560b1b7cc215fb67bc2ff96d01a9cee6f317923d5161": {
+    "first_alert_at": "2026-08-03T12:46:14.791789+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AIR INDUSTRIES GROUP (0001009891) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a07c9e5d7b867eb3b2bf237fb3d1abd12f4453a6637e5b5ce9412714067e8fef": {
+    "first_alert_at": "2026-08-03T12:46:16.815288+00:00",
+    "symbol": "FILER",
+    "title": "8-K - La Rosa Holdings Corp. (0001879403) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "35864ac5740d39f2712522384588b19afa91db32b33c392c2a9cbb1c543192ea": {
+    "first_alert_at": "2026-08-03T12:46:20.052331+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Freedom Metals Acquisition Corp. (0002129659) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "45af0432811113c00369bc0551e2cb33d29deec448565aae8fc48e0049750959": {
+    "first_alert_at": "2026-08-03T12:46:36.732458+00:00",
+    "symbol": "FILER",
+    "title": "8-K - INNOVATE Corp. (0001006837) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

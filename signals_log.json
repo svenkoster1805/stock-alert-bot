@@ -3450,5 +3450,67 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-03T12:46:15.817550+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AIR INDUSTRIES GROUP (0001009891) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-03T12:46:19.018456+00:00",
+    "symbol": "FILER",
+    "title": "8-K - La Rosa Holdings Corp. (0001879403) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-03T12:46:35.774217+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Freedom Metals Acquisition Corp. (0002129659) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Freedom Metals Acquisition Corp. heeft op 3 augustus 2026 een 8-K-formulier ingediend bij de SEC, waarin 'Other Events' (Item 8.01) en 'Financial Statements and Exhibits' (Item 9.01) worden vermeld. De samenvatting van het document bevat geen specifieke details over een fusie of overname.",
+      "why_nl": "Een 8-K-melding kan belangrijke bedrijfsontwikkelingen signaleren, maar de algemene aard van Item 8.01 biedt hier geen concrete economische relevantie. Zonder specifieke informatie over een M&A-transactie is er geen basis voor een economische beoordeling.",
+      "risk_nl": "Het grootste risico is dat de verstrekte informatie te vaag is om enige conclusie te trekken over een M&A-gebeurtenis. De inhoud van de 8-K is niet gedetailleerd genoeg om de aard van de 'Other Events' te bepalen.",
+      "invalidation_nl": "De samenvatting van de 8-K-melding bevestigt geen M&A-gebeurtenis of de voorwaarden ervan.",
+      "is_already_priced": false,
+      "notes": "De classificatie als M&A-gebeurtenis wordt niet ondersteund door de inhoud van de 8-K-samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-03T12:46:36.732482+00:00",
+    "symbol": "FILER",
+    "title": "8-K - INNOVATE Corp. (0001006837) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
