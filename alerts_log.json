@@ -5573,5 +5573,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-03T19:06:10.747352+00:00",
+    "symbol": "FILER",
+    "company": "Hestia Insight Inc. (0001813603) (Filer)",
+    "event_key": "8732f278b71f88befce1a401b31252dce6143c3411b8bfcc839f11f0ea68569e",
+    "event_family": "M_AND_A",
+    "title": "8-K - Hestia Insight Inc. (0001813603) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1813603/000168316826005916/0001683168-26-005916-index.htm",
+    "news_age_minutes": 5,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Hestia Insight Inc. heeft een definitieve overeenkomst gesloten en de acquisitie of verkoop van activa voltooid, zoals gemeld in een recente 8-K filing bij SEC.gov.",
+      "why_nl": "Een voltooide acquisitie of verkoop kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in omzet, winstgevendheid en marktpositie.",
+      "risk_nl": "De specifieke financiële voorwaarden, zoals de contractwaarde en gedetailleerde impact op de balans, zijn niet bekend in de verstrekte informatie. Zonder deze details is de economische waarde moeilijk te bepalen.",
+      "invalidation_nl": "Er is geen contractwaarde of gedetailleerde voorwaarden van de acquisitie/verkoop bekend in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is recent en van een betrouwbare bron, maar de economische details ontbreken in het fragment."
+    }
   }
 ]
