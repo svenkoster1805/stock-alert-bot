@@ -3618,5 +3618,37 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-03T21:46:27.650285+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Vivos Therapeutics, Inc. (0001716166) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Vivos Therapeutics, Inc. heeft een 8-K-rapport ingediend waarin de \"Entry into a Material Definitive Agreement\" wordt gemeld. Het rapport vermeldt ook wijzigingen in directie of functionarissen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan een significante impact hebben op de strategische richting en financiële positie van het bedrijf. Dit kan leiden tot veranderingen in de marktpositie of toekomstige inkomstenstromen.",
+      "risk_nl": "De exacte aard, omvang en financiële voorwaarden van de materiële overeenkomst zijn onbekend. Zonder deze details is de potentiële impact op de aandeelhouderswaarde onzeker.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard van de M&A-transactie, de betrokken partijen of de financiële voorwaarden.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een materiële overeenkomst, maar de details van de M&A zijn niet gespecificeerd in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-03T21:46:38.523208+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Capstone Holding Corp. (0000887151) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Capstone Holding Corp. heeft op 3 augustus 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC. Dit document bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke transactie, zoals een overname of fusie, die de financiële positie en toekomstige vooruitzichten van het bedrijf aanzienlijk kan beïnvloeden. Dit kan leiden tot een herwaardering van de aandelenkoers.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn nog onbekend, wat de impact op Capstone Holding Corp. onzeker maakt. Zonder deze details is het moeilijk om de economische waarde of risico's te beoordelen.",
+      "invalidation_nl": "De essentiële details van de M&A, zoals de partijen, de overnamesom of de specifieke activa, zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een overeenkomst, maar de inhoudelijke details van de M&A ontbreken in het verstrekte fragment."
+    }
   }
 ]

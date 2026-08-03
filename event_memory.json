@@ -1414,5 +1414,17 @@
     "symbol": "FILER",
     "title": "8-K - KORN FERRY (0000056679) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "d3f2c4dab12b9aa51765d538e6a6b1c4748a9ca62d502400774bb104d07b715a": {
+    "first_alert_at": "2026-08-03T21:46:16.847188+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Vivos Therapeutics, Inc. (0001716166) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "89e42d8b9e79dea7414675091384e253adf13b5703038835d06840971950b6b9": {
+    "first_alert_at": "2026-08-03T21:46:28.311558+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Capstone Holding Corp. (0000887151) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
