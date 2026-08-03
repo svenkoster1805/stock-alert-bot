@@ -1378,5 +1378,41 @@
     "symbol": "FILER",
     "title": "8-K - Hestia Insight Inc. (0001813603) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "ad8f622289c091ab9622e4b86eaf0a609445954f300fc59c89d190cfdba33de2": {
+    "first_alert_at": "2026-08-03T20:37:53.029482+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Nuwellis, Inc. (0001506492) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "c33bfc1f1d69194ff1ce1f6720ad8064c105da53801e54d2f42b2f770390bd77": {
+    "first_alert_at": "2026-08-03T20:38:01.232855+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TELEFLEX INC (0000096943) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "12d9dcd50921fb15f25a399e79c79dafdd2289afc6edc0024b5fef8c64872168": {
+    "first_alert_at": "2026-08-03T20:38:14.177617+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Amneal Pharmaceuticals, Inc. (0001723128) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a818b63d4afd8fcb442d7aecc5370e54d7d7016e4d5912a5180151aefc598b98": {
+    "first_alert_at": "2026-08-03T20:38:31.295297+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Finance of America Companies Inc. (0001828937) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "71c6552c1fef190bc58c193542f774f11d640c2c3a6a8fafa88a3996a3e97595": {
+    "first_alert_at": "2026-08-03T20:38:32.371318+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ONEOK INC /NEW/ (0001039684) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "fc5f33a7cd13c7213f43047a68b7f2c6b21e93a8a734c9a193d66dadadeeee4b": {
+    "first_alert_at": "2026-08-03T20:38:33.380765+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KORN FERRY (0000056679) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
