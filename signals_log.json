@@ -3730,5 +3730,95 @@
       "is_already_priced": false,
       "notes": "De verstrekte informatie is te algemeen om een M&A-gebeurtenis te bevestigen of te beoordelen."
     }
+  },
+  {
+    "time": "2026-08-04T21:43:29.630106+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Z Squared Inc. (0001759186) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Z Squared Inc. heeft een 8-K ingediend bij de SEC, waarin de aanvang en beëindiging van materiële definitieve overeenkomsten worden gemeld. De melding omvat ook niet-geregistreerde verkopen van aandelen en Regulation FD Disclosure.",
+      "why_nl": "De melding van materiële overeenkomsten kan duiden op belangrijke strategische veranderingen of transacties die de toekomstige financiële positie van het bedrijf beïnvloeden. Dit kan een voorbode zijn van een fusie, overname of desinvestering.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de genoemde overeenkomsten zijn onbekend, evenals de reden voor de gelijktijdige beëindiging van een andere overeenkomst. Zonder deze details is de economische relevantie onduidelijk.",
+      "invalidation_nl": "De ontbrekende details over de contractwaarde, de partijen en de specifieke aard van de M&A-transactie maken een beoordeling onmogelijk.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is officieel, maar de inhoudelijke details van de M&A-transactie ontbreken in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-04T21:43:40.461661+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Catalyst Acquisition Corp. (0002104391) (Filer)",
+    "score": 9,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Catalyst Acquisition Corp. heeft een 8-K formulier ingediend bij de SEC. Dit formulier omvat 'Other Events' en 'Financial Statements and Exhibits'.",
+      "why_nl": "Een 8-K filing kan belangrijke bedrijfsevenementen signaleren die de waardering van een bedrijf kunnen beïnvloeden. Echter, de specifieke aard van de gebeurtenis is hier niet gedetailleerd.",
+      "risk_nl": "Zonder details over de inhoud van de 8-K is het onmogelijk om de economische impact of de aard van de 'Other Events' te beoordelen. Het kan een routine-update zijn zonder materiële impact.",
+      "invalidation_nl": "De samenvatting van de 8-K filing bevat geen specifieke details over een fusie of overname, contractwaarde of formele voorwaarden.",
+      "is_already_priced": false,
+      "notes": "De classificatie als M&A wordt niet ondersteund door de inhoud van de verstrekte 8-K samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-04T21:43:53.137810+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Future FinTech Group Inc. (0001066923) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Future FinTech Group Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen. Dit document is op 4 augustus 2026 gepubliceerd.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een strategische transactie zoals een overname of fusie, wat de toekomstige financiële positie van het bedrijf kan beïnvloeden. De verkoop van aandelen kan kapitaal aantrekken of de eigendomsstructuur wijzigen.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn onbekend, wat de impact op de waardering van het bedrijf onzeker maakt. Details over de verkochte aandelen en de kopers ontbreken, wat risico's voor verwatering of controle met zich meebrengt.",
+      "invalidation_nl": "Zonder concrete details over de tegenpartij, de contractwaarde en de volledige voorwaarden van de overeenkomst is een gefundeerde beleggingsbeslissing niet mogelijk.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt het bestaan van een overeenkomst, maar de inhoudelijke details ontbreken in de verstrekte informatie."
+    }
+  },
+  {
+    "time": "2026-08-04T21:43:54.130283+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NextTrip, Inc. (0000788611) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-04T21:43:55.127218+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Super League Enterprise, Inc. (0001621672) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-04T21:43:56.158828+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cycurion, Inc. (0001868419) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

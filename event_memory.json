@@ -1456,5 +1456,41 @@
     "symbol": "FILER",
     "title": "8-K - Oncotelic Therapeutics, Inc. (0000908259) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "f6560647f20c85a81a577b3c453ca721c9ea2c429f885703c3825f459ba347d8": {
+    "first_alert_at": "2026-08-04T21:43:21.128563+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Z Squared Inc. (0001759186) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0752b30496b9e2183a447fd7c6d50ece7f23ba555000f3e410929b21a10c7f3d": {
+    "first_alert_at": "2026-08-04T21:43:30.615808+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Catalyst Acquisition Corp. (0002104391) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f3d20d66cc3bc9cce594f44077a498d813e864e046647d06cb8c0bd42353a3fb": {
+    "first_alert_at": "2026-08-04T21:43:41.555037+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Future FinTech Group Inc. (0001066923) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "3e92752ba8cd026b4df24dc83c7448bd74ddb8164ef89d9dcd6af1ec73bc0201": {
+    "first_alert_at": "2026-08-04T21:43:54.130260+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NextTrip, Inc. (0000788611) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "26c9d42d8042bf689b8f4802265387d8aec8749cd757e9f6c1bd0144fa18afaf": {
+    "first_alert_at": "2026-08-04T21:43:55.127186+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Super League Enterprise, Inc. (0001621672) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "dfc4d4e13d198e30966c7f7ee47d63ffc86f61a5e941de0b5799b90e151bd560": {
+    "first_alert_at": "2026-08-04T21:43:56.158807+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cycurion, Inc. (0001868419) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
