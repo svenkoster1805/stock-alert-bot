@@ -1426,5 +1426,17 @@
     "symbol": "FILER",
     "title": "8-K - Capstone Holding Corp. (0000887151) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "7b90a44c482afb78523ec9904205f3b2d8f14d0180ca281899df99715bc99c18": {
+    "first_alert_at": "2026-08-04T11:08:27.668593+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Wheels Up Experience Inc. (0001819516) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "989f4d483978b957153a47303f9e8503918d1f4877f8f9774a2dff1934d3acff": {
+    "first_alert_at": "2026-08-04T11:08:41.304162+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GRANITE CONSTRUCTION INC (0000861459) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

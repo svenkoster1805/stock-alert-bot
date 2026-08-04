@@ -3650,5 +3650,37 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt een overeenkomst, maar de inhoudelijke details van de M&A ontbreken in het verstrekte fragment."
     }
+  },
+  {
+    "time": "2026-08-04T11:08:40.179878+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Wheels Up Experience Inc. (0001819516) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Wheels Up Experience Inc. heeft een 8-K ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Het document vermeldt ook resultaten van operaties, financiële conditie en het creëren van een directe financiële verplichting.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan een significante strategische verandering voor het bedrijf betekenen, mogelijk gerelateerd aan een overname of verkoop, wat de toekomstige financiële prestaties kan beïnvloeden. De vermelding van financiële verplichtingen en resultaten van operaties kan verdere context bieden voor de impact hiervan.",
+      "risk_nl": "De specifieke aard, inhoud en financiële voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de verstrekte informatie. Zonder deze cruciale details is de economische impact en het risico van de transactie onmogelijk te beoordelen.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de inhoud, de betrokken partijen en de financiële voorwaarden, zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van de volledige 8-K filing is vereist om de aard en impact van de materiële overeenkomst te bepalen."
+    }
+  },
+  {
+    "time": "2026-08-04T11:08:52.466639+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GRANITE CONSTRUCTION INC (0000861459) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "GRANITE CONSTRUCTION INC heeft op 4 augustus 2026 een materiële definitieve overeenkomst gesloten. Tegelijkertijd heeft het bedrijf ook een materiële definitieve overeenkomst beëindigd.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische zet of transactie die de toekomstige bedrijfsvoering beïnvloedt. De gelijktijdige beëindiging van een andere overeenkomst kan wijzen op een herstructurering of wijziging in eerdere plannen, wat de financiële vooruitzichten kan veranderen.",
+      "risk_nl": "De aard en financiële impact van zowel de gesloten als de beëindigde overeenkomst zijn onbekend, wat de potentiële gevolgen onduidelijk maakt. Het is onduidelijk of de twee gebeurtenissen gerelateerd zijn en hoe ze elkaar beïnvloeden.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de specifieke partijen of de gedetailleerde voorwaarden van de overeenkomsten.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt het bestaan van materiële overeenkomsten, maar de details ontbreken voor een concrete beoordeling."
+    }
   }
 ]
