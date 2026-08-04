@@ -5842,5 +5842,55 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt het bestaan van materiële overeenkomsten, maar de details ontbreken voor een concrete beoordeling."
     }
+  },
+  {
+    "time": "2026-08-04T13:07:23.983987+00:00",
+    "symbol": "FILER",
+    "company": "PINNACLE WEST CAPITAL CORP (0000764622) (Filer)",
+    "event_key": "5a67385c33c7def15874c7f82b189ea8686e4956176f26c16f142a17ba2d79e6",
+    "event_family": "M_AND_A",
+    "title": "8-K - PINNACLE WEST CAPITAL CORP (0000764622) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/764622/000110465926090108/0001104659-26-090108-index.htm",
+    "news_age_minutes": 5,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-04T13:07:42.756470+00:00",
+    "symbol": "FILER",
+    "company": "Evolus, Inc. (0001570562) (Filer)",
+    "event_key": "a2f15868d32ac192d040807a9653c9982c3cafb127a0240b235167f7131565bd",
+    "event_family": "M_AND_A",
+    "title": "8-K - Evolus, Inc. (0001570562) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1570562/000157056226000083/0001570562-26-000083-index.htm",
+    "news_age_minutes": 21,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Evolus, Inc. heeft op 4 augustus 2026 een materieel definitief akkoord gesloten, zoals gemeld in een 8-K filing bij de SEC. Dit omvat een melding onder Item 1.01 over het aangaan van een dergelijke overeenkomst en een Regulation FD Disclosure.",
+      "why_nl": "Het aangaan van een materieel definitief akkoord kan de strategische richting, financiële positie of operationele activiteiten van Evolus significant beïnvloeden. Dit type overeenkomst duidt vaak op belangrijke zakelijke ontwikkelingen zoals overnames, fusies of grote partnerschappen.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van het akkoord zijn nog onbekend, wat de beoordeling van de economische waarde bemoeilijkt. Zonder details over de tegenpartij of de inhoud van de overeenkomst is het risico op een ongunstige uitkomst niet in te schatten.",
+      "invalidation_nl": "Er zijn geen details over de contractwaarde, de betrokken partijen of de specifieke voorwaarden van de overeenkomst beschikbaar om een geïnformeerde handelsbeslissing te nemen.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt het bestaan van een materieel akkoord, maar de inhoud is niet gespecificeerd in de samenvatting."
+    }
   }
 ]

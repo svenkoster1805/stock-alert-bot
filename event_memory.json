@@ -1438,5 +1438,17 @@
     "symbol": "FILER",
     "title": "8-K - GRANITE CONSTRUCTION INC (0000861459) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "5a67385c33c7def15874c7f82b189ea8686e4956176f26c16f142a17ba2d79e6": {
+    "first_alert_at": "2026-08-04T13:07:22.512832+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PINNACLE WEST CAPITAL CORP (0000764622) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a2f15868d32ac192d040807a9653c9982c3cafb127a0240b235167f7131565bd": {
+    "first_alert_at": "2026-08-04T13:07:24.325188+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Evolus, Inc. (0001570562) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
