@@ -1450,5 +1450,11 @@
     "symbol": "FILER",
     "title": "8-K - Evolus, Inc. (0001570562) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "50e039dd51fa34ef0bd4031832f524c1a29fc60634e6b0c60d1af5e6a4935957": {
+    "first_alert_at": "2026-08-04T20:22:04.112247+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Oncotelic Therapeutics, Inc. (0000908259) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

@@ -3714,5 +3714,21 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt het bestaan van een materieel akkoord, maar de inhoud is niet gespecificeerd in de samenvatting."
     }
+  },
+  {
+    "time": "2026-08-04T20:22:19.078512+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Oncotelic Therapeutics, Inc. (0000908259) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Oncotelic Therapeutics, Inc. heeft een 8-K ingediend over een materiële definitieve overeenkomst, de creatie van een directe financiële verplichting en de niet-geregistreerde verkoop van aandelen. Dit is op 4 augustus 2026 gepubliceerd.",
+      "why_nl": "De aard van de overeenkomst en de financiële verplichting is onbekend, waardoor de economische relevantie niet kan worden vastgesteld. Zonder details over de transactie is er geen basis voor een beoordeling.",
+      "risk_nl": "Het grootste risico is het ontbreken van specifieke informatie over de inhoud van de overeenkomst en de betrokken partijen. De impact op het bedrijf is daardoor volledig onduidelijk.",
+      "invalidation_nl": "De samenvatting van de 8-K vermeldt geen specifieke fusie- of overnametransactie, noch de voorwaarden of betrokken partijen.",
+      "is_already_priced": false,
+      "notes": "De verstrekte informatie is te algemeen om een M&A-gebeurtenis te bevestigen of te beoordelen."
+    }
   }
 ]
