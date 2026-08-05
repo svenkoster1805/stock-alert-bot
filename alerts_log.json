@@ -6136,5 +6136,103 @@
       "is_already_priced": false,
       "notes": "De 8-K filing vermeldt meerdere items, maar de details van de overeenkomst ontbreken."
     }
+  },
+  {
+    "time": "2026-08-05T13:01:04.422977+00:00",
+    "symbol": "FILER",
+    "company": "Postal Realty Trust, Inc. (0001759774) (Filer)",
+    "event_key": "750c2893f7c32832f7a0bec12d90c0a324c9d37f2ab2a629d09836968d6e48ec",
+    "event_family": "M_AND_A",
+    "title": "8-K - Postal Realty Trust, Inc. (0001759774) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1759774/000121390026085407/0001213900-26-085407-index.htm",
+    "news_age_minutes": 25,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Postal Realty Trust, Inc. heeft op 5 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst is een belangrijke bedrijfsgebeurtenis die de strategische richting en financiële positie van het bedrijf kan beïnvloeden. Dit kan leiden tot toekomstige veranderingen in activa, passiva of inkomstenstromen.",
+      "risk_nl": "De specifieke financiële voorwaarden en de aard van de overeenkomst zijn niet bekend uit de samenvatting. Zonder deze details is de exacte impact op de waardering van het bedrijf onduidelijk.",
+      "invalidation_nl": "De concrete financiële details en volledige voorwaarden van de materiële definitieve overeenkomst zijn niet beschikbaar in de verstrekte samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing met Item 1.01 duidt op een belangrijke en officiële bedrijfsgebeurtenis."
+    }
+  },
+  {
+    "time": "2026-08-05T13:01:07.576648+00:00",
+    "symbol": "FILER",
+    "company": "POWERCOMPUTE, INC. (0001640384) (Filer)",
+    "event_key": "adf96a53aff5ea74820f88d7562063d7f9e8926769da9356ec35d91a5e462fa4",
+    "event_family": "M_AND_A",
+    "title": "8-K - POWERCOMPUTE, INC. (0001640384) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1640384/000119312526333965/0001193125-26-333965-index.htm",
+    "news_age_minutes": 26,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-05T13:01:17.774913+00:00",
+    "symbol": "FILER",
+    "company": "Charlton Aria Acquisition Corp (0002024459) (Filer)",
+    "event_key": "b57aae8920089b77422acdaf89077f804758d5f766f809b7e9c053f58bf3a0b7",
+    "event_family": "M_AND_A",
+    "title": "8-K - Charlton Aria Acquisition Corp (0002024459) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2024459/000121390026085406/0001213900-26-085406-index.htm",
+    "news_age_minutes": 26,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Charlton Aria Acquisition Corp heeft een materiële definitieve overeenkomst gesloten, wat de creatie van een directe financiële verplichting en de verkoop van niet-geregistreerde aandelen omvat.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting en toekomstige waardering van het bedrijf significant beïnvloeden. De bijbehorende financiële verplichtingen en aandelenuitgifte duiden op concrete stappen met potentiële economische gevolgen.",
+      "risk_nl": "Zonder de identiteit van de tegenpartij en de financiële voorwaarden is de economische impact van deze materiële overeenkomst onbekend. De verkoop van aandelen kan leiden tot verwatering.",
+      "invalidation_nl": "De samenvatting bevat geen details over de contractwaarde of de specifieke voorwaarden van de definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële definitieve overeenkomst, maar de inhoudelijke details ontbreken in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-05T13:01:18.813774+00:00",
+    "symbol": "FILER",
+    "company": "Medalist Diversified, Inc. (0001654595) (Filer)",
+    "event_key": "7c6ece647abf6cfd8437467729ceb79e137d7646badc1a81c6ae1782687e3031",
+    "event_family": "M_AND_A",
+    "title": "8-K - Medalist Diversified, Inc. (0001654595) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1654595/000110465926090763/0001104659-26-090763-index.htm",
+    "news_age_minutes": 29,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

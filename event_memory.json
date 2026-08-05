@@ -1510,5 +1510,29 @@
     "symbol": "FILER",
     "title": "8-K - FTC Solar, Inc. (0001828161) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "750c2893f7c32832f7a0bec12d90c0a324c9d37f2ab2a629d09836968d6e48ec": {
+    "first_alert_at": "2026-08-05T13:00:53.157274+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Postal Realty Trust, Inc. (0001759774) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "adf96a53aff5ea74820f88d7562063d7f9e8926769da9356ec35d91a5e462fa4": {
+    "first_alert_at": "2026-08-05T13:01:04.935875+00:00",
+    "symbol": "FILER",
+    "title": "8-K - POWERCOMPUTE, INC. (0001640384) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b57aae8920089b77422acdaf89077f804758d5f766f809b7e9c053f58bf3a0b7": {
+    "first_alert_at": "2026-08-05T13:01:08.064384+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Charlton Aria Acquisition Corp (0002024459) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7c6ece647abf6cfd8437467729ceb79e137d7646badc1a81c6ae1782687e3031": {
+    "first_alert_at": "2026-08-05T13:01:18.292639+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Medalist Diversified, Inc. (0001654595) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

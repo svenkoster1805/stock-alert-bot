@@ -2266,5 +2266,41 @@
     "event_family": "M_AND_A",
     "news_age_minutes": 24,
     "original_time_verified": true
+  },
+  {
+    "time": "2026-08-05T13:00:53.157292+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 25,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-08-05T13:01:04.935885+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 26,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-08-05T13:01:08.064395+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 26,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-08-05T13:01:18.292657+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 29,
+    "original_time_verified": true
   }
 ]
