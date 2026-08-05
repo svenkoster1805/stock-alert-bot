@@ -6061,5 +6061,80 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-05T11:04:20.553384+00:00",
+    "symbol": "FILER",
+    "company": "Eton Pharmaceuticals, Inc. (0001710340) (Filer)",
+    "event_key": "44442ae904491acfe7386999adb392e3ae2fa9b9489ff555a1662ebb30212cb2",
+    "event_family": "M_AND_A",
+    "title": "8-K - Eton Pharmaceuticals, Inc. (0001710340) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1710340/000143774926025781/0001437749-26-025781-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Eton Pharmaceuticals, Inc. heeft een materiële definitieve overeenkomst gesloten en de acquisitie of verkoop van activa voltooid, zoals gemeld in een recente 8-K filing bij SEC.gov.",
+      "why_nl": "Een voltooide acquisitie of verkoop kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva en toekomstige inkomstenstromen.",
+      "risk_nl": "De specifieke financiële voorwaarden, zoals de contractwaarde en de aard van de activa, zijn niet gespecificeerd in de samenvatting. Zonder deze details is de economische impact onduidelijk.",
+      "invalidation_nl": "De contractwaarde of de specifieke financiële impact van de acquisitie/dispositie is niet bekendgemaakt in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een definitieve gebeurtenis, maar cruciale financiële details ontbreken in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-05T11:04:29.268446+00:00",
+    "symbol": "FILER",
+    "company": "Cencora, Inc. (0001140859) (Filer)",
+    "event_key": "b5d383d4d29149ca903ce1dd8a417ef7f9afa3ca958605fdd65c557fef633e13",
+    "event_family": "M_AND_A",
+    "title": "8-K - Cencora, Inc. (0001140859) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1140859/000110465926090691/0001104659-26-090691-index.htm",
+    "news_age_minutes": 18,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Cencora, Inc. heeft op 5 augustus 2026 een 8-K-rapport ingediend bij de SEC. Dit rapport vermeldt het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst en een financiële verplichting kan duiden op een belangrijke strategische zet, zoals een overname of een grote investering. Dit kan de toekomstige financiële prestaties en marktpositie van Cencora beïnvloeden.",
+      "risk_nl": "De specifieke aard van de overeenkomst, de tegenpartij en de financiële details zijn onbekend. Zonder deze informatie is het onmogelijk om de impact op Cencora's waardering of risicoprofiel te beoordelen.",
+      "invalidation_nl": "De essentiële details van de M&A-transactie, zoals de over te nemen entiteit en de financiële voorwaarden, ontbreken volledig in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van het volledige 8-K-document is vereist om de economische relevantie van deze materiële overeenkomst te bepalen."
+    }
+  },
+  {
+    "time": "2026-08-05T11:04:41.486988+00:00",
+    "symbol": "FILER",
+    "company": "FTC Solar, Inc. (0001828161) (Filer)",
+    "event_key": "58bf0a65795a54e65a812fa555193e8b21bc7bc0dfe3cb3ba0fde053978a5549",
+    "event_family": "M_AND_A",
+    "title": "8-K - FTC Solar, Inc. (0001828161) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1828161/000119312526333770/0001193125-26-333770-index.htm",
+    "news_age_minutes": 24,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "FTC Solar, Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC. De filing vermeldt ook resultaten, versnelling van financiële verplichtingen en verkoop van aandelen.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen en versnelling van verplichtingen kunnen de kapitaalstructuur en liquiditeit beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de materiële overeenkomst zijn onbekend, evenals de impact van de versnelde verplichtingen. Zonder details is de economische impact niet te beoordelen.",
+      "invalidation_nl": "De inhoud van de materiële definitieve overeenkomst, inclusief contractwaarde en specifieke M&A-voorwaarden, is niet beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing vermeldt meerdere items, maar de details van de overeenkomst ontbreken."
+    }
   }
 ]

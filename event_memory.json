@@ -1492,5 +1492,23 @@
     "symbol": "FILER",
     "title": "8-K - Cycurion, Inc. (0001868419) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "44442ae904491acfe7386999adb392e3ae2fa9b9489ff555a1662ebb30212cb2": {
+    "first_alert_at": "2026-08-05T11:04:10.392406+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Eton Pharmaceuticals, Inc. (0001710340) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b5d383d4d29149ca903ce1dd8a417ef7f9afa3ca958605fdd65c557fef633e13": {
+    "first_alert_at": "2026-08-05T11:04:20.891283+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cencora, Inc. (0001140859) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "58bf0a65795a54e65a812fa555193e8b21bc7bc0dfe3cb3ba0fde053978a5549": {
+    "first_alert_at": "2026-08-05T11:04:30.323231+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FTC Solar, Inc. (0001828161) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
