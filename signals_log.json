@@ -3962,5 +3962,95 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt een materiële gebeurtenis, maar de details van de M&A zijn niet gespecificeerd in de samenvatting."
     }
+  },
+  {
+    "time": "2026-08-05T21:21:22.492847+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Vireo Growth Inc. (0001771706) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Vireo Growth Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Dit rapport bevat ook disclosures onder Regulation FD en andere gebeurtenissen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan een significante strategische of financiële impact hebben op het bedrijf. Dit kan de toekomstige bedrijfsvoering en waardering beïnvloeden.",
+      "risk_nl": "De details van de overeenkomst, zoals de inhoud, de betrokken partijen en de financiële voorwaarden, zijn niet gespecificeerd in de verstrekte informatie. Zonder deze details is de impact onduidelijk en onzeker.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard, omvang of financiële implicaties van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de inhoudelijke details ontbreken nog om de relevantie voor een M&A te beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-05T21:21:40.366372+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Inflection Point Acquisition Corp. III (0002012318) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Inflection Point Acquisition Corp. III heeft een 8-K-document ingediend over de indiening van zaken ter stemming aan effectenhouders. Dit document is op 5 augustus 2026 gepubliceerd.",
+      "why_nl": "Een stemming van aandeelhouders kan leiden tot belangrijke bedrijfsbeslissingen, zoals een fusie of overname, die de waarde van het bedrijf significant beïnvloeden. De uitkomst van de stemming is cruciaal voor de toekomstige richting van het bedrijf.",
+      "risk_nl": "De specifieke aard van de ter stemming voorgelegde zaken is onbekend, waardoor de economische impact en de relatie met een mogelijke M&A onduidelijk zijn. Er is geen garantie dat de stemming betrekking heeft op een M&A-transactie.",
+      "invalidation_nl": "Er is geen officiële bevestiging dat de stemming betrekking heeft op een fusie of overname, noch zijn er details over de voorwaarden of contractwaarde.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de inhoud van de stemming zijn nodig om de relevantie voor een M&A te beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-05T21:21:48.377171+00:00",
+    "symbol": "FILER",
+    "title": "8-K - My Size, Inc. (0001211805) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "My Size, Inc. heeft een materiële definitieve overeenkomst gesloten, wat kan duiden op een M&A-gerelateerde transactie. Dit omvat ook niet-geregistreerde verkopen van aandelen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische verandering of transactie. Dit kan de toekomstige financiële positie en groeivooruitzichten van het bedrijf beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn onbekend. Zonder details over de tegenpartij of de waarde is de economische relevantie moeilijk in te schatten.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de betrokken partijen of de specifieke voorwaarden van de overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar mist cruciale details voor een beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-05T21:21:49.019231+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CLEARONE INC (0000840715) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-05T21:21:49.707428+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VEEA INC. (0001840317) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-05T21:21:50.362523+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AVAX ONE TECHNOLOGY LTD. (0001826397) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

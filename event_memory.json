@@ -1546,5 +1546,41 @@
     "symbol": "FILER",
     "title": "8-K - Alternus Clean Energy, Inc. (0001883984) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "d07e492ac5adff05671f23381246e8fe750f3c2c1009cbe9432e58db1694edfc": {
+    "first_alert_at": "2026-08-05T21:21:11.447269+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Vireo Growth Inc. (0001771706) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "209ce22ee761dc75e5dbf5e5383d6ceeaf65e144654c6711daf8d767d8ecbb38": {
+    "first_alert_at": "2026-08-05T21:21:23.148896+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Inflection Point Acquisition Corp. III (0002012318) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0a1f8b1179f8ce2b92f5118e736dcc27a3461da2c252348d6a7551abfd7917bc": {
+    "first_alert_at": "2026-08-05T21:21:41.023342+00:00",
+    "symbol": "FILER",
+    "title": "8-K - My Size, Inc. (0001211805) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f3175809d0097adf8c02ce31768ee238f828628d2ba3849a0d3d9a6901ee0a3e": {
+    "first_alert_at": "2026-08-05T21:21:49.019204+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CLEARONE INC (0000840715) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "76f4245655b7128e62939bfe2ce9bc871affc3d6834dd5a3c84d711f57b0a340": {
+    "first_alert_at": "2026-08-05T21:21:49.707404+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VEEA INC. (0001840317) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "40e9140f5132721799415311f6a9142edc3453d2716fde704a9fa5ef98bb72eb": {
+    "first_alert_at": "2026-08-05T21:21:50.362497+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AVAX ONE TECHNOLOGY LTD. (0001826397) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
