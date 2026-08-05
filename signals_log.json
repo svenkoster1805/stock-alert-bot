@@ -3946,5 +3946,21 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een M&A-gebeurtenis, maar de essentiële economische details ontbreken volledig in de verstrekte gegevens."
     }
+  },
+  {
+    "time": "2026-08-05T18:22:36.564895+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Alternus Clean Energy, Inc. (0001883984) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Alternus Clean Energy, Inc. heeft een 8-K-rapport ingediend over een materiële definitieve overeenkomst, de niet-geregistreerde verkoop van aandelen en wijzigingen in de statuten. Dit is gepubliceerd op 5 augustus 2026.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting en financiële positie van het bedrijf aanzienlijk beïnvloeden. De verkoop van aandelen kan duiden op financiering voor deze overeenkomst of andere bedrijfsactiviteiten.",
+      "risk_nl": "De specifieke aard, omvang en financiële impact van de materiële overeenkomst zijn onbekend. Zonder deze details is het onmogelijk de economische relevantie te beoordelen.",
+      "invalidation_nl": "Er is geen informatie over de tegenpartij, de contractwaarde of de exacte voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële gebeurtenis, maar de details van de M&A zijn niet gespecificeerd in de samenvatting."
+    }
   }
 ]

@@ -1540,5 +1540,11 @@
     "symbol": "FILER",
     "title": "8-K - Palomino Laboratories Inc. (0001938569) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "b439109d374f6aa32dfe1e8e781650058d2aa31faa380a82d164179620c6fa9a": {
+    "first_alert_at": "2026-08-05T18:22:23.996446+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Alternus Clean Energy, Inc. (0001883984) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
