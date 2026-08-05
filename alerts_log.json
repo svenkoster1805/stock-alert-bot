@@ -6234,5 +6234,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-05T15:22:18.981530+00:00",
+    "symbol": "FILER",
+    "company": "Palomino Laboratories Inc. (0001938569) (Filer)",
+    "event_key": "c687fc450b45f5d52b9e38408c7888265330ee2143d3fa0ac7c0504b578d1422",
+    "event_family": "M_AND_A",
+    "title": "8-K - Palomino Laboratories Inc. (0001938569) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1938569/000149315226036127/0001493152-26-036127-index.htm",
+    "news_age_minutes": 5,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Palomino Laboratories Inc. heeft op 5 augustus 2026 een 8-K-rapport ingediend bij de SEC. Dit rapport vermeldt het aangaan van een materiële definitieve overeenkomst en de voltooiing van een acquisitie of verkoop van activa.",
+      "why_nl": "Een acquisitie of verkoop van activa kan de financiële positie en strategische richting van Palomino Laboratories Inc. significant beïnvloeden. Dit kan leiden tot veranderingen in omzet, winstgevendheid of marktpositie.",
+      "risk_nl": "De specifieke details van de acquisitie of verkoop, zoals de tegenpartij, waarde en voorwaarden, zijn niet bekend. Zonder deze informatie is de impact op het bedrijf en de aandeelhouders onmogelijk te beoordelen.",
+      "invalidation_nl": "Er zijn geen economische details (zoals contractwaarde, overgenomen entiteit of specifieke voorwaarden) beschikbaar om de impact van de M&A te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een M&A-gebeurtenis, maar de essentiële economische details ontbreken volledig in de verstrekte gegevens."
+    }
   }
 ]

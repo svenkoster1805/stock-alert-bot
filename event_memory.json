@@ -1534,5 +1534,11 @@
     "symbol": "FILER",
     "title": "8-K - Medalist Diversified, Inc. (0001654595) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "c687fc450b45f5d52b9e38408c7888265330ee2143d3fa0ac7c0504b578d1422": {
+    "first_alert_at": "2026-08-05T15:22:09.821931+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Palomino Laboratories Inc. (0001938569) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
