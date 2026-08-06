@@ -4084,5 +4084,21 @@
       "is_already_priced": false,
       "notes": "De 8-K filing vermeldt een materiële overeenkomst, maar specificeert geen M&A details."
     }
+  },
+  {
+    "time": "2026-08-06T13:02:00.207580+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bleichroeder Acquisition Corp. II (0002088295) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Bleichroeder Acquisition Corp. II heeft op 6 augustus 2026 een 8-K formulier ingediend bij de SEC. Dit formulier omvat Item 8.01 (Overige Gebeurtenissen) en Item 9.01 (Financiële Overzichten en Bijlagen).",
+      "why_nl": "Zonder specifieke details over de inhoud van de 8-K is de economische relevantie onduidelijk. Een generieke 8-K filing biedt geen basis voor een investeringsbeslissing.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete informatie over de aard van de 'Overige Gebeurtenissen'. Er is geen bevestiging dat dit daadwerkelijk een M&A-gerelateerde gebeurtenis betreft.",
+      "invalidation_nl": "De brontekst van de 8-K filing vermeldt geen details over een fusie of overname, waardoor de 'M_AND_A' event-tag niet wordt ondersteund door de inhoud.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is recent, maar de inhoud is te algemeen voor een beoordeling."
+    }
   }
 ]

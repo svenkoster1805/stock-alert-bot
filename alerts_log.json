@@ -6478,5 +6478,30 @@
       "is_already_priced": false,
       "notes": "De 8-K filing vermeldt een materiële overeenkomst, maar specificeert geen M&A details."
     }
+  },
+  {
+    "time": "2026-08-06T13:02:00.631019+00:00",
+    "symbol": "FILER",
+    "company": "Bleichroeder Acquisition Corp. II (0002088295) (Filer)",
+    "event_key": "1ba3aa7c4e8f7a5a3e2a9ecf45b57ec56cb3ce842909d113b49db6bf7139244f",
+    "event_family": "M_AND_A",
+    "title": "8-K - Bleichroeder Acquisition Corp. II (0002088295) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2088295/000121390026085936/0001213900-26-085936-index.htm",
+    "news_age_minutes": 17,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Bleichroeder Acquisition Corp. II heeft op 6 augustus 2026 een 8-K formulier ingediend bij de SEC. Dit formulier omvat Item 8.01 (Overige Gebeurtenissen) en Item 9.01 (Financiële Overzichten en Bijlagen).",
+      "why_nl": "Zonder specifieke details over de inhoud van de 8-K is de economische relevantie onduidelijk. Een generieke 8-K filing biedt geen basis voor een investeringsbeslissing.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete informatie over de aard van de 'Overige Gebeurtenissen'. Er is geen bevestiging dat dit daadwerkelijk een M&A-gerelateerde gebeurtenis betreft.",
+      "invalidation_nl": "De brontekst van de 8-K filing vermeldt geen details over een fusie of overname, waardoor de 'M_AND_A' event-tag niet wordt ondersteund door de inhoud.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is recent, maar de inhoud is te algemeen voor een beoordeling."
+    }
   }
 ]

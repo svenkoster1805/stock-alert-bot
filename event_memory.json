@@ -1594,5 +1594,11 @@
     "symbol": "FILER",
     "title": "8-K - LITHIUM AMERICAS CORP. (0001966983) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "1ba3aa7c4e8f7a5a3e2a9ecf45b57ec56cb3ce842909d113b49db6bf7139244f": {
+    "first_alert_at": "2026-08-06T13:01:50.655284+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bleichroeder Acquisition Corp. II (0002088295) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
