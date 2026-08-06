@@ -6428,5 +6428,55 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-06T11:05:55.528874+00:00",
+    "symbol": "FILER",
+    "company": "Korro Bio, Inc. (0001703647) (Filer)",
+    "event_key": "90e44755c05fe9b8e04ed6873165187950c7abd6e78115ae842ebbcbf116fed6",
+    "event_family": "M_AND_A",
+    "title": "8-K - Korro Bio, Inc. (0001703647) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1703647/000119312526336685/0001193125-26-336685-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Korro Bio, Inc. heeft een 8-K-formulier ingediend bij de SEC op 6 augustus 2026. Dit formulier meldt onder andere de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische transactie, zoals een fusie, overname of een grote samenwerking. Dit kan de toekomstige financiële positie en groeivooruitzichten van Korro Bio aanzienlijk beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn niet gespecificeerd in de samenvatting. Zonder deze details is de economische impact en de relevantie voor een M&A-event onduidelijk.",
+      "invalidation_nl": "De aard van de 'materiële definitieve overeenkomst' is onbekend; het is niet bevestigd dat het een overname of fusie betreft met concrete voorwaarden.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van de volledige 8-K filing is noodzakelijk om de details van de overeenkomst te achterhalen."
+    }
+  },
+  {
+    "time": "2026-08-06T11:06:07.104890+00:00",
+    "symbol": "FILER",
+    "company": "LITHIUM AMERICAS CORP. (0001966983) (Filer)",
+    "event_key": "dd12c7da4b036274b898620f26009fc98283642b2dbe113efe8e288d6e8cd5ba",
+    "event_family": "M_AND_A",
+    "title": "8-K - LITHIUM AMERICAS CORP. (0001966983) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1966983/000119312526336637/0001193125-26-336637-index.htm",
+    "news_age_minutes": 14,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "LITHIUM AMERICAS CORP. heeft een 8-K ingediend die een materiële definitieve overeenkomst, de creatie van een directe financiële verplichting en de niet-geregistreerde verkoop van aandelen rapporteert.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de bedrijfsstructuur of strategische richting significant beïnvloeden, wat potentieel de toekomstige waardering van het bedrijf kan veranderen.",
+      "risk_nl": "De specifieke aard en de financiële voorwaarden van de overeenkomst zijn onbekend, wat de impact op het bedrijf onduidelijk maakt.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud van de materiële definitieve overeenkomst of de betrokken partijen.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing vermeldt een materiële overeenkomst, maar specificeert geen M&A details."
+    }
   }
 ]

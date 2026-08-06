@@ -1582,5 +1582,17 @@
     "symbol": "FILER",
     "title": "8-K - AVAX ONE TECHNOLOGY LTD. (0001826397) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "90e44755c05fe9b8e04ed6873165187950c7abd6e78115ae842ebbcbf116fed6": {
+    "first_alert_at": "2026-08-06T11:05:45.958476+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Korro Bio, Inc. (0001703647) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "dd12c7da4b036274b898620f26009fc98283642b2dbe113efe8e288d6e8cd5ba": {
+    "first_alert_at": "2026-08-06T11:05:56.069002+00:00",
+    "symbol": "FILER",
+    "title": "8-K - LITHIUM AMERICAS CORP. (0001966983) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
