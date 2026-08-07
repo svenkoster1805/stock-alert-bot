@@ -1636,5 +1636,23 @@
     "symbol": "FILER",
     "title": "8-K - ROYAL CARIBBEAN CRUISES LTD (0000884887) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "e94fe5020b5456313630d99f648606c151d03ef010bbfb26e66c50bff825498c": {
+    "first_alert_at": "2026-08-07T13:35:05.520009+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Old QVC Group, Inc. (0001355096) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "fb2b960a4e30eaa8fdadd802ef65d3232a6b3fcb90194438f7fd2ea610d7452c": {
+    "first_alert_at": "2026-08-07T13:35:16.614668+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PLAINS GP HOLDINGS LP (0001581990) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "971950e2b11dc92ce09cb1b888f6374ff725ab658c513f0bc0ec096b6bcea7d7": {
+    "first_alert_at": "2026-08-07T13:35:29.222071+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PLAINS ALL AMERICAN PIPELINE LP (0001070423) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

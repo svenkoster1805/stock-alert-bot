@@ -4192,5 +4192,53 @@
       "is_already_priced": false,
       "notes": "De 8-K filing is een officiële bron, maar de samenvatting mist cruciale details voor een M&A-beoordeling."
     }
+  },
+  {
+    "time": "2026-08-07T13:35:15.844991+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Old QVC Group, Inc. (0001355096) (Filer)",
+    "score": 14,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Old QVC Group, Inc. heeft een 8-K ingediend met meldingen over het aangaan van een materiële definitieve overeenkomst en een wijziging in zeggenschap.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst en een wijziging in zeggenschap kan de waardering en strategische richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De exacte financiële voorwaarden, de tegenpartij en de volledige implicaties van de overeenkomst zijn niet gespecificeerd in de beschikbare informatie.",
+      "invalidation_nl": "De concrete financiële details en de volledige voorwaarden van de materiële definitieve overeenkomst ontbreken in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K bevestigt een definitieve overeenkomst en controlewijziging, maar de specifieke details zijn niet in de samenvatting opgenomen."
+    }
+  },
+  {
+    "time": "2026-08-07T13:35:28.564829+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PLAINS GP HOLDINGS LP (0001581990) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "PLAINS GP HOLDINGS LP heeft een 8-K melding ingediend over de voltooiing van een acquisitie of desinvestering van activa. Dit document is op 7 augustus 2026 gepubliceerd.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de balans, inkomsten en strategische richting van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in de waardering van het aandeel.",
+      "risk_nl": "De specifieke activa die zijn verworven of afgestoten, de transactiewaarde en de financiële impact zijn niet bekend. Zonder deze details is de economische relevantie onduidelijk.",
+      "invalidation_nl": "De contractwaarde en de exacte voorwaarden van de transactie zijn niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt de voltooiing van de transactie, maar de details ontbreken in het verstrekte fragment."
+    }
+  },
+  {
+    "time": "2026-08-07T13:35:45.763740+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PLAINS ALL AMERICAN PIPELINE LP (0001070423) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "PLAINS ALL AMERICAN PIPELINE LP heeft een 8-K formulier ingediend bij SEC.gov. Dit formulier meldt de voltooiing van een acquisitie of desinvestering van activa.",
+      "why_nl": "De voltooiing van een dergelijke transactie kan de financiële structuur, operationele capaciteit en toekomstige winstgevendheid van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard van de transactie, de betrokken activa en de financiële voorwaarden zijn niet gespecificeerd in de verstrekte samenvatting.",
+      "invalidation_nl": "Zonder concrete details over de contractwaarde, de aard van de activa en de impact op de balans, is de economische relevantie van deze voltooide transactie niet te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt de voltooiing, maar de essentiële economische details ontbreken in de input."
+    }
   }
 ]
