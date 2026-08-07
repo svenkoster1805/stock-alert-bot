@@ -1,104 +1,5 @@
 [
   {
-    "time": "2026-06-23T10:48:57.404192+00:00",
-    "reason": "te oud voor fastlane (732 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - John Hancock Comvest Private Income Fund (0001987221) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 732,
-    "url": "https://www.sec.gov/Archives/edgar/data/1987221/000119312526277816/0001193125-26-277816-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.404254+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - NEWS CORP (0001564708) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 737,
-    "url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000137/0001564708-26-000137-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.404274+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - CVR ENERGY INC (0001376139) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 764,
-    "url": "https://www.sec.gov/Archives/edgar/data/1376139/000137613926000034/0001376139-26-000034-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.404291+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - CVR PARTNERS, LP (0001425292) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 764,
-    "url": "https://www.sec.gov/Archives/edgar/data/1425292/000142529226000025/0001425292-26-000025-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.404306+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Expedia Group, Inc. (0001324424) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 767,
-    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442426000042/0001324424-26-000042-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.404322+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Citibank, N.A., as depositor of Citibank Credit Card Issuance Trust (0001522616) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 771,
-    "url": "https://www.sec.gov/Archives/edgar/data/1522616/000119312526277778/0001193125-26-277778-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.404337+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - CITIBANK CREDIT CARD ISSUANCE TRUST (0001108348) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 771,
-    "url": "https://www.sec.gov/Archives/edgar/data/1108348/000119312526277778/0001193125-26-277778-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.404351+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - CITIBANK CREDIT CARD MASTER TRUST I (0000921864) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 771,
-    "url": "https://www.sec.gov/Archives/edgar/data/921864/000119312526277778/0001193125-26-277778-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.404366+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Skye Bioscience, Inc. (0001516551) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 774,
-    "url": "https://www.sec.gov/Archives/edgar/data/1516551/000162828026044747/0001628280-26-044747-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.404379+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Hawkeye Systems, Inc. (0001750777) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 777,
-    "url": "https://www.sec.gov/Archives/edgar/data/1750777/000168316826005046/0001683168-26-005046-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.404394+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Compass Therapeutics, Inc. (0001738021) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 783,
-    "url": "https://www.sec.gov/Archives/edgar/data/1738021/000117184326004224/0001171843-26-004224-index.htm"
-  },
-  {
     "time": "2026-06-23T10:48:57.518405+00:00",
     "reason": "te oud voor fastlane (797 min, limiet 30)",
     "symbol": "FILER",
@@ -107998,5 +107899,104 @@
     "publisher": "Business Upturn",
     "age_minutes": 45,
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUjh4WkI3d2ZteXJHZWRuN2xTOEJuYnllM3FRYllHaTZacHZaQ3h4YVBKRzVHZDc1QWNiVEM2VHJzeHBTS0VTd0UxOXRUSl9laHZUODRCSUtmaXJjVkJCcVBiVDBIR0FlN3gxX2hBY3FrQTVwZXB6ZTdOXzBWTFJoVl9idV9mRzlrRjhBQm96ZlhlUUZwcDRvdXdrVmwxX0daNFZsd2RGT085ckpsQzgweWltbmk5eUE1eC1iX3RwRVFoOTd2ZnZrRnA4dw?oc=5"
+  },
+  {
+    "time": "2026-08-07T08:32:07.428221+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Jamieson Wellness Enters into Definitive Agreement to be Acquired by Kirin in C$2.5 Billion Transaction - investingnews.com",
+    "publisher": "investingnews.com",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTDFTcVlDcHFKUEp3ZFRocmdLWmc1Ui1UeU9LbkVCTjB4UVk1dmx3cW16b00tblctM0RvZ1dYVTNhdVNWaHZhNWRxREItMEEyUHRab0FPU3Y1X29PdmdDOW93NjdyYU9kX25ZSEdkTnlfNmpvR2puTDlOZ3lIT1RoVk5wUnpiN2lJMUxCMUUzX3cxbHMwR0NQVXd6UlB4dUw0YTV4cWtVcEV2TndTUkxUOHlyRlV2VnFjZmNULXhnTVBXVW04ak5DQ2Fn?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-07T08:32:08.545378+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Jamieson Wellness enters into definitive agreement to be acquired by Kirin in C$2.5 billion transaction - retail-insider.com",
+    "publisher": "retail-insider.com",
+    "age_minutes": 32,
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNkViWlozb3lpdzhrbGtsVG5LcG9tV2VPSkRQcExfUi1KLXBhRnZGM2xDMWJYc1lnN2NkWEQ1SldSWUNUTldlX2VmYVFIZmxtNVhON1FLeFI5TDFHQ0hVb3UxSVNCWXlOUDFhcDd5b3RiYzdweUdfWHdxdVhnVHYwTHlKLUg5WUlHdXJXT2ZOWkhwQWJ0cXRBd3F3cm1oTk1hMDc5TTczcFBGd204QWVqNnd1OG5aYW1PeGRhWVd2Sl9mak14Z3dQNjM1UVdhX2wtWDVUbWRZUjJIalcyMEtPMy1hNkR4aGN2?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-07T08:32:09.444260+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Truist cuts DoubleVerify stock rating on Nielsen acquisition By Investing.com - Investing.com Canada",
+    "publisher": "Investing.com Canada",
+    "age_minutes": 55,
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHZHV1FJYlliZUJ4dE5jakMwYllZRkgtQVRKYkpEckRhRElOcG40cGdWUzVrVDBteDFybk1Xa0dLMGdrY2habTNoSnNMQnBENDdhRHRWRmI4TzloV0J2VUdBVjJDa1ExemNnWUdjRU9uVlpTY2tELXEwUEpmeHh1eEdyY3dVWlQ5bEdIYWYwR0xGSHkwa2VvY0p6MFl0VlAxYklRc1JsZldIeWJuTzZyLVFhWW1mSHJQb3g5VEN3?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-07T08:32:09.444307+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Public EV charging stations at City Hall: Council OKs MOU - Cebu Daily News",
+    "publisher": "Cebu Daily News",
+    "age_minutes": 54,
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODhWb0ZJTzFNMC1Zei1hRGFlMFJ6Z1lEMjBRV1UwSVdBMG9aT0VwY1NfVkZJLURIaUM2ZllOc3BDY0t5UDczMU9TVi1ZUENUTF9pSVZ5U2hPX1NVdjNSSXJmS1Y5VWwxckY2b0hqUlZZOVVxV1RZMFdkYUVYaFQ4Vm1kVTFzWHpDbjFOa2xhWW5YMW1rYlhObUoxNTNCT0nSAZ8BQVVfeXFMUDg4Vm9GSU8xTTAtWXotYURhZTBSemdZRDIwUVdVMElXQTBvWk9FcGNTX1ZGSS1ESGlDNmZZTnNwQ2NLeVA3MzFPU1YtWVBDVExfaUlWeVNoT19TVXYzUklyZktWOVVsMXJGNm9IalJWWTlVcVdUWTBXZGFFWGhUOFZtZFUxc1h6Q24xTmtsYVluWDFta2JYTm1KMTUzQk9J?oc=5"
+  },
+  {
+    "time": "2026-08-07T08:32:09.444330+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "India's government set to exceed key fundraising goal on state-firm stake sales, sources say - Reuters",
+    "publisher": "Reuters",
+    "age_minutes": 55,
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNGpIdTVlM3k4VWVxb1VNUFhFNHphUVFTUG42WndtMm55OFpQUFZMeE80UGxuVjhzWjFHZ3dMUG1OS1cxOW92eTlkdGEwakpKcXNmbXVLWkdkTTRPWGNld1FKVWVBVzFuQlFXR0V2dGJHc0NJWm01dkJZd19qR2dsbzVxTzgxWHFpSWIxZXROSkV6b0RQZlhESGFDZkV6RUJkTDItVXFhNEpveW9QeHc5NGtpb3RmdjF0dmk0SEhPeWRXUk9BV2ZJ?oc=5"
+  },
+  {
+    "time": "2026-08-07T08:32:10.390181+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Czech National Bank Acquires 48,668 Shares of Netflix, Inc. $NFLX - MarketBeat",
+    "publisher": "MarketBeat",
+    "age_minutes": 17,
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRXlBR0V3OWJjZ3JpWjY1M0NYRXVzdHdqY1hpRGlCS2o0bDFybFp2NjAydWlIOThYSjFJUjVqRjhwS0VZWHRqSEVSSm00b0Y1NllaYnZrVXdzbXk2SWo0TExNU0dqVHVDUXhYdFU2ak94ckplZk01Nkp0Ym5XS3Utc1htaHgyOHMyVGd6OTNWUVVsZnZYc29jcThUNUpmX1ZPbnJXdzdLRmZjampleGRVUjZ1QTNYRURfa282NDBCYw?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-07T08:32:10.390239+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "XYZ",
+    "title": "Block Inc (XYZ) Director Anthony Eisen Sells 53,000 Shares - GuruFocus",
+    "publisher": "GuruFocus",
+    "age_minutes": 41,
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRWZrVVNSNlExY2JKMWVkVnpqNU55cFpMTzBqdkh4SHJIWkVpdmlpR1IxYXViQWRwSFprbVRPX1Vwa2tUWlJGNlllcUN6TlNnd2twbVFodmdrVm45UktCV2NDVjF1UDlvRWRPTFJvdjdPN1VhYU1sUHRvSF9tSm9wTFNhM1Nla21hclY4b1REang0eVV4b3lwTDdn?oc=5"
+  },
+  {
+    "time": "2026-08-07T08:32:10.390259+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Why is Airbnb stock surging today? By Investing.com - Investing.com Canada",
+    "publisher": "Investing.com Canada",
+    "age_minutes": 14,
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONURSYUE1MUxaaWo0S0RpZnZrZm1nTjh3bG83ckJueXIxSVlOeUs1OGIzc184OE1MTHlnUlY2bTYzUkhjRmVhRkxqeGRjM09hR0U1X1NaU1FhQkh5anlZdHQ5Nkphd0kzcGttRUpQcjBycGtCd2FiZWVZYnRlVjhLT1FHRlJnUGlIN28yNXdZYnVjU3dZcmVoZGFR?oc=5"
+  },
+  {
+    "time": "2026-08-07T08:32:10.390275+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "ZM",
+    "title": "Zoom Communications Inc (ZM) Director Santiago Subotovsky Sells 7,911 Shares - GuruFocus",
+    "publisher": "GuruFocus",
+    "age_minutes": 41,
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMnAxaTdPRXp6eXRGdkY5Yi1nX2JkRmZFNXdTTzEwT0daMmJYaW50djc4SW5nWWNTUzR3eWFjbG5SRFR3SjdJdnlzZ19yeHdiUV83LWxORENqeHVfTWFkZnBKeVhTT2pqc0RzMzZlUXpTcDBWOVZCV1FQQWxSc2x4SlJRSllMdWQxTEZSZm4wLWRtcWFySTZRb3pIZzBxcjdKeU5nOE9la01lNFpjMFdhN0JR?oc=5"
+  },
+  {
+    "time": "2026-08-07T08:32:10.390289+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "SK Hynix leads record US$83 bil of share sales by Asian firms - theedgemalaysia.com",
+    "publisher": "theedgemalaysia.com",
+    "age_minutes": 58,
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBld0RpRDZYZl9zb3pXVXBmb0U0R09wZWFrSXk3d19PdGlIM05yOXQ2Q2o0aFdXWVltMWdaazhWczB1bTF4dlVZRzBoSllxdWpB?oc=5"
+  },
+  {
+    "time": "2026-08-07T08:32:10.390302+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FSLY",
+    "title": "Fastly Inc (FSLY) CEO Compton Charles Lacey III Sells 14,868 Sha - GuruFocus",
+    "publisher": "GuruFocus",
+    "age_minutes": 41,
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEo5bllUWW1yMm9iclhLUl9oM0k1MlRKTXNOdVJJS3JYaUd5MDZuQkRESjJrVTA2ZVhLWXNRVGZhbTFSN2JDRkVMM0o2YlpJQW9ZTEVXZFFnbElFVzNEN1AxblAtU3RucVp6Uko1VXZyTVJ0THdnVm94bU1NeWNkRXplLTVCM0R1bEdrX0ZjaVY2V3NsOUtPUnF5UThIbm1nanM3eXhR?oc=5"
   }
 ]
