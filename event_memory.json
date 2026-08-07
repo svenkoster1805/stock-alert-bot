@@ -1660,5 +1660,71 @@
     "symbol": "FILER",
     "title": "8-K - AMERICAN REBEL HOLDINGS INC (0001648087) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "c40a9f0a2a64698d48332106e229bccfeaad7cdbd0a9af11cd71a310e3b0b822": {
+    "first_alert_at": "2026-08-07T20:50:58.478384+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Synchrony Card Issuance Trust (0001724789) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e47b1151c62f6042ed3f28127c85c4a7aa35947609a9b9c8d9d98f98f653afba": {
+    "first_alert_at": "2026-08-07T20:51:05.391946+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Synchrony Card Funding, LLC (0001724786) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "05d94004ecf8397525b8548c9596e82be16fd7159887a4fca016200fd4ce0f10": {
+    "first_alert_at": "2026-08-07T20:51:19.539809+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Alto Ingredients, Inc. (0000778164) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7aeed7bf2f4ebdfdaa93230fa2aaba5993b56b87e104eacef612d2ffe51b22e6": {
+    "first_alert_at": "2026-08-07T20:51:29.165923+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Trump Media & Technology Group Corp. (0001849635) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "76654fdfc27d5c7c247d8b256a3052049cbd0e3779fe2c5584c24642bce8f92c": {
+    "first_alert_at": "2026-08-07T20:51:30.025619+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Apollo Debt Solutions BDC (0001837532) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2eb5f587836d066f25b6bd182e791664597e4d1f6803356f4c649cfa99d970f8": {
+    "first_alert_at": "2026-08-07T20:51:30.869883+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Constellation Acquisition Corp I (0001834032) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5af308c5f47409e4673643b0b268177dbe23c4b1e546c46624c27d28957f4aa4": {
+    "first_alert_at": "2026-08-07T20:51:31.773776+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Microbot Medical Inc. (0000883975) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "839f217ea50b2b97c0bc64b55f7d7c21be0c0260a2e16bff825414cae2805ac8": {
+    "first_alert_at": "2026-08-07T20:51:32.602025+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Aeries Technology, Inc. (0001853044) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f405b29815314d31f100bb40ff1338ff729a9f7c3b463deceb7e748d921388ed": {
+    "first_alert_at": "2026-08-07T20:51:33.477442+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sabre Corp (0001597033) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "37167ba2863b7609d43caa729f3fc3b3e04c192d57066f59fcc93cd8d39939af": {
+    "first_alert_at": "2026-08-07T20:51:34.371144+00:00",
+    "symbol": "FILER",
+    "title": "8-K - RYAN SPECIALTY HOLDINGS, INC. (0001849253) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "86c3f063a48541543d66ebff13a2ab48f23e2c74b99d695f58042c655e972acd": {
+    "first_alert_at": "2026-08-07T20:51:35.232360+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Red Violet, Inc. (0001720116) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

@@ -4256,5 +4256,165 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een overeenkomst, maar de details van de M&A zijn niet gespecificeerd in de samenvatting."
     }
+  },
+  {
+    "time": "2026-08-07T20:51:04.543511+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Synchrony Card Issuance Trust (0001724789) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Synchrony Card Issuance Trust heeft een 8-K formulier ingediend bij de SEC, waarin melding wordt gemaakt van een materiële definitieve overeenkomst en andere gebeurtenissen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan aanzienlijke financiële of operationele gevolgen hebben voor het bedrijf, afhankelijk van de aard ervan.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op het bedrijf en de aandeelhouders onduidelijk is.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, partijen of financiële impact van de materiële overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is zeer recent, maar de aard van de 'Material Definitive Agreement' is nog niet gespecificeerd."
+    }
+  },
+  {
+    "time": "2026-08-07T20:51:18.717815+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Synchrony Card Funding, LLC (0001724786) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Synchrony Card Funding, LLC heeft een 8-K filing ingediend over het aangaan van een materiële definitieve overeenkomst.",
+      "why_nl": "De aard van deze overeenkomst is onbekend en er zijn geen details die bevestigen dat dit een fusie of overname betreft.",
+      "risk_nl": "Zonder specifieke details over de overeenkomst is het onmogelijk om de potentiële impact of risico's te beoordelen.",
+      "invalidation_nl": "De melding van een 'materiële definitieve overeenkomst' in een 8-K filing is te algemeen en bevestigt geen fusie of overname.",
+      "is_already_priced": false,
+      "notes": "De event-tag 'M_AND_A' wordt niet ondersteund door de inhoud van de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-07T20:51:28.296854+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Alto Ingredients, Inc. (0000778164) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Alto Ingredients, Inc. heeft op 7 augustus 2026 een 8-K-rapport ingediend bij SEC.gov. Dit rapport vermeldt de totstandkoming van een materiële definitieve overeenkomst (Item 1.01).",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie voor het bedrijf. Dit kan de toekomstige financiële prestaties en marktpositie van Alto Ingredients beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief eventuele financiële impact, zijn nog onbekend. Zonder details over de tegenpartij of de inhoud van de overeenkomst is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "De details van de materiële definitieve overeenkomst, zoals de aard van de transactie en de financiële voorwaarden, zijn niet gespecificeerd.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de inhoud van de materiële definitieve overeenkomst zijn nodig voor een volledige beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-07T20:51:29.165948+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Trump Media & Technology Group Corp. (0001849635) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-07T20:51:30.025645+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Apollo Debt Solutions BDC (0001837532) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-07T20:51:30.869910+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Constellation Acquisition Corp I (0001834032) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-07T20:51:31.773802+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Microbot Medical Inc. (0000883975) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-07T20:51:32.602052+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Aeries Technology, Inc. (0001853044) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-07T20:51:33.477467+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sabre Corp (0001597033) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-07T20:51:34.371168+00:00",
+    "symbol": "FILER",
+    "title": "8-K - RYAN SPECIALTY HOLDINGS, INC. (0001849253) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-07T20:51:35.232385+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Red Violet, Inc. (0001720116) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
