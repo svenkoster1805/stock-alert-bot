@@ -1600,5 +1600,35 @@
     "symbol": "FILER",
     "title": "8-K - Bleichroeder Acquisition Corp. II (0002088295) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "d0fe379b1f2a8d643ab34ec856264c0f13f538ae673d539246b427f21dc266ed": {
+    "first_alert_at": "2026-08-07T10:29:58.533567+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Yum China Holdings, Inc. (0001673358) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ada016e91c4641d9a92afc711203e5dd907b73c75391c73303b6897019adde81": {
+    "first_alert_at": "2026-08-07T10:30:15.777542+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Trulieve Cannabis Corp. (0001754195) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2854e839d59b6db332d55a302d2b4cb93e0cc9d13315c78c1e0a27f88a604649": {
+    "first_alert_at": "2026-08-07T10:30:24.803741+00:00",
+    "symbol": "FILER",
+    "title": "8-K - YUM BRANDS INC (0001041061) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f3d859e8bcb32c3ea56c35701f46573f9b1a01e51027faff63c152fba457c06f": {
+    "first_alert_at": "2026-08-07T10:30:32.359976+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BEAZER HOMES USA INC (0000915840) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "59f66254db7002262b84613ca34124f8f8386d4c95428a99a763a0a3d6037bdf": {
+    "first_alert_at": "2026-08-07T10:30:33.042518+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Dream Finders Homes, Inc. (0001825088) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

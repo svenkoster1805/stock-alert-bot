@@ -6503,5 +6503,126 @@
       "is_already_priced": false,
       "notes": "De 8-K filing is recent, maar de inhoud is te algemeen voor een beoordeling."
     }
+  },
+  {
+    "time": "2026-08-07T10:30:15.374559+00:00",
+    "symbol": "FILER",
+    "company": "Yum China Holdings, Inc. (0001673358) (Filer)",
+    "event_key": "d0fe379b1f2a8d643ab34ec856264c0f13f538ae673d539246b427f21dc266ed",
+    "event_family": "M_AND_A",
+    "title": "8-K - Yum China Holdings, Inc. (0001673358) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1673358/000119312526339048/0001193125-26-339048-index.htm",
+    "news_age_minutes": 10,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Yum China Holdings, Inc. heeft een materiële definitieve overeenkomst gesloten en een overname of verkoop van activa voltooid.",
+      "why_nl": "Het sluiten van een materiële overeenkomst en de voltooiing van een overname/verkoop kunnen de financiële positie en strategische richting van het bedrijf significant beïnvloeden, wat de waardering van het aandeel kan beïnvloeden.",
+      "risk_nl": "De specifieke financiële details van de overeenkomst en de aard van de overgenomen/verkochte activa zijn niet bekend uit deze samenvatting, waardoor een gedetailleerde impactanalyse onmogelijk is.",
+      "invalidation_nl": "De transactiewaarde en de exacte aard van de activa zijn niet gespecificeerd in de beschikbare samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K bevestigt een materiële overeenkomst en voltooide transactie, maar de financiële details ontbreken in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-07T10:30:24.432490+00:00",
+    "symbol": "FILER",
+    "company": "Trulieve Cannabis Corp. (0001754195) (Filer)",
+    "event_key": "ada016e91c4641d9a92afc711203e5dd907b73c75391c73303b6897019adde81",
+    "event_family": "M_AND_A",
+    "title": "8-K - Trulieve Cannabis Corp. (0001754195) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1754195/000175419526000067/0001754195-26-000067-index.htm",
+    "news_age_minutes": 12,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Trulieve Cannabis Corp. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de voltooiing van een acquisitie of desinvestering van activa.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de financiële positie en strategische richting van Trulieve Cannabis Corp. significant beïnvloeden. Dit kan leiden tot veranderingen in omzet, winstgevendheid en marktpositie.",
+      "risk_nl": "De specifieke details van de acquisitie of desinvestering, zoals de aard van de activa en de financiële voorwaarden, zijn niet bekend. Zonder deze informatie is de impact op de onderneming onduidelijk.",
+      "invalidation_nl": "De economische details van de transactie (wat, hoeveel, met wie) ontbreken volledig in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt de voltooiing, maar de inhoudelijke details van de transactie zijn niet beschikbaar in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-07T10:30:32.018459+00:00",
+    "symbol": "FILER",
+    "company": "YUM BRANDS INC (0001041061) (Filer)",
+    "event_key": "2854e839d59b6db332d55a302d2b4cb93e0cc9d13315c78c1e0a27f88a604649",
+    "event_family": "M_AND_A",
+    "title": "8-K - YUM BRANDS INC (0001041061) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1041061/000110465926092305/0001104659-26-092305-index.htm",
+    "news_age_minutes": 13,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "YUM BRANDS INC heeft een 8-K-rapport ingediend bij de SEC, waarin het aangaan van een materiële definitieve overeenkomst en de voltooiing van een acquisitie of desinvestering van activa worden gemeld.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en de voltooiing van een acquisitie of desinvestering kunnen de financiële positie en strategische richting van YUM BRANDS INC significant beïnvloeden. Dit kan leiden tot veranderingen in omzet, winstgevendheid, activa en schulden, wat relevant is voor beleggers.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de acquisitie of desinvestering zijn onbekend. Zonder deze details is het onmogelijk om de impact op de waardering van YUM BRANDS INC te beoordelen.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de betrokken partijen of de specifieke activa die zijn verworven of afgestoten.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de transactie zijn essentieel voor een gedegen analyse."
+    }
+  },
+  {
+    "time": "2026-08-07T10:30:32.711475+00:00",
+    "symbol": "FILER",
+    "company": "BEAZER HOMES USA INC (0000915840) (Filer)",
+    "event_key": "f3d859e8bcb32c3ea56c35701f46573f9b1a01e51027faff63c152fba457c06f",
+    "event_family": "M_AND_A",
+    "title": "8-K - BEAZER HOMES USA INC (0000915840) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/915840/000110465926092299/0001104659-26-092299-index.htm",
+    "news_age_minutes": 19,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-07T10:30:33.432007+00:00",
+    "symbol": "FILER",
+    "company": "Dream Finders Homes, Inc. (0001825088) (Filer)",
+    "event_key": "59f66254db7002262b84613ca34124f8f8386d4c95428a99a763a0a3d6037bdf",
+    "event_family": "M_AND_A",
+    "title": "8-K - Dream Finders Homes, Inc. (0001825088) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1825088/000162828026054558/0001628280-26-054558-index.htm",
+    "news_age_minutes": 23,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
