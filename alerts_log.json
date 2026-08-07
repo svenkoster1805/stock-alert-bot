@@ -6724,5 +6724,30 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt de voltooiing, maar de essentiële economische details ontbreken in de input."
     }
+  },
+  {
+    "time": "2026-08-07T19:12:59.447684+00:00",
+    "symbol": "FILER",
+    "company": "AMERICAN REBEL HOLDINGS INC (0001648087) (Filer)",
+    "event_key": "0a8dfcbb2f37d3f3421f659c0f8cc502a5a9350a69bf7cc45b5f49cb7f5dd6d0",
+    "event_family": "M_AND_A",
+    "title": "8-K - AMERICAN REBEL HOLDINGS INC (0001648087) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1648087/000149315226036535/0001493152-26-036535-index.htm",
+    "news_age_minutes": 27,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AMERICAN REBEL HOLDINGS INC heeft een materiële definitieve overeenkomst gesloten, wat resulteerde in een directe financiële verplichting en de verkoop van niet-geregistreerde aandelen.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden, mogelijk via een overname of fusie.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend, wat de beoordeling bemoeilijkt.",
+      "invalidation_nl": "Er is geen concrete informatie over de overnamepartij, de overnameprijs of de exacte voorwaarden van de transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de details van de M&A zijn niet gespecificeerd in de samenvatting."
+    }
   }
 ]

@@ -1654,5 +1654,11 @@
     "symbol": "FILER",
     "title": "8-K - PLAINS ALL AMERICAN PIPELINE LP (0001070423) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "0a8dfcbb2f37d3f3421f659c0f8cc502a5a9350a69bf7cc45b5f49cb7f5dd6d0": {
+    "first_alert_at": "2026-08-07T19:12:46.123364+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AMERICAN REBEL HOLDINGS INC (0001648087) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
