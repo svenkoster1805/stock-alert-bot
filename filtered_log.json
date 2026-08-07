@@ -1,131 +1,5 @@
 [
   {
-    "time": "2026-06-23T10:48:57.518405+00:00",
-    "reason": "te oud voor fastlane (797 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Fortress Private Lending Fund (0002012139) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 797,
-    "url": "https://www.sec.gov/Archives/edgar/data/2012139/000119312526277729/0001193125-26-277729-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518504+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Autohome Inc. (0001527636) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 18,
-    "url": "https://www.sec.gov/Archives/edgar/data/1527636/000119312526278462/0001193125-26-278462-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518525+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Skeena Resources Ltd (0001713748) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 18,
-    "url": "https://www.sec.gov/Archives/edgar/data/1713748/000117184326004234/0001171843-26-004234-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518542+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - NetEase, Inc. (0001110646) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 26,
-    "url": "https://www.sec.gov/Archives/edgar/data/1110646/000110465926076607/0001104659-26-076607-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518564+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - ARGENX SE (0001697862) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 26,
-    "url": "https://www.sec.gov/Archives/edgar/data/1697862/000110465926076606/0001104659-26-076606-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518579+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Dreamland Ltd (0002041338) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 33,
-    "url": "https://www.sec.gov/Archives/edgar/data/2041338/000149315226029687/0001493152-26-029687-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518594+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "GLOBAL",
-    "title": "6-K - Autozi Internet Technology (Global) Ltd. (0001959726) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 33,
-    "url": "https://www.sec.gov/Archives/edgar/data/1959726/000149315226029686/0001493152-26-029686-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518608+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Jinxin Technology Holding Co (0001967631) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 34,
-    "url": "https://www.sec.gov/Archives/edgar/data/1967631/000121390026070835/0001213900-26-070835-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518621+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - CLPS Inc (0001724542) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 36,
-    "url": "https://www.sec.gov/Archives/edgar/data/1724542/000121390026070831/0001213900-26-070831-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518635+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Jiayin Group Inc. (0001743102) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 37,
-    "url": "https://www.sec.gov/Archives/edgar/data/1743102/000119312526278439/0001193125-26-278439-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518651+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - ORIX CORP (0001070304) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 43,
-    "url": "https://www.sec.gov/Archives/edgar/data/1070304/000119312526278427/0001193125-26-278427-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518666+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - CHIPMOS TECHNOLOGIES INC (0001123134) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 43,
-    "url": "https://www.sec.gov/Archives/edgar/data/1123134/000119312526278426/0001193125-26-278426-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518680+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - EQUINOR ASA (0001140625) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 43,
-    "url": "https://www.sec.gov/Archives/edgar/data/1140625/000117184326004232/0001171843-26-004232-index.htm"
-  },
-  {
-    "time": "2026-06-23T10:48:57.518694+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - ING GROEP NV (0001039765) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 43,
-    "url": "https://www.sec.gov/Archives/edgar/data/1039765/000117184326004233/0001171843-26-004233-index.htm"
-  },
-  {
     "time": "2026-06-23T10:48:57.518710+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107872,131 @@
     "publisher": "GuruFocus",
     "age_minutes": 41,
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEo5bllUWW1yMm9iclhLUl9oM0k1MlRKTXNOdVJJS3JYaUd5MDZuQkRESjJrVTA2ZVhLWXNRVGZhbTFSN2JDRkVMM0o2YlpJQW9ZTEVXZFFnbElFVzNEN1AxblAtU3RucVp6Uko1VXZyTVJ0THdnVm94bU1NeWNkRXplLTVCM0R1bEdrX0ZjaVY2V3NsOUtPUnF5UThIbm1nanM3eXhR?oc=5"
+  },
+  {
+    "time": "2026-08-07T09:35:15.029462+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Canaccord cuts DoubleVerify stock rating on Nielsen acquisition By Investing.com - Investing.com Canada",
+    "publisher": "Investing.com Canada",
+    "age_minutes": 52,
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdjJGTEljUEdjOTJwNzBJdHNwUGozemZpWGRISGFNakFIeHNERHBDZHFkU2NUeWdpdkpYSF9hdndvT0pUNTZ5VkFfVmowMDlmdzgwWkIydVZqMVplekhFM1B4ODdTUjA4Q05BektXd0dfYlBWOXFteTh2Y0tXdWVYZlVMZXBsZE1KYjFZNmx1VWRvLThsV2tqcFlCeExXcjAyTkFhbnQzYTV4YWZRV1dLTVJ3b2s5VDdPS0RWYTRBaURGUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-07T09:35:15.416695+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "RBC Capital downgrades DoubleVerify stock rating on Nielsen acquisition By Investing.com - Investing.com Canada",
+    "publisher": "Investing.com Canada",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZERud0g1dURLallpeEhlLWJrTUlmNGs5Y3JtallIY0YxYXpJaU9WblFJV3h6QWZlRFpSMXl3NEZ1Z1BQbWVmcXpHdGx4aEhNc0NkeC1EQ3ppZEhoY0JqaldlcV9RVkwwbGotaDkyNC1yOUtRTy1QNnZHNTRIaElXMWdIOXl3YUpxbG43VG95b2VmRUlvUXpnM3lFLUdveHVkSDNCTlNQQ3N3Sm1RQmxUZEVzdVNjUTIzRTFYTVZjaDkyYWRSd3JUYTFNZGU?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-07T09:35:15.416757+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Why is DoubleVerify stock soaring today? By Investing.com - Investing.com Canada",
+    "publisher": "Investing.com Canada",
+    "age_minutes": 58,
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd3RUR293ZnhxQnhEWDQtUEJEQVBJVnYyNU84YVNFQ2E5dUJNVV9YMm9jT1hkUTNIcTRZb0l3LXZua25mZmhrT0pIQnd2ZmhGUldta0NFZWh1TlpFOWFqLVJ1bkRSVW9mdkVfX1pIWEU5QkFRelZicVFXREhmQnk3LVNTakNNeW9TOTJhNGtKMmphQ05iY0M0Nm5ZZlp1U3A0M3c?oc=5"
+  },
+  {
+    "time": "2026-08-07T09:35:15.416787+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Salah joins Trabzonspor on €17m-a-season deal - Pakistan Today",
+    "publisher": "Pakistan Today",
+    "age_minutes": 50,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnJzbmNQWll5SE50d3dnazlsZmRaVnI3SXlBSnBBMWl3WkR5MTRPVC01YTc2S3JKRW9wTlRfMUJBNUlMd1dJSGRKSW9UY1JSTmRGOTVDOG4zcXJZVS1QZlBBYnM4SHZhbklsUWhodW0tR0FndGJtOXowekJyVUV5Nl9XbFhIeFlkUFlLc2NJU05BUnI5cVBMZ3AxVmxtUWlpSjB3QW9UUWxNQUxod0JIMg?oc=5"
+  },
+  {
+    "time": "2026-08-07T09:35:15.416803+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "CLEAR Raises 2026 Cash Flow Guidance Following Strong Bookings Surge - sekbernews.id",
+    "publisher": "sekbernews.id",
+    "age_minutes": 24,
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kd3ItaF9nMEV4UVBtcU5CMkNwWGxMa3ItLWVJS2hvb3NRazNGckYwN2JOZXZXeU1aNDZzNDFZRXlTeWZ0ZTgxbllMdEVOS3dnMk01cXNjTElxbnprcFB0QmxNZ19wSkEtVE1zeFFZOExrWHMzbDFLVg?oc=5"
+  },
+  {
+    "time": "2026-08-07T09:35:15.416823+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Two Pizza Hut Sales Total $2.7B; China Deal Closes, Second Pending - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 20,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRlRfSUs5Qi1JelVTa29XbGNXaE5Xb09jTlRnY29aaThfcUYtQ2V2VzhYS1JGYm92S2lVQ3ZhQVpfbk9RNFpEX29iMTBHZDV0bG9TUFhyZzF5OGlIaWhlaU1lTnhRUHZGbjZNZFFWZl83YUllX2pCeWNhOUpQLTA5ZFkzSm90WGN4ZDBfUjFwR0pPMTJCbGpnMU5uNkFfd25PYVJfOHVGVTRaeTJHWFhjcA?oc=5"
+  },
+  {
+    "time": "2026-08-07T09:35:15.774145+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Yum Brands completes sale of Pizza Hut China for $1.2 billion - Investing.com Canada",
+    "publisher": "Investing.com Canada",
+    "age_minutes": 28,
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFVFTk80TjczeHNPdFAtcFFlRFlUWFlBV0g2OTlrY0hBMThzWnRBTzMzZHQybDVyRmgwMDdTeDFhZ24wU2tUX2t2Y2hIY2xDVlhIMEdxVHpNWXF2bXh2NnFQcVZOY0tHaDA5UWdBcl9LTEF0R29GVEdSYTlleVMyblEwV3JBeGlXMVNOWEJUVFZCZ2lDU095U3FtNnNEVko0ZkdpTmR6R2FLWHFSdWRid2VDeTlxMVRPM0pSeQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-07T09:35:16.197221+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Negotiations Advance on Sale of 114 Rafale Jets to India - marketscreener.com",
+    "publisher": "marketscreener.com",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTNPLWdpa1dib2dfQXhTOThRQzUzLU1qZjVSdml1RjJWYUc3V2RxZV9PeWt4cW1CdGVBMURtUURvTzNraDExdTBlR2h5RlBEWjh2U1dxektwVjRGd1hOYkRCc0J3akpwOTJiQ2Fqdk5UdUU3LVVDLTBUeFVMTEREbzQwQXRSemR3MldOSmptcDRxVVR2N1hqUmhoMGw3YzRmcV9vN2xnMVNMNnhCOHc?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-07T09:35:16.556174+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Negotiations move forward on the sale of 114 Rafales to India - marketscreener.com",
+    "publisher": "marketscreener.com",
+    "age_minutes": 54,
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTjlhQkpKSGtISlBNbUN5YTdTT3lHMkF0NnRpTFdTZE1abmJLbUtMTVJ0NEptbEhSbzJvNjRYbVRzSXhVYWNEb21BZTVZeUxTVFh0ZEFaSzhLMjJfSEUwTkJ1Mk11YzUzMWl5TzVTQS0tQVB2YlVPZWNreTZzV1RteHNRUGg1eGtmTFdVNHN2LUZuTTJvcEpteUlld05KSkRPQ2pydURWQVpUR0liRkxsd2ZQVkk?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-07T09:35:16.931748+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Trump Set To Pocket Millions in Tax Deferrals via CLARITY Act Divestiture Rules - CoinGape",
+    "publisher": "CoinGape",
+    "age_minutes": 25,
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmJUaUQwSDdXV0ZJUFpINjVvend3RUJubE85eURjRWVxZ0xlTVZ3dHR5QWc0TXA5UW5mMU5lY2hnYjFrd1h1Z19EM2t0bFNlNTVteTFCU3paaF9lMkFOYUlCcUVXOXZvSEE1WU5fVWY4MkJUdWtMZUthRGVqVHl1S0pHRHdxWDNiTzlfNmwzRi1zYkM1TG9USkpnUWtET0JVV29N?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-07T09:35:16.931798+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Why is ResMed stock sliding today? By Investing.com - Investing.com Canada",
+    "publisher": "Investing.com Canada",
+    "age_minutes": 8,
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONzBabGxBTVY4bWJXb3A4SDlwUGswUFMzeHA3Z0gweE1DaEM4eFdCQXVEaE90SWt6b1pJVTVJWjd3WUZqZHlNSk5sWGVJR3REQ05wbThuU3hBU0FXLVY3WDNDMjh1SzZxeEM5YzNXTDEtVzdtTXZYU0s2VG5mbmNIX1JzOW5XT1lZcDBkTUlpMG9FcFZrSDJGemtn?oc=5"
+  },
+  {
+    "time": "2026-08-07T09:35:16.931816+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Plug Power's Balancing Act: Real Estate Deals Buy Time, But August 10 Will Judge the Turnaround - ad-hoc-news.de",
+    "publisher": "ad-hoc-news.de",
+    "age_minutes": 13,
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmNSNXBlT3ZfTGViTXNPSjJsSkctcVB6amU2eDhxYUt2Z2t5dUoxTGZWOUU5NnlqTHU3cVN6VWptNzBoZy0tVWsxdGdWUXRXYnJEN05WdjV2SEMzdDN3Yzdka29VRlJyRVNFcHEtdFhmTTJJOHljekJTbFBTYzR1TTlycXI1Z29rOHNqNHhfT1lnSEc5WEtMaE9Ncldoa0xNXzFhM0hISVZPOTBkMzlFMmRfeFZSZ1NQVjNUaGJtTWs2LURDZUlEVUxaVnFaMzdOYThMNnpuZGtSdi1n?oc=5"
+  },
+  {
+    "time": "2026-08-07T09:35:17.319737+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Goodwin mulls sale of \"substantial\" part of Mechanical Engineering arm - London South East",
+    "publisher": "London South East",
+    "age_minutes": 13,
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2xSeWtLcEZNdjBMTmlURFViSFFQa0RQV0xaNFdpR3dKdkd2OHdTLXh6MG5Fbjh5NldleUhYUmN0aFRPck1vVm9zVERzRS1aQzFBeHNXb2wtNi1oLUV6ZmE3QTNhdEEyVE9pdW10ektQUTM1S1pIQ0plYUZ6WUppWjU1RFdrTFFRamxpVGFWV3h2UGVIQ3U2dVNhOTdTYkpMRnhHQ3pFMm50YmVQNF9neDkyWm1hdFU?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-07T09:35:17.319788+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "What's Going On With IsoEnergy Ltd. Stock Friday? - Wealth Awesome",
+    "publisher": "Wealth Awesome",
+    "age_minutes": 32,
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY0ZZYzBKelAtbURRVWc3ajc4bVBNRnZKRnQyWTU0c25icHEzMjlvZG9OZGNGNy1tVDUxZ1hMSWdISHloM2M1ZDJ0a01hczhnZm40cjVOSkFDYS1PY3VPWldhb014TmRMYUJ4WWxLY0VCemVnUlV5eXRXYzRMdGlsNXNMVlhFOTBYdVU4MnNn?oc=5"
   }
 ]
