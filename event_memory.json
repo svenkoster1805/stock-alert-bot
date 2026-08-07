@@ -1726,5 +1726,47 @@
     "symbol": "FILER",
     "title": "8-K - Red Violet, Inc. (0001720116) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "bafe71694843d4aea467bdb63fe58ad5ab48e8181e0b07982655c0167ad0b0d6": {
+    "first_alert_at": "2026-08-07T21:24:35.444187+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MGP INGREDIENTS INC (0000835011) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1bbe24f8cc31655d94e925269cb8f419c8398a98bca3daaee97499992782e001": {
+    "first_alert_at": "2026-08-07T21:24:45.302709+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BATTALION OIL CORP (0001282648) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0ba815bf849d6964b211fca5e73c3f06cabac3f97b82faf4ffee39c6f7b04627": {
+    "first_alert_at": "2026-08-07T21:24:54.427351+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VanEck BNB ETF (0002066824) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "c619dd48fb19a7e58878d4de4b982a2470ba01ee46d4fb7f2308d7ae3e513b58": {
+    "first_alert_at": "2026-08-07T21:25:11.931106+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CAPITAL SOUTHWEST CORP (0000017313) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "427058b29147e48d8e6f56fcc3f9b12ec2a33186f4b3bf9a18c7bc23762ce55d": {
+    "first_alert_at": "2026-08-07T21:25:12.999127+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Stewards, Inc. (0001795851) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f2a0ef915402a72754088e3e2b1a7145f656e7c2f3d0859771be091153dd10ea": {
+    "first_alert_at": "2026-08-07T21:25:13.985261+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Venu Holding Corp (0001770501) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "298b4c41512938a07c9f1286e44d2185228aa987e0ebc262527347d021d1f7f9": {
+    "first_alert_at": "2026-08-07T21:25:14.969122+00:00",
+    "symbol": "FILER",
+    "title": "8-K - iSpecimen Inc. (0001558569) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

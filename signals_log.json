@@ -4416,5 +4416,109 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-07T21:24:44.286765+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MGP INGREDIENTS INC (0000835011) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "MGP INGREDIENTS INC heeft op 7 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op een overname of fusie, wat de waardering van het bedrijf significant kan beïnvloeden. Dergelijke gebeurtenissen leiden vaak tot koersbewegingen, afhankelijk van de voorwaarden van de deal.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de overnameprijs en de voorwaarden, zijn nog onbekend. Zonder deze informatie is het onmogelijk om de economische impact nauwkeurig te beoordelen.",
+      "invalidation_nl": "De contractwaarde en de specifieke voorwaarden van de materiële definitieve overeenkomst zijn niet bekend.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst worden verwacht in de volledige 8-K filing."
+    }
+  },
+  {
+    "time": "2026-08-07T21:24:53.437009+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BATTALION OIL CORP (0001282648) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BATTALION OIL CORP heeft een materiële definitieve overeenkomst gesloten en niet-geregistreerde aandelen verkocht, zoals gemeld in een 8-K filing op 7 augustus 2026.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op kapitaalverhoging of een transactie.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst en de aandelenverkoop zijn onbekend. Zonder deze details is de economische relevantie en het effect op de waardering niet te bepalen.",
+      "invalidation_nl": "Er zijn geen concrete financiële details of voorwaarden van de overeenkomst of aandelenverkoop beschikbaar om een handelsbeslissing te onderbouwen.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een overeenkomst, maar de inhoud is niet gespecificeerd in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-08-07T21:25:10.921941+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VanEck BNB ETF (0002066824) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "VanEck BNB ETF heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een recente 8-K filing bij SEC.gov.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of toekomstige inkomstenstromen.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn onbekend. Zonder deze details is de economische relevantie onduidelijk en kunnen er onverwachte verplichtingen zijn.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, waarde of partijen van de overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een overeenkomst, maar de inhoud is niet verstrekt."
+    }
+  },
+  {
+    "time": "2026-08-07T21:25:11.931131+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CAPITAL SOUTHWEST CORP (0000017313) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-07T21:25:12.999150+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Stewards, Inc. (0001795851) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-07T21:25:13.985285+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Venu Holding Corp (0001770501) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-07T21:25:14.969152+00:00",
+    "symbol": "FILER",
+    "title": "8-K - iSpecimen Inc. (0001558569) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
