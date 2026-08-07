@@ -4176,5 +4176,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-07T12:07:37.401712+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ROYAL CARIBBEAN CRUISES LTD (0000884887) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Royal Caribbean Cruises Ltd heeft een 8-K formulier ingediend bij de SEC, waarin de onderneming melding maakt van het aangaan van een materiële definitieve overeenkomst. Dit document is op 7 augustus 2026 gepubliceerd en bevat verwijzingen naar financiële overzichten en bijlagen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap die de toekomstige financiële prestaties van het bedrijf kan beïnvloeden. Dit kan een fusie, overname of een andere significante transactie betreffen.",
+      "risk_nl": "De aard en de financiële voorwaarden van de overeenkomst zijn nog onbekend, wat de impact op het bedrijf onduidelijk maakt. Zonder details over de tegenpartij of de transactie is de economische waarde niet te bepalen.",
+      "invalidation_nl": "Er zijn geen specifieke details over de aard van de M&A-transactie, de betrokken partijen of de financiële voorwaarden beschikbaar in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is een officiële bron, maar de samenvatting mist cruciale details voor een M&A-beoordeling."
+    }
   }
 ]
