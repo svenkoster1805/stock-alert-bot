@@ -1,32 +1,5 @@
 [
   {
-    "time": "2026-06-25T17:33:57.017680+00:00",
-    "reason": "te oud voor fastlane (299 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Bleichroeder Acquisition Corp. II (0002088295) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 299,
-    "url": "https://www.sec.gov/Archives/edgar/data/2088295/000121390026071787/0001213900-26-071787-index.htm"
-  },
-  {
-    "time": "2026-06-25T17:33:57.017741+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Planet Fitness, Inc. (0001637207) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 302,
-    "url": "https://www.sec.gov/Archives/edgar/data/1637207/000163720726000038/0001637207-26-000038-index.htm"
-  },
-  {
-    "time": "2026-06-25T17:33:57.017759+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - SELLAS Life Sciences Group, Inc. (0001390478) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 303,
-    "url": "https://www.sec.gov/Archives/edgar/data/1390478/000110465926077556/0001104659-26-077556-index.htm"
-  },
-  {
     "time": "2026-06-25T17:33:57.183249+00:00",
     "reason": "te oud voor fastlane (303 min, limiet 30)",
     "symbol": "FILER",
@@ -107998,5 +107971,32 @@
     "publisher": "AD HOC NEWS",
     "age_minutes": 33,
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ245cF90SlpIaWVzOVpyZFFyUjg5SXpsel9ITkpwX2pNMHpRcWJxQWlHSlJXLTFDYlZXa3hPS2J3RGtSQnJlclE2TEhJbVdxRTZ2NzBnRTdySkNYSWVvSk5HQzc0SEV6bW1ILXhkWExkbFdodm52clBQWmhCOG92WF9OVmVWekcwV3RiMWxqMzk4cFJVd0ZkaWVtekhZRG1xcmxVQThJcHpiRGxaUUFGeTdMTzlBOHlWSHdxQTk2eENFLVk?oc=5"
+  },
+  {
+    "time": "2026-08-09T14:47:51.466778+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Replimune in the spotlight: Earnings loom days after FDA approval - Investing.com",
+    "publisher": "Investing.com",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUE9oLXBaSF9vZVUtSTN6TjBvY1FJQkw0RzZ0Z1R1RDdzWkxfSTlua2JGOXJLNzBsQVo3X3FvNEJNWlRKSjhkVEhpODBrNE5MUHVDbXZ0NGN0MnBrZWRoWDR6aVp0c2ZabklBWk5LZUg4Z1l5czRwVGo5T015aFZYeUNpNVdnX1dTSUM3YnlJTmxwb1hFOE1wVmJkSUpQYmRUZkItYWE3NTE4a1V0YnE1VWpiTTJoMlhH?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-09T14:47:52.366350+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Goodwin mulls sale of division that makes parts for submarines and warships - London Evening Standard",
+    "publisher": "London Evening Standard",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTJfUllWZGVFN0l5Zkh6dnN5elBIN2Y2QWRWa1dmbFFfUlBtTzhXX05EcnpGT3oyaXFnb1hmU3dndTQ0Qzk2ZWFXRWxxOGJsd20ycmFVNDBfRUhDXzJxbER2dE80VGpTVWlPUVBBWENseDlvU2RzekltYnkzcl9QZzk1bDQzWTNlTzRwWm5tQmZMV1htYWZDUWllTGJUSk5qUndncTZ2RQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-09T14:47:52.366399+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Helmerich & Payne Exceeds Q3 2026 Guidance with Strong Revenue and Cash Flow - sekbernews.id",
+    "publisher": "sekbernews.id",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1bW5Qd0h1U0kxdmpzZHdKWU41M0hLSnJoeE1YSTRtS1NpQ2F2OV95ZUhmWWFjVkk5aVJZNUYzem9vbkJaSk9DQkZLM21STFo0NkhNN3pwRkJMb0ZkeTQzNVM4clJmM1NfQU1zU2Fn?oc=5"
   }
 ]
