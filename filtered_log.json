@@ -1,32 +1,5 @@
 [
   {
-    "time": "2026-06-25T17:33:56.105596+00:00",
-    "reason": "te oud voor fastlane (257 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Range Capital Acquisition Corp. (0002035644) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 257,
-    "url": "https://www.sec.gov/Archives/edgar/data/2035644/000119312526281968/0001193125-26-281968-index.htm"
-  },
-  {
-    "time": "2026-06-25T17:33:56.259302+00:00",
-    "reason": "te oud voor fastlane (257 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Jaguar Health, Inc. (0001585608) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 257,
-    "url": "https://www.sec.gov/Archives/edgar/data/1585608/000119312526281969/0001193125-26-281969-index.htm"
-  },
-  {
-    "time": "2026-06-25T17:33:56.259364+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - STARWOOD PROPERTY TRUST, INC. (0001465128) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 258,
-    "url": "https://www.sec.gov/Archives/edgar/data/1465128/000110465926077576/0001104659-26-077576-index.htm"
-  },
-  {
     "time": "2026-06-25T17:33:56.259383+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107971,32 @@
     "publisher": "Defense Express",
     "age_minutes": 16,
     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTm1vSFU4WXlyR3kzRW9FdjZZaG5DdnowTlhiQkVpVUZ6NVhoZTVOM1BlRjdLRUZCODF4YnlhUDJqWWdjQ1o2V0VpaDZtUW1WYkV5RER4OExiaFBwdEl5b1c0Y1M0ak9VUy12M3Rtc2h3b3ZnRVc0ZFh4QzR6NWRiVVpnNElyXzRZU1R2WFhEeW1QUjhyUUFlMVVXTWdQUXdFRXdOcDE3QTcyNHU3YmJvc290X2VjQzJCSzlRcnB0M2NqZjBPeVk3VnJIWEFJNzlaSzRmbUg3VU02cUpuT09IQnBmNmc2WmJoYU9LbTkwLXAwRTF6a2tDWFdCRTh6Q3RkRUZWYm1hbUk?oc=5"
+  },
+  {
+    "time": "2026-08-09T10:44:49.001389+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "CYCU",
+    "title": "Cycurion, Inc. (CYCU) latest stock news and headlines - Yahoo Finance UK",
+    "publisher": "Yahoo Finance UK",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUWDRmU0xHOXZmd3ZGREtaeFpxOVNYcHRXbFM0TFhDSENfYUg0Sl9vaTFwUHp4QjRPSVkwdkdVT2FGY1lYd2hyV3NBVTI0LXdlZWRVa0NsMkQ?oc=5"
+  },
+  {
+    "time": "2026-08-09T10:44:49.001408+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Gradient Investments LLC Purchases 4,150 Shares of Alibaba Group Holding Limited $BABA - MarketBeat",
+    "publisher": "MarketBeat",
+    "age_minutes": 57,
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObXVqVDNQaDNYdkJKSzdXM2tCQzZLRldjU0p2RXdDU3JfUXNUYjNnUnk1ZlNkUGRqbk82WktCUjBvOUNzTGJKcUdvRl9qUDE4d1Z4VHBWNVR5QVJKZnI4M2JYVFlLdEZGelVZMVNoQTJMajB1a254Tl82UkxWTFE5REtSWktURHI4OXpJaWFoMFN2ZXc5c0EteWhKQmwzQW43VENWT0pKUmtLam9VS1hUWjI3WWJoekxId1UzOFJsX3RCaFRDX2VlczhLcTFFaG5yeW1FclhCaFpDMTFzZ0E?oc=5"
+  },
+  {
+    "time": "2026-08-09T10:44:49.319770+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "SK hynix Considering Sale of $3 Billion Stake in Chongqing Plant in China - 아시아경제",
+    "publisher": "아시아경제",
+    "age_minutes": 48,
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzcm91REVCSkZGVlRyUVJjUWZxdWJMeThESGFWSTduWVpwRlBHakVSTDAxZlVVTlM0TkN0MTlhQy1wNU03WUJxLXFTWDdGamhOMXVfWkdRYnJ0WkJib19ZZ0lVeUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
   }
 ]
