@@ -1,32 +1,5 @@
 [
   {
-    "time": "2026-06-25T17:33:55.695102+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Cytosorbents Corp (0001175151) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 246,
-    "url": "https://www.sec.gov/Archives/edgar/data/1175151/000110465926077584/0001104659-26-077584-index.htm"
-  },
-  {
-    "time": "2026-06-25T17:33:55.905116+00:00",
-    "reason": "te oud voor fastlane (248 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - KUSTOM ENTERTAINMENT, INC. (0001342958) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 248,
-    "url": "https://www.sec.gov/Archives/edgar/data/1342958/000149315226030046/0001493152-26-030046-index.htm"
-  },
-  {
-    "time": "2026-06-25T17:33:55.905196+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - SOLAREDGE TECHNOLOGIES, INC. (0001419612) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 255,
-    "url": "https://www.sec.gov/Archives/edgar/data/1419612/000117891326003337/0001178913-26-003337-index.htm"
-  },
-  {
     "time": "2026-06-25T17:33:56.105596+00:00",
     "reason": "te oud voor fastlane (257 min, limiet 30)",
     "symbol": "FILER",
@@ -107998,5 +107971,32 @@
     "publisher": "MarketBeat",
     "age_minutes": 10,
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeVA2cVd2UVBDTDV2Y2RudFJCbkZkd25ibEY4TzdfNk8yZUJQVVlzMHdPYlpGSVVaRXRLdzNFeWZSNmtpU1NLLVZZb2ttMnN4bUNoekV6VlEzcDdueWRpOG9qTmdmdjBUaEFFb2kxaDFxTFg4TE1sVXY0MlNibzFNLW55NVRyWTNkOVNGREdINjY3Nkg0eGhiMjR5WWhpbDgwa1BXbVNjYUgyN0pQb1Jsd3ZrQnFvOGtvMGhuWmUwRm1IUmFrakl1ek1SMHYtTGVmd2dQb0w3Qjhsdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-09T10:01:20.224568+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Exclusive | Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash - WSJ",
+    "publisher": "WSJ",
+    "age_minutes": 58,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjNUTWV1UWhiQkpLWXhpWURhVlpuSm5GOVc3OWhOSFRxZWI5SnZxRkdnR0ZPaUxla0lCRFpXT2xYSmVNejVsaHFKTlhwM1BkU3RPc3c4NmtkeXRqYkVMZDB3UUI4VHJaQjZPNVZnUHFaVThVM1hrNDNaSjVILTgwMWJCeHNxTmlQc0JGZ0dtQUpMZkdGNnB3c0tLZ3NneFpQNE5EUW9hUENQejFFYmRkQg?oc=5"
+  },
+  {
+    "time": "2026-08-09T10:01:20.224584+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Sumedha Fiscal Q1 Results: Net Profit Rises 14% YoY To ₹331 Lakh - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 42,
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZm5jSkplaXhXdzM5MFZzdkxtSkRzRnQ1Y00xV0UtTXFGbkhaTG5aOWN5OXpwNmFLQ2lvQU9YMTJWMmxtcVhpX29sd3Z4VmI3dm9ZNnF3MWhyalJyVm14MGxzcTVydjdlYVUydmNkQkt3b2JfUUdSMGRBNGhlT1Q2ekxmR3ZVdkZCZjVkM2tVSnYzU1N0dWcyWUdBcW90cGIyLUtJLS01a2Zmb29wOFVMOHhiV2pzc0M1Qnc?oc=5"
+  },
+  {
+    "time": "2026-08-09T10:01:20.224595+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Turkiye Sells Ukraine Its Entire Remaining M270 Launcher Stock Plus 70 ATACMS, 47,000 Cluster Shells, Deliveries Could Start This Year - Defense Express",
+    "publisher": "Defense Express",
+    "age_minutes": 16,
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTm1vSFU4WXlyR3kzRW9FdjZZaG5DdnowTlhiQkVpVUZ6NVhoZTVOM1BlRjdLRUZCODF4YnlhUDJqWWdjQ1o2V0VpaDZtUW1WYkV5RER4OExiaFBwdEl5b1c0Y1M0ak9VUy12M3Rtc2h3b3ZnRVc0ZFh4QzR6NWRiVVpnNElyXzRZU1R2WFhEeW1QUjhyUUFlMVVXTWdQUXdFRXdOcDE3QTcyNHU3YmJvc290X2VjQzJCSzlRcnB0M2NqZjBPeVk3VnJIWEFJNzlaSzRmbUg3VU02cUpuT09IQnBmNmc2WmJoYU9LbTkwLXAwRTF6a2tDWFdCRTh6Q3RkRUZWYm1hbUk?oc=5"
   }
 ]
