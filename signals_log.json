@@ -4656,5 +4656,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-10T13:43:15.036670+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bowman Consulting Group Ltd. (0001847590) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Bowman Consulting Group Ltd. heeft een 8-K melding ingediend op 10 augustus 2026, waarin de 'Entry into a Material Definitive Agreement' wordt vermeld. De melding bevat ook informatie over bedrijfsresultaten, wijzigingen in directie/functionarissen en compensatieregelingen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan een significante impact hebben op de financiële positie en toekomstige strategie van het bedrijf. Dit kan leiden tot veranderingen in de waardering van het aandeel, afhankelijk van de aard en voorwaarden van de overeenkomst.",
+      "risk_nl": "Het grootste risico is het ontbreken van details over de aard, de tegenpartij en de financiële voorwaarden van de overeenkomst. Zonder deze informatie is de potentiële impact op het bedrijf onbekend en speculatief.",
+      "invalidation_nl": "Er is geen concrete informatie over de inhoud, waarde of partijen van de 'Material Definitive Agreement' beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De M&A-tag in de input is niet expliciet bevestigd door de inhoud van de 8-K samenvatting, die alleen een 'Material Definitive Agreement' vermeldt."
+    }
   }
 ]

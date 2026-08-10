@@ -1822,5 +1822,11 @@
     "symbol": "FILER",
     "title": "8-K - Byrna Technologies Inc. (0001354866) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "96f5a902caf4edd866129900376c422495648e6a479f70b451271b0a5c63fe61": {
+    "first_alert_at": "2026-08-10T13:43:04.700324+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bowman Consulting Group Ltd. (0001847590) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
