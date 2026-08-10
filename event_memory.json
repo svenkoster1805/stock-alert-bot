@@ -1768,5 +1768,11 @@
     "symbol": "FILER",
     "title": "8-K - iSpecimen Inc. (0001558569) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "02a78fa7157b1ba914e66ccf9cf563268e29d725121fad79432839f9cc094e30": {
+    "first_alert_at": "2026-08-10T10:25:30.318783+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DoubleVerify Holdings, Inc. (0001819928) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

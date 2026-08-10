@@ -4520,5 +4520,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-10T10:25:39.918399+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DoubleVerify Holdings, Inc. (0001819928) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "DoubleVerify Holdings, Inc. heeft op 10 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en wijzigingen in directie/compensatie.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de financiële positie of strategische richting van het bedrijf significant beïnvloeden. Wijzigingen in de directie en compensatieregelingen kunnen duiden op een nieuwe bedrijfsstrategie of belangrijke ontwikkelingen.",
+      "risk_nl": "De specifieke aard en financiële details van de materiële overeenkomst zijn onbekend, waardoor de impact op het bedrijf onduidelijk is. Zonder deze details is het moeilijk om de economische relevantie of risico's te beoordelen.",
+      "invalidation_nl": "De aard, partijen en financiële voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de details van de M&A zijn niet gespecificeerd in de samenvatting."
+    }
   }
 ]
