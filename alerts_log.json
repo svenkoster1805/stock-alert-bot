@@ -7200,5 +7200,30 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de details van de M&A zijn niet gespecificeerd in de samenvatting."
     }
+  },
+  {
+    "time": "2026-08-10T11:29:49.268885+00:00",
+    "symbol": "FILER",
+    "company": "TPG Mortgage Investment Trust, Inc. (0001514281) (Filer)",
+    "event_key": "54ffb0c95afb2ca53fccf64536386542390cd4db433cd4ccf96c079be1cda629",
+    "event_family": "M_AND_A",
+    "title": "8-K - TPG Mortgage Investment Trust, Inc. (0001514281) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1514281/000162828026054986/0001628280-26-054986-index.htm",
+    "news_age_minutes": 29,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "TPG Mortgage Investment Trust, Inc. heeft op 10 augustus 2026 een 8-K-formulier ingediend, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Het document bevat ook informatie over Regulation FD Disclosure en financiële overzichten.",
+      "why_nl": "Een materiële definitieve overeenkomst kan aanzienlijke financiële en operationele gevolgen hebben voor het bedrijf. Dit kan leiden tot veranderingen in de waardering van het aandeel, afhankelijk van de aard van de overeenkomst.",
+      "risk_nl": "Het grootste risico is het ontbreken van specifieke details over de inhoud en de financiële impact van de overeenkomst. Zonder deze informatie is de aard van de M&A-transactie en de potentiële gevolgen onbekend.",
+      "invalidation_nl": "Er zijn geen details over de partijen, voorwaarden of waarde van de M&A-transactie beschikbaar in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de specifieke aard van de M&A is onduidelijk."
+    }
   }
 ]

@@ -1774,5 +1774,11 @@
     "symbol": "FILER",
     "title": "8-K - DoubleVerify Holdings, Inc. (0001819928) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "54ffb0c95afb2ca53fccf64536386542390cd4db433cd4ccf96c079be1cda629": {
+    "first_alert_at": "2026-08-10T11:29:34.855865+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TPG Mortgage Investment Trust, Inc. (0001514281) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
