@@ -1840,5 +1840,47 @@
     "symbol": "FILER",
     "title": "8-K - CLOUDASTRUCTURE, INC. (0001709628) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "0c5bc671cefa1d655d3520201c69f84faf36681a3376b5d948406090feee327f": {
+    "first_alert_at": "2026-08-10T20:09:42.300919+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TERADYNE, INC (0000097210) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4d5e32dbfe5f7d294c97f6f1ea3410d86fbc86326d05ed321f0574d3aa844461": {
+    "first_alert_at": "2026-08-10T20:09:54.304099+00:00",
+    "symbol": "FILER",
+    "title": "8-K - American Healthcare REIT, Inc. (0001632970) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "942a9c380eba36dcd2d947eb1a32671b23bb719a31ca46fa838ef0d33aacaa7a": {
+    "first_alert_at": "2026-08-10T20:10:02.916621+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SKYWORKS SOLUTIONS, INC. (0000004127) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "67cd01393bf92d6fae3788f2e72c61b7f1510531bb0ac7fd288562255ea2a310": {
+    "first_alert_at": "2026-08-10T20:10:13.661636+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Amneal Pharmaceuticals, Inc. (0001723128) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "552dc1d16bc9acffe59294b06911532ccbc07cae21c68ecfd72b13d7175cb447": {
+    "first_alert_at": "2026-08-10T20:10:14.380594+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Varex Imaging Corp (0001681622) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7e0c04db93ea50f52eef51bc4868bc6761059987ed712604c9d72780439c4228": {
+    "first_alert_at": "2026-08-10T20:10:15.102242+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Glucotrack, Inc. (0001506983) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5467225967d47ee0dd23ff147ec8ebdd4e90f72cfefca0ca8f686e974d25b85e": {
+    "first_alert_at": "2026-08-10T20:10:15.797311+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TON Strategy Co (0001566610) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

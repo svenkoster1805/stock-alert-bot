@@ -4704,5 +4704,109 @@
       "is_already_priced": false,
       "notes": "Verdere details over de inhoud van de 8-K filing zijn noodzakelijk voor een concrete beoordeling."
     }
+  },
+  {
+    "time": "2026-08-10T20:09:53.628823+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TERADYNE, INC (0000097210) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "TERADYNE, INC heeft op 10 augustus 2026 een 8-K-formulier ingediend bij SEC.gov. Dit formulier meldt het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting.",
+      "why_nl": "Zonder specifieke details over de aard van de overeenkomst of de omvang van de financiële verplichting, is de economische relevantie onduidelijk. Het is niet bevestigd dat dit een fusie of overname betreft.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete informatie over de inhoud van de overeenkomst en de financiële impact. De aard van de verplichting is onbekend.",
+      "invalidation_nl": "De verstrekte informatie bevat geen details over de aard van de 'Material Definitive Agreement' of de 'Direct Financial Obligation', waardoor de classificatie als M&A niet kan worden geverifieerd.",
+      "is_already_priced": false,
+      "notes": "De lege 'article_snippet' en de generieke samenvatting verhinderen een zinvolle beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-10T20:10:02.269422+00:00",
+    "symbol": "FILER",
+    "title": "8-K - American Healthcare REIT, Inc. (0001632970) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "American Healthcare REIT, Inc. heeft op 10 augustus 2026 een 8-K-rapport ingediend bij de SEC. Dit rapport meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap voor het bedrijf. Dit kan de toekomstige financiële prestaties en de waardering van het aandeel beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst zijn nog onbekend. Zonder details over de tegenpartij, de waarde of de impact is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de specifieke partijen of de exacte inhoud van de overeenkomst.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële overeenkomst zijn nodig voor een volledige beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-10T20:10:13.009855+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SKYWORKS SOLUTIONS, INC. (0000004127) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "SKYWORKS SOLUTIONS, INC. heeft een 8-K ingediend op 10 augustus 2026, waarin de totstandkoming van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische zet, zoals een overname of desinvestering, die de financiële positie van het bedrijf beïnvloedt. De creatie van een financiële verplichting bevestigt de economische impact van deze overeenkomst.",
+      "risk_nl": "Het grootste risico is het ontbreken van details over de aard, omvang en tegenpartij van de overeenkomst. Zonder deze informatie is de impact op de waardering van SKYWORKS SOLUTIONS, INC. onduidelijk.",
+      "invalidation_nl": "De samenvatting bevat geen specifieke details over de overname, zoals de over te nemen entiteit, de contractwaarde of de voorwaarden.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is recent en van een betrouwbare bron, maar de inhoudelijke details ontbreken in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-10T20:10:13.661649+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Amneal Pharmaceuticals, Inc. (0001723128) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-10T20:10:14.380612+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Varex Imaging Corp (0001681622) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-10T20:10:15.102259+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Glucotrack, Inc. (0001506983) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-10T20:10:15.797329+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TON Strategy Co (0001566610) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
