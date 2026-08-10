@@ -1828,5 +1828,17 @@
     "symbol": "FILER",
     "title": "8-K - Bowman Consulting Group Ltd. (0001847590) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "4476e93438c2f886d6c02d2e0eab3c024c3816bd2abda864062d60f46232c356": {
+    "first_alert_at": "2026-08-10T18:26:21.440468+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Fidelity Ethereum Fund (0002000046) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b538380c2017f941928a683a18a15b826cec52fda063ed5c3e362d5c663d5c41": {
+    "first_alert_at": "2026-08-10T18:26:30.882940+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CLOUDASTRUCTURE, INC. (0001709628) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

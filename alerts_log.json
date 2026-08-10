@@ -7417,5 +7417,55 @@
       "is_already_priced": false,
       "notes": "De M&A-tag in de input is niet expliciet bevestigd door de inhoud van de 8-K samenvatting, die alleen een 'Material Definitive Agreement' vermeldt."
     }
+  },
+  {
+    "time": "2026-08-10T18:26:30.386642+00:00",
+    "symbol": "FILER",
+    "company": "Fidelity Ethereum Fund (0002000046) (Filer)",
+    "event_key": "4476e93438c2f886d6c02d2e0eab3c024c3816bd2abda864062d60f46232c356",
+    "event_family": "M_AND_A",
+    "title": "8-K - Fidelity Ethereum Fund (0002000046) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2000046/000119312526342079/0001193125-26-342079-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 14,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Fidelity Ethereum Fund heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Ook zijn er wijzigingen in de statuten of reglementen en mogelijk een wijziging van het fiscale jaar.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke transactie, zoals een fusie of overname, die de waarde van het fonds significant kan beïnvloeden. Wijzigingen in de statuten kunnen hieraan gerelateerd zijn.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de materiële definitieve overeenkomst zijn onbekend, waardoor de impact op het fonds onduidelijk is. Zonder details over de tegenpartij of de transactie is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "Er is geen informatie beschikbaar over de contractwaarde, de betrokken partijen of de exacte aard van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar mist cruciale details voor een concrete beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-10T18:26:38.271781+00:00",
+    "symbol": "FILER",
+    "company": "CLOUDASTRUCTURE, INC. (0001709628) (Filer)",
+    "event_key": "b538380c2017f941928a683a18a15b826cec52fda063ed5c3e362d5c663d5c41",
+    "event_family": "M_AND_A",
+    "title": "8-K - CLOUDASTRUCTURE, INC. (0001709628) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1709628/000168316826006154/0001683168-26-006154-index.htm",
+    "news_age_minutes": 8,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CLOUDASTRUCTURE, INC. heeft een 8-K-formulier ingediend op 10 augustus 2026, waarin de totstandkoming van een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen wordt gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische transactie, zoals een overname of fusie. Dit kan de toekomstige financiële positie en groeivooruitzichten van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de aard, omvang en financiële voorwaarden, zijn niet bekend. Zonder deze informatie is het onmogelijk om de impact op de waardering van CLOUDASTRUCTURE, INC. te beoordelen.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de tegenpartij, de overnameprijs of de specifieke voorwaarden, ontbreken volledig.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de inhoud van de 8-K filing zijn noodzakelijk voor een concrete beoordeling."
+    }
   }
 ]
