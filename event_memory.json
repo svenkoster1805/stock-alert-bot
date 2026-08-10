@@ -1780,5 +1780,47 @@
     "symbol": "FILER",
     "title": "8-K - TPG Mortgage Investment Trust, Inc. (0001514281) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "5c8a7aaf081153b62c4a8350ffd5edcbc49355818d6a09d2a4fe35e053f46b76": {
+    "first_alert_at": "2026-08-10T12:10:51.935184+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sphere 3D Corp. (0001591956) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "18af336f08f22759ebce1cca7cd0e4861dd1698814df90338638de57fd467c60": {
+    "first_alert_at": "2026-08-10T12:11:00.406673+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Archer Aviation Inc. (0001824502) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "230e49c5748af4696992a6da8e10aa9a3279db187abb75e83952692122d2aebc": {
+    "first_alert_at": "2026-08-10T12:11:09.854147+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BEYOND MEAT, INC. (0001655210) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f4b3f4d28b511d2c1f75d66797bbf4be413bc8b1add4acd01c7bb3e77a3e5663": {
+    "first_alert_at": "2026-08-10T12:11:18.225350+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Park Dental Partners, Inc. (0002069604) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e46ae4648a688f15aa3bbdd5776942eb221ccb57eea8567cb7abb07d54cf94d9": {
+    "first_alert_at": "2026-08-10T12:11:19.115650+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Yorkville Acquisition Corp. (0002064658) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5743fc20e977868b6eeaa8de7f5463868ad193446087d4b555bc3c12dd11ba11": {
+    "first_alert_at": "2026-08-10T12:11:20.153902+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MARINEMAX INC (0001057060) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "fae2a041261c50bfb98114f69bf05476963d217c69c5992e4fed1ec67fbcfa96": {
+    "first_alert_at": "2026-08-10T12:11:21.030545+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Byrna Technologies Inc. (0001354866) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
