@@ -4808,5 +4808,137 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-10T21:01:30.464012+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Innovex International, Inc. (0001042893) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-10T21:01:39.548175+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HWH International Inc. (0001897245) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "HWH International Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en wijzigingen in de zeggenschap over de registrant worden gemeld. Het formulier vermeldt ook de verkoop van aandelen en wijzigingen in de directie.",
+      "why_nl": "Een materiële definitieve overeenkomst en wijzigingen in zeggenschap duiden op een mogelijke overname of fusie, wat kan leiden tot een herwaardering van het bedrijf. Dit kan significante veranderingen in de bedrijfsstrategie of -structuur teweegbrengen.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de betrokken partijen, de overnameprijs en de volledige voorwaarden, zijn niet bekend. Zonder deze details is de impact op de aandeelhouderswaarde en de toekomstige bedrijfsvoering onduidelijk.",
+      "invalidation_nl": "De essentiële financiële en operationele details van de materiële definitieve overeenkomst ontbreken volledig in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst en zeggenschapswijziging, maar de inhoudelijke details ontbreken voor een concrete beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-10T21:01:49.450875+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KLX Energy Services Holdings, Inc. (0001738827) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "TRADEABLE",
+      "confidence": 1,
+      "summary_nl": "KLX Energy Services Holdings, Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Het rapport vermeldt ook ongeregistreerde verkopen van aandelen.",
+      "why_nl": "Een materiële definitieve overeenkomst, vooral in de context van M&A, kan de bedrijfsstructuur en toekomstige inkomsten significant beïnvloeden. De verkoop van aandelen kan duiden op financiering voor de overeenkomst of een wijziging in de kapitaalstructuur.",
+      "risk_nl": "De specifieke financiële voorwaarden en de aard van de materiële definitieve overeenkomst zijn niet bekend uit de samenvatting. Zonder deze details is de precieze impact op de waardering van het bedrijf onduidelijk.",
+      "invalidation_nl": "De volledige inhoud van de materiële definitieve overeenkomst en de financiële implicaties zijn nog niet geanalyseerd.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is zeer recent en bevat belangrijke items die verdere analyse vereisen."
+    }
+  },
+  {
+    "time": "2026-08-10T21:01:50.377187+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WEBTOON Entertainment Inc. (0001997859) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-10T21:01:51.253883+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MASTEC INC (0000015615) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-10T21:01:52.265310+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Onterris, Inc. (0001643615) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-10T21:01:53.293290+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Quetta Acquisition Corp (0001978528) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-10T21:01:54.189676+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Pinnacle Acquisition Corp (0002123955) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-10T21:01:55.109407+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SunPower Inc. (0001838987) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

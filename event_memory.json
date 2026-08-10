@@ -1882,5 +1882,59 @@
     "symbol": "FILER",
     "title": "8-K - TON Strategy Co (0001566610) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "1316443c808bd790a5c82b136afce5e606f6ea9e41965cbed1502b673b35cb55": {
+    "first_alert_at": "2026-08-10T21:01:22.313833+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Innovex International, Inc. (0001042893) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b307864915447ceb7e32835d737d700a1c1b3c2c74787e8da26703e350053987": {
+    "first_alert_at": "2026-08-10T21:01:31.413564+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HWH International Inc. (0001897245) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "134b3db297eece712f15e9331c29777cda88873246739b92ca8387a332132907": {
+    "first_alert_at": "2026-08-10T21:01:40.425077+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KLX Energy Services Holdings, Inc. (0001738827) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "28cd38121d63a033be548a658a6a20f2d95eb59e4625462d54282444f60be513": {
+    "first_alert_at": "2026-08-10T21:01:50.377164+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WEBTOON Entertainment Inc. (0001997859) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4c5b1ac97af661248671f9b1e6ce262f8e7f5d27ed5f7e3fbcadd3551915376a": {
+    "first_alert_at": "2026-08-10T21:01:51.253861+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MASTEC INC (0000015615) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f593c194dcf5df94cc456363f6391ed2c207f968262960359b71b42e9d4d11bd": {
+    "first_alert_at": "2026-08-10T21:01:52.265287+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Onterris, Inc. (0001643615) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "acb763566437b8dd3e7714eda1f0cb8cfb16fe488b916a9b0c384f0d20d693eb": {
+    "first_alert_at": "2026-08-10T21:01:53.293267+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Quetta Acquisition Corp (0001978528) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f76014097fb958ed2605da06aa35a718f9577b81c80b70181bdfc7c86ad532e5": {
+    "first_alert_at": "2026-08-10T21:01:54.189651+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Pinnacle Acquisition Corp (0002123955) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e7db2296f35df766e5c5a354da81d345c837ba29e6c394b4184ad595b497b6d4": {
+    "first_alert_at": "2026-08-10T21:01:55.109385+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SunPower Inc. (0001838987) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
