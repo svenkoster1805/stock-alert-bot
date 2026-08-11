@@ -1936,5 +1936,35 @@
     "symbol": "FILER",
     "title": "8-K - SunPower Inc. (0001838987) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "f4f1fafadc7889b48313fb72aef48d14cb8d4c1845f8e9e9650232bb8c9f81f6": {
+    "first_alert_at": "2026-08-11T11:06:22.971359+00:00",
+    "symbol": "FILER",
+    "title": "8-K - IES Holdings, Inc. (0001048268) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "38871eae67a5188b472e404314585b6f05387a9cf41a4544d1e9cdfb81137762": {
+    "first_alert_at": "2026-08-11T11:06:32.876379+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BioXcel Therapeutics, Inc. (0001720893) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0109d5f567501a5081517dca858a28e9216be7a8c476c75ddd25e61ead69ddc5": {
+    "first_alert_at": "2026-08-11T11:06:43.066272+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Green Thumb Industries Inc. (0001795139) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "473171ccba5c931e6b89b6cea08f9d2dd434f917153a5ddae31b41d114729b4a": {
+    "first_alert_at": "2026-08-11T11:06:54.520854+00:00",
+    "symbol": "FILER",
+    "title": "8-K - RYTHM, Inc. (0001800637) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e4380e4aadd22cf56a1a02609763cb34e8a3b279d6bce4694b02bcb36b5bdeb9": {
+    "first_alert_at": "2026-08-11T11:06:55.576599+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CARDINAL HEALTH INC (0000721371) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

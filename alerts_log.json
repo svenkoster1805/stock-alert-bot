@@ -7847,5 +7847,126 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-11T11:06:32.369224+00:00",
+    "symbol": "FILER",
+    "company": "IES Holdings, Inc. (0001048268) (Filer)",
+    "event_key": "f4f1fafadc7889b48313fb72aef48d14cb8d4c1845f8e9e9650232bb8c9f81f6",
+    "event_family": "M_AND_A",
+    "title": "8-K - IES Holdings, Inc. (0001048268) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048268/000149315226036976/0001493152-26-036976-index.htm",
+    "news_age_minutes": 5,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "IES Holdings, Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en de niet-geregistreerde verkoop van aandelen worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke transactie die de bedrijfsstructuur en toekomstige winstgevendheid van IES Holdings kan beïnvloeden. De verkoop van aandelen kan wijzen op financiering voor deze transactie of een andere strategische zet.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de materiële overeenkomst en de aandelenverkoop zijn nog onbekend. Zonder deze details is het onmogelijk de impact op de waardering van het bedrijf te beoordelen.",
+      "invalidation_nl": "De essentiële details over de inhoud en waarde van de materiële overeenkomst ontbreken in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van het volledige 8-K-document is noodzakelijk om de economische impact te bepalen."
+    }
+  },
+  {
+    "time": "2026-08-11T11:06:42.476451+00:00",
+    "symbol": "FILER",
+    "company": "BioXcel Therapeutics, Inc. (0001720893) (Filer)",
+    "event_key": "38871eae67a5188b472e404314585b6f05387a9cf41a4544d1e9cdfb81137762",
+    "event_family": "M_AND_A",
+    "title": "8-K - BioXcel Therapeutics, Inc. (0001720893) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1720893/000110465926093710/0001104659-26-093710-index.htm",
+    "news_age_minutes": 5,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BioXcel Therapeutics, Inc. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan belangrijke financiële of strategische gevolgen hebben voor het bedrijf. Afhankelijk van de inhoud kan dit de waardering of toekomstige vooruitzichten van BioXcel beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst zijn nog onbekend. Zonder details over de tegenpartij, contractwaarde of impact is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er zijn geen details over de inhoud van de materiële definitieve overeenkomst, zoals de tegenpartij of financiële voorwaarden.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de M&A-details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-08-11T11:06:54.017700+00:00",
+    "symbol": "FILER",
+    "company": "Green Thumb Industries Inc. (0001795139) (Filer)",
+    "event_key": "0109d5f567501a5081517dca858a28e9216be7a8c476c75ddd25e61ead69ddc5",
+    "event_family": "M_AND_A",
+    "title": "8-K - Green Thumb Industries Inc. (0001795139) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1795139/000119312526343396/0001193125-26-343396-index.htm",
+    "news_age_minutes": 6,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Green Thumb Industries Inc. heeft op 11 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de 'Entry into a Material Definitive Agreement' en 'Other Events'.",
+      "why_nl": "Een 'Material Definitive Agreement' kan duiden op een belangrijke zakelijke transactie die de strategie of financiële positie van het bedrijf significant beïnvloedt. De aard van deze overeenkomst, mogelijk een fusie of overname, kan leiden tot veranderingen in de bedrijfswaardering.",
+      "risk_nl": "De specifieke inhoud, de financiële voorwaarden en de betrokken partijen van de overeenkomst zijn niet bekend. Zonder deze details is de potentiële impact op de aandeelhouderswaarde onduidelijk en kan deze zowel positief als negatief zijn.",
+      "invalidation_nl": "Er zijn geen concrete details over de aard van de overeenkomst, de contractwaarde of de formele voorwaarden beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Nadere openbaarmaking van de 'Material Definitive Agreement' is essentieel voor een economische beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-11T11:06:55.023949+00:00",
+    "symbol": "FILER",
+    "company": "RYTHM, Inc. (0001800637) (Filer)",
+    "event_key": "473171ccba5c931e6b89b6cea08f9d2dd434f917153a5ddae31b41d114729b4a",
+    "event_family": "M_AND_A",
+    "title": "8-K - RYTHM, Inc. (0001800637) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1800637/000121390026087480/0001213900-26-087480-index.htm",
+    "news_age_minutes": 6,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-11T11:06:56.053952+00:00",
+    "symbol": "FILER",
+    "company": "CARDINAL HEALTH INC (0000721371) (Filer)",
+    "event_key": "e4380e4aadd22cf56a1a02609763cb34e8a3b279d6bce4694b02bcb36b5bdeb9",
+    "event_family": "M_AND_A",
+    "title": "8-K - CARDINAL HEALTH INC (0000721371) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137126000036/0000721371-26-000036-index.htm",
+    "news_age_minutes": 27,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
