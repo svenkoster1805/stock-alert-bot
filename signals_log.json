@@ -5140,5 +5140,137 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-11T21:00:33.603651+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Katapult Holdings, Inc. (0001785424) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WATCH",
+      "confidence": 1,
+      "summary_nl": "Katapult Holdings, Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin de voltooiing van een acquisitie of desinvestering van activa en het aangaan van een materiële definitieve overeenkomst worden gemeld. Het document vermeldt ook wijzigingen in de zeggenschap, de raad van bestuur en het management, evenals de uitgifte van aandelen.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de financiële positie en strategische richting van het bedrijf aanzienlijk beïnvloeden. Wijzigingen in zeggenschap en management kunnen leiden tot nieuwe bedrijfsstrategieën en operationele veranderingen.",
+      "risk_nl": "De specifieke financiële voorwaarden, de aard van de overgenomen of afgestoten activa en de identiteit van de tegenpartij zijn niet gespecificeerd in de samenvatting. Dit maakt een gedetailleerde beoordeling van de impact op de bedrijfswaarde onmogelijk.",
+      "invalidation_nl": "De samenvatting bevat geen concrete financiële details zoals de transactiewaarde of de specifieke activa/entiteiten die zijn overgenomen of afgestoten.",
+      "is_already_priced": false,
+      "notes": "De volledige 8-K-aanvraag moet worden geraadpleegd voor de gedetailleerde voorwaarden en financiële impact van deze gebeurtenissen."
+    }
+  },
+  {
+    "time": "2026-08-11T21:00:45.302961+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MACERICH CO (0000912242) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "MACERICH CO heeft een 8-K filing ingediend met meldingen over een materiële definitieve overeenkomst, de creatie van een directe financiële verplichting en niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Zonder verdere details over de aard van de overeenkomst of de betrokken partijen, is de economische relevantie voor een M&A transactie onduidelijk.",
+      "risk_nl": "Het ontbreken van specifieke informatie over de overeenkomst en de financiële voorwaarden maakt elke beoordeling van risico's onmogelijk.",
+      "invalidation_nl": "De samenvatting van de 8-K filing bevestigt geen specifieke M&A transactie of de economische details daarvan.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is te generiek om als M&A event te beoordelen zonder de inhoud van de overeenkomst."
+    }
+  },
+  {
+    "time": "2026-08-11T21:00:58.969849+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Powerfleet, Inc. (0001774170) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Powerfleet, Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Het document vermeldt ook wijzigingen in de directie of bepaalde functionarissen en hun compensatieregelingen.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op een fusie, overname of andere significante transactie. Dit kan de toekomstige strategie, financiële positie en aandeelhouderswaarde van Powerfleet, Inc. aanzienlijk beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend. Zonder deze details is het moeilijk de potentiële waardecreatie of -vernietiging te beoordelen.",
+      "invalidation_nl": "Er is geen contractwaarde, partijen of specifieke voorwaarden van de materiële definitieve overeenkomst bekendgemaakt in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een definitieve overeenkomst, maar de inhoudelijke details ontbreken voor een concrete beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-11T21:00:59.663304+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BiomX Inc. (0001739174) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-11T21:01:00.374072+00:00",
+    "symbol": "FILER",
+    "title": "8-K - O REILLY AUTOMOTIVE INC (0000898173) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-11T21:01:01.108002+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - MIMEDX GROUP, INC. (0001376339) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-11T21:01:01.871614+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FEMASYS INC (0001339005) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-11T21:01:02.606166+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AVITA Medical, Inc. (0001762303) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-11T21:01:03.357570+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DUOS TECHNOLOGIES GROUP, INC. (0001396536) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

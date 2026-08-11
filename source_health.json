@@ -2,31 +2,31 @@
   "fmp_press_release": {
     "success": 3,
     "errors": 4,
-    "last": "2026-08-11T20:06:18.310536+00:00",
+    "last": "2026-08-11T21:00:01.530900+00:00",
     "detail": "402 Client Error: Payment Required for url: https://financialmodelingprep.com/stable/news/press-releases-latest?page=0&limit=60&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
   },
   "sec": {
-    "success": 479,
+    "success": 480,
     "errors": 480,
-    "last": "2026-08-11T20:06:52.292608+00:00",
-    "detail": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)"
+    "last": "2026-08-11T21:00:02.359941+00:00",
+    "detail": "90 rows"
   },
   "fmp_stock": {
     "success": 3,
     "errors": 4,
-    "last": "2026-08-11T20:06:52.538333+00:00",
+    "last": "2026-08-11T21:00:02.738684+00:00",
     "detail": "402 Client Error: Payment Required for url: https://financialmodelingprep.com/stable/news/stock-latest?page=0&limit=70&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
   },
   "fmp_general": {
     "success": 3,
     "errors": 4,
-    "last": "2026-08-11T20:06:52.781584+00:00",
+    "last": "2026-08-11T21:00:03.079999+00:00",
     "detail": "402 Client Error: Payment Required for url: https://financialmodelingprep.com/stable/news/general-latest?page=0&limit=50&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
   },
   "google": {
-    "success": 491,
+    "success": 492,
     "errors": 0,
-    "last": "2026-08-11T20:06:54.238788+00:00",
-    "detail": "12 rows"
+    "last": "2026-08-11T21:00:04.522029+00:00",
+    "detail": "17 rows"
   }
 }

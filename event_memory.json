@@ -2014,5 +2014,59 @@
     "symbol": "FILER",
     "title": "8-K - FEDERAL REALTY INVESTMENT TRUST (0000034903) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "b3ed226ff917e618a50360be902412d37f7e7060263365e6ec5335f434c61d41": {
+    "first_alert_at": "2026-08-11T21:00:13.923595+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Katapult Holdings, Inc. (0001785424) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "de0f70c14b3490a8b6e4b7d69afbe87fb45208e4de07b8672d35a7c87d2b2fa5": {
+    "first_alert_at": "2026-08-11T21:00:34.377443+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MACERICH CO (0000912242) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "14abf60419ef0df6cc7ff11964acb37494eb322915d5d41c0cee9504a329b358": {
+    "first_alert_at": "2026-08-11T21:00:46.028963+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Powerfleet, Inc. (0001774170) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b17352ad982562ab9e9678d7622c622813396b61f78dcb68f064421819e5f13f": {
+    "first_alert_at": "2026-08-11T21:00:59.663276+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BiomX Inc. (0001739174) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "08830518bb5cda6759682f4ca47ea62970c89df19ba5285bfbf2b80e492c98d4": {
+    "first_alert_at": "2026-08-11T21:01:00.374045+00:00",
+    "symbol": "FILER",
+    "title": "8-K - O REILLY AUTOMOTIVE INC (0000898173) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0b19a99c11ce4dd1ba450de19ac1eec7aca178fdd8e35f552aee09c2a917ffdd": {
+    "first_alert_at": "2026-08-11T21:01:01.107801+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - MIMEDX GROUP, INC. (0001376339) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "3fb1dd143428fb3e62e68e2ec32f5db0340218af35b72cdb4fe959896685d055": {
+    "first_alert_at": "2026-08-11T21:01:01.871588+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FEMASYS INC (0001339005) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "6547670cd2d22171ef2dbafe2c858844bbcc67b7e0a81b809078074b362dd24b": {
+    "first_alert_at": "2026-08-11T21:01:02.606140+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AVITA Medical, Inc. (0001762303) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "9abd579d861c9a3271f1799b7ab360847c33b7b4e6d44a018148638804ecfdc4": {
+    "first_alert_at": "2026-08-11T21:01:03.357546+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DUOS TECHNOLOGIES GROUP, INC. (0001396536) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
