@@ -5032,5 +5032,21 @@
       "is_already_priced": false,
       "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig voor een volledige beoordeling."
     }
+  },
+  {
+    "time": "2026-08-11T17:12:22.184709+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bluerock Homes Trust, Inc. (0001903382) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WATCH",
+      "confidence": 1,
+      "summary_nl": "Bluerock Homes Trust, Inc. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de voltooiing van een acquisitie of desinvestering van activa.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de balans en toekomstige inkomstenstromen van het bedrijf significant beïnvloeden. Dit kan leiden tot een herwaardering van de onderneming.",
+      "risk_nl": "De samenvatting specificeert niet of het een acquisitie of desinvestering betreft, noch de financiële details of de betrokken partijen. Zonder deze informatie is de economische impact onduidelijk.",
+      "invalidation_nl": "De essentiële details over de aard, omvang en financiële voorwaarden van de transactie ontbreken in de verstrekte samenvatting, waardoor een handelsbeslissing niet verantwoord is.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van het volledige 8-K-document is noodzakelijk om de impact te bepalen."
+    }
   }
 ]

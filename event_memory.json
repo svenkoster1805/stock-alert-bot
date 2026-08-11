@@ -1972,5 +1972,11 @@
     "symbol": "FILER",
     "title": "8-K - Idaho Copper Corp (0001263364) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "d853df9e2c16b968cdeb8a9c4bb1090f8d287071acbfad55293b7940de587f67": {
+    "first_alert_at": "2026-08-11T17:12:12.327113+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bluerock Homes Trust, Inc. (0001903382) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
