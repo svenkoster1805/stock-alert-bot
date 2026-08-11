@@ -8018,5 +8018,30 @@
       "is_already_priced": false,
       "notes": "Nadere analyse van het volledige 8-K-document is noodzakelijk om de impact te bepalen."
     }
+  },
+  {
+    "time": "2026-08-11T19:16:58.568328+00:00",
+    "symbol": "FILER",
+    "company": "ARC Group Securities Acquisition I (0002094712) (Filer)",
+    "event_key": "310c3eb05b051ff9439dcccba7475bbd2dc63d743bb27560dd94036e73a04a3a",
+    "event_family": "M_AND_A",
+    "title": "8-K - ARC Group Securities Acquisition I (0002094712) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2094712/000149315226037069/0001493152-26-037069-index.htm",
+    "news_age_minutes": 22,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "ARC Group Securities Acquisition I heeft op 11 augustus 2026 een 8-K formulier ingediend bij de SEC, met daarin 'Other Events' en 'Financial Statements and Exhibits'.",
+      "why_nl": "De ingediende 8-K bevat geen specifieke details over een fusie of overname, waardoor de economische relevantie onduidelijk is.",
+      "risk_nl": "Zonder concrete informatie over de aard van de 'Other Events' is het onmogelijk om de impact op het bedrijf te beoordelen.",
+      "invalidation_nl": "De brontekst bevestigt geen fusie- of overnameactiviteit.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is te algemeen om als M&A-event te kwalificeren."
+    }
   }
 ]
