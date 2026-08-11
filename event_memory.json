@@ -1966,5 +1966,11 @@
     "symbol": "FILER",
     "title": "8-K - CARDINAL HEALTH INC (0000721371) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "f098b637953e4ac5bf6d2656cbb83bfa814a5824db29c4922cb081f02f39dd41": {
+    "first_alert_at": "2026-08-11T12:39:46.450113+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Idaho Copper Corp (0001263364) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

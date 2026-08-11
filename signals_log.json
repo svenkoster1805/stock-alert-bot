@@ -5016,5 +5016,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-11T12:39:53.060609+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Idaho Copper Corp (0001263364) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Idaho Copper Corp (FILER) heeft een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Het formulier vermeldt ook wijzigingen in de directie en compensatieregelingen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische transactie, zoals een overname of fusie. Dit kan de toekomstige waardering en operationele richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, de partijen en de financiële voorwaarden van de materiële definitieve overeenkomst zijn onbekend. Zonder deze details is het onmogelijk de impact op Idaho Copper Corp te beoordelen.",
+      "invalidation_nl": "De contractwaarde, de betrokken partijen en de exacte voorwaarden van de overeenkomst zijn niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig voor een volledige beoordeling."
+    }
   }
 ]
