@@ -1984,5 +1984,35 @@
     "symbol": "FILER",
     "title": "8-K - ARC Group Securities Acquisition I (0002094712) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "1942a5b39c94c45c1c866a5aebc9965148270e330d811f97c735bec1d43e4064": {
+    "first_alert_at": "2026-08-11T20:07:00.344354+00:00",
+    "symbol": "FILER",
+    "title": "8-K - East West Ave Acquisition Corp. (0002100704) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "34f7c9bcc8e744c42995f7010256d4f6c97b2a114389d0a20f285e9c839c0d27": {
+    "first_alert_at": "2026-08-11T20:07:08.317396+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Sanara MedTech Inc. (0000714256) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "70899571ed1e6d299c1b174f20ba95a78a59825df0b1daa1358b0f6ae5e48834": {
+    "first_alert_at": "2026-08-11T20:07:40.272850+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Chaince Digital Holdings Inc. (0001527762) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a1e053cdf156c9b4d1e7781eb1bc017dc6bf23650645a2f4a4c879927d66ef47": {
+    "first_alert_at": "2026-08-11T20:07:51.680668+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Federal Realty OP LP (0001901876) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4549390d68d976dba89478ad764a8e87969a6adbcb311563d6ce43deaa3faff4": {
+    "first_alert_at": "2026-08-11T20:07:52.623264+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FEDERAL REALTY INVESTMENT TRUST (0000034903) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

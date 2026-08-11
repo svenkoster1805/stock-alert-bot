@@ -5064,5 +5064,81 @@
       "is_already_priced": false,
       "notes": "De 8-K filing is te algemeen om als M&A-event te kwalificeren."
     }
+  },
+  {
+    "time": "2026-08-11T20:07:07.394444+00:00",
+    "symbol": "FILER",
+    "title": "8-K - East West Ave Acquisition Corp. (0002100704) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "East West Ave Acquisition Corp. heeft een 8-K formulier ingediend bij SEC.gov, met vermelding van 'Other Events' en 'Financial Statements and Exhibits'. De melding is gepubliceerd op 11 augustus 2026.",
+      "why_nl": "Een 8-K melding kan duiden op belangrijke bedrijfsontwikkelingen die de waardering van het bedrijf kunnen beïnvloeden. De aard van deze gebeurtenissen is echter nog onbekend.",
+      "risk_nl": "De specifieke inhoud van de 'Other Events' is onbekend, waardoor de aard en impact van de melding onduidelijk zijn. Er is geen concrete informatie over een M&A-transactie.",
+      "invalidation_nl": "Er is geen concrete bevestiging van een fusie- of overnamedeal of de voorwaarden daarvan in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is te algemeen om een specifieke M&A-transactie te bevestigen."
+    }
+  },
+  {
+    "time": "2026-08-11T20:07:39.361351+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Sanara MedTech Inc. (0000714256) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Sanara MedTech Inc. heeft op 11 augustus 2026 een 8-K/A-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva, inkomsten of toekomstige groeivooruitzichten.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn niet bekend. Zonder deze details is het onmogelijk om de potentiële waarde of risico's voor beleggers te beoordelen.",
+      "invalidation_nl": "Er zijn geen details over de contractwaarde, de tegenpartij of de specifieke voorwaarden van de materiële definitieve overeenkomst beschikbaar in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse vereist inzage in het volledige 8-K/A-document voor details over de overeenkomst."
+    }
+  },
+  {
+    "time": "2026-08-11T20:07:50.736831+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Chaince Digital Holdings Inc. (0001527762) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Chaince Digital Holdings Inc. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële overeenkomst kan de financiële positie of strategische richting van het bedrijf significant beïnvloeden. De aard van de overeenkomst, in dit geval M&A, kan leiden tot waardeverandering.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, voorwaarden en financiële impact, zijn nog onbekend. Zonder deze details is de economische relevantie en het effect op de aandelenkoers onduidelijk.",
+      "invalidation_nl": "Er zijn geen concrete details over de aard, omvang of financiële voorwaarden van de M&A-overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de inhoud van de M&A is nog niet gespecificeerd."
+    }
+  },
+  {
+    "time": "2026-08-11T20:07:51.680686+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Federal Realty OP LP (0001901876) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-11T20:07:52.623287+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FEDERAL REALTY INVESTMENT TRUST (0000034903) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
