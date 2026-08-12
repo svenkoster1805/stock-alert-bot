@@ -8377,5 +8377,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-12T12:28:08.566279+00:00",
+    "symbol": "FILER",
+    "company": "Fusemachines Inc. (0002033383) (Filer)",
+    "event_key": "f143b4784d7b8ee3bf2f58eb2b86dcfae2c54006d709aa0309f42dfc69c66097",
+    "event_family": "M_AND_A",
+    "title": "8-K - Fusemachines Inc. (0002033383) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2033383/000149315226037251/0001493152-26-037251-index.htm",
+    "news_age_minutes": 22,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]
