@@ -8527,5 +8527,30 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de inhoudelijke M&A-details zijn niet beschikbaar in de samenvatting."
     }
+  },
+  {
+    "time": "2026-08-12T20:06:19.736026+00:00",
+    "symbol": "FILER",
+    "company": "AmpliTech Group, Inc. (0001518461) (Filer)",
+    "event_key": "529be1c186afaec55b63dd08fc38e1da340442132ac6ace0a776d6f7ab062034",
+    "event_family": "M_AND_A",
+    "title": "8-K - AmpliTech Group, Inc. (0001518461) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1518461/000149315226037338/0001493152-26-037338-index.htm",
+    "news_age_minutes": 0,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AmpliTech Group, Inc. heeft een 8-K ingediend bij SEC.gov over het aangaan van een materiële definitieve overeenkomst. De aard en details van deze overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan een significante strategische of financiële impact hebben op het bedrijf. Dit kan de toekomstige groeivooruitzichten of de balans van AmpliTech Group beïnvloeden.",
+      "risk_nl": "Het grootste risico is de volledige afwezigheid van details over de overeenkomst, zoals de tegenpartij, de voorwaarden of de financiële waarde. Zonder deze informatie is een economische beoordeling onmogelijk en kan de impact zowel positief als negatief zijn.",
+      "invalidation_nl": "Er zijn geen concrete details bekend over de inhoud, de partijen of de financiële impact van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "Nadere informatie over de overeenkomst is essentieel voor een economische analyse."
+    }
   }
 ]

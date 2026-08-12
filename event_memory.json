@@ -2104,5 +2104,11 @@
     "symbol": "FILER",
     "title": "8-K - VerifyMe, Inc. (0001104038) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "529be1c186afaec55b63dd08fc38e1da340442132ac6ace0a776d6f7ab062034": {
+    "first_alert_at": "2026-08-12T20:06:05.124230+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AmpliTech Group, Inc. (0001518461) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
