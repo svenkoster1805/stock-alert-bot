@@ -5336,5 +5336,21 @@
       "is_already_priced": false,
       "notes": "De 8-K melding duidt op een belangrijke ontwikkeling, maar specifieke informatie ontbreekt nog."
     }
+  },
+  {
+    "time": "2026-08-12T18:05:13.045089+00:00",
+    "symbol": "FILER",
+    "title": "8-K - APPlife Digital Solutions Inc (0001755101) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "APPlife Digital Solutions Inc heeft een 8-K-rapport ingediend bij de SEC, waarin het aangaan van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting worden gemeld. Ook worden ongeregistreerde verkopen van aandelen genoemd.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een fusie of overname, wat de strategische richting en waardering van het bedrijf significant kan beïnvloeden. De bijbehorende financiële verplichtingen en aandelenuitgifte wijzen op een substantiële transactie.",
+      "risk_nl": "De exacte financiële voorwaarden, de contractwaarde en de impact op de bestaande aandeelhouders zijn nog onbekend. Zonder deze details is de uiteindelijke economische waarde van de overeenkomst onduidelijk.",
+      "invalidation_nl": "De contractwaarde en gedetailleerde voorwaarden van de overeenkomst zijn niet bekendgemaakt in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een formele overeenkomst, maar de details ontbreken nog voor een volledige analyse."
+    }
   }
 ]
