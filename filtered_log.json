@@ -1,149 +1,5 @@
 [
   {
-    "time": "2026-06-30T22:05:21.103536+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - ASCENTAGE PHARMA GROUP INTERNATIONAL (0002023311) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 109,
-    "url": "https://www.sec.gov/Archives/edgar/data/2023311/000121390026073699/0001213900-26-073699-index.htm"
-  },
-  {
-    "time": "2026-06-30T22:05:21.103548+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - RISKIFIED LTD. (0001851112) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 111,
-    "url": "https://www.sec.gov/Archives/edgar/data/1851112/000185111226000023/0001851112-26-000023-index.htm"
-  },
-  {
-    "time": "2026-06-30T22:05:21.103561+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Ellomay Capital Ltd. (0000946394) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 114,
-    "url": "https://www.sec.gov/Archives/edgar/data/946394/000121390026073688/0001213900-26-073688-index.htm"
-  },
-  {
-    "time": "2026-06-30T22:05:21.103574+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - BANK OF CHILE (0001161125) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 115,
-    "url": "https://www.sec.gov/Archives/edgar/data/1161125/000121390026073685/0001213900-26-073685-index.htm"
-  },
-  {
-    "time": "2026-06-30T22:05:21.103586+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - POET TECHNOLOGIES INC. (0001437424) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 117,
-    "url": "https://www.sec.gov/Archives/edgar/data/1437424/000117184326004397/0001171843-26-004397-index.htm"
-  },
-  {
-    "time": "2026-06-30T22:05:21.103598+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Core AI Holdings, Inc. (0001649009) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 119,
-    "url": "https://www.sec.gov/Archives/edgar/data/1649009/000149315226031280/0001493152-26-031280-index.htm"
-  },
-  {
-    "time": "2026-06-30T22:05:21.103610+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Ascendis Pharma A/S (0001612042) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 119,
-    "url": "https://www.sec.gov/Archives/edgar/data/1612042/000119312526290485/0001193125-26-290485-index.htm"
-  },
-  {
-    "time": "2026-06-30T22:05:21.103622+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Metals Royalty Co Inc. (0002087398) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 119,
-    "url": "https://www.sec.gov/Archives/edgar/data/2087398/000110465926079322/0001104659-26-079322-index.htm"
-  },
-  {
-    "time": "2026-06-30T22:05:21.103634+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - InflaRx N.V. (0001708688) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 119,
-    "url": "https://www.sec.gov/Archives/edgar/data/1708688/000114036126026933/0001140361-26-026933-index.htm"
-  },
-  {
-    "time": "2026-06-30T22:05:21.103646+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "PUBL",
-    "title": "6-K - Eco Wave Power Global AB (publ) (0001846715) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 120,
-    "url": "https://www.sec.gov/Archives/edgar/data/1846715/000121390026073671/0001213900-26-073671-index.htm"
-  },
-  {
-    "time": "2026-06-30T22:05:21.103662+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Scage Future (0002000366) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 120,
-    "url": "https://www.sec.gov/Archives/edgar/data/2000366/000121390026073670/0001213900-26-073670-index.htm"
-  },
-  {
-    "time": "2026-06-30T22:05:22.092258+00:00",
-    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
-    "symbol": "",
-    "title": "DCM Shriram extends industrial salt acquisition deadline to Dec 31, 2026 - scanx.trade",
-    "publisher": "scanx.trade",
-    "age_minutes": 28,
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdGpRcEpHR1JHaEs0M3NRZGZSNVp4WUpCMFg3X3FrUldnY2JYU2NjMUVGQ3dlOW84UzdNR0xPdlFfTnRmc1Bnd29obGJrMm52aE5RWWFpcFNEOXRzUFF0N3NiMklzY1dLNGVtenRtU0U3LWhEU05MRnRaQkpXZjlRVDI2UkVFU1RlNlVQM3hVNU1XLUptT3FEUEhob0g3Q3BJMXFJWk5RZ3BMSFpCQ1hmSDdDQThzOXRuUUZwZkJQUkFPVE1fVlFv?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
-    "time": "2026-06-30T22:05:22.092329+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "JHG",
-    "title": "Janus Henderson (NYSE: JHG) taken private in $6.5B, $52-per-share buyout - Stock Titan",
-    "publisher": "Stock Titan",
-    "age_minutes": 50,
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakRFdExWUFRFa0dKbUN0dWhfZEVFMmtTQklsZ05JWFlxbXFJcVZsV0REazlVSkJMWkpZdWJxQXlYc1QzZ3BEdVhSUndhdEV2SFpCUS00ZFJoR24ySXZHQl9ZVjBLYnlUNENNNlZhTGd6MWVmQnB4MHdaWHp1dGliYXd4RWpiSHgxSThYUm5aZGVrNlFmT3JETEhGQ1U2cjVWVmpoNFJYZjU0THVkQ2JCUm92MA?oc=5"
-  },
-  {
-    "time": "2026-06-30T22:05:22.906020+00:00",
-    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
-    "symbol": "",
-    "title": "Alcoa Announces Strategic Acquisition of South32’s Bauxite, Alumina, and Aluminum Assets for $4.1 billion - Business Wire",
-    "publisher": "Business Wire",
-    "age_minutes": 30,
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTGEtZmZVM1owcVRwdkxSRWNyOWljOHJJQV9hVldzU00tVGxBN3o4dWN4TFRSQlRRTHMwME1CR3FZMTVlRFF0RXFSTjM4OVM4akxtTlR1dEV1NlZwYmZ2bjRVZldEcW1nMFl0VjR3OC1RMVFLYnMwM0FndFI4NDRnVldHS1Q1YnVjZ1VYS0ZDNHJ0dXNNS1RZZUhEbEV0YVdaTkZncFdhVnZhVXRTY2dESGlra0JaNnhuazNySlZ3VWlLRXlmb0U5bWlEcXdTRjdPak05WmVPNTd3ZmR6bkRPcE1vSTUxX1VnS1E0NW1yNGpyMVU?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
-    "time": "2026-06-30T22:05:25.091820+00:00",
-    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
-    "symbol": "NIMU",
-    "title": "Non-Invasive Monitoring (NIMU) extends Gravitics merger deadline and adds noteholder resale rights - Stock Titan",
-    "publisher": "Stock Titan",
-    "age_minutes": 35,
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZUExRDJtRGJQNHJWaFVQT0Qtb3BNRVJ6VTNSM2Z6SXZDRkY1TEZneTlwTTVIVFVVT3JXVEpDM3JSWGRNOHRsdm1oZnZRaVdkLXV5RERLVFBGODhnTUpaNU5vRUw0RVlGdUpiMmdFUEJMYlJVd0NEaVl5Q2tuQV9JR3VKdlZ1THJDSGl6dUVOYjZOTGNZRkN4Z0phUDI4SFRraTZhX0pNRG9EeEtudVBxSGg3ejQxTkN0MGJTa3lITVB2MXl1TVE?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
-    "time": "2026-06-30T22:05:26.024715+00:00",
-    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
-    "symbol": "",
-    "title": "Alcoa to acquire South32 aluminum assets for $4.1 billion By Investing.com - Investing.com Canada",
-    "publisher": "Investing.com Canada",
-    "age_minutes": 20,
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkpydGJfVmIxUlBrZGxRLVphMUxjUFNEVkoxclZ3ZFhGaWM2elIwX2ZJdnhyMGluZ290aHZpMUJ0ZlQ0YURmZzR1UlMyNG5lYU5uWFQ3c2pSM0ZUTmgyMXR1NDNlNWNKajhudlZfdjJIUlpmUkh4SEdTTG83WF9YaWNnc2NZbWt5ODVSMG95cU51RjFkU0h6VVdaRE9RQ3Njd2M1TmY4bU9uZHNONlBFNHpUaFJVTTg?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
     "time": "2026-06-30T22:05:26.024784+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "RAIN",
@@ -107998,5 +107854,149 @@
     "publisher": "TradingView",
     "age_minutes": 58,
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDRVSWRLSVoxZWc3QTZFcS00Z2h6cF9XQVpVZ0Y5RS1HNDRwOVBlMWFCMWt4azRuRzB1TFNrWThkNFc0cV94dXNoME5obVI3Vk9YRElrdVlfSFJEdm5lc2V6MkxMNGMwY1hqZ2szT2dtTUY4Yi02MGpxX041ZjNMZg?oc=5"
+  },
+  {
+    "time": "2026-08-12T15:01:13.970770+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "8-K - JLL Income Property Trust, Inc. (0001314152) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 11,
+    "url": "https://www.sec.gov/Archives/edgar/data/1314152/000131415226000151/0001314152-26-000151-index.htm"
+  },
+  {
+    "time": "2026-08-12T15:01:13.970791+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "8-K - Victory Capital Holdings, Inc. (0001570827) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 17,
+    "url": "https://www.sec.gov/Archives/edgar/data/1570827/000119312526346020/0001193125-26-346020-index.htm"
+  },
+  {
+    "time": "2026-08-12T15:01:13.970828+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "8-K - SYSCO CORP (0000096021) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 30,
+    "url": "https://www.sec.gov/Archives/edgar/data/96021/000095014226002314/0000950142-26-002314-index.htm"
+  },
+  {
+    "time": "2026-08-12T15:01:13.970997+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Techlott Signs Definitive Five-Year Platform Agreement with The Gambia’s Exclusive Lottery and Gaming License Holder - Business Wire",
+    "publisher": "Business Wire",
+    "age_minutes": 52,
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPYlBEQWlVRnZ6RDRuT2U0ci13YmRtX2ZGNjA4NFhQNWZ1Q3BPbzJkSEhvVTFsY0VzeWhsWVJMLUx4d3NOWS1fbHFTblNwQ1gwN3ZBaTQ3OTE2Zzg0SkFEVnl4WUs0TXJQaW5iZzdTb3o3MXNJYkhsZ0NHRGdCS2RhWWhtWXg0bmtFY1FOM08zcm15TFZQOHF3VUJ1SlB5dkI4LUdRRnJJaUhPRk9IUnJzdTZfSTBScS1LV0VGNlpXQjBHVDN0SDZXd1MyOUwxMjFYUEJTNWJuWUc5anpoelY4SDFuaEo4OFpxUEJ3dDlqVENNeVBOT3FTbDd4VkR6TkgwQVE?oc=5"
+  },
+  {
+    "time": "2026-08-12T15:01:13.971017+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "TSMC & Sony Establish JV in Japan to Develop Smartphone Image Sensors - The Globe and Mail",
+    "publisher": "The Globe and Mail",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWHZZcHRSYzhmeGk3d0F4a1B0cGsyZEJBSWNkSUctdGR6RXVKQk1GTUJIRWxrSENZdUxTYzdReXVmQWpWYmlTQmkxeUtfZXp5TEE5VjV4eVhtQXl0Y2pCZU1WZVY1SG9MNWs0QUNvdWNkVFFmc1oxOEZFdVQwUTV6S2dWUHRVaGJacW82TkdiSnFGQTBKSk9yZDB3eDVvLWN5RWxvQklfeWFGZE9oSTlKaU1Vb3FGbjBJdmx3OFhnQXo4ZDYxcTJXMi0wRUZBeGg5U3VzZVZrZzRVQXdXSjNuenhIYk1KUQ?oc=5"
+  },
+  {
+    "time": "2026-08-12T15:01:13.971033+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "TKMS: Record Order Book Meets Execution Reality as Kiel Shipbuilder Raises Its Sights - AD HOC NEWS",
+    "publisher": "AD HOC NEWS",
+    "age_minutes": 39,
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRXp2eFp1RU9DSVVNam4yZTdKNFQ5RFpJSzZKdnNXQ0V0bkdzS3E0ZUpUOXZtVV91ZDE5amhzUHpXeHJyRURSbFZ3c0EydlRFNG5XZzBZZS1xMGRBYXpqRkxyWGo4V0hyUktMTmdkYVJ1Tlc4am1uTXBqT3I3OUNLQnNJd1VsSFNKSzdLM1dJN1dZTFlhVjVjR0E1RmRScUt1QS1Udy1YWlpBclM1ZnZaZUdpcDREaURUTGRHWWk0a3NHRXY4LWJXc1F0cVVlOXk1MER5VUczdTllWmFHemc?oc=5"
+  },
+  {
+    "time": "2026-08-12T15:01:14.543690+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "ZLAB",
+    "title": "Zai Lab (ZLAB) insider William Lis plans sale of 8,506 ADS on NASDAQ - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHZyOGt3eHBWNmRjMnhhUFduYXFJMEdOSUNfMkdvS0Z2d2dXSWRDMUkxZEFqMEc1bEpnMF9xSTQ5LVQ0U1R5NU91VUI1NTJ0aXlONVNZbENZb09TbjBDemJxcU9ENzJjRXQ5VVFoX216VU1DMldHUnhiazB5cEM0b1BnMGMwamRpR29EMmdjM1RqZw?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-12T15:01:14.543751+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "CAR UPCOMING DEADLINE: Levi & Korsinsky Alerts Pentwater Capital Management LP Stockholders of Securities Class Action - Contact the Firm - PR Newswire",
+    "publisher": "PR Newswire",
+    "age_minutes": 54,
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQQVd2am4zSW9Vd25tMUxMaUF6bUlXWkwzZGVFMWt2eWFfUjRRd292ZGlqZjBFZmttRl9tcHRXMHczb3RCSTlxeFJDSXNLc2JSQnM3cHZFVVhGNE1jWHBHMDgzc25QMnE1ZjNyX1ZNUE1MaWI5UTVSdFdvLWRYWG5YU3FoRmViYW43clM2V0t3cHBXMFVxNk1GNEl3NlJsSElueFE1TVVVZkVKRHRjQzU1VTJCbjhEamxLbGJfV1FYdmszcmJoRHJUeUp1dmcyTE9HUjY3SXV0RHZueW9rNVZVOEJRSi0td1V0UWhuVU1OakUzbzdpR29DWWYwR2hQVVBDQnVUQ09KSVJYXzRJSzAyMWplOUstTDExTy1F?oc=5"
+  },
+  {
+    "time": "2026-08-12T15:01:15.526884+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Harmonic set to report earnings as divestiture reshapes business - Investing.com",
+    "publisher": "Investing.com",
+    "age_minutes": 51,
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMm1pYkZ0ckhhRy1vUW0weUxKeURMN0VRdHdQVmRpbzhXUmVuTUJ0ejY3aHBKWDM1T3RMeXZoNjlQalhJS2REdjV5a0ZUWGRPM0lIWEpPczVkQUFtUzY0VFlUTngwRTVxaHZJV3cxdG13ZEJpalVjdkpsTl8ybzFSaWtIOVByX1lmMVoydzQxd3ZsS1JGbTdGcXhFRy01QlZTZm5Rb2hvTDJuQVh4VzdRTTBqbWpMcVc3?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-12T15:01:16.384789+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "KTB: Strong H1 results, margin gains, and Lee divestiture drive raised FY26 outlook and capital returns - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 54,
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPSlUwUTNWTk9GZzFGXzJmakkwekE4em5mQnlpakh5TjFoZDBUeUNpTEkwckJ6ejZmMVNXdV9FdnV3VmRzNEVkazhpUDEyUEFuenl4dFc4U3VCVUlZMDNpTnRWcEtEN3JFY1ZMaldLeE1QeHhaWTdyb2tDZUFGUll2SEpzbGRUSkRTMy11U3NWVFU5S05hTlNqOGwyeTdrTDYtTTRNUzMxOEFsdWJDck1NOVNITzNaVmhBLUNHQmliR3FhSXNJYkh3M2pEYnFWbWZRanh5U0JyX1phV0J5N04wQWIwUGFUNlpSOHVmQ2JFb2JoejNvSXYxN0hYcHVrZU5XV2FCd2kxV1lnMmEtNlFFTVJNVFdudw?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-12T15:01:16.384882+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "EQH",
+    "title": "Equitable Holdings (EQH) Director Craig Mackay Sells 2,200 Shares - GuruFocus",
+    "publisher": "GuruFocus",
+    "age_minutes": 2,
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnJJNE9xcEFDT2hlcHlYaE50bHRTbmtzcTk5UkZ3QVhpV3pjT2QtVF9NNXdkamU2cU1yWG5TWjRpYndUTXlpaFpSX2FTcHQtVkd3NE03LTQ2aVMwejRWTFo4dHpNM0s1YXowY1hKdDlfX3JheUw1Umh4NE4xQkl1SWVGTVRuTXEtSElhNHRjaE85SUh3aENuNzVKQVpJRUxGWTNF?oc=5"
+  },
+  {
+    "time": "2026-08-12T15:01:16.384902+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "SNN",
+    "title": "Smith & Nephew (SNN): executive share awards vest, partial sale to cover tax - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 22,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWnZuQnBlcEY5TjRqY3hhX3YxdDcyYVU3MERacXJPRURLN3NfVVFINk5mU0hsakh3RWcwTDJwclJQSzFPQ2lXeXkzTVg1MUxNbV84YWtfTVBmdExEVFNSZ2lZTEl0dXdMVWF0di12Tko0cS02XzVNcmtMTE9xb200Q2dOSUJiNFVyYW1mU1N4cF9GblJEUGg5N3FiUWV2S1JmMjlJa1VCS3EyM2p6LXNNcQ?oc=5"
+  },
+  {
+    "time": "2026-08-12T15:01:16.384920+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Earnings call transcript: Questerre Energy posts Q2 2026 profit as PX Energy turns a corner - Investing.com",
+    "publisher": "Investing.com",
+    "age_minutes": 17,
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSGs5ZG9LVTJxMk5lMGswTl9mRlE1MjdORU5scHVLd1RjbDBJOGpMc2dtZkhEaHowNUxtb0ROYUpxaXMtSmktbnZrVEtIdWpqTC1qT1BjVHFPMGVHY0EwOXRMRVFIRlVIMnFSV3RXM1o0aTBDTnd2Z2ZCdU00MTFudkJlUEduSGU0d0tKNVdqYi1IV3RZVzV6U0gyUllPX2V5cEhVeENETDJkMW5qV0ZYVW9UOGQyUnB0WWcydjBteWNUYmxsVmY5cTdZRUM0SERiNXVmT1Jwc1lqT0haazRv?oc=5"
+  },
+  {
+    "time": "2026-08-12T15:01:16.384936+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Everything you need to know about Ncell probe report: Share sale, Axiata exit, ownership and tax disputes - Nepalnews.com",
+    "publisher": "Nepalnews.com",
+    "age_minutes": 35,
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRWJDbl8taURtZ3dvZEFtUFNqUGhlYmU4Q2U3dG56M0QyZEVPRHFEQlgyS0JHbjZQdDJXNEI1Z3U1RlM2bV9Vamt2R2Jzbm1tc0lHX3JHR1doeDBpMTFuTC1SbE9aTVY4UmhYRVY1VHdqTlJCcGZFLU1nVF8tNUV0UzBhSDllclZjM0ZLMHk0OVR2Mnk4cVV4TnNXNk9YbFZJV1hPVGtPRVE3aVU4aUVXQ3Y5cUJUUDY5T0VBXzIwTFNqMTY0VWp3c3JNanpqTUZkcGlzZlJFZUJqNnBhd3d3?oc=5"
+  },
+  {
+    "time": "2026-08-12T15:01:16.384955+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Precision Electronics Q1 Results: Net loss widens to ₹235.9 lakh - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 4,
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZHh6NW9WeWNkOC15WXNfdmw4QzlVWmVodXNaR2hrQmlCcENhTFlxTUdoNUZ3UGJycUMzYlRpT3JVQmF1aFc1YnVUeUVxdWFkVFdqaGVSa1lPY3dNa3FpZVoyMTRLaUpYaXdXLVNTZDY5ak5NOGxvWmxmYUZ6eS1SRHRTVzRqVmZUTWtHVGpjTXFFbXBybmJKMnBjN0pYWWZsNXZVX3huVjZ3MUUwaXZUNkxWMnRxQVk?oc=5"
+  },
+  {
+    "time": "2026-08-12T15:01:16.384973+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Asyad Shipping profit jumps 92% to RO39mn in H1 2026 - Muscat Daily",
+    "publisher": "Muscat Daily",
+    "age_minutes": 54,
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZldwNWJTRVdmRTliaDdMUUNocEJBQVl4VjZwWGdYYl8yeF9UUkhpWnJuUlBzX24zRnhra3pFM0ZOc2hzTkhnT1pUZkVoQ1cta3c5ZmNYS3VsbmxSNlJucy1xc3NTMmxOcEFLZ19FNkNqWktZZmU5VDBIRHF4b0M4YmNGV0tYRDJSTEVHYUwtYzVYX3c5LWc?oc=5"
   }
 ]
