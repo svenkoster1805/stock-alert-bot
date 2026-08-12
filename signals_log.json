@@ -5384,5 +5384,137 @@
       "is_already_priced": false,
       "notes": "Nadere informatie over de overeenkomst is essentieel voor een economische analyse."
     }
+  },
+  {
+    "time": "2026-08-12T20:59:19.058088+00:00",
+    "symbol": "FILER",
+    "title": "8-K - OS Therapies Inc (0001795091) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "OS Therapies Inc heeft een 8-K-formulier ingediend over het aangaan van een materiële definitieve overeenkomst, de creatie van een directe financiële verplichting en de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie. De verkoop van aandelen en financiële verplichtingen kunnen de kapitaalstructuur en toekomstige prestaties beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de materiële overeenkomst zijn onbekend. Details over de omvang van de aandelenverkoop en de financiële verplichting ontbreken, wat onzekerheid creëert.",
+      "invalidation_nl": "Er zijn geen concrete details over de aard, waarde of tegenpartij van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "Verdere details uit het 8-K-formulier zijn essentieel om de volledige implicaties van deze gebeurtenissen te beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-12T20:59:27.304146+00:00",
+    "symbol": "FILER",
+    "title": "8-K - RADIANT LOGISTICS, INC (0001171155) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "RADIANT LOGISTICS, INC heeft een 8-K filing ingediend die melding maakt van het aangaan van een materiële definitieve overeenkomst. Tevens wordt de creatie van een directe financiële verplichting of een verplichting onder een off-balance sheet arrangement gemeld.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en een financiële verplichting kan duiden op een strategische transactie zoals een acquisitie. Dit kan de toekomstige financiële positie en groeivooruitzichten van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, omvang en voorwaarden van de overeenkomst en de financiële verplichting zijn onbekend. Zonder deze details is de impact op de waardering of het risicoprofiel van RADIANT LOGISTICS niet in te schatten.",
+      "invalidation_nl": "Er is geen informatie over de tegenpartij, de contractwaarde, de aard van de transactie of de financiële voorwaarden.",
+      "is_already_priced": false,
+      "notes": "Een 8-K filing voor een materiële overeenkomst is een belangrijke indicator, maar details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-08-12T20:59:35.488683+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TCGX Acquisition Corp. (0002137965) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "TCGX Acquisition Corp. heeft op 12 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier omvat Item 8.01 (Overige Gebeurtenissen) en Item 9.01 (Financiële Overzichten en Bijlagen).",
+      "why_nl": "De indiening van een 8-K kan duiden op belangrijke bedrijfsontwikkelingen, maar de specifieke inhoud is hier niet gedetailleerd. Zonder verdere informatie over de 'Overige Gebeurtenissen' is de economische impact onduidelijk.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete details over de aard van de 'Overige Gebeurtenissen'. Hierdoor is het onmogelijk om de potentiële impact op de onderneming of de beurskoers te beoordelen.",
+      "invalidation_nl": "De 8-K-indiening bevat geen specifieke details over een fusie of overname, noch enige economisch relevante informatie die de 'M_AND_A' event-tag ondersteunt.",
+      "is_already_priced": false,
+      "notes": "De algemene aard van de 8-K-items biedt geen basis voor een handelsbeslissing."
+    }
+  },
+  {
+    "time": "2026-08-12T20:59:36.482931+00:00",
+    "symbol": "FILER",
+    "title": "8-K - XMax Inc. (0001473334) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-12T20:59:37.534588+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Pelican Acquisition II Corp (0002122392) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-12T20:59:38.507252+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Janus Living, Inc. (0002100805) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-12T20:59:39.534961+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Workhorse Group Inc. (0001425287) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-12T20:59:40.568933+00:00",
+    "symbol": "FILER",
+    "title": "8-K - STEM, INC. (0001758766) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-12T20:59:41.623359+00:00",
+    "symbol": "FILER",
+    "title": "8-K - OceanLight Acquisition Corp (0002137679) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

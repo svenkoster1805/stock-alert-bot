@@ -2110,5 +2110,59 @@
     "symbol": "FILER",
     "title": "8-K - AmpliTech Group, Inc. (0001518461) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "c9a274c863f2097511f6e68a1617e228dec5da1d26b41101f6dd84126181154c": {
+    "first_alert_at": "2026-08-12T20:59:02.420073+00:00",
+    "symbol": "FILER",
+    "title": "8-K - OS Therapies Inc (0001795091) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "09f89e6b74db5f23c3d2828fc10e722fa7183a209141589174a5ac64bf078f7c": {
+    "first_alert_at": "2026-08-12T20:59:20.077862+00:00",
+    "symbol": "FILER",
+    "title": "8-K - RADIANT LOGISTICS, INC (0001171155) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "fa6409de6dc47667d34aeff44ed86ddde200ab1d4e2e12a1af656a57f43be977": {
+    "first_alert_at": "2026-08-12T20:59:28.320048+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TCGX Acquisition Corp. (0002137965) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1c363cf95e6fc1b0ce8d3f0b70fd465264e349ac51086580432d9322e5bb816a": {
+    "first_alert_at": "2026-08-12T20:59:36.482908+00:00",
+    "symbol": "FILER",
+    "title": "8-K - XMax Inc. (0001473334) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d6f6b83d029dbaa928ada71f793a25e8f287900a507ee9026e633935f2912173": {
+    "first_alert_at": "2026-08-12T20:59:37.534564+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Pelican Acquisition II Corp (0002122392) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "632506643be205288e1411134458ed3589ba2512e24bb983210354ce6492039d": {
+    "first_alert_at": "2026-08-12T20:59:38.507228+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Janus Living, Inc. (0002100805) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "fc277788c98944587e1832ab1c8b64ceb5e65663577a0422a6adac782591f7e8": {
+    "first_alert_at": "2026-08-12T20:59:39.534937+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Workhorse Group Inc. (0001425287) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f6200366b9e0fdd49a8f26f1e01193d6a4b9d63bbf346f2af3205f894ccfaa96": {
+    "first_alert_at": "2026-08-12T20:59:40.568909+00:00",
+    "symbol": "FILER",
+    "title": "8-K - STEM, INC. (0001758766) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "3e77e3fce97e502400702e8d178438971c55d593339e181c509a2b8574387016": {
+    "first_alert_at": "2026-08-12T20:59:41.623338+00:00",
+    "symbol": "FILER",
+    "title": "8-K - OceanLight Acquisition Corp (0002137679) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
