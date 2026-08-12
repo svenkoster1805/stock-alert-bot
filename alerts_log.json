@@ -8502,5 +8502,30 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt een formele overeenkomst, maar de details ontbreken nog voor een volledige analyse."
     }
+  },
+  {
+    "time": "2026-08-12T19:16:15.704114+00:00",
+    "symbol": "FILER",
+    "company": "VerifyMe, Inc. (0001104038) (Filer)",
+    "event_key": "53f52cd0d2597aea8e6ea290b8650497c0831e1f1e8ee053567e7536161acda5",
+    "event_family": "M_AND_A",
+    "title": "8-K - VerifyMe, Inc. (0001104038) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926009986/0001214659-26-009986-index.htm",
+    "news_age_minutes": 25,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "VerifyMe, Inc. heeft op 12 augustus 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij SEC.gov. Dit document, met een omvang van 208 KB, bevat details over deze overeenkomst en financiële bijlagen.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. Voor een M&A-gebeurtenis kan dit leiden tot veranderingen in marktaandeel, synergieën of herstructurering.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van deze materiële overeenkomst zijn niet bekend uit de verstrekte informatie. Zonder details over de tegenpartij, de waarde of de precieze aard van de M&A, is de economische relevantie onduidelijk.",
+      "invalidation_nl": "De concrete details van de M&A, zoals de overnameprijs, de over te nemen entiteit of de specifieke voorwaarden, ontbreken volledig in de beschikbare samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de inhoudelijke M&A-details zijn niet beschikbaar in de samenvatting."
+    }
   }
 ]
