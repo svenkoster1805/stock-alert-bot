@@ -8402,5 +8402,80 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-08-12T17:08:04.158081+00:00",
+    "symbol": "FILER",
+    "company": "Bluerock Homes Trust, Inc. (0001903382) (Filer)",
+    "event_key": "8f4ab87b7bdc12139ad2ce6cc654ece3e71b980b611178504ba9515456ff2331",
+    "event_family": "M_AND_A",
+    "title": "8-K - Bluerock Homes Trust, Inc. (0001903382) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1903382/000110465926094678/0001104659-26-094678-index.htm",
+    "news_age_minutes": 25,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Bluerock Homes Trust, Inc. heeft een 8-K melding ingediend over de voltooiing van een acquisitie of desinvestering van activa. De melding bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in de waardering van het aandeel.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de acquisitie of desinvestering zijn niet bekend. Zonder deze details is de impact op het bedrijf onduidelijk.",
+      "invalidation_nl": "Er is geen contractwaarde of specifieke details over de activa die zijn verworven of afgestoten bekendgemaakt in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de transactie zijn nodig om de economische impact te kunnen beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-12T17:08:19.470433+00:00",
+    "symbol": "FILER",
+    "company": "Honda Auto Receivables 2026-3 Owner Trust (0002143476) (Filer)",
+    "event_key": "d6643ead7c472ae94e2a0ceff19f021c0d5c116c3e39c321131242a8b1cffdfd",
+    "event_family": "M_AND_A",
+    "title": "8-K - Honda Auto Receivables 2026-3 Owner Trust (0002143476) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2143476/000110465926094677/0001104659-26-094677-index.htm",
+    "news_age_minutes": 26,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Honda Auto Receivables 2026-3 Owner Trust heeft een 8-K ingediend over het aangaan van een materiële definitieve overeenkomst.",
+      "why_nl": "De aard en de financiële impact van de overeenkomst zijn onbekend, waardoor de economische relevantie voor beleggers niet kan worden vastgesteld.",
+      "risk_nl": "Zonder concrete informatie over de inhoud, partijen of waarde van de overeenkomst is elke beoordeling speculatief.",
+      "invalidation_nl": "De samenvatting bevat geen economische details die de aard van een M&A-transactie bevestigen of de financiële impact ervan duiden.",
+      "is_already_priced": false,
+      "notes": "Een 'Owner Trust' is een securitisatievoertuig dat doorgaans geen traditionele M&A-transacties uitvoert."
+    }
+  },
+  {
+    "time": "2026-08-12T17:08:27.627167+00:00",
+    "symbol": "FILER",
+    "company": "AMERICAN HONDA RECEIVABLES LLC (0000890975) (Filer)",
+    "event_key": "367f89d734a0f6c55811a02fcb1c926a740d008fe7e878e4735e72bbbd51233b",
+    "event_family": "M_AND_A",
+    "title": "8-K - AMERICAN HONDA RECEIVABLES LLC (0000890975) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/890975/000110465926094677/0001104659-26-094677-index.htm",
+    "news_age_minutes": 26,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AMERICAN HONDA RECEIVABLES LLC heeft een 8-K ingediend over het aangaan van een materiële definitieve overeenkomst. De melding bevat geen verdere details over de aard of partijen van deze overeenkomst.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan de financiële positie of operationele strategie van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of toekomstige kasstromen.",
+      "risk_nl": "De specifieke inhoud, de betrokken partijen en de financiële impact van de overeenkomst zijn nog onbekend. Zonder deze details is een accurate beoordeling van de economische relevantie onmogelijk.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, partijen of financiële impact van de materiële overeenkomst beschikbaar om een handelsbesluit te onderbouwen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke ontwikkeling, maar specifieke informatie ontbreekt nog."
+    }
   }
 ]
