@@ -2164,5 +2164,11 @@
     "symbol": "FILER",
     "title": "8-K - OceanLight Acquisition Corp (0002137679) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "1fbfc3df2b2ac74393aa55285a722dc53d09bd74b7afe99b0896b2291d9fb8eb": {
+    "first_alert_at": "2026-08-12T21:53:01.395129+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Silence Therapeutics plc (0001479615) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

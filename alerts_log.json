@@ -8765,5 +8765,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-12T21:53:10.248109+00:00",
+    "symbol": "FILER",
+    "company": "Silence Therapeutics plc (0001479615) (Filer)",
+    "event_key": "1fbfc3df2b2ac74393aa55285a722dc53d09bd74b7afe99b0896b2291d9fb8eb",
+    "event_family": "M_AND_A",
+    "title": "8-K - Silence Therapeutics plc (0001479615) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1479615/000119312526347196/0001193125-26-347196-index.htm",
+    "news_age_minutes": 29,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Silence Therapeutics plc heeft een 8-K formulier ingediend bij de SEC. Dit formulier meldt de \"Entry into a Material Definitive Agreement\" en \"Other Events\".",
+      "why_nl": "Een \"Material Definitive Agreement\" kan aanzienlijke financiële of operationele gevolgen hebben voor het bedrijf. De aard van deze overeenkomst is echter nog onbekend.",
+      "risk_nl": "Het grootste risico is de onbekende aard en inhoud van de \"Material Definitive Agreement\". Zonder details is de impact op Silence Therapeutics plc onduidelijk.",
+      "invalidation_nl": "Er zijn geen details over de aard, partijen of financiële voorwaarden van de \"Material Definitive Agreement\" beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke gebeurtenis, maar de specifieke details ontbreken nog."
+    }
   }
 ]

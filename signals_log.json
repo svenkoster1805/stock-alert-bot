@@ -5516,5 +5516,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-12T21:53:09.873891+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Silence Therapeutics plc (0001479615) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Silence Therapeutics plc heeft een 8-K formulier ingediend bij de SEC. Dit formulier meldt de \"Entry into a Material Definitive Agreement\" en \"Other Events\".",
+      "why_nl": "Een \"Material Definitive Agreement\" kan aanzienlijke financiële of operationele gevolgen hebben voor het bedrijf. De aard van deze overeenkomst is echter nog onbekend.",
+      "risk_nl": "Het grootste risico is de onbekende aard en inhoud van de \"Material Definitive Agreement\". Zonder details is de impact op Silence Therapeutics plc onduidelijk.",
+      "invalidation_nl": "Er zijn geen details over de aard, partijen of financiële voorwaarden van de \"Material Definitive Agreement\" beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke gebeurtenis, maar de specifieke details ontbreken nog."
+    }
   }
 ]
