@@ -2176,5 +2176,17 @@
     "symbol": "FILER",
     "title": "8-K - Cannabist Co Holdings Inc. (0001776738) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "3618dc119d6de4c7c156d4464e3fba860301aa90018586366985cbb8d4d943ba": {
+    "first_alert_at": "2026-08-13T11:41:22.036996+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WABASH NATIONAL Corp (0000879526) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f4e00b79102a8198644749934c2777270dfba4a05be70c4ed57b8730760ab2e9": {
+    "first_alert_at": "2026-08-13T11:41:28.975475+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Southland Holdings, Inc. (0001883814) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

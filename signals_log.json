@@ -5548,5 +5548,37 @@
       "is_already_priced": false,
       "notes": "Hoewel een 'Material Definitive Agreement' een concrete stap is, zijn de inhoudelijke details cruciaal voor een handelsbeslissing en deze ontbreken in de snippet."
     }
+  },
+  {
+    "time": "2026-08-13T11:41:28.132632+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WABASH NATIONAL Corp (0000879526) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "WABASH NATIONAL Corp heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting.",
+      "why_nl": "Een materiële definitieve overeenkomst en een financiële verplichting kunnen de financiële positie en toekomstige strategie van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of operationele activiteiten.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst en verplichting zijn nog onbekend. Zonder deze details is het moeilijk de potentiële risico's of voordelen te beoordelen.",
+      "invalidation_nl": "De essentiële financiële details van de overeenkomst en de verplichting ontbreken volledig in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van de volledige 8-K filing is noodzakelijk om de impact te bepalen."
+    }
+  },
+  {
+    "time": "2026-08-13T11:41:40.549009+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Southland Holdings, Inc. (0001883814) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Southland Holdings, Inc. heeft een 8-K ingediend over het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting. Het document bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en een financiële verplichting kan de strategische richting en financiële structuur van het bedrijf significant veranderen. Dit kan de waardering van het aandeel beïnvloeden.",
+      "risk_nl": "De specifieke partijen, voorwaarden en financiële impact van de overeenkomst zijn niet gespecificeerd. Dit creëert onzekerheid over de aard en het effect van de transactie.",
+      "invalidation_nl": "Er zijn geen details over de inhoud van de materiële definitieve overeenkomst of de aard van de financiële verplichting, waardoor een economische beoordeling onmogelijk is.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een gebeurtenis, maar de cruciale details voor analyse ontbreken in de verstrekte samenvatting."
+    }
   }
 ]
