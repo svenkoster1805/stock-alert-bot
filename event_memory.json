@@ -2296,5 +2296,11 @@
     "symbol": "FILER",
     "title": "8-K - BRC Group Holdings, Inc. (0001464790) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "8549066f0373e68de2024bf9e5da3ee07fac2b30475bb5861b74916a826c0284": {
+    "first_alert_at": "2026-08-13T21:38:58.908824+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Freenome, Inc. (0002017526) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

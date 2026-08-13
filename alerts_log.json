@@ -9293,5 +9293,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-13T21:39:08.743248+00:00",
+    "symbol": "FILER",
+    "company": "/A - Freenome, Inc. (0002017526) (Filer)",
+    "event_key": "8549066f0373e68de2024bf9e5da3ee07fac2b30475bb5861b74916a826c0284",
+    "event_family": "M_AND_A",
+    "title": "8-K/A - Freenome, Inc. (0002017526) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2017526/000114036126032873/0001140361-26-032873-index.htm",
+    "news_age_minutes": 10,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Freenome, Inc. heeft op 13 augustus 2026 een 8-K/A-formulier ingediend bij de SEC. Dit formulier meldt de voltooiing van een acquisitie of desinvestering van activa.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de financiële positie en strategische richting van Freenome, Inc. significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva, inkomsten of operationele focus.",
+      "risk_nl": "De specifieke details van de acquisitie of desinvestering, zoals de aard van de activa, de tegenpartij en de financiële voorwaarden, zijn niet bekend. Zonder deze informatie is de economische impact onmogelijk te beoordelen.",
+      "invalidation_nl": "De verstrekte gegevens bevatten geen details over de aard, omvang of financiële voorwaarden van de voltooide transactie.",
+      "is_already_priced": false,
+      "notes": "Meer informatie uit het 8-K/A-document is essentieel om de relevantie van deze gebeurtenis te kunnen beoordelen."
+    }
   }
 ]
