@@ -1,95 +1,5 @@
 [
   {
-    "time": "2026-07-02T10:15:30.936078+00:00",
-    "reason": "te oud voor fastlane (730 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - CareView Communications Inc (0001377149) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 730,
-    "url": "https://www.sec.gov/Archives/edgar/data/1377149/000143774926022331/0001437749-26-022331-index.htm"
-  },
-  {
-    "time": "2026-07-02T10:15:30.936198+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - WeRide Inc. (0001867729) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 3,
-    "url": "https://www.sec.gov/Archives/edgar/data/1867729/000110465926080040/0001104659-26-080040-index.htm"
-  },
-  {
-    "time": "2026-07-02T10:15:30.936216+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Grupo Cibest S.A. (0002058897) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 4,
-    "url": "https://www.sec.gov/Archives/edgar/data/2058897/000205889726000230/0002058897-26-000230-index.htm"
-  },
-  {
-    "time": "2026-07-02T10:15:30.936229+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - SMITH & NEPHEW PLC (0000845982) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 6,
-    "url": "https://www.sec.gov/Archives/edgar/data/845982/000165495426006468/0001654954-26-006468-index.htm"
-  },
-  {
-    "time": "2026-07-02T10:15:30.936242+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "CHINA",
-    "title": "6-K - HUTCHMED (China) Ltd (0001648257) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 7,
-    "url": "https://www.sec.gov/Archives/edgar/data/1648257/000164825726000047/0001648257-26-000047-index.htm"
-  },
-  {
-    "time": "2026-07-02T10:15:30.936253+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Ryde Group Ltd (0001971115) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 10,
-    "url": "https://www.sec.gov/Archives/edgar/data/1971115/000149315226031614/0001493152-26-031614-index.htm"
-  },
-  {
-    "time": "2026-07-02T10:15:30.936265+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - NOAH HOLDINGS LTD (0001499543) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 11,
-    "url": "https://www.sec.gov/Archives/edgar/data/1499543/000110465926080023/0001104659-26-080023-index.htm"
-  },
-  {
-    "time": "2026-07-02T10:15:30.936278+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - WIPRO LTD (0001123799) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 12,
-    "url": "https://www.sec.gov/Archives/edgar/data/1123799/000119312526293345/0001193125-26-293345-index.htm"
-  },
-  {
-    "time": "2026-07-02T10:15:30.936290+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - WOODSIDE ENERGY GROUP LTD (0000844551) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 12,
-    "url": "https://www.sec.gov/Archives/edgar/data/844551/000119312526293343/0001193125-26-293343-index.htm"
-  },
-  {
-    "time": "2026-07-02T10:15:30.936302+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Polibeli Group Ltd (0002035697) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 13,
-    "url": "https://www.sec.gov/Archives/edgar/data/2035697/000121390026074561/0001213900-26-074561-index.htm"
-  },
-  {
     "time": "2026-07-02T10:15:30.936315+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107908,95 @@
     "publisher": "HDFC Sky",
     "age_minutes": 35,
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RdXdCbDlLSUVYanBJaWF5cjJncmtrZFIxdUJHcEpRM1BqSEZHYnhVNjE4QVVPSExCb1p0NURzdi15bWswM1Q0Y3QtM0x3WEhKS1ZPdHJ4amNTVUxfNlh5V3dFM2FoTmN3d0poMW5HRElfZw?oc=5"
+  },
+  {
+    "time": "2026-08-13T08:53:05.809597+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Genesis PE Acquires SK Shieldus' Capstec for approximately $28 Million, Expanding into Residential Management - finance.biggo.com",
+    "publisher": "finance.biggo.com",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11bTZQYUtmTUloUUR4TnRjYVp4WTIzR2RGb3FoaDZIOEI2Z1JGREw5cWtla1J6MDAyQVowOWtLVllMWnJDT1V5U2s1emx0M1FaT0NLWG40MUFsYWRYR0EwMk9OdkZ6MnVkQVFWejdrS19MTHh1WFE?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-13T08:53:06.439344+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Capita : secures public sector contact services contract worth up to £31m with UKHSA - marketscreener.com",
+    "publisher": "marketscreener.com",
+    "age_minutes": 21,
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVp3cVZ1NmV1Ni10bjNKc3BReVZmTy1WTXdLdjRza3ljYnV0WGNpY2NkQnc1a25ONERINmJUdjU2bmEwZXdzeXI0V2dfTVNrNzY5dHdobGRndlFtdl9pZjV2U3JsX3M5bHMyeDhQVm5vWF9sRGI2RkRnR0VzS0VtaGlhVTJlX2ZJQWNHeDMzUVpCTHgyNS03Tmx2NVRHOHBkX3FJVmFteE5xeXQ1MUZ3bGdWRmpLdlRWLTBIOHVJMzlfT2cwblpyaEtHNnNSMjQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-13T08:53:06.439412+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "5 Must-Read Analyst Questions From Health Catalyst’s Q2 Earnings Call - StockStory",
+    "publisher": "StockStory",
+    "age_minutes": 4,
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY0hod0FCR0J2S28ybEtNSzNVdlhxWC1EUlM4S1ZnU0FlUnBPcVpBamxaSlVVSTRxZmRJUFNqXy02VGRFWjFBdkdMdXg5RVBLVW1XWGpSR3NnRGY4bHFMX0dhS1FmSlcwbDJLS2dBcHF4SmhuS1BiRVdZVER2dlRyQ1VSOEVXRWNRQ0gxa1ZLdEpzeTd1bHVtMHVwd1VqSF81alJWd1FDMkdBMmo5ZGJTQ0V6VEFVbWlDYXVyTkk2eVpRVU9mZ0FXV25Na3I?oc=5"
+  },
+  {
+    "time": "2026-08-13T08:53:07.101927+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "MP bans production and sale of analogue paneer over health concerns - The Economic Times",
+    "publisher": "The Economic Times",
+    "age_minutes": 46,
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOEFoR0FVemNWMmN4Nm4wRmZFZ3FFV3hzc3BIdWNuRm45V1djbDVBQ3pCa2tGamhfVm1MMURvMG4tQksxLUxwWkJ3dE9JbEsyMTlfTklmQngzRnJVYWRDMnU4azRWQWZTZ0JXRG9aYUxZTGd3bTRzUXZLUlVjLUtTRGprQi16Y1FNZkpQODdETHU3bGRscXBBZE91OEdxQl81Zl94OFFQakRtMlZJWFVYcnkzWTdERGlYRHREWFdmV2RGRUY3S1ZmQ2hXNFlvTjROLWg40gHYAUFVX3lxTE0wRUp1alFCbzhYZlYxdHM5M0JXYkRoYmtITG1RM1NESmdJdlhCUUsxb2ltNnRMTVFQbm95WVIxakZUb2JYZkF2RjBFdUVoZl9PRnJTWTJhd2xyOEFzV1h0QVNscGJLTThfQk96LXlCYkIycm9HMWFkMjhidXl4Y2RTTE84Zm9tTzZNWVRmajhUUW1KeE9lREdfNXFSY1hGeDFPVnFPYkxuYi10d2hKcVg2OXRvSUJMakVtTnBfZXlTeEM4QjlCOUFjems5ekhiaktJSmp3emNtUg?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-13T08:53:07.102001+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Themis Medicare Q1 Results: Net profit up 287% YoY to ₹287.4 lakh - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 34,
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3Q3ME5xYy02VVdEYTZodHNkV2dJTGZ1cm5GUUQ1em1ydjktaDZVN1k4RjI3b3NheVlMWF9TNG51YkxTZ2RqbHE1bkM3Y1hPb3REbkhHcU5BYVFGZXpsVUlEdTlMZnBBUnZFTmdIWHN5MUlVSWZZQ0MyMzZrdzB0LVdlbUREa1lBSzZFeXBySFlkX3hLQ2R3N1N3SEJESzF5ODNXVFA5cE5aV1dMdjN5Njh0X2VYVW8?oc=5"
+  },
+  {
+    "time": "2026-08-13T08:53:07.725587+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Wike Closes Secretariat of Dissolved Committee on Sale of Federal Government Houses - nigeriahousingmarket.com",
+    "publisher": "nigeriahousingmarket.com",
+    "age_minutes": 35,
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWVRTdWdVSW0wOHhBYlBVbGM4M2pBV0xBRjVTWkxWV1VpMGZqdGN1dF82R0NnQU95cHp6TzJVMWw5X0FHVkNMZUpIQmFXRThXcjZPNHNOWkdtSFRodkJ0OTZDZWVrQ1FvWExsT21MSU9aWXRILVZEdDg4QmpxN0ZELXVGbzZwWEdGdDlXU2huc0VJZ2JxRlE?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-13T08:53:07.725657+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "ECS Biztech Q1 Results: Net loss widens to ₹13.53 lakh, revenue nil - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 55,
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQlJVNk95c1BHRVlrdWJ6LWI2WmxTSFZmaGNoME0tMXhYbHZVZjgwMm9YRjlXODZIc3hQa0ZUNkgyTUJLMFQ3TDhKOXYwcEh6eVBNcFVrZy1Od0pRY0dKQ1puODY4eHdVcEpSM1hfVTZINEV3WHM1eUtDN3Y5c0EwWjVteS1mUGQ3d0lwM2hwbVJuZmJoZVlsQkpSN210YlRRSUlZSFA0N1FNUzJwY2VXOHRQM2NKQTIwSGc?oc=5"
+  },
+  {
+    "time": "2026-08-13T08:53:08.163234+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "PSKY",
+    "title": "Paramount (PSKY) Stock Climbs as CNN Divestiture Emerges as Option in Antitrust Battle - Blockonomi",
+    "publisher": "Blockonomi",
+    "age_minutes": 41,
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcy1la3ZHSEhQNy1QY0FodW9HVlNjRzRSeG9QVF9LZ1k0Y2F5V0VjYUlGTjIxZHRqdjhqWkdBZERMVDJrby0tR0hkRUh2Q0tJMjFvajhSaDBjajRwX0xoRVZZUERwNGRUQ1R6djhrUDNtLURITGNaTmpCWTQ5S1JUZHZBcFJ2SVJ6NGJ1TEpRQWk5OGo5UVpZeFA4VmNVbWdUdXR5eGRBQjQtU1BD?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-13T08:53:08.163298+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "SECP approves IPO of Agro Processors & Atmospheric Gases, to offer 15% stake on PSX - Profit by Pakistan Today",
+    "publisher": "Profit by Pakistan Today",
+    "age_minutes": 57,
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR2Z0aEFlQnEzeE9acEJOUW1LSUlYUFFNVWtYbnR1a0lERHE3bUhVMy1FZWpfUkZUSnFJbkFFbjV1LTE0Q2kzV2YwQ2t1QzRKU2hoR2d1VGtrZDBPM1ZrOXkyZjA0RmpMd01paTVfTVZod3RQaHNwdi11R3JocmNhNVc0aXoweExHYWdmTXNrMHhld1cxcTdlMEpiU2h4WDk2OGNoYjJRanRQV05PT18zS1ZNVVFtY25pY3ZMc2taUkpfQ196SkZQd294LU12RnRaMFFF?oc=5"
+  },
+  {
+    "time": "2026-08-13T08:53:08.163319+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Tata Motors Share Receives 'Buy' Rating From Nomura and CLSA After Q1 Beats Expectations; Check the Upside - Trade Brains",
+    "publisher": "Trade Brains",
+    "age_minutes": 52,
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2ZKbEdscFo2SXhaSEU2emFUNmFZM29GcThSRUJCNmwwbndWVjU0RktWV0VHOEZkWlVPLVZzSXF5TXR4dHN1R2JJdzlkMzdRWmE5S0F6XzgwTnV4RU9aSHFjd3g2MUctNUhNQlRvQXhkOFpXaEVCaXE3YUhRQ2NGcERmU25OS2VISXg4Q01EWHV5VWFVdkRSM1ZZVXdNWEVZNTFldFNqT1ZHVEJibGVuUlR5MjVCS05iV0dXcGlCVk1CN1BLRWc?oc=5"
   }
 ]
