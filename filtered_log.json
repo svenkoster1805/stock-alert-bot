@@ -1,113 +1,5 @@
 [
   {
-    "time": "2026-07-07T22:37:18.699049+00:00",
-    "reason": "te oud voor fastlane (86 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Viking Acquisition Corp. II (0002139246) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 86,
-    "url": "https://www.sec.gov/Archives/edgar/data/2139246/000121390026076045/0001213900-26-076045-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:19.018064+00:00",
-    "reason": "te oud voor fastlane (87 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - AETERNUM HEALTH, INC. (0000764630) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 87,
-    "url": "https://www.sec.gov/Archives/edgar/data/764630/000149315226032365/0001493152-26-032365-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:19.335574+00:00",
-    "reason": "te oud voor fastlane (88 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Z Squared Inc. (0001759186) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 88,
-    "url": "https://www.sec.gov/Archives/edgar/data/1759186/000118518526002828/0001185185-26-002828-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:19.335624+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Mama's Creations, Inc. (0001520358) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 89,
-    "url": "https://www.sec.gov/Archives/edgar/data/1520358/000149315226032364/0001493152-26-032364-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:19.644078+00:00",
-    "reason": "te oud voor fastlane (90 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - OCEANEERING INTERNATIONAL INC (0000073756) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 90,
-    "url": "https://www.sec.gov/Archives/edgar/data/73756/000007375626000127/0000073756-26-000127-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:19.644135+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Praxis Precision Medicines, Inc. (0001689548) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 92,
-    "url": "https://www.sec.gov/Archives/edgar/data/1689548/000168954826000072/0001689548-26-000072-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:19.979651+00:00",
-    "reason": "te oud voor fastlane (93 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Oportun Financial Corp (0001538716) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 93,
-    "url": "https://www.sec.gov/Archives/edgar/data/1538716/000153871626000060/0001538716-26-000060-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:20.292677+00:00",
-    "reason": "te oud voor fastlane (96 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - UGI CORP /PA/ (0000884614) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 96,
-    "url": "https://www.sec.gov/Archives/edgar/data/884614/000110465926081321/0001104659-26-081321-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:20.292731+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Cantor Fitzgerald Income Trust, Inc. (0001666244) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 96,
-    "url": "https://www.sec.gov/Archives/edgar/data/1666244/000119312526297602/0001193125-26-297602-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:20.607793+00:00",
-    "reason": "te oud voor fastlane (97 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Oncology Institute, Inc. (0001799191) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 97,
-    "url": "https://www.sec.gov/Archives/edgar/data/1799191/000107997326000934/0001079973-26-000934-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:20.912947+00:00",
-    "reason": "te oud voor fastlane (98 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K/A - GridAI Technologies Corp. (0001604191) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 98,
-    "url": "https://www.sec.gov/Archives/edgar/data/1604191/000110465926081319/0001104659-26-081319-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:20.913019+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Federal Home Loan Bank of Boston (0001331463) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 106,
-    "url": "https://www.sec.gov/Archives/edgar/data/1331463/000133146326000128/0001331463-26-000128-index.htm"
-  },
-  {
     "time": "2026-07-07T22:37:21.214132+00:00",
     "reason": "te oud voor fastlane (106 min, limiet 30)",
     "symbol": "FILER",
@@ -107998,5 +107890,113 @@
     "publisher": "Stock Titan",
     "age_minutes": 59,
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQME5ST3YyLUZzMFQzYWRGNHhSUnRnSmtPMDlxZC15c2VWS3RydmVYZFFZeVM0azE0MUZ2TjlZRW1DTGJ1ZHIzenh1Y3hYUk5EcGdvZ1hPenBNZmpMelRPQ0E1SGlhRUthN3ZaeHpyUmFKT1d1eC1YdjF6cUJpSmIyYlJGOFhoaWxQSjhNWmI3YzdYcmgzMXZNbThDbTYtSlVubVc2aHlldjhXajJPRUkwa1pzVjc3dk5Y?oc=5"
+  },
+  {
+    "time": "2026-08-13T23:10:25.592801+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "REPL",
+    "title": "Replimune Group (REPL) Wins FDA Approval For Advanced Melanoma Treatment - Yahoo Finance",
+    "publisher": "Yahoo Finance",
+    "age_minutes": 56,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOUVhaW9DOFIyWlVfa1RTSmx0QktKNWtjY3lRSDU5N1N4eVZkRVVKWXhFT2VPRWlxMXViUEo3ZGxnU2tMLUNDYlNxOGx5X3B5VDU5Q2pjRnJtaWhTSk00STU5VktCTGpTSHBTQXBRcUFVbzgydmNVbUNMVzFRdGVoT2VQcWVOYlpaZEpfSW51NS1EQ0xW?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-13T23:10:25.592854+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "ICUI",
+    "title": "ICU Medical (ICUI) officer Daniel Woolson sells 5,417 shares at $181.33 - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 13,
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGxyYm5UUnZLQ3lHRktDc2VWOHVEVFJWLTJBWVBQY054M1Zyc3lkNG9VQ2U4cU9EUTJqLWRTRjBVd2RFNExJSlE3eUNFcUlINFRRX0FDZzVqSE54bjRxTjN3MnVBQmNUVmh0b3ZLUmdvVW5kdExjSU1vX3k4OGE1RHRpQXBsdUM1QWFBc2dERFJ0MkRkSlNsWExMUFFPOWN0TVpKYmtldWUwb1h4STZpd253?oc=5"
+  },
+  {
+    "time": "2026-08-13T23:10:26.133583+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Leidos Holdings Director Noel B. Geer Executes Sale of 10,000 Shares in August 2026 - Kalkine Media",
+    "publisher": "Kalkine Media",
+    "age_minutes": 40,
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQejQxdnNWZU1aYnl3Wi1hUHFpZzlhU1FQN1lBSXhSM1lCcnZMOW9BZkZfbS1uN1lqMEJTcXhLdEhYaEh5NWNNaVBwMDhNaEZiX21tUWJwOHI1R1I1a0VpY1lNWGoxRXQ5MHVWOU1iSXR5V0JTMEVKZ0lYRUw4aTU1NmZ2dlNXZEFmVkdwUks3TzZGN2E4bmlmYTQ5TENlcWdKUHJKOWNZVUVHaExwMG1EYVNBcm5WODVKLUdxZUFOcmJtOFAyMmtR?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-13T23:10:26.133641+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Hertz Shares Drop 12% as Ackman’s Departure Puts $984 Million Liquidity Buffer in Focus - TechStock²",
+    "publisher": "TechStock²",
+    "age_minutes": 38,
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcXdrWm84VC15SjdDSGtmZHh4MlpHR1NZdmV6US1Ea0dIRVByWmlqX1ZwTk54SVRhaU95Ml91MTRZTEdNeWtCRkk4WEZDZzR5RkxtZ1pKQUVSVEtGRUlZMm9TU0Rwa2VPV0MxdHBWQTBIREVDbkZscFg4SVdCWVljRTdpZUMzMV9tRGlNd0RrVGdvT2RKMVRSLVp3?oc=5"
+  },
+  {
+    "time": "2026-08-13T23:10:26.133660+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "UNH",
+    "title": "UnitedHealth Group (UNH) officer uses 233 shares to cover equity-related costs - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 48,
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRVhXMHZFLVpSZ3R6bkdfSUhTY29aTXhPV1pmSGE0WWlmem1CbnNlekZtZFM4enNRNWdMV3Jlc0NjTGNuM0syWENEblZjdFpFQ1g2M3huY0VYaXRfeTdGR1NjOTZsLUllVGhBb1VrNTBwTndvamQ0Zk1VLXBXUWE4Zlh2ODNtajJPSUhDTFRHUzR1bldrc09ScXBrY0lTYzFtb1RUVHFPaTFNQ25CQ2gyT1NZWV9PZw?oc=5"
+  },
+  {
+    "time": "2026-08-13T23:10:26.692895+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Howard Hughes Holdings Director Mary Ann Tighe Reports Indirect Sale of 13,495 Shares - Kalkine Media",
+    "publisher": "Kalkine Media",
+    "age_minutes": 39,
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQmRtQmdETmVidUJqYk4wcEFsZmFtWGFpWGEtU0Y0N2FPY1hOMlZhMGFzckVnbEpydG5HaE4tWVg1cTNPaE90aTRiYjh2eUJ2dzNULWpyM3hpaVR6ZnhhUTdxMklWbkJTUm9VdjRkN1Q2MnFtMDFoZG04RlBxaWFVQkNSam9NNC1sejFFNUdwbmFCZDlsU0taTHZEQUlOOVdVeUxyNHJtREpkaU1tamZ2U014dXgzd1MxLWk0VHVuOWtCX01VOEJqWHcwRQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-13T23:10:27.196390+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Zai Lab Director William Lis Executes Sale of 8,506 ADS Shares Under Rule 10b5-1 Plan - Kalkine Media",
+    "publisher": "Kalkine Media",
+    "age_minutes": 29,
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQmNmcFlja01GU2xtbTI4cUNnQzQzbmtDM1JjV1paZDB6cmhjanJWVTlsQWVGZndGSDhzNi1DQUpUbHZsaS1BdW5STzRfRzYwRWZlZjgxLW9EUWExYU5IdE52REhDU2JBOGhxQ1cxVVJBWFdOUGxjMC1LWUFKZ1lkMmYtUEFwbUVWWF85Z25SX2ptRlBzQWpsT2EzZ2EyME5sSE9GbjlGYkI5TUtzWlpsRlphWGFYeUJFd25HSkR0WGg3blVabWY0TktETQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-13T23:10:27.196443+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "X4 Pharmaceuticals President John Volpone Sells 24,576 Shares to Settle Tax on RSU Award - Kalkine Media",
+    "publisher": "Kalkine Media",
+    "age_minutes": 31,
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaFI3Y3dMTGJUeGpuaFhvUlFReENWMGcybEZFdnZxa1M0V0FQNGs2SEJqenRkWTQyOHBPUExEYjUtQVpCbjgteXVYazhINEl2STZCT1NWVG9FV2UxaDktbkxLQkdxWXBSOXY5T3A2TFV2NzBNRDRoTlpBX0xUZ1lLNzREV191YTNaNmZFeC1ybWM5LXkya210N2xkOENEZS02UkE1S0o3NnpvS1RiSnpXZ3pONW9RdHJYQkJVZUlEZ2d1OGRSb2ROTVdwSU92ckk?oc=5"
+  },
+  {
+    "time": "2026-08-13T23:10:27.196459+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Insider Sale: SVP of $AAPL Sells 1,439 Shares - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 24,
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOG5FbnpEM09MeWZieU1TSWhiWlE1WWFHckMtdTIxY2xrckItOU5JQU53S2did2Q1SnZzU2tGM2t3ZVhXeVdKUXJqNVFGeUR1aTFod2VLNU9PZW9fQ3Nnamwza1FpNUp6RTMyRk83WU5IQkVGdXc1Qzk3R2FiOEhMbzhGeXl3Si02UHNwSQ?oc=5"
+  },
+  {
+    "time": "2026-08-13T23:10:27.196477+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "C3.ai CEO Thomas Siebel sells $4.76m company stock - Investing.com",
+    "publisher": "Investing.com",
+    "age_minutes": 33,
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTE53cXlTQlNkSndBbURpWlc5RGIyZWhsR2V0V0VNZXdHSzVCWGhRQUIwblFuc0prZm9ERjVsTEhNQU9MekFsNHZYTVlzdVBGVktnb2dBS3hiMnFPMHZ0c20xanhjaEM4WWo2cGNlNUxKMy1MNjBUVDN0VmR4ckEzdjNnSkNQT2hFTkJ1bVBHcnlTNXVMM1lCVkNTSEl3d0hrcmI1LTh2VHhWTFFaS3Jlck5B?oc=5"
+  },
+  {
+    "time": "2026-08-13T23:10:27.196491+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Lockheed Martin President Robert M. Lightfoot Jr. Sells 2,606 Shares in August 2026 Stock Transactions - Kalkine Media",
+    "publisher": "Kalkine Media",
+    "age_minutes": 39,
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQakFVeV9IZ2p5bXdjc00wRE1BSlZBd2VObDI3MVdqOF9jbnlJaUxPNDlBUmwyU0RsaXB5bXNiMVoyU2tjWkdGU01DSlUtTTJoNXBVZnJPQlMwMmxkSjd6RVRmRWpGaVlrZGtaQ2EzS0wtaW50SDJLX0dwalp3c1V6X29HVkwxVTc4dG9rRElwOV94T3g4MHRIdDFJZE1rTU5rd1JGVW9HYlhfcTFjRVdHTmxYUzdsZ0xLc0xET2hoalpaaThFTGppb1pqdjdpR0UtVXJRVS1tSTZPVXMzQUtj?oc=5"
+  },
+  {
+    "time": "2026-08-13T23:10:27.196504+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Hana Securities lifts LG target on electronics gains and robot momentum - CHOSUNBIZ - Chosunbiz",
+    "publisher": "Chosunbiz",
+    "age_minutes": 30,
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkdGVlk4MDgyZXAyTjlxam92amZZb2xsZVRqQUVNR0FrbnktWTFCSEpVX2p4eC14M3FNS3ZKUFRTQlloMTRhN21VaXNGTzZVQ1lHMllUYko1NTZqeERqWUItTXAwVXg5Mkk1Ymo2WFAyMFZoYkFlUjVrbEdjaTIzcNIBlAFBVV95cUxONXVsTmZEb3hsVm54dGpCdkR6d0ROVDVsRmI3Qk0xVFg0MFhHNTB2RDcyZVZpRDJmdEN1dkdWMGhMX3Jiak1Vbk1qUWVDbnZWU05WbExibDZIb2dqMThtQmc2YnNEVURWVG9sWEdMVG5BcEFvSl9EcVFqaXJVY1dNX1B5U2tHcXlRVHpKYVpMZUNVSDJv?oc=5"
   }
 ]
