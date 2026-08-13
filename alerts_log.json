@@ -8790,5 +8790,30 @@
       "is_already_priced": false,
       "notes": "De 8-K melding duidt op een belangrijke gebeurtenis, maar de specifieke details ontbreken nog."
     }
+  },
+  {
+    "time": "2026-08-13T10:54:06.519879+00:00",
+    "symbol": "FILER",
+    "company": "Cannabist Co Holdings Inc. (0001776738) (Filer)",
+    "event_key": "04908f10e4629dea45be5f42c31a25ccbcf5e7426732b774b6a3a3cac88b48b7",
+    "event_family": "M_AND_A",
+    "title": "8-K - Cannabist Co Holdings Inc. (0001776738) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1776738/000114036126032617/0001140361-26-032617-index.htm",
+    "news_age_minutes": 25,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Cannabist Co Holdings Inc. heeft op 13 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de bedrijfsstructuur, activa en toekomstige financiële prestaties van Cannabist Co Holdings Inc. significant beïnvloeden. Dit type gebeurtenis is doorgaans een voorbode van concrete veranderingen die economische waarde kunnen creëren of vernietigen.",
+      "risk_nl": "De samenvatting vermeldt geen details over de aard, omvang of financiële voorwaarden van de overeenkomst. Zonder deze essentiële informatie is de economische impact onbekend en kan geen geïnformeerde beoordeling worden gemaakt.",
+      "invalidation_nl": "De specifieke financiële details en voorwaarden van de materiële definitieve overeenkomst ontbreken, waardoor de economische relevantie niet kan worden vastgesteld.",
+      "is_already_priced": false,
+      "notes": "Hoewel een 'Material Definitive Agreement' een concrete stap is, zijn de inhoudelijke details cruciaal voor een handelsbeslissing en deze ontbreken in de snippet."
+    }
   }
 ]

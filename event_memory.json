@@ -2170,5 +2170,11 @@
     "symbol": "FILER",
     "title": "8-K - Silence Therapeutics plc (0001479615) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "04908f10e4629dea45be5f42c31a25ccbcf5e7426732b774b6a3a3cac88b48b7": {
+    "first_alert_at": "2026-08-13T10:53:56.480460+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cannabist Co Holdings Inc. (0001776738) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
