@@ -2188,5 +2188,23 @@
     "symbol": "FILER",
     "title": "8-K - Southland Holdings, Inc. (0001883814) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "41026044e9c27feb74da4107b9250a421103326956e42f0f32c82117086e9d12": {
+    "first_alert_at": "2026-08-13T12:32:04.325937+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Banzai International, Inc. (0001826011) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "c7523052a01c2f7314e552fbda0e32ceb3d14bc073a7712a2eb1c5495cf10049": {
+    "first_alert_at": "2026-08-13T12:32:20.036771+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SONIDA SENIOR LIVING, INC. (0001043000) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a7589683041ecd140837cdbd402dea5da16d469fd96696ef5ab019a8b4694c74": {
+    "first_alert_at": "2026-08-13T12:32:28.383923+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VEEA INC. (0001840317) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

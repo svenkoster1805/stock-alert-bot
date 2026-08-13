@@ -8865,5 +8865,80 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt een gebeurtenis, maar de cruciale details voor analyse ontbreken in de verstrekte samenvatting."
     }
+  },
+  {
+    "time": "2026-08-13T12:32:19.633427+00:00",
+    "symbol": "FILER",
+    "company": "Banzai International, Inc. (0001826011) (Filer)",
+    "event_key": "41026044e9c27feb74da4107b9250a421103326956e42f0f32c82117086e9d12",
+    "event_family": "M_AND_A",
+    "title": "8-K - Banzai International, Inc. (0001826011) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1826011/000149315226037599/0001493152-26-037599-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Banzai International, Inc. heeft op 13 augustus 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij SEC. Dit document bevat details over de overeenkomst en financiële bijlagen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of verkoop, die de toekomstige financiële prestaties van Banzai kan beïnvloeden. Dit kan leiden tot veranderingen in de bedrijfsstructuur, omzet of winstgevendheid.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete financiële details of de aard van de overeenkomst, waardoor de economische impact onduidelijk blijft. Zonder deze informatie is het moeilijk om de waardecreatie of -vernietiging te beoordelen.",
+      "invalidation_nl": "De afwezigheid van specifieke voorwaarden, zoals de contractwaarde of de identiteit van de tegenpartij, maakt een concrete beoordeling van de economische impact onmogelijk.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de inhoudelijke details ontbreken in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-13T12:32:27.988314+00:00",
+    "symbol": "FILER",
+    "company": "SONIDA SENIOR LIVING, INC. (0001043000) (Filer)",
+    "event_key": "c7523052a01c2f7314e552fbda0e32ceb3d14bc073a7712a2eb1c5495cf10049",
+    "event_family": "M_AND_A",
+    "title": "8-K - SONIDA SENIOR LIVING, INC. (0001043000) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1043000/000119312526347968/0001193125-26-347968-index.htm",
+    "news_age_minutes": 7,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "SONIDA SENIOR LIVING, INC. heeft een 8-K-rapport ingediend op 13 augustus 2026, waarin het aangaan van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting worden gemeld.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst en een financiële verplichting kan duiden op een belangrijke strategische stap die de financiële positie van het bedrijf beïnvloedt. Dit kan leiden tot veranderingen in de activa, passiva en toekomstige winstgevendheid.",
+      "risk_nl": "De specifieke aard van de overeenkomst, de betrokken partijen en de financiële voorwaarden zijn onbekend. Zonder deze details is het onmogelijk om de impact op de waardering van het bedrijf te beoordelen.",
+      "invalidation_nl": "De essentiële details van de M&A-transactie, zoals de contractwaarde en de specifieke voorwaarden, ontbreken volledig in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de materiële overeenkomst en de financiële verplichting zijn nodig voor een volledige beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-13T12:32:51.695866+00:00",
+    "symbol": "FILER",
+    "company": "VEEA INC. (0001840317) (Filer)",
+    "event_key": "a7589683041ecd140837cdbd402dea5da16d469fd96696ef5ab019a8b4694c74",
+    "event_family": "M_AND_A",
+    "title": "8-K - VEEA INC. (0001840317) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1840317/000121390026088713/0001213900-26-088713-index.htm",
+    "news_age_minutes": 26,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "VEEA INC. heeft op 13 augustus 2026 een 8-K-formulier ingediend bij de SEC, waarin de \"Entry into a Material Definitive Agreement\" wordt gemeld. Dit betreft een materiële definitieve overeenkomst, zoals vermeld onder Item 1.01.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap voor het bedrijf, zoals een overname of fusie. Dit kan de toekomstige waardering en groeivooruitzichten van VEEA INC. significant beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn niet bekend, waardoor de impact op VEEA INC. onduidelijk blijft. Zonder details over de tegenpartij of de dealwaarde is een economische beoordeling niet mogelijk.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de specifieke aard van de transactie of de financiële voorwaarden.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de inhoudelijke details ontbreken in de samenvatting."
+    }
   }
 ]
