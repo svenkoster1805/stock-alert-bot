@@ -5628,5 +5628,21 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de inhoudelijke details ontbreken in de samenvatting."
     }
+  },
+  {
+    "time": "2026-08-13T17:09:54.762751+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Vestand Inc. (0001898604) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Vestand Inc. heeft een 8-K melding ingediend bij de SEC over het aangaan van een materiële definitieve overeenkomst. Dit betreft een M&A-gerelateerde gebeurtenis.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan de toekomstige strategie en financiële positie van Vestand Inc. significant beïnvloeden. M&A-activiteiten leiden vaak tot koersbewegingen.",
+      "risk_nl": "De specifieke aard van de overeenkomst, de tegenpartij en de financiële voorwaarden zijn nog onbekend. Zonder deze details is de impact op de onderneming onduidelijk.",
+      "invalidation_nl": "Er is geen contractwaarde of gedetailleerde voorwaarden van de overeenkomst bekendgemaakt.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt het bestaan van een overeenkomst, maar de inhoud is nog niet openbaar."
+    }
   }
 ]

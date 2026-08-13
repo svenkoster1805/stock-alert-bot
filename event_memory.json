@@ -2206,5 +2206,11 @@
     "symbol": "FILER",
     "title": "8-K - VEEA INC. (0001840317) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "e6fcdcc88735e5da25b003169940b89564bf22e4dd1fae2c7d4b455102dd08be": {
+    "first_alert_at": "2026-08-13T17:09:43.335724+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Vestand Inc. (0001898604) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
