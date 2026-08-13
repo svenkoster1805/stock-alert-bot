@@ -5644,5 +5644,207 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt het bestaan van een overeenkomst, maar de inhoud is nog niet openbaar."
     }
+  },
+  {
+    "time": "2026-08-13T20:55:32.665708+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MapLight Therapeutics, Inc. (0001770069) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-13T20:55:43.597386+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Amprius Technologies, Inc. (0001899287) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Amprius Technologies, Inc. heeft een 8-K-rapport ingediend over een materiële definitieve overeenkomst en een directe financiële verplichting. Het rapport is op 13 augustus 2026 gepubliceerd en is 262 KB groot.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst en een directe financiële verplichting duidt op een potentieel significante wijziging in de financiële positie of bedrijfsstrategie van Amprius. Dit kan de toekomstige inkomsten, kosten of balans van het bedrijf beïnvloeden.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de overeenkomst en de financiële verplichting zijn onbekend, waardoor de impact op het bedrijf onduidelijk is. Zonder details over de tegenpartij, de waarde of de looptijd is de economische relevantie niet te bepalen.",
+      "invalidation_nl": "De samenvatting van de 8-K vermeldt geen specifieke details over de aard, de partijen of de financiële waarde van de materiële overeenkomst of de verplichting.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de inhoud van de 8-K zijn essentieel voor een accurate beoordeling van de economische impact."
+    }
+  },
+  {
+    "time": "2026-08-13T20:56:19.902079+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BMW Vehicle Owner Trust 2026-A (0002143474) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-13T20:56:20.985051+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BMW FS SECURITIES LLC (0001136586) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-13T20:56:21.974641+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Nauticus Robotics, Inc. (0001849820) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-13T20:56:23.051333+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Professional Diversity Network, Inc. (0001546296) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-13T20:56:24.119518+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Aptevo Therapeutics Inc. (0001671584) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-13T20:56:25.307892+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AbCellera Biologics Inc. (0001703057) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-13T20:56:26.314722+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Inflection Point Acquisition Corp. V (0002028355) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-13T20:56:27.294080+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Tempest Therapeutics, Inc. (0001544227) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-13T20:56:28.328736+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NEWMONT Corp /DE/ (0001164727) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-13T20:56:29.337628+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TWFG, Inc. (0002007596) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-13T20:56:30.356525+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Arena Group Holdings, Inc. (0000894871) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-13T20:56:31.427569+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BRC Group Holdings, Inc. (0001464790) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
