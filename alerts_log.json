@@ -9493,5 +9493,30 @@
       "is_already_priced": false,
       "notes": "Verdere details over de materiële overeenkomst zijn nodig om de relevantie en impact van de M&A te beoordelen."
     }
+  },
+  {
+    "time": "2026-08-14T19:28:06.271805+00:00",
+    "symbol": "FILER",
+    "company": "AppTech Payments Corp. (0001070050) (Filer)",
+    "event_key": "03f3703c38bb36b4e881a146121e33c73d1663ce52b490ed822927acb399b045",
+    "event_family": "M_AND_A",
+    "title": "8-K - AppTech Payments Corp. (0001070050) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1070050/000168316826006467/0001683168-26-006467-index.htm",
+    "news_age_minutes": 12,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AppTech Payments Corp. heeft een materiële definitieve overeenkomst gesloten, wat de creatie van een directe financiële verplichting inhoudt. Dit is gemeld in een 8-K filing bij SEC.gov.",
+      "why_nl": "Een materiële overeenkomst en financiële verplichting kunnen de balans en toekomstige kasstromen van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in de waardering of strategische richting.",
+      "risk_nl": "De samenvatting vermeldt geen details over de aard, omvang of financiële waarde van de overeenkomst. Zonder deze informatie is de precieze impact op het bedrijf onduidelijk.",
+      "invalidation_nl": "De samenvatting bevat geen concrete contractwaarde, specifieke voorwaarden of de identiteit van de betrokken partijen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst en financiële verplichting, maar de details ontbreken in de samenvatting."
+    }
   }
 ]

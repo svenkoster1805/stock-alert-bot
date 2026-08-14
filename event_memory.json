@@ -2344,5 +2344,11 @@
     "symbol": "FILER",
     "title": "8-K - GMF Leasing LLC (0001631055) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "03f3703c38bb36b4e881a146121e33c73d1663ce52b490ed822927acb399b045": {
+    "first_alert_at": "2026-08-14T19:27:36.023609+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AppTech Payments Corp. (0001070050) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
