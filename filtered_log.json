@@ -1,113 +1,5 @@
 [
   {
-    "time": "2026-07-08T21:54:27.721413+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Voya Financial, Inc. (0001535929) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 38,
-    "url": "https://www.sec.gov/Archives/edgar/data/1535929/000153592926000138/0001535929-26-000138-index.htm"
-  },
-  {
-    "time": "2026-07-08T21:54:27.721432+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Customers Bancorp, Inc. (0001488813) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 41,
-    "url": "https://www.sec.gov/Archives/edgar/data/1488813/000148881326000078/0001488813-26-000078-index.htm"
-  },
-  {
-    "time": "2026-07-08T21:54:27.721466+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Orchid Island Capital, Inc. (0001518621) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 42,
-    "url": "https://www.sec.gov/Archives/edgar/data/1518621/000143774926023058/0001437749-26-023058-index.htm"
-  },
-  {
-    "time": "2026-07-08T21:54:27.953151+00:00",
-    "reason": "te oud voor fastlane (42 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Bleichroeder Acquisition Corp. III (0002128045) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 42,
-    "url": "https://www.sec.gov/Archives/edgar/data/2128045/000121390026076443/0001213900-26-076443-index.htm"
-  },
-  {
-    "time": "2026-07-08T21:54:27.953324+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Securitize Corp. (0002094496) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 42,
-    "url": "https://www.sec.gov/Archives/edgar/data/2094496/000121390026076444/0001213900-26-076444-index.htm"
-  },
-  {
-    "time": "2026-07-08T21:54:27.953344+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Monster Beverage Corp (0000865752) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 44,
-    "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926081842/0001104659-26-081842-index.htm"
-  },
-  {
-    "time": "2026-07-08T21:54:28.197930+00:00",
-    "reason": "te oud voor fastlane (45 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Vistance Networks, Inc. (0001517228) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 45,
-    "url": "https://www.sec.gov/Archives/edgar/data/1517228/000119312526298682/0001193125-26-298682-index.htm"
-  },
-  {
-    "time": "2026-07-08T21:54:28.197983+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - APA Corp (0001841666) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 46,
-    "url": "https://www.sec.gov/Archives/edgar/data/1841666/000184166626000045/0001841666-26-000045-index.htm"
-  },
-  {
-    "time": "2026-07-08T21:54:28.198001+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Cyber App Solutions Corp. (0001851048) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 47,
-    "url": "https://www.sec.gov/Archives/edgar/data/1851048/000185104826000011/0001851048-26-000011-index.htm"
-  },
-  {
-    "time": "2026-07-08T21:54:28.438307+00:00",
-    "reason": "te oud voor fastlane (47 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - GoPro, Inc. (0001500435) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 47,
-    "url": "https://www.sec.gov/Archives/edgar/data/1500435/000150043526000028/0001500435-26-000028-index.htm"
-  },
-  {
-    "time": "2026-07-08T21:54:28.438500+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Cantor Equity Partners II, Inc. (0002034269) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 49,
-    "url": "https://www.sec.gov/Archives/edgar/data/2034269/000121390026076435/0001213900-26-076435-index.htm"
-  },
-  {
-    "time": "2026-07-08T21:54:28.438527+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - BELLRING BRANDS, INC. (0001772016) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 53,
-    "url": "https://www.sec.gov/Archives/edgar/data/1772016/000162828026047674/0001628280-26-047674-index.htm"
-  },
-  {
     "time": "2026-07-08T21:54:28.438543+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107890,113 @@
     "publisher": "Free Press Journal",
     "age_minutes": 10,
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa1M3WFRKczJMajZ1NVR1a1VZWjRRRUNaSnBJVnYtWmpLeEhDdFRrY3M5SXRRM2Y2SEVNZEJ5ZlRZS3VHLU5yUElYUjN5M0d4QmZDWFFRSmZtLWdMOXBaSGdsY2NSaWZEM3h5c0ctSFJ3WUpONXFJdEhOckFtRGtIYVFuU1hmSWZKQkZqejZBOWdZM19BSTMxMzYyUGFSSDhSendCbFBheGN0d3NFZlZEd0pMXzZyWHlnbEUtVU9ldkUyZVI4OXpz0gHMAUFVX3lxTE1YWjFNdm9neG1aSVFsY05wOW13LW1VdzNncnlpXzR4RmxVZ2FseGYxMFFra2J6VVFRelZVSTdqOFRlT3pnbXQzV21yRFhwdUxheFhqMXA4VGFlWm5kcDZBSUFKRHdndmM5b095VkhJYl9IYUJQbHhsN1pzVzJ4eHhlRWxlbEFPZVYzVkRieEhsY3JUdHNUTWJIemJsZjhoZ2hvMWpYWWtPcTU4eTlTdVMxQUxDSUV4NGVXRTB6TTlFMUZ6Y1JYUmNENFY3LQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-14T14:39:08.988263+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "XTEND Was Built for This Moment: Delivering NDAA-Compliant, Made-in-America Drones to U.S. Defense Customers and Investing in the U.S. Drone Industrial Base - markets.businessinsider.com",
+    "publisher": "markets.businessinsider.com",
+    "age_minutes": 54,
+    "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQNEVXZVktUkdTUzNkOWJrZThLWWVoRzFXQnllLWZQUEFfUmZVcXktTUR5RlpsTzF5SzJHYkxycEZtUmZ6cmJ0Z2pFUTdIRGxyWFBlVmYxeGphSFNqYW9zb2FMRGZBQXJvLWRZTGpFSDU4bld4RVl5bW1MNXU0eHhLcHFRYUl4anl4Rkw0NmxwSHZjT2k2OEtKWDg1eHF5UEIxdjhfRWt5UUlFaDRfbmROWnhQMmRHbEVtdDZxY2lqblNDcnZGSXoxODI4RVN2MW1PRmZOVVNkWTB3MXdQanBwLXQ4RnVBWkEwb01sQlFxMmw0TnhaWllhbFRFNjFKZW5ERXNMSjlmRGgya3I1YU9ZeUNaUVFyR2lJVHJQYWx5Tm1PUjFpb2dwSUpQWkdOWWVyS0lzUWFR?oc=5"
+  },
+  {
+    "time": "2026-08-14T14:39:08.988277+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "SONY",
+    "title": "Sony Group Corp Stock (SONY) Opened Up by 3.88% on Aug 14: Key Drivers Unveiled - TradingKey",
+    "publisher": "TradingKey",
+    "age_minutes": 51,
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTWRnSzFRUjhRTTB5Yno1TXNwOU1yZXZDN3dSNVIxZ3kyblNNM3M1X3drUHVZTXFBM295RW02Slk2V1Z4LWtMeldwaVVrWV9FRkxub05QRjg1bmdqUTV0WHlyWnhrVExEUm1CWHRVX2tnTnBjSUpOWW9ZblNkMng0Y2tMWFhjSTJ2d1Vn?oc=5"
+  },
+  {
+    "time": "2026-08-14T14:39:08.988289+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Form 8K Z Squared Inc For: 14 August By Investing.com - Investing.com UK",
+    "publisher": "Investing.com UK",
+    "age_minutes": 53,
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ1ZmN1VuSWE5ZlJNcnZrUndCMHhxX2Z1dzZvWlF4dkFOZkJVSUJHRmNObkZ5M3c5TzU3akRQNjhSd1F1Mk40NmpZT3ZOdmkzekFCWFJQdkt5ZnB1Nl94T3N2bmRPM0V3Y3FoWnlaNWl1TWFUX01RSDRvVVpNYWV2ZW14ekstX3hZNkFXZ2J2UFFfbzg5a1NsVTRBWUU?oc=5"
+  },
+  {
+    "time": "2026-08-14T14:39:08.988300+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "TOMZ",
+    "title": "TOMI Environmental Solutions (NASDAQ: TOMZ) doubles gross profit and narrows loss in Q2 2026 - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 36,
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMERCSGJKbVRSQWcyR0doVThGTDBSZllMMXk2dGxYQTBBekozQjFUYWE2VnkwSVdjQzdQYWJ4WHI0Vk9Yd0RwdGFFYXlCWWRISjFfVmlyZkhER2RPaDgtcTRtYlZrcmRPX053QWZfOFdlSlMza2xNVS0tblFXYzJZbmIyR29HeFBsa1FWYUZ4aGpsR1JuNV84X1Z6LWJFemRqcjh4QmczMUZCVF8xdGhIZFR3MExGM3JHT3dNTkZB?oc=5"
+  },
+  {
+    "time": "2026-08-14T14:39:08.988311+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Form 8K Skye Bioscience Inc For: 14 August By Investing.com - Investing.com UK",
+    "publisher": "Investing.com UK",
+    "age_minutes": 43,
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUxxWWFyWklCdklmZDhzMkoyeFB6Nkg0emZnSkwyWVhybEtTaFpBTDBvcURkVG5PMm55ZGM1WGtqcW14RTRRU3NSamVZMDlMUjBpeUZCMDdBVDRCczBzS3JGdERjX200NTB0UTlfRHlVZlJFZDAya2h6WGJLRnBYbkgzaEFsdnNGSWZFSmFpMTJFb1ZmNDh3WFZDOE9DQ2RySGFMbw?oc=5"
+  },
+  {
+    "time": "2026-08-14T14:39:08.988322+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "US stocks: Capricor shares 70% soar as potential FDA lifeline revives Duchenne drug hopes - The Economic Times",
+    "publisher": "The Economic Times",
+    "age_minutes": 15,
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdkZOSU1qbzYxem1WdmVTTGtNSkRpZXNwQi1CTUNpSmVlTU8ybTV4NTJFVk9mYlJ3MzJFZVFHbGNGWk80U05YUkk3YnR5MUo4cS1hLWZLVDJ3bUhQY3lsRXVqS2dGVjliel8waGZLY2p5eU5DNTRCWDZnam1wbzNub1RMTWkxVmJFOFNwTTNUeXh6WEl6THMxUmdRUWdkNTAtdTZ1Q0Z6WVpGR0lXT1hyVWluQmlVM2haT2JCeFpOakJpNE1IeWFFTm8wMWNjSGhDTFhDZlVpZC1objQ0MnZRYThHMjJvYmltdFZUaGc3QkFNUVdIQi1tRWJjc2jSAfwBQVVfeXFMTnZGTklNam82MXptVnZlU0xrTUpEaWVzcEItQk1DaUplZU1PMm01eDUyRVZPZmJSdzMyRWVRR2xjRlpPNFNOWFJJN2J0eTFKOHEtYS1mS1Qyd21IUGN5bEV1aktnRlY5YnpfMGhmS2NqeXlOQzU0Qlg2Z2ptcG8zbm9UTE1pMVZiRThTcE0zVHl4elhJekxzMVJnUVFnZDUwLXU2dUNGellaRkdJV09YclVpbkJpVTNoWk9iQnhaTmpCaTRNSHlhRU5vMDFjY0hoQ0xYQ2ZVaWQtaG40NDJ2UWE4RzIyb2JpbXRWVGhnN0JBTVFXSEItbUViY3No?oc=5"
+  },
+  {
+    "time": "2026-08-14T14:39:08.988333+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "FDA Grants Accelerated Approval to Zenbexus Plus Daratumumab and Hyaluronidase-fihj and Dexamethasone for Multiple Myeloma - Pharmaceutical Executive",
+    "publisher": "Pharmaceutical Executive",
+    "age_minutes": 59,
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRjU4MUFkaTNZcEFJamxVNEJPVTkyeXhEOW9VRW9ud3pKMDFzdVk5R1doZVRTT3NnY0p3ZjJJd1RXZUpoWnpYMDdXTEppMjhHLVN2eFhvZEJkNVQzOE12Q0lfa01JODZkN25mbUhzWk90RlRYM2ZtZGxxVWcyUU9vTW9rczlLazJGNk9INkIwTS1ycjRmTVVxbDZpV3RPLUVnLWdaSi1yVHRPblFoVlR2WGNmS0k5NWJ4N1Y5NzdmUG16Rkk?oc=5"
+  },
+  {
+    "time": "2026-08-14T14:39:09.933166+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Truth Social’s sale of fast access to Trump posts draws legal concerns - The Washington Post",
+    "publisher": "The Washington Post",
+    "age_minutes": 3,
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM1VzWmMtTlpweVl2ZktlQlZtRTdHMXhLU3hWaXc0QmZ6QlJEZVNVSzQ0cGJNN0QzNjVlWVI1QzFPdUpRZWJfZEkteEFOd054TFZ5T04wdlNOVUs1YlJTeTk3RDhJSTFaM0dzVnZNbFRiQ0dqNk5rWkRmWDFqS2pOWDhPZ1R3S1RyZ1pyQlNNU2xDR0lBLWV5bm8tT21la1BhWUZUZW85bno4YXJxTU9sYlB0Q2djQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-14T14:39:09.933218+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "CARG",
+    "title": "CarGurus (CARG) holder files to sell 8,957 Class A shares via Rule 144 - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 40,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNemdtUUstY2dhT0ZfcnU1anQteFg3WmVla0dwblV5RTJQU0pJSE45dlJ3a2pzTHpYQzlMVHVBNTlvT3lWSkNqZ1p4b09CalNXXzZuN05NNVFiS2N6SWF1aFVUUFNYdWtoSXBNWENkbTdGeVhJakdmVkVwamlUNWl3MmtTcTlqN0RHY0FlX0hudS1CcnBt?oc=5"
+  },
+  {
+    "time": "2026-08-14T14:39:09.933231+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "MKSI",
+    "title": "MKSI (MKSI) insider schedules 10,000-share sale worth about $3.0M - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 53,
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUG91eUFzaW03N29Xb2dTdTBNVjlPdzlPRC1relJVRjlkYnNLRHlmRjYzVGdBb0kzMWNjVjFYWjlUUWNhRC1rQmU2c3VjNnRnN1FWbTZwbWdhN1JwbGE0a2kwOHM3ellTR1FFYlg5Rk8yeWZXWUpWV1R1N3BEd1E0a3kzSFYzQzRtY3pQNg?oc=5"
+  },
+  {
+    "time": "2026-08-14T14:39:09.933243+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "FDA Busts Abortion Medicine Racket In Nagpur, Solapur; IndiaMART Directors Among 8 Booked - ETV Bharat",
+    "publisher": "ETV Bharat",
+    "age_minutes": 29,
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRTVBSkticnZzM3pKVFpLcWc3YWV4N203MnlJbTdobWU5X3psaTFkNy1vakxwck95QWFVbnZVQ1V4WG84RlZ4TkJkYUEta01qUU1tZmJWb2R6MlotOHhPeFZWZXkxUDRNOWJUNVlyTkZRWDVnR0xZcDd5b1h1VTV3em04NXNjTjRlMmIzUFlWTlZ1bV9mc2JMRWRlZi1jYTJfSW1qT1FUZnV4OTQ1SlREbmh5aDBNaFZBLUNpa1phWVdSVzBWU3lMdnFvX1hYT0p1TGhuYTZOS0pmM2R2Nk9qQdIB5gFBVV95cUxNbVNocE9UWG9pajNYeW1ydmNnZ2FaNS04S1E5OE9teGtGUU5ENXNjQ2puWmtxS3FiTjNXazAxd0VSaF8yVjFVRWdOVFBRSC1KWkx2NU45TzljbGIyZG9xVzRFUDgxeWlEamY4ZTFPV3dtaGkwdkV1OG9vbGJ5MzlOUkp3Tkt5VU5EUkFNM1dUb0tFVjhHOWhuYUpUazk5SXFlUlNzOGgxWUk1RnJJMFBqQ1lHcEhNdFVRVnVqUWtidkpCaFBFU014TjNmWUdoeEc1ekFuRGdlZzJfclNpdlhwYWxid0pfdw?oc=5"
+  },
+  {
+    "time": "2026-08-14T14:39:10.892171+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "UK Government bans sale of disposable barbecues after sparking wildfires - Westmorland Gazette",
+    "publisher": "Westmorland Gazette",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOVNBTlhjLXpjejVPOHRrWldHejRDXzAzTktIQ1d2TjdodUs1aU1sY1hFdGFVZ3RtUEtOaTlRUjZqR05vc2pXaGxhS0NNTHc3MkVjY3hJM3dPRTVyRk8ycnAzQnJpX25mRXh0cXdRVWNfNU9vYkxXRFVRY3J4ZzFqbkhEenY3UXBwY0FKSnNPM1BHY1hNZFNYLUlubzJObDVjNkQ5dlNtejgwamdNMFFyUw?oc=5&hl=en-US&gl=US&ceid=US:en"
   }
 ]
