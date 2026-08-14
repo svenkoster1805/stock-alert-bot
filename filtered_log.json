@@ -1,104 +1,5 @@
 [
   {
-    "time": "2026-07-07T22:37:21.214132+00:00",
-    "reason": "te oud voor fastlane (106 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Kennedy Lewis Capital Co (0001911321) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 106,
-    "url": "https://www.sec.gov/Archives/edgar/data/1911321/000114036126027772/0001140361-26-027772-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:21.513785+00:00",
-    "reason": "te oud voor fastlane (109 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K/A - Getty Images Holdings, Inc. (0001898496) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 109,
-    "url": "https://www.sec.gov/Archives/edgar/data/1898496/000121390026076004/0001213900-26-076004-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:21.513835+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - AdaptHealth Corp. (0001725255) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 111,
-    "url": "https://www.sec.gov/Archives/edgar/data/1725255/000110465926081305/0001104659-26-081305-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:21.513854+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Evolution Metals & Technologies Corp. (0001866226) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 111,
-    "url": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026076002/0001213900-26-076002-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:21.842138+00:00",
-    "reason": "te oud voor fastlane (111 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - NEXTNRG, INC. (0001817004) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 111,
-    "url": "https://www.sec.gov/Archives/edgar/data/1817004/000149315226032350/0001493152-26-032350-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:22.146880+00:00",
-    "reason": "te oud voor fastlane (113 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - GLOBAL INDUSTRIAL Co (0000945114) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 113,
-    "url": "https://www.sec.gov/Archives/edgar/data/945114/000162828026047515/0001628280-26-047515-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:22.146932+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Affinity Bancshares, Inc. (0001823406) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 115,
-    "url": "https://www.sec.gov/Archives/edgar/data/1823406/000094337426000254/0000943374-26-000254-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:22.146951+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Public Storage (0001393311) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 116,
-    "url": "https://www.sec.gov/Archives/edgar/data/1393311/000119312526297556/0001193125-26-297556-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:22.146985+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - ARS Pharmaceuticals, Inc. (0001671858) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 118,
-    "url": "https://www.sec.gov/Archives/edgar/data/1671858/000119312526297554/0001193125-26-297554-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:22.147002+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - QUAKER CHEMICAL CORP (0000081362) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 118,
-    "url": "https://www.sec.gov/Archives/edgar/data/81362/000162828026047513/0001628280-26-047513-index.htm"
-  },
-  {
-    "time": "2026-07-07T22:37:22.454224+00:00",
-    "reason": "te oud voor fastlane (120 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - MASTEC INC (0000015615) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 120,
-    "url": "https://www.sec.gov/Archives/edgar/data/15615/000119312526297552/0001193125-26-297552-index.htm"
-  },
-  {
     "time": "2026-07-07T22:37:22.454275+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107899,104 @@
     "publisher": "Chosunbiz",
     "age_minutes": 30,
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkdGVlk4MDgyZXAyTjlxam92amZZb2xsZVRqQUVNR0FrbnktWTFCSEpVX2p4eC14M3FNS3ZKUFRTQlloMTRhN21VaXNGTzZVQ1lHMllUYko1NTZqeERqWUItTXAwVXg5Mkk1Ymo2WFAyMFZoYkFlUjVrbEdjaTIzcNIBlAFBVV95cUxONXVsTmZEb3hsVm54dGpCdkR6d0ROVDVsRmI3Qk0xVFg0MFhHNTB2RDcyZVZpRDJmdEN1dkdWMGhMX3Jiak1Vbk1qUWVDbnZWU05WbExibDZIb2dqMThtQmc2YnNEVURWVG9sWEdMVG5BcEFvSl9EcVFqaXJVY1dNX1B5U2tHcXlRVHpKYVpMZUNVSDJv?oc=5"
+  },
+  {
+    "time": "2026-08-14T07:26:40.567625+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Citizens downgrades Accelerant Holdings stock rating on acquisition deal - Investing.com",
+    "publisher": "Investing.com",
+    "age_minutes": 7,
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORWFaek52Z3VmbERzQ2JyTnBGUWlWVVNWVmtod3pFeGZTamFOcEpPd01YS1NxcGh4SWlXcllWU0lWdUFnUk9HTGlTTDhqMC1GWU96bmR5eXBJZmpGZTRYMGh6NmVCUi1nSDFxUFZHMnZza3E5c2JmN1dQS2p5eURKdi1Ha1NnMFltbFN4QzdxM1pUdXBOR2EwX05Bb0ZHRlljSE9oYTc5ekdmeE9sNVkxWlR6UmNISWl4QUdvdXhCUllIczZBWnlMcmQ0Njc?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-14T07:26:40.567680+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "TRMB",
+    "title": "Trimble Inc. (NASDAQ:TRMB) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+    "publisher": "MarketBeat",
+    "age_minutes": 55,
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHRqVFRKTng4Y1FMS250YWgtZXFkV0ZpUTNJUHdMTk9OdXpoeThZOE81blBNSGgtd3VURnZQUGxhbGdld1pOVTVLWmtwS085RFc0YzZvUDNVLXRBaXZRMGJIQ1RjWXBQa1lqSzNXNVU2WVdHOGhhWlRackU0cERMR3doUWd4WUtPOUctVW0xVzRVSUVCLVNucU9oN2NxNXhhTTZaRDhVSlFqS0lGQzh0S3dGMVpLb2pzVkc3S0FGZkpsVlN6UVE?oc=5"
+  },
+  {
+    "time": "2026-08-14T07:26:40.567699+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Kreon Financial reduces Shivansh Finserve stake to 4.75% - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 8,
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeGp1ZVFjamZpcGo2N3E5YXE4bzdmakdYY3d6ZFhaZ0ZrRHlqalJFeG84LXY1N1o1SFA1VzlQOHZPNGozcEo3bjJ5dGtscGFBMUVIcDR6T0taYzdxdzNVX2NRcHNuXzA4RnpkaVo4alNfblltOVdDbWI4WGtkdXRKQjBIYjFSUlZUb0hvTzdpYlNXajZMaGlDalhfdktCUkVvcGZWN2lVV1pfUjBIMGc?oc=5"
+  },
+  {
+    "time": "2026-08-14T07:26:40.567713+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Dr Agarwal's releases pledge over 31.7M shares, stake falls to 13% - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 33,
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEpTSndSMklLUkc1U3ZOSTVqVkI0VDBmQ3E4RnktUFJSbllGU0tsaGVTUWE5SmpocFdhaUJvSXVGT0tobTJOOWVBMDZramkyeDZnT2p6Z3plQmVzRnhtUGVEN1lFTHF6aWpOOWw5VXJXd2tKSnVueTR6S2I1RUw2QUF0aDdUYzluTXU5STVJcG42VVdiWnF6WF9sUVlRcUZtZno0OThIT3Q5d05ieEsyTW1DNA?oc=5"
+  },
+  {
+    "time": "2026-08-14T07:26:40.567728+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "10x Genomics director John Stuelpnagel sells $1.15m in shares - Investing.com",
+    "publisher": "Investing.com",
+    "age_minutes": 26,
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRXJwU1dJM1I4WThpVXE1ZXlwTVdzdkw0dlc3TEdnWWJzRzU2RFFoaVgyWVQtSWYwV0ZUcGViOU9vRkxHVUJxeFZsVW44R0VybGZMQ21JYlF4VUxjcE1SdWw3aVhHZjEtOG1SN1hSQ29fSzFlU2dQbWdmLVdyMmwzSEtpZmRpNUtjSUpNVGkzMjhsdXFQT2o2OWpSSnZXMGJGQVhqVEswUTVIUU1BVFBXSFEtSEFRQ3VrcWZaYmkxNDk2QQ?oc=5"
+  },
+  {
+    "time": "2026-08-14T07:26:41.003634+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Bekaert: Update on the Share Buyback Program and the Liquidity Agreement - The Manila Times",
+    "publisher": "The Manila Times",
+    "age_minutes": 52,
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTmdjcjhDbFY5eFl4dWpjSnlzRzRHenlwd2xtcVNvbzRJNGI4M1JtN1pqa19SMmwydVVSYXVFeHVrY011M1dFZmU3amdJSWFQeHh2ckVjSE8yQ0NkWGtLcjIxM2xZVWdMd3pzb0hHNldvN1ZyZ1VfNk51T2dVdUkya0FfUnZ2YzJ2N3NEYVdUQmtsb05aSHJ1V3I5Y0hCZGNfcGduSE5OYm4wVko0Q0ZYYkczVFptOUlPN045M3l4eksycldkZE9Jdl9aUmVQbTFsbjZlTDl1QlN4X0lGNHfSAeMBQVVfeXFMTlNFVFNxMm15T2JwZXByVUtCQ2gxSmFzcWNjcXlhVldhRW9rbUh0anI2cEZ1bzlEQXI4aXU3NUpzREZaSFVxbnJsaWVRckJEeEMwSFRxZDd1VE00b2QwMGpjWlhFVEI2NXJmdVh5azBwMkNqbEpmdHU5aldWMXVkdHN2VXpJRzJkamx5RTZPNzBxLS1CT3pHaElHc1FRYms1NGF5QVRCd2RLM3NDajQ1ZmVDOUxuakNKZmlJZ0V4eFg4Y0VuelZ0UTk4akczVTJzbnlGWkc4NzdtTF9aMGVvY0o3eW8?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-14T07:26:41.003687+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "LEAP India Lists 4% Higher on Market Debut - HDFC Sky",
+    "publisher": "HDFC Sky",
+    "age_minutes": 56,
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyRUhDWXJyckFjRDFncHFESlNoaTZKZnRQMTFaV0hNOVJUaHRmVE1jT2R3Qk1zYzFGMm1PZUhCbUVVTVY4SThVZzBpSzVrLTlsU0VFZUc0ZkRSNXBNOXJGT3B2ZXZHeHlTOWt6NXgtSnRrZXZGalpvdDJaMA?oc=5"
+  },
+  {
+    "time": "2026-08-14T07:26:41.003707+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Hyperion Investments Sells 24.16M Dr. Agarwal's Health Care Shares - InvestyWise",
+    "publisher": "InvestyWise",
+    "age_minutes": 58,
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkFIdFFCRjhkUG41bGFLUFcxR0xhTW9fQWpBWUFiWG42MnJLbFNPbVM0Q1F6WXM4azBaakxPdGNYLTgwQURvRi1XbEF6TXllLUJMTmhpeFYycW51ZXl5ZlpBbU53WGxFNEFObzlZdU9tTElVVXo5Tjl2djRsRGNCSFF2NjZ6YU4yQzZNZy1zTU1JNTVMaVZuQjd0VDF4bEo4cHFRQ3VqT1FCUQ?oc=5"
+  },
+  {
+    "time": "2026-08-14T07:26:41.003723+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "ICICI Prudential MF: Sells 2.06% Stake in Thyrocare Technologies - InvestyWise",
+    "publisher": "InvestyWise",
+    "age_minutes": 28,
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSUlJYURMTTZWWUw1WHpBTUc0QTlZYlg0MlVsemctRmpLQ2V2SGU0aVBZRm1JRHFBanZxcDhzT0F6aFVJZ0NJQ2xORUZLYVl2NXdhWUJzMnBzWWwxU1l6WDUzY3N3U1F3V2MwWTAzSUtvSzhfR2o4NEdkVGtsZWpTY0JQbEpRV1NHQU14eG5EYmx5bVdkazdSVmVR?oc=5"
+  },
+  {
+    "time": "2026-08-14T07:26:41.003734+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "HDFC Mutual Fund Sells Gabriel India Shares, Stake Now 6.33% - InvestyWise",
+    "publisher": "InvestyWise",
+    "age_minutes": 43,
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHROLXpoSHVsMmxGSGhib01MN2NtcmdOMU11WnQ1N1h2R00tRWpfMkVnb3RqM1FjaDJ5SGUzVGJBTlFaaVFlOGp6a0xaWktUY0N6Vkp1TmZCVm1PT3BBdkhTUHNoSU96ZmJmVi0wZjRvRy1sdlhITXlHbVhiZXdEcjdod2NPS190N1dodGJrSEZFdVdURkE?oc=5"
+  },
+  {
+    "time": "2026-08-14T07:26:41.003749+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Shiprocket IPO GMP Vs Behari Lal IPO GMP, know which can offer better listing gains - India TV News",
+    "publisher": "India TV News",
+    "age_minutes": 39,
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORGtHX1o3OXdodTlpdlJ2dEhPeDJmbDgxcHhhWVBFd1BDbUQtWFBJRE5Od2l1WmwwcU1tZjhkR29BeUhHSHV4djY4QS16MnNENzZLekotblZYUGZVRVpRRE4yaGN0SU9XeU5PS1NFbjRKRE5taTVzY3Z5bWtpMV9Lb0xUZTJ0ZUduZW1jQ2o4b1JMYXRaVlU0QjRTR2JMRlpCQ3FtOThSRXY5c3JzeGVyRWdKb19NOEM3eXd3bTZLSjBvMG5vSGdsVklyN2pVTXg4eC1Rd3ZaaFNCcUpuSWI5bVNPbEFNa1ZWU2tlOU1mam50ZjN40gH6AUFVX3lxTE01SFdRUDZpcW9FbU5tdlQ1VkRBckU5c25VS2dOZENIUHZGbGxNanMtNng2SXIzdEdBMmxWX0hnYXBSdDN1dWltUlMyYkVSQkpPTEVLSjBPZWJTSXlnYWtxb01VekJGUVhDUUYtWmtWaVBiY014SWxlTE9DREVsQ1FNLVRXRXlSLXVjZkJGQkZMdzVLYnpiX1hlMk5mb0FrVXNBNDVzcld1ZnM4N0JNZnJqYTFFRUZRNHQxdE9tMHpKQ2ViRWtVcDJJd21sLVVLbzNVeXZpWTYtUkVXVDFMU1gyNVh5d1lkUzJ4dzV1MkdNTl8wdmtkVkZjMmc?oc=5"
   }
 ]
