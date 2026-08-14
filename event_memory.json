@@ -2302,5 +2302,11 @@
     "symbol": "FILER",
     "title": "8-K/A - Freenome, Inc. (0002017526) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "bb31b1edb0614775c24ae4af3d04786138b90f35d64ad183bc5d87799af4af31": {
+    "first_alert_at": "2026-08-14T10:41:40.162041+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WinVest Acquisition Corp. (0001854463) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

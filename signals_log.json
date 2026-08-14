@@ -5862,5 +5862,21 @@
       "is_already_priced": false,
       "notes": "Meer informatie uit het 8-K/A-document is essentieel om de relevantie van deze gebeurtenis te kunnen beoordelen."
     }
+  },
+  {
+    "time": "2026-08-14T10:41:54.719762+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WinVest Acquisition Corp. (0001854463) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "WinVest Acquisition Corp. heeft een 8-K-rapport ingediend over de creatie van een directe financiële verplichting of een verplichting onder een off-balance sheet regeling.",
+      "why_nl": "De creatie van een financiële verplichting kan duiden op financiering voor een overname of een andere strategische transactie. Dit kan de kapitaalstructuur van het bedrijf beïnvloeden en toekomstige groeiplannen ondersteunen.",
+      "risk_nl": "De specifieke aard en omvang van de financiële verplichting, evenals het doel ervan, zijn niet gespecificeerd in de samenvatting. Zonder verdere details is het onduidelijk of dit direct gerelateerd is aan een concrete M&A-deal en wat de impact zal zijn.",
+      "invalidation_nl": "Er is geen concrete M&A-deal met gespecificeerde voorwaarden, contractwaarde of goedkeuring bevestigd.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding betreft een financiële verplichting, niet de aankondiging van een specifieke overname."
+    }
   }
 ]
