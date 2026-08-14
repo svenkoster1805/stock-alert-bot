@@ -5926,5 +5926,21 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een overeenkomst, maar de aard van de M&A-transactie en de voorwaarden ontbreken in de samenvatting."
     }
+  },
+  {
+    "time": "2026-08-14T16:26:07.645405+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TCW SPECIALTY LENDING LLC (0002066811) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "TCW Specialty Lending LLC heeft een 8-K formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie voor het bedrijf. Dit kan de toekomstige financiële prestaties en de marktpositie van TCW Specialty Lending LLC beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend. Zonder deze details is het moeilijk om de potentiële waardecreatie of risico's correct in te schatten.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de tegenpartij, de aard van de transactie en de financiële voorwaarden, ontbreken volledig.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de relevantie voor een M&A-event te beoordelen."
+    }
   }
 ]
