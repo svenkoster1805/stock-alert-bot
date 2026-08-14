@@ -2308,5 +2308,11 @@
     "symbol": "FILER",
     "title": "8-K - WinVest Acquisition Corp. (0001854463) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "b14171802c965751ff74d51a88c5822bd287fe480f57aa25008d010f4ea2e121": {
+    "first_alert_at": "2026-08-14T11:28:24.155027+00:00",
+    "symbol": "FILER",
+    "title": "8-K - RF Acquisition Corp II (0002012807) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

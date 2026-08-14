@@ -9343,5 +9343,30 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding betreft een financiële verplichting, niet de aankondiging van een specifieke overname."
     }
+  },
+  {
+    "time": "2026-08-14T11:28:38.453201+00:00",
+    "symbol": "FILER",
+    "company": "RF Acquisition Corp II (0002012807) (Filer)",
+    "event_key": "b14171802c965751ff74d51a88c5822bd287fe480f57aa25008d010f4ea2e121",
+    "event_family": "M_AND_A",
+    "title": "8-K - RF Acquisition Corp II (0002012807) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2012807/000182912626008821/0001829126-26-008821-index.htm",
+    "news_age_minutes": 27,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "RF Acquisition Corp II heeft een materiële definitieve overeenkomst gesloten en financiële verplichtingen aangegaan. Er is een voorstel ingediend voor een stemming van de aandeelhouders.",
+      "why_nl": "Een materiële overeenkomst kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden. Dit kan leiden tot een herwaardering van de aandelen.",
+      "risk_nl": "De specifieke voorwaarden en de financiële waarde van de overeenkomst zijn nog onbekend. Goedkeuring door aandeelhouders is ook nog vereist.",
+      "invalidation_nl": "De contractwaarde en gedetailleerde voorwaarden van de overeenkomst zijn niet gespecificeerd in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De volledige 8-K filing zou meer details over de overeenkomst moeten bevatten."
+    }
   }
 ]
