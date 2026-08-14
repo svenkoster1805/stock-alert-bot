@@ -2398,5 +2398,41 @@
     "symbol": "FILER",
     "title": "8-K - HERON THERAPEUTICS, INC. /DE/ (0000818033) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "0fb8a3abbb30e4a18a4985533fa2507e6370552dd386fb3de8bf9d970dd076cf": {
+    "first_alert_at": "2026-08-14T21:33:59.002556+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Plum Acquisition Corp. III (0001845550) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "66148ccc7a76442734868f26a8322763221e5514d0d7ea1b16ac7971b791c4aa": {
+    "first_alert_at": "2026-08-14T21:34:07.247402+00:00",
+    "symbol": "FILER",
+    "title": "8-K - OceanLight Acquisition Corp (0002137679) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a69391838fa59179dad5d71625c231b4f61055cdd7e2c7218d0ca095aa5851a4": {
+    "first_alert_at": "2026-08-14T21:34:15.797973+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bayview Acquisition Corp (0001969475) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "258efa8143501c11e636b60c61e71dfb4f1cc7d6c73c06e90671218a41f06896": {
+    "first_alert_at": "2026-08-14T21:34:25.160123+00:00",
+    "symbol": "FILER",
+    "title": "8-K - iSpecimen Inc. (0001558569) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "8ef13ee17803530b2a0dff50bac84553439a0747167d0efb229c9406b7ca4ac2": {
+    "first_alert_at": "2026-08-14T21:34:26.191952+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Star Equity Holdings, Inc. (0001210708) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0ae8fbfcff1a296b3fdd99ad7ab439a40ac845f57e9d391348c85a77c514a31f": {
+    "first_alert_at": "2026-08-14T21:34:27.285818+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MSP Recovery, Inc. (0001802450) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
