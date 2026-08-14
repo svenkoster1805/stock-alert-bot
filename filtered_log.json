@@ -1,113 +1,5 @@
 [
   {
-    "time": "2026-07-09T22:26:21.315179+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Biohaven Ltd. (0001935979) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 74,
-    "url": "https://www.sec.gov/Archives/edgar/data/1935979/000193597926000053/0001935979-26-000053-index.htm"
-  },
-  {
-    "time": "2026-07-09T22:26:21.315202+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Travere Therapeutics, Inc. (0001438533) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 75,
-    "url": "https://www.sec.gov/Archives/edgar/data/1438533/000143853326000054/0001438533-26-000054-index.htm"
-  },
-  {
-    "time": "2026-07-09T22:26:21.428776+00:00",
-    "reason": "te oud voor fastlane (76 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - ALEXANDRIA REAL ESTATE EQUITIES, INC. (0001035443) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 76,
-    "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544326000058/0001035443-26-000058-index.htm"
-  },
-  {
-    "time": "2026-07-09T22:26:21.428822+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - REINSURANCE GROUP OF AMERICA INC (0000898174) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 78,
-    "url": "https://www.sec.gov/Archives/edgar/data/898174/000119312526299825/0001193125-26-299825-index.htm"
-  },
-  {
-    "time": "2026-07-09T22:26:21.551862+00:00",
-    "reason": "te oud voor fastlane (80 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Everforth Inc (0000890564) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 80,
-    "url": "https://www.sec.gov/Archives/edgar/data/890564/000089056426000045/0000890564-26-000045-index.htm"
-  },
-  {
-    "time": "2026-07-09T22:26:21.551909+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Prairie Operating Co. (0001162896) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 85,
-    "url": "https://www.sec.gov/Archives/edgar/data/1162896/000114036126028124/0001140361-26-028124-index.htm"
-  },
-  {
-    "time": "2026-07-09T22:26:21.551929+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - PARK AEROSPACE CORP (0000076267) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 88,
-    "url": "https://www.sec.gov/Archives/edgar/data/76267/000143774926023215/0001437749-26-023215-index.htm"
-  },
-  {
-    "time": "2026-07-09T22:26:21.552007+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - TryHard Holdings Ltd (0002044241) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 56,
-    "url": "https://www.sec.gov/Archives/edgar/data/2044241/000149315226032730/0001493152-26-032730-index.htm"
-  },
-  {
-    "time": "2026-07-09T22:26:21.552022+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Boyd Group Services Inc. (0002091467) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 61,
-    "url": "https://www.sec.gov/Archives/edgar/data/2091467/000119312526299850/0001193125-26-299850-index.htm"
-  },
-  {
-    "time": "2026-07-09T22:26:21.552035+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - PAN AMERICAN SILVER CORP (0000771992) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 66,
-    "url": "https://www.sec.gov/Archives/edgar/data/771992/000077199226000059/0000771992-26-000059-index.htm"
-  },
-  {
-    "time": "2026-07-09T22:26:21.552048+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - 707 Cayman Holdings Ltd. (0002018222) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 66,
-    "url": "https://www.sec.gov/Archives/edgar/data/2018222/000149315226032720/0001493152-26-032720-index.htm"
-  },
-  {
-    "time": "2026-07-09T22:26:21.552061+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Largo Inc. (0001400438) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 69,
-    "url": "https://www.sec.gov/Archives/edgar/data/1400438/000106299326003581/0001062993-26-003581-index.htm"
-  },
-  {
     "time": "2026-07-09T22:26:21.552074+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107890,113 @@
     "publisher": "Stock Titan",
     "age_minutes": 56,
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObUp4QWpiX19CLUctQ0hOUEVSdlR2ZGVza2drNlBCbGJrSDZMcWhkODE1VmRqNnY2SFpvWXlPekFDM0FtN2ZLSkRXUTdzcUg3aktjOG5vbmJ4OVQzVGM1TDd5V21Qb2c1b0s3T05FNGZjbXRJWGhERkVUTS1NdmdreVhwbFZkaVJFZTJOV1NqcS01QWJIeXNkT05qVmQzMjJtR2c?oc=5"
+  },
+  {
+    "time": "2026-08-14T21:53:49.708573+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Dynatrace Falls as Investors Weigh $915 Million Arize Deal - quiverquant.com",
+    "publisher": "quiverquant.com",
+    "age_minutes": 32,
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQzhXZE85dl80NFBtWDdoaEZ6OU9BUGhnUTY3RUNWMldoTzJSOFJQRDl5VkUxdTBSWk16WVpyNnF3VXlLSjk0VDE1V0Y1dFhCQUVOVEVoMTNfU0NOSnNQdnFnajNXS3dCSmxoY2Vyb3p5T05IQlpaYVJkWFpJd1A0VUdEMWQ0c0toNlNOdUYyRlpiam5ac1B1aw?oc=5"
+  },
+  {
+    "time": "2026-08-14T21:53:49.708598+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "CVNA",
+    "title": "Carvana (NYSE: CVNA) secures $1.66B term loan to refinance 2030 notes - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 56,
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblBEc0gyOGtPWk5SaUpkbzZaNS01aU12Y0ZCeG04ZWgwLXhZMDJxQllXdG5VTnRxZkxIWVlxZ0Q0N3A1cG53eHpQcWVVVUFCZGlPekhwZXA4MVZiU2FiYnpkX2NIZ2p4YVVrazczc1hoZ0JMdmZFeEhETFZGQ2c3QlE3MmhiRmw2U2ZINGdNWDdfdF83NExiNDBzSlZWeUk1?oc=5"
+  },
+  {
+    "time": "2026-08-14T21:53:49.708614+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "SNEX",
+    "title": "SNEX (NASDAQ: SNEX) holder files to sell 6.4M shares worth $120.6M - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 10,
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ05MTzBVMWRmOVdYZXRoa3AyWE84WTlIdDlURUNhVDk0c1VCaU9rRk1DTUlBU3lSRU8yRjY4Tk1ZRnJxSTBMd1I0SmMxU3hKbnhESE8wQnFnSEhwa1dGbkFxR2s0WUV2ZWlicnVnTkJ6YmVrM09xX0NmNnQxSVhncXd1VldJX3RyVzRyUWMyTVlkOVBWeG0tT3Rn?oc=5"
+  },
+  {
+    "time": "2026-08-14T21:53:50.200869+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "ENPH",
+    "title": "Enphase Energy (ENPH) insider Richard Mora plans NASDAQ sale of 1,500 shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 14,
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTUVteXFtdEdUSVJncFpZRWYtRGp1YTZqbVZlQjN1aUI2ZjhjUDFGWjM5QlJhMFR4eXE1WUdOaWRhdE5EdDAtaUI0MVpyekMySDNZU0ROTnVId3BsTTI4Ym1ONWV4clM2aDQtakJQQ2hDMmFqTHE1aklHWW1IRDkxRG1LTDl1WHRQUFFuTUpScEI3UTNTUmVzaGVxYw?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-14T21:53:50.200921+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "OFG",
+    "title": "OFG Bancorp (OFG) investor files to sell 10,000 shares under Rule 144 - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 28,
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0t3UUxLSm1hYXAzMkJOTXh6UFZ2ZmdCN01sWEpKc25XWUNEa1ZlQ1EyeFpQMEZzdEhjallmLXNYU1VwYmVNMEpxZDJQdy13Q1BYV2dDaU9JZmV2STZzc0FVTlJKNEY0N1RZS0hGYTFtTnZ4X1JUZEV1NUR6WlA3SHAwQmxGTXNkX3Y0U2ptaFE?oc=5"
+  },
+  {
+    "time": "2026-08-14T21:53:50.200939+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "CSTL",
+    "title": "CSTL (CSTL) insider and family trusts detail planned and recent stock sales - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 15,
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNakdTSHBjLXg0RTFyMU1oZjJrZnY1bjZ3MF9TT1V3SGhrTnZkMlEzcnRaZzFJdEFpcDRneUVQU25zV2pqZDVGOHRzV2J5eVhiSVBHZHo0ZVM3STBJTk9PemdhemJsa2N5QlRzcnJGR2IzbHhOMlozZjJiTHVuQ0ZTUWR0ZTBkV3U2SHF1N3JwWGl2SW1Uczk2YzhEdkZrN0tn?oc=5"
+  },
+  {
+    "time": "2026-08-14T21:53:50.758261+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "SPOT",
+    "title": "Issuer SPOT: shareholder plans $1.96M NYSE sale of common shares (SPOT) - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 34,
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmNETzhNV0NYaUhpSEtDTmF0WlhQZERhSmRGMFdUdXBlODdOeGd3a1lual8zVl9VYlVMWjE2TWVtSzI4MXlPb18zeWc0VmFWU01oUVRXSko5NU5ZN2llU2xXUXN1Z2hvOWpWSjJmMVBfOXhsR3dJdTBsUEs4dzMzR2VVZXRrUmlmTERUWTFwMkstRHh6YTRoRklXMmZIQkVl?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-14T21:53:50.758312+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "GLBE",
+    "title": "Global-E Online (GLBE) insider files to sell 174,999 shares after sizable sales - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 27,
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaVM5Vk16NkEza1czb2hCNmFfYVVVSEdrbk9RRHF3blpoVDJYMUlaZ0pPUVFjMElhX2RjdFRyekhSdGdZNXdXOWpKcktWczhUMXR5VzEzeGl0clhuY25zc0trZEsybENtR0Y4dWZSWkQ5c3Vtc3U0X1YtMzJKUHZUQ1BabGdkWUREVm9ZY29qa0t4eEo3QXVUOWJfNS0?oc=5"
+  },
+  {
+    "time": "2026-08-14T21:53:50.758330+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "INDI",
+    "title": "INDI (INDI) insider Michael Wittmann files to sell 42,468 shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 24,
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2RaUzlaMjY1dEU4cGJEQlgtdkttNW9mbnBubThvRFEzN1FWNTFRVVVlS1lzOU96WFphX1ZpMnphcVFvR0RhQ3NvWXgzdlpmMTVfaThZT3psV18xY2ZCMWRRQjFsWGl1X05DdlNXZXMyano0X3NUYmtDUURQd0kwZnQ3STNBU2U5YTh3N1FjSm5CNUNHRHVTX2FxY0VaSTlOZWc?oc=5"
+  },
+  {
+    "time": "2026-08-14T21:53:50.758345+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "CWST",
+    "title": "Casella Waste Systems (CWST) files to sell 1,343 shares after recent 13,319-share sale - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTG9LRmFlY2VDVzl5TWxpQUl1b0JTckpXRjY1dzBMR1l5TzFUQXljaGFBenZjTHpUSk91eGhBZWJKcUdYam9HSE9LQmp1Y2VoTUo1TlI3RS1aQU56ajB2aWRFWEJOVGt6RVJicmNIdGFXQ2xDaXdtak1OWTNoa01LcDViWmExeWVHTFpLTXNEMGx3MWd5T1NobzVrVVJGZ2h1R2dzMA?oc=5"
+  },
+  {
+    "time": "2026-08-14T21:53:51.259883+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "G",
+    "title": "Company G (G) insider plans NYSE sale of 14,972 shares via Morgan Stanley - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 47,
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeWZZSnUzMUV0WVVLeEFCS0pXNVVybXNYcHk5RFBjYVY4XzNTWVB5VW1IT29oeUxrM3R5ZFFWTkIxSmJPNzlybkhXM0l1S19CWHhwcWtjYURDVjlVUzIxQzNRcE1YcWZYR0ZvQjdIa2xLOUVVZVFlOFUyZVFXTW9XLUhkbWdqcE9yUlNoaEdB?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-14T21:53:51.259930+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "HTFL",
+    "title": "HTFL (HTFL) investor files Form 144 to sell 200,000 common shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 55,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONV9LU3lzQ3dTNnIyY3ZOd2xpcjBUcHUtRUVfRlh2QlZPUi1EMEg1WlplTTc0MDVIcFRaZkc3dFVkSHZaNTZuZFFuWGY4X3MxUkhNNVJUcXpmbzNNRUNMaG15YV9vOEFhOXJ0bklXVVdaaGxzbU5qSEpmMGc1SW5vWlZoWGc5ODlHanNxVEdjalJ4NVBI?oc=5"
   }
 ]
