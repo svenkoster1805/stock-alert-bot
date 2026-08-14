@@ -5990,5 +5990,123 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een materiële overeenkomst en financiële verplichting, maar de details ontbreken in de samenvatting."
     }
+  },
+  {
+    "time": "2026-08-14T21:01:53.342160+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KinderCare Learning Companies, Inc. (0001873529) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "KinderCare Learning Companies, Inc. heeft op 14 augustus 2026 een 8-K-rapport ingediend bij de SEC. Dit rapport meldt het aangaan van een materiële definitieve overeenkomst (Item 1.01).",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie voor het bedrijf. Dit kan de toekomstige financiële prestaties en waardering van KinderCare beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de contractwaarde en de betrokken partijen, zijn niet bekend. Zonder deze details is de economische impact onduidelijk en onzeker.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de contractwaarde en de specifieke M&A-voorwaarden, ontbreken in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van de volledige 8-K filing is noodzakelijk om de economische relevantie te bepalen."
+    }
+  },
+  {
+    "time": "2026-08-14T21:02:22.677970+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CARVANA CO. (0001690820) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-14T21:02:58.888613+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Pinnacle Acquisition Corp (0002123955) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-14T21:02:59.921531+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TARGET CORP (0000027419) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-14T21:03:00.995432+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Thunder Bridge Capital Partners V, Ltd. (0002140030) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-14T21:03:02.053180+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HALLADOR ENERGY CO (0000788965) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-14T21:03:03.142685+00:00",
+    "symbol": "FILER",
+    "title": "8-K - bioAffinity Technologies, Inc. (0001712762) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-14T21:03:04.133130+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HERON THERAPEUTICS, INC. /DE/ (0000818033) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
