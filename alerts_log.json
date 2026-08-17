@@ -10000,5 +10000,126 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-17T13:24:08.901198+00:00",
+    "symbol": "FILER",
+    "company": "Future Vision II Acquisition Corp. (0002010653) (Filer)",
+    "event_key": "2cdee878a096f08b2fd4f10c0c206b1521c7404657806106ef8f69470f360f76",
+    "event_family": "M_AND_A",
+    "title": "8-K - Future Vision II Acquisition Corp. (0002010653) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2010653/000182912626008936/0001829126-26-008936-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Future Vision II Acquisition Corp. heeft een 8-K ingediend waarin een materiële definitieve overeenkomst, een directe financiële verplichting en niet-geregistreerde aandelenverkoop worden gemeld. Dit document is op 17 augustus 2026 gepubliceerd.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst duidt op een concrete transactie die de bedrijfsstrategie en financiële structuur van Filer kan veranderen. De bijbehorende financiële verplichting en aandelenuitgifte zijn directe indicatoren van de financiering hiervan.",
+      "risk_nl": "De specifieke aard van de materiële overeenkomst, inclusief de tegenpartij en de financiële voorwaarden, is niet gespecificeerd. Zonder deze details is de economische impact op Filer onduidelijk en onvoorspelbaar.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de overnamepartij en de financiële voorwaarden, ontbreken volledig in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de inhoudelijke details van de M&A zijn niet beschikbaar in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-17T13:24:19.600288+00:00",
+    "symbol": "FILER",
+    "company": "FingerMotion, Inc. (0001602409) (Filer)",
+    "event_key": "b7ea063f7a5c75ac39bfddfe0fd260cc681b30895966f503ff87e7a2477d498a",
+    "event_family": "M_AND_A",
+    "title": "8-K - FingerMotion, Inc. (0001602409) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226038662/0001493152-26-038662-index.htm",
+    "news_age_minutes": 8,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "FingerMotion, Inc. heeft een 8-K ingediend waarin een materiële definitieve overeenkomst, de creatie van een directe financiële verplichting en de niet-geregistreerde verkoop van aandelen worden gemeld.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting en financiële positie van het bedrijf aanzienlijk beïnvloeden, mogelijk via een overname of fusie.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de materiële overeenkomst zijn nog onbekend.",
+      "invalidation_nl": "De 8-K melding specificeert niet dat de materiële overeenkomst een M&A betreft, noch geeft het details over de transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is zeer recent en bevat meerdere belangrijke items, maar mist details over de M&A."
+    }
+  },
+  {
+    "time": "2026-08-17T13:24:49.446871+00:00",
+    "symbol": "FILER",
+    "company": "Galaxy Gaming, Inc. (0000013156) (Filer)",
+    "event_key": "f74e760be4c573640359c2b5b1897f453aae1ab220b4722622d860564a72aecf",
+    "event_family": "M_AND_A",
+    "title": "8-K - Galaxy Gaming, Inc. (0000013156) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/13156/000119312526353324/0001193125-26-353324-index.htm",
+    "news_age_minutes": 8,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Galaxy Gaming, Inc. heeft een 8-K melding ingediend bij de SEC, waarin de aangaan van een materiële definitieve overeenkomst wordt gemeld. Dit document is recent gepubliceerd op 17 augustus 2026.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of verkoop, die de toekomstige waarde van het bedrijf kan beïnvloeden. Dit kan leiden tot een herwaardering van het aandeel.",
+      "risk_nl": "De specifieke voorwaarden, de tegenpartij en de financiële impact van de overeenkomst zijn nog onbekend, wat de potentiële waarde en risico's onduidelijk maakt. Zonder deze details is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "Er is geen contractwaarde of gedetailleerde voorwaarden van de materiële definitieve overeenkomst bekendgemaakt in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de inhoud is niet beschikbaar in de verstrekte snippet."
+    }
+  },
+  {
+    "time": "2026-08-17T13:24:50.337033+00:00",
+    "symbol": "FILER",
+    "company": "BridgeBio Pharma, Inc. (0001743881) (Filer)",
+    "event_key": "c410b014d0a9f8b1181bc048677a9f89cae804bf727c79395d8dd4800cc4ffbb",
+    "event_family": "M_AND_A",
+    "title": "8-K - BridgeBio Pharma, Inc. (0001743881) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1743881/000114036126033282/0001140361-26-033282-index.htm",
+    "news_age_minutes": 18,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T13:24:51.170317+00:00",
+    "symbol": "FILER",
+    "company": "Securetech Innovations, Inc. (0001703157) (Filer)",
+    "event_key": "bc9f13ec9a3ccf0607789129d8c7fd343ce0a46ae70fdef13dcfe85f30418941",
+    "event_family": "M_AND_A",
+    "title": "8-K - Securetech Innovations, Inc. (0001703157) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1703157/000101738626000107/0001017386-26-000107-index.htm",
+    "news_age_minutes": 24,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
