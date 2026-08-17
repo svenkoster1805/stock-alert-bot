@@ -3922,5 +3922,14 @@
     "event_family": "M_AND_A",
     "news_age_minutes": 30,
     "original_time_verified": true
+  },
+  {
+    "time": "2026-08-17T21:00:22.896050+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 9,
+    "original_time_verified": true
   }
 ]

@@ -2614,5 +2614,11 @@
     "symbol": "FILER",
     "title": "8-K - Fastly, Inc. (0001517413) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "a132fd32d6c5912cb6b6d0509ef0c234b1130e3acd9cfa63ac39d946f99d3da4": {
+    "first_alert_at": "2026-08-17T21:00:22.896028+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Chiron Real Estate Inc. (0001533615) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

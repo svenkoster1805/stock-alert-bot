@@ -6646,5 +6646,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-17T21:00:34.598155+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Chiron Real Estate Inc. (0001533615) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WATCH",
+      "confidence": 1,
+      "summary_nl": "Chiron Real Estate Inc. heeft op 17 augustus 2026 een 8-K/A ingediend bij SEC.gov. Dit document meldt de voltooiing van een acquisitie of verkoop van activa, zoals aangegeven in Item 2.01.",
+      "why_nl": "De voltooiing van een acquisitie of verkoop van activa kan de balans, inkomsten en strategische richting van Chiron Real Estate Inc. significant beïnvloeden. Dit kan leiden tot veranderingen in de waardering van het bedrijf en de toekomstige winstgevendheid.",
+      "risk_nl": "De specifieke financiële voorwaarden, zoals de contractwaarde en de aard van de activa, zijn niet bekend uit dit fragment. Zonder deze details is het onmogelijk om de precieze impact op de financiële positie en de aandeelhouderswaarde te beoordelen.",
+      "invalidation_nl": "De financiële details van de acquisitie of verkoop, zoals de waarde en de betrokken partijen, ontbreken volledig in het verstrekte fragment.",
+      "is_already_priced": false,
+      "notes": "Een 8-K/A met Item 2.01 bevestigt de voltooiing van een transactie, maar de economische impact is onduidelijk zonder verdere details."
+    }
   }
 ]
