@@ -2506,5 +2506,17 @@
     "symbol": "FILER",
     "title": "8-K - Narragansett Bancorp, Inc. (0002138186) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "1dfaede33e4663eebc653e33f362c3329780555eac184525e23437468070ede5": {
+    "first_alert_at": "2026-08-17T16:44:18.488386+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Alaska Silver Corp. (0001893899) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "3cdd001cec6872519e3f90b5888f4ba145c61f31ee4137e964539026595a5c90": {
+    "first_alert_at": "2026-08-17T16:44:27.822330+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PILGRIMS PRIDE CORP (0000802481) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

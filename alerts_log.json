@@ -10146,5 +10146,55 @@
       "is_already_priced": false,
       "notes": "De volledige 8-K filing zou de ontbrekende details moeten bevatten."
     }
+  },
+  {
+    "time": "2026-08-17T16:44:27.300012+00:00",
+    "symbol": "FILER",
+    "company": "Alaska Silver Corp. (0001893899) (Filer)",
+    "event_key": "1dfaede33e4663eebc653e33f362c3329780555eac184525e23437468070ede5",
+    "event_family": "M_AND_A",
+    "title": "8-K - Alaska Silver Corp. (0001893899) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1893899/000106299326004452/0001062993-26-004452-index.htm",
+    "news_age_minutes": 8,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Alaska Silver Corp. (FILER) heeft een 8-K-formulier ingediend bij de SEC, waarin de 'Entry into a Material Definitive Agreement' en 'Unregistered Sales of Equity Securities' worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een fusie of overname, wat de bedrijfsstrategie en toekomstige inkomsten van Alaska Silver Corp. significant kan beïnvloeden. De verkoop van aandelen kan kapitaal aantrekken voor de transactie of andere bedrijfsdoeleinden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de waarde en de voorwaarden, zijn niet bekend. Zonder deze informatie is het onmogelijk om de impact op de financiële positie en de aandeelhouderswaarde te beoordelen.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de contractwaarde en de specifieke voorwaarden, ontbreken in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van het volledige 8-K-document is noodzakelijk om de aard en impact van de overeenkomst te bepalen."
+    }
+  },
+  {
+    "time": "2026-08-17T16:44:34.516791+00:00",
+    "symbol": "FILER",
+    "company": "PILGRIMS PRIDE CORP (0000802481) (Filer)",
+    "event_key": "3cdd001cec6872519e3f90b5888f4ba145c61f31ee4137e964539026595a5c90",
+    "event_family": "M_AND_A",
+    "title": "8-K - PILGRIMS PRIDE CORP (0000802481) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/802481/000080248126000053/0000802481-26-000053-index.htm",
+    "news_age_minutes": 26,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "PILGRIMS PRIDE CORP heeft op 17 augustus 2026 een 8-K formulier ingediend bij SEC.gov. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en een Regulation FD Disclosure.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, die de toekomstige financiële prestaties van het bedrijf kan beïnvloeden. Dit kan leiden tot veranderingen in marktaandeel, synergieën of nieuwe inkomstenstromen.",
+      "risk_nl": "Het grootste risico is het ontbreken van details over de aard en voorwaarden van de overeenkomst, waardoor de impact op het bedrijf onduidelijk blijft. Zonder kennis van de contractwaarde of de betrokken partijen is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "Er zijn geen specifieke details over de inhoud van de materiële definitieve overeenkomst, zoals de betrokken partijen, de contractwaarde of de voorwaarden, om een geïnformeerde handelsbeslissing te nemen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de specifieke aard van de M&A en de financiële implicaties zijn nog onbekend."
+    }
   }
 ]
