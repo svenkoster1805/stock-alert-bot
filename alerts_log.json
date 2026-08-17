@@ -9877,5 +9877,30 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-08-17T11:34:50.653616+00:00",
+    "symbol": "FILER",
+    "company": "Prairie Operating Co. (0001162896) (Filer)",
+    "event_key": "6ee88098e0c9b151b74a6331a92ee7bbe71ca70fa23e1991793968760252efa3",
+    "event_family": "M_AND_A",
+    "title": "8-K - Prairie Operating Co. (0001162896) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1162896/000114036126033264/0001140361-26-033264-index.htm",
+    "news_age_minutes": 4,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 14,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Prairie Operating Co. heeft een 8-K document ingediend bij de SEC, waarin het aangaan van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting worden gemeld. Ook zijn er materiële wijzigingen in de rechten van effectenhouders.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke transactie zoals een overname of fusie, wat de waardering van het bedrijf significant kan beïnvloeden. De creatie van een financiële verplichting kan de balans en toekomstige winstgevendheid van Prairie Operating Co. beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de voorwaarden en de financiële impact, zijn niet bekend. Zonder deze details is het onmogelijk om de aard en omvang van de financiële verplichting of de impact op aandeelhoudersrechten te beoordelen.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de contractwaarde en de specifieke voorwaarden, ontbreken volledig in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een gebeurtenis, maar de inhoudelijke details ontbreken voor een concrete analyse."
+    }
   }
 ]
