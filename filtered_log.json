@@ -1,131 +1,5 @@
 [
   {
-    "time": "2026-07-10T20:06:12.690423+00:00",
-    "reason": "te oud voor fastlane (71 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Meridian3 Industrials Acquisition Corp (0002136530) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 71,
-    "url": "https://www.sec.gov/Archives/edgar/data/2136530/000110465926082584/0001104659-26-082584-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690469+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - WILSON BANK HOLDING CO (0000885275) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 75,
-    "url": "https://www.sec.gov/Archives/edgar/data/885275/000119312526300789/0001193125-26-300789-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690489+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K/A - BBCMS Mortgage Trust 2026-5C42 (0002135998) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 77,
-    "url": "https://www.sec.gov/Archives/edgar/data/2135998/000153949726001945/0001539497-26-001945-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690597+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Scage Future (0002000366) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 0,
-    "url": "https://www.sec.gov/Archives/edgar/data/2000366/000121390026077136/0001213900-26-077136-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690615+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Platinum Analytics Cayman Ltd (0002053033) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 0,
-    "url": "https://www.sec.gov/Archives/edgar/data/2053033/000149315226032832/0001493152-26-032832-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690629+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - RedCloud Holdings plc (0002027360) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 0,
-    "url": "https://www.sec.gov/Archives/edgar/data/2027360/000149315226032831/0001493152-26-032831-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690642+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - BW LPG Ltd (0001649313) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 0,
-    "url": "https://www.sec.gov/Archives/edgar/data/1649313/000121390026077135/0001213900-26-077135-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690655+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - K Wave Media Ltd. (0002000756) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 0,
-    "url": "https://www.sec.gov/Archives/edgar/data/2000756/000182912626007508/0001829126-26-007508-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690668+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Tuya Inc. (0001829118) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 2,
-    "url": "https://www.sec.gov/Archives/edgar/data/1829118/000110465926082650/0001104659-26-082650-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690681+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Alibaba Group Holding Ltd (0001577552) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 4,
-    "url": "https://www.sec.gov/Archives/edgar/data/1577552/000110465926082647/0001104659-26-082647-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690694+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Clearmind Medicine Inc. (0001892500) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 5,
-    "url": "https://www.sec.gov/Archives/edgar/data/1892500/000121390026077122/0001213900-26-077122-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690706+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K/A - Vale S.A. (0000917851) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 14,
-    "url": "https://www.sec.gov/Archives/edgar/data/917851/000129281426003725/0001292814-26-003725-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690779+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "MOD",
-    "title": "Modine Manufacturing (NYSE: MOD) outlines Gentherm Reverse Morris Trust and 2026 board, pay votes - Stock Titan",
-    "publisher": "Stock Titan",
-    "age_minutes": 27,
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaFBEZ0cxejQtUmxMZDloWHBHZUUxNXhrczRvRGx6UnF2R29mQzRITGd5aW5HQTBGWm1zUVBzb2RvT1o0OHVGck5IV3NrWkhiLVJjUFB5WW13ZUIxSWo4eVYzemhhaU9OMGNRd1BEdW1PY1NXVFlVbHBTS1VtZlFfYXFET1R0TWVsaEVXdm91c1plZTJ5dFpCWjhoemNCeEhfWDd3UzRZdmliX0JZbzhSM3lPZkZSdTFXdC1V?oc=5"
-  },
-  {
-    "time": "2026-07-10T20:06:12.690793+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "US stocks rise as Wall Street shows it's still hungry for AI winners - The Joplin Globe",
-    "publisher": "The Joplin Globe",
-    "age_minutes": 45,
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOeGFnQTRCVlVJVklmRmxKWDJUZ1dCdnA1a0tzX0F1RU9sdVBRdFFIRTRETzg5aWpSVHpFLTNlMTF5Sml0QzdiempOQVhuM2ltRnFSdGNubTJGZ3pJa0lsNTdWRXNfTmtDQXp5dEtUcU15TGtib1dxbFZWalVlMkstRFFXdnltVUIzazlNX3AxNWhISlJUelJQRXo1S25fTkVaeEdDaEZlVXBBZHJGV21hb0x1Zl9UbFVybU9mR01aSHJhNS1wOEZxVkpLdkhteFlsX1RXYTliYlRsY3FXaE10M2hSSjJDSG9SNGh4Wk56bWR0bWxyZnhraUZ3d2M5ZUU?oc=5"
-  },
-  {
     "time": "2026-07-10T20:06:12.690807+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "",
@@ -107998,5 +107872,131 @@
     "publisher": "investywise.com",
     "age_minutes": 25,
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0R0xLb1pHekl1Rk9yT29yNHRDTFBtUklqRnZHMHIzR2p1MXp4bDJhejJGRk1Za3ZHR2c5R0ZPY05mOWI2OS1nYjE3NFV3MWg5bmltLXhtVl80dDhZSDJJdGZYNU51ZHQzVFlTN2RhcE1Xd0JRbWtSa25Sbw?oc=5"
+  },
+  {
+    "time": "2026-08-17T07:54:24.319141+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "OceanaGold to acquire Ausgold for A$776M in shares and cash - Investing.com Canada",
+    "publisher": "Investing.com Canada",
+    "age_minutes": 26,
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT1VpcmFHUG5DRnYwUHZVSDJfdUxkMlF0Z3pNUlZYRzVHQWRzSUpIZlhEUzZqZjI5OWhuZ3ZkVkJob1VVOU96MXNfeGgzWFA2ZWtNZ05JeXY3LUQ1X2xVdnA4OE13RUVaOVZMQVhCOVYzUmR0bmstc1l3c2RyRVlRTEVpWjJwVDcxSUl6VzM1NXljTHpjVVFkdklmeDlPY3BOcWQ4ZkdwZ21wbFNRYUlCa2hrOWpUemJlRFNF?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T07:54:25.210021+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Greaves Cotton acquires balance 20% stake in Excel Controlinkage - Business Standard",
+    "publisher": "Business Standard",
+    "age_minutes": 19,
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMHJ3ajF1M2o5dnhkVkRQcFZXWXpvRzR1RGFqaTJnWnB3eFZWRVpfMDd2ZzZ6d2FaNzA0cW1yYVVwU1NSbVB3MW83Q1pwdC1xMXN5QkM2dUxZVmluY2lvbzFLOVVycG94OVdaemdRQTRzT2E0VEdrNWticEp3cFpCbTNuRUhjeWExWWZwNFh4WTZOcURPRlRXcXoyLW5kNDZQQXhBYlp5MXVqNEtZZmlyUEZ2WTFOZDg2V2VBRGNNbWk2T05aTVBhdGc3T1R0RkpvNlRrZWhsbXVKVC02QlHSAeMBQVVfeXFMTjE0SjdhRWdfXzFwbmRLenBLRXowQjFzUFpPa3BFTXhVUWtSZ2Y3S2piQXpIaGZvQXRGYloydW93TzZUNHNDQ0R0YUxncFFNNi1YME4wQ0ROQlA5LUdYemdZWXJkakpSOUdxR3FSRzBqd2txWHU5dmgxMnRmMGNNRHZmVnczaHpRU0xGZTN0SHdsaXFndmQzVm1nVHdObUR6Ti1FMi01UzJNeFhHcjJBY191TnJPM3puazlwZW92R05CVVlXX1l1UFMtcUEtVVE2X0M4a0lIQjZZTTRfN3JXanUyZGc?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T07:54:26.370378+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Refex Industries soars on bagging contract worth Rs 40.83 crore - Investment Guru India",
+    "publisher": "Investment Guru India",
+    "age_minutes": 56,
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlVBSjhQb0JLbndDMW10M2xiWFR3bG9JYlRTbnBYaktta0FpR3BUYXA0S3RXWHdUSUpZQ0JnOUlQNkQxZDU3QUEwYWl2UEtpTTJ1RWVaZVpZdEtkX3RLdTM0aTQwZDhPR25JSVgzRmZiVUJJUFNOdDI0a2xydXFlZ25JS3kyV1BRQmNUMndtQnFBbDBORER6dnh5cFFHYllmc2JKRHBOVVhUU0ZuNm9xc05B?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T07:54:27.269433+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Lupin secures US FDA approval for generic Pitolisant Tablets - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 46,
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSXQ4eHA3WW5JRlBKaFRMUXZQbXZQRUJQYmlfS3M3Nmo1TjhGTUtYT1ZWbGprWmI0Qk5Qdi13MmlyS2xDRDRjVFJxRWpqcmRtNnphVGhTX2d2c1J6cDJnR191S08wa1RUYk9mNE5mWjdHbHFqWHByLU5ZcW5PY25lMFhmWUJLMFliQWYtMkdxZ2JzZU9wWWZwc0I1b0tVczJmY25XOGo3UTRBWnhraDBFYzEyNA?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T07:54:28.117725+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Lupin secures U.S. FDA approval for Pitolisant Tablets - Business Upturn",
+    "publisher": "Business Upturn",
+    "age_minutes": 59,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWVdaYWxZazFsU1pRTE05WTlqUUpoRVN0SHp2S1V3MzBJcWc3OVZyOFVVcGhaN0trN09ZOEJ6bDN1M2ptbnBTN0lVVnVnbHAyRms2U1E3eWhkWDB6ZzVzT1gyRzZZN19WUnZRSlJhS3NoZUhMeFMxUGtrRlh4aXg1ZlpJWEUyRTRaUjBGZ2xBVDRObXY0?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T07:54:28.619643+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "RHP",
+    "title": "Ryman Hospitality Properties (RHP) Buys Grande Lakes And Raises Guidance, Is The Stock Fully Priced? - simplywall.st",
+    "publisher": "simplywall.st",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTndfdTZDZ19iT3hZbWw5US1rY1g4dWhLaFBqLXMwX3kwYVhZN2FnS2RoQld2QXpjN21wZmU4Qi1ULXhIdUxMbjZ5NzNuZi1VVjNGV0lpRVhoX2dTQUhFQVAySWNaLW44ZzF3LVZzX0tBVXhnZ2JQZ21zVDN1RTliRmZsT1lTMjA5WUN1UndwOUxCcjNZRFhmb1B6Z0c4bWpqVUl1X2thMHQ4ck1PcVljVmNPem4xem01Q2c0RHB0V1BBNjJ5QXh4OEQ1VUt1eEo1YkNwaDNaeTRUcFpDNjcxMdIB5gFBVV95cUxQbmR5YmxJMjlVcGMtejd1ZTBIcjBZYVFrZ1J6XzNUNjNPeTFwN3V6RGg4R0pPRDc0RzNVTVMtQU56czY1ZF9DUlpWT0JrUDVLek1CTzkydVEtbmZrNW9iZjM3QUpBRnpETEJmai1wM1pWM1lMbDc2Umo2Q0lvWGpnTnVkSEtwV3lvUU9VZ21kRkdKY2ViaE9UUmtIZmxHYUdIam10VTAxTnVSMHQ3bVJsQ1dPVmc5cGs3eko2bzJKMzRGSG4ycEVfLXV6MkZfZmtjODI5UTZyOHJTal9JSkR3UHRTSDdkUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T07:54:28.619699+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Evanson Financial LLC Purchases New Position in NVIDIA Corporation $NVDA - marketbeat.com",
+    "publisher": "marketbeat.com",
+    "age_minutes": 15,
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMDV4cDhwdlkyUXVhZndUc2FEMEpHSUlETUZvS1dpTWdDMmd1SG9fYUp2S1c4M09sUlhqQ1ZvRFVyWk9ndmpSUkpoVHQ3WEUySFllUnhJQTBBTE5XZVl4Q0tSVEJoblBKR0JhYVdqZFJ4aVFfVEpDb3NQVzZ1bk5ISUZSSzBHaU9ZWWxVcFNQX09fb2pQLXFVSUNTMkpGTE9XYmZBNjlhTmtPazhVSWFRWWRzSUZ4aTlyWVpNVmdEVFI3SGhfWXhkcmlocWY?oc=5"
+  },
+  {
+    "time": "2026-08-17T07:54:28.619719+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Goldman Sachs reinstates Etsy stock coverage with neutral rating By Investing.com - Investing.com UK",
+    "publisher": "Investing.com UK",
+    "age_minutes": 8,
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdDFDZklmSS05c2t6c1pwR3EtMXlmUDZteFR4X0hmeDkzNWFXU1ZlZGdCbDM3V01yNGwxd0lSNUxpN3lUQ1FjVkZjRzlfTW1JbXJpU3JxNkVXeFprR1FObmhfNVhiMUVDeEluYkhGUmpHeWc5VmFnQkpMSGsxcU5PTEFpLV9UeGl0dl9hTDZsMmZMVmpZSzdqZHh6VklMMF9vS2htTklFaXNWMmxLVTJuRE1WZGhhUGZrbnkzSTQ3bi1RWlE?oc=5"
+  },
+  {
+    "time": "2026-08-17T07:54:29.479858+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Stellantis Considers Closure, Sale of Brampton Plant Amid Tariff Impact - marketscreener.com",
+    "publisher": "marketscreener.com",
+    "age_minutes": 26,
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcU1pb0ZzRGlBRGthVEJOaE5LNHNwY0MyNWpGZTdYQ3ZKUXRxRzlRSVVlUEJ0R0NXMnk1cmh0WklaRnd4MHlEZTFsNjFWb19FcVVvZWdxbjFOZXgxNmhOc0dXTkVRUWRtQ0ktdkVzanB1SHM5d1Jyd2k1OUo4dUNSMkVtUnY1WjE4SkZPZGlrRFdqaS1QUWVPX05hSXIzc2RndkpGMGhNVElGc2Q1YS1UTl9WSFVCX3RBNkxQVkNzclQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T07:54:30.322305+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Toho kicks off real estate portfolio overhaul with sale of seven low-strategic properties - TipRanks",
+    "publisher": "TipRanks",
+    "age_minutes": 47,
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTUFpS2U3aUlGM29xbkR4dm9LZlZ4OVNNYkpkOHFiZGdOLTluSzF2ZUk2RzRoMGVTemx3MDF2M3BzZ0I1LWJ3UXI4b2tKdUkwb0p3cnVmVmhDNk1scmg2RFJDdExFanNxOVBBU0M2OVlOSlVQOE1XWktRNmlNS2cwUEpuSXQ0Q1JneDBfMkRwVGVoSFlRVVBZVTdUTEwtUTVoYlJqcktON0Z5V1dRcFQwUnN1b29iYVphNGR5MXZCZ2poTm0zMUNOR2NhblRzcjJ3QjlzbVVfWFQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T07:54:30.322357+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Dhoot Transmission Makes Strong Market Debut, Shares Surge Nearly 38% - Free Press Journal",
+    "publisher": "Free Press Journal",
+    "age_minutes": 52,
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTlc3VUxKZXBPT0E4LUR3bENFeVE1cDdYUTdmcThIOG1yQ3NSb3pzbENmTmVEamk4eUVFaHRUZ3ZBdUZxMklqMy00d2NZcV9xbEN5UGpQLTVnZ0dwM1lsQzhOeXRUa2gyakM5Rm90VlhUNU5scFBDU1JGalhkT3R3T0pJVzJCR3FXY1lZMEUtOXMyUWJVRF8yNVhLQWxZSXI5MmdEYlcwNWJZTVU50gGyAUFVX3lxTE5Wd3VxYTJSRFI2RWpxbE5KTm5weWdxR281LV9KQ3NOajRfTmthempDSGhFSWhacWRIRmNJY2lQR0ZNQkFNSFVaSGtFN1AyV1dSY253aVBGYU81YXJrdjVnMzFBbEpFUV9MVlVQSmhyQWtpR0k2dnBZN3ZWS3NMMEpxQkhfb3lQeHBnSng2YzFvZzRORnotLXJDZkFVVlUxZFB6cnMzSjQtR0ktUTBRUEZWc2c?oc=5"
+  },
+  {
+    "time": "2026-08-17T07:54:30.322375+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Texmaco shares gain: Inside Rs 200 crore capital infusion into early-stage defence arm - financialexpress.com",
+    "publisher": "financialexpress.com",
+    "age_minutes": 55,
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUFg5VTkxdUZSMkpNbGVISE9FT0hKbEl5MzRtNi04dGxRRDFPd3B6ZHBJTVRBM0tCblhtUzdseGpsaVFhYWFDbGNWNGxPUjk5SDBWRTRNbTRfcHlKM2o5MWpOdWlHUUc3S0dtN0NBYWtBTVE2cDJmbF81ZzktTko1NTFYWVlzMVpkSEtwZWMySjN2Zk04U21jVDl1NW80dU5zc0F3VkRVc3FWZXhnMDY4MGhmSEcwSndsdGVjV1NoaG5ucFZlSHpRV1hFVzhKOUN4T1loa0MxRktMOXpEd0HSAeQBQVVfeXFMTS1DQ3JSN1ZvdGJNQU5Hd1ZldWkxdUFtSnRZSnZrVk5kcm52eHowRDI3OUJvT1dYRWtrcmt1dUpVc0l3STBWVWltQjNpSkp2MWRPRGJKTXNFRnRrSDZBWERFR3FmTFQ0Vmw4dUNkMmNGSGMxM0hlbkFENDFEbWp4TURDMzlPQlZ1UzVhVzdjaS1jSmRTc01wd0RTczExZ0E3enV4STFQb3dxSzBQUG9sV2Y0T3RPTzVGRFdkQlVodTNpV0ZmRUJ3VmVBU1l0WVdhS2xZVnhhSlJKcXIwczJOSFBfZWZ5?oc=5"
+  },
+  {
+    "time": "2026-08-17T07:54:30.322391+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Ghandhara Industries to Bring UD Trucks to Pakistan in 2027 - Profit by Pakistan Today",
+    "publisher": "Profit by Pakistan Today",
+    "age_minutes": 7,
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVhhX1oyNk9LRWJBWHJmMEJ0andxNzJVUTZmNV9QcjlaZ1ZBT1hPT0w4U09aOU9XRC1GYzRlNlBIdjhpWEdCQWxzblphN3dUS2M2MW0zRWxVUWdHTlRCTk44d3N4Z3h6YUxzV1dkX1pORFM5U21lamNseW5VQ1JLVWFSb3RKLWxkREVTYVRJMTQtMWdxajd0Z2NNb25ieFBnWDg4R1lOdWc4bk84?oc=5"
+  },
+  {
+    "time": "2026-08-17T07:54:30.322406+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Dhoot Transmission IPO Eyes 30% Listing Gain on Strong GMP - Business Viewpoint Magazine",
+    "publisher": "Business Viewpoint Magazine",
+    "age_minutes": 45,
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tVjdUS3g0Z2NmeVVVLUtuaDZiLXluVElodlNhU2dTV2ZIeHNtTnJpZVcyQ2VpU0xFMmNMTzZwb3I2MjZyeUJBLXhUODdDWGtLQ19vdWkzZW9NbF9XcW14NE5UQUotY1lSVGRvdnlodk8?oc=5"
   }
 ]
