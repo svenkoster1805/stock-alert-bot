@@ -2,31 +2,31 @@
   "fmp_press_release": {
     "success": 3,
     "errors": 4,
-    "last": "2026-08-17T18:04:17.737509+00:00",
+    "last": "2026-08-17T18:53:40.365848+00:00",
     "detail": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/news/press-releases-latest?page=0&limit=60&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
   },
   "sec": {
     "success": 636,
     "errors": 637,
-    "last": "2026-08-17T18:04:37.810049+00:00",
+    "last": "2026-08-17T18:54:00.513517+00:00",
     "detail": "HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)"
   },
   "fmp_stock": {
     "success": 3,
     "errors": 4,
-    "last": "2026-08-17T18:04:37.873777+00:00",
+    "last": "2026-08-17T18:54:00.592957+00:00",
     "detail": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/news/stock-latest?page=0&limit=70&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
   },
   "fmp_general": {
     "success": 3,
     "errors": 4,
-    "last": "2026-08-17T18:04:37.934871+00:00",
+    "last": "2026-08-17T18:54:00.736783+00:00",
     "detail": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/news/general-latest?page=0&limit=50&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
   },
   "google": {
-    "success": 657,
+    "success": 658,
     "errors": 0,
-    "last": "2026-08-17T18:04:39.302425+00:00",
-    "detail": "10 rows"
+    "last": "2026-08-17T18:54:02.033836+00:00",
+    "detail": "12 rows"
   }
 }
