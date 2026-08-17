@@ -1,113 +1,5 @@
 [
   {
-    "time": "2026-07-10T21:17:38.268324+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - TRUSTCO BANK CORP N Y (0000357301) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 22,
-    "url": "https://www.sec.gov/Archives/edgar/data/357301/000114036126028229/0001140361-26-028229-index.htm"
-  },
-  {
-    "time": "2026-07-10T21:17:38.367874+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Concentra Group Holdings Parent, Inc. (0002014596) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 24,
-    "url": "https://www.sec.gov/Archives/edgar/data/2014596/000201459626000047/0002014596-26-000047-index.htm"
-  },
-  {
-    "time": "2026-07-10T21:17:38.367889+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - NXG Cushing Midstream Energy Fund (0001400897) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 25,
-    "url": "https://www.sec.gov/Archives/edgar/data/1400897/000139834426012082/0001398344-26-012082-index.htm"
-  },
-  {
-    "time": "2026-07-10T21:17:38.367899+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - SRX Global Inc. (0001471727) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 26,
-    "url": "https://www.sec.gov/Archives/edgar/data/1471727/000149315226032864/0001493152-26-032864-index.htm"
-  },
-  {
-    "time": "2026-07-10T21:17:38.669278+00:00",
-    "reason": "te oud voor fastlane (31 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Peraso Inc. (0000890394) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 31,
-    "url": "https://www.sec.gov/Archives/edgar/data/890394/000121390026077192/0001213900-26-077192-index.htm"
-  },
-  {
-    "time": "2026-07-10T21:17:38.669326+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - AMERICAN BATTERY TECHNOLOGY Co (0001576873) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 32,
-    "url": "https://www.sec.gov/Archives/edgar/data/1576873/000149315226032862/0001493152-26-032862-index.htm"
-  },
-  {
-    "time": "2026-07-10T21:17:38.772892+00:00",
-    "reason": "te oud voor fastlane (32 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - iQSTEL Inc (0001527702) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 32,
-    "url": "https://www.sec.gov/Archives/edgar/data/1527702/000166357726000210/0001663577-26-000210-index.htm"
-  },
-  {
-    "time": "2026-07-10T21:17:38.878044+00:00",
-    "reason": "te oud voor fastlane (32 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - JONES SODA CO. (0001083522) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 32,
-    "url": "https://www.sec.gov/Archives/edgar/data/1083522/000149315226032861/0001493152-26-032861-index.htm"
-  },
-  {
-    "time": "2026-07-10T21:17:38.878094+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - SOBR Safe, Inc. (0001425627) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 34,
-    "url": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226004260/0001477932-26-004260-index.htm"
-  },
-  {
-    "time": "2026-07-10T21:17:38.878109+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - FORWARD AIR CORP (0000912728) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 37,
-    "url": "https://www.sec.gov/Archives/edgar/data/912728/000162828026047900/0001628280-26-047900-index.htm"
-  },
-  {
-    "time": "2026-07-10T21:17:38.878122+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Origin Materials, Inc. (0001802457) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 38,
-    "url": "https://www.sec.gov/Archives/edgar/data/1802457/000180245726000048/0001802457-26-000048-index.htm"
-  },
-  {
-    "time": "2026-07-10T21:17:38.878135+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Cycurion, Inc. (0001868419) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 39,
-    "url": "https://www.sec.gov/Archives/edgar/data/1868419/000162828026047899/0001628280-26-047899-index.htm"
-  },
-  {
     "time": "2026-07-10T21:17:38.991389+00:00",
     "reason": "te oud voor fastlane (40 min, limiet 30)",
     "symbol": "FILER",
@@ -107998,5 +107890,113 @@
     "publisher": "Sacco Review",
     "age_minutes": 34,
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNnlqWXBuNzhQWEYxNmYyNHBXRUZuejhxOEdGaGhnTXJtV3c0UHdZTGgta2FHdm95Qk5BdFdCYzBKWHRvd1pGdTVoejd6dml0UGJkODMwMmUya2hCTXo0N0REc2Jjcnd4WmpEQ1B1MFMwVFdLVVZ2cklKdFRlOHlKOGF2TEdoTTVBY2NveW83YkN2dVBB?oc=5"
+  },
+  {
+    "time": "2026-08-17T10:02:31.135323+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "CG Power subsidiary Axiro acquires Tosil Systems for ₹16.44 crore - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 11,
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDJ2Uk5MdnFKVk9TZXdGUmVUVDFRVnhJc3R6MDRoS0hCZ2ZKaUF6TUFvY0JCaE83XzJEMlVFZkZRTnE4Z2Vvd3pEbWdRbklIMGhvcTJ1V3Ntc0xXd2NxdjNHamNjS0JCaUtaMWN3REhWMzR6ekdPYU56UGo2dVBTUHpRelRLbTJfV01IMnZDeGJrMi0tZnJiT3JYUE02ZDZUcjl1MEZNMXFJbFB4Q3Y1V2tLU2tmenNZ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T10:02:31.961837+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "CG Power subsidiary acquires Tosil Systems for ₹16.44 crore - Business Upturn",
+    "publisher": "Business Upturn",
+    "age_minutes": 36,
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2ZLem9wQzRwN2U0SDNjSWI1Z2VFMzM3RnZrbkZ6WGEySkFVM3g2NnBFQWtVX1hMLVd4LTFLMVNKN19oYTJKdDUwMTJLOEhMM0Q0WlVKSlFqNXFEOWQxUWo4d0J6eTdBMUhSUVdMZTIxLVU3UlVPdFFidGhVNjV3TWg5aHFXV0JkVXNfTHRiVjhhZjJValA1SnRGaVlCdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T10:02:32.809374+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Transtema signs Telia contract worth about 900 million kronor - marketscreener.com",
+    "publisher": "marketscreener.com",
+    "age_minutes": 43,
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM214MTlFdUJ2U1dlR3Z1UzJKWTd0d296aUNYYTAydWtad1JzOFZDaU1hYmJGSmk2Ujd0NjlFVkdjN2xhN0NpbjJNNlRuVmhZc0R4WFdVUHkybTloWFNncklRSVlBLW9JY2RnWTE2RnRQT1NfbHZFakg1ZEg3VnQ0NXhfS0hLTkppcC1DZTNJRU5DNloyTVk0dXBzU3VyMmt0Mk43OGpMUGhsc0JMOHY0alg0aG4?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T10:02:32.809409+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "US dollar index large currency speculators marginally reduce net longs - Business Standard",
+    "publisher": "Business Standard",
+    "age_minutes": 42,
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYVVOVnJJcE5vUEpLS1NSdTdCWWV3VUZmNkNGXzRWemJvaVUtNDNYM0xHZlJBN1g4SWdsV1Q0M1g0bUVNOGE1ck4wMlZ5NUh6eUQzTjAyOXlHdElZU2tIdWdRa3ZLVXpBOTFib2FqR0pHaHRycFhBYUZfUV9qYTV3TXVuRlctQnByQldKWGFNSmRSTHhiX0cyc2c1YTRzZnI4V2x6Vk42aTRxU2JpQ2tBWjF4dEZaeW4yT3FrZHhvY25ybzdvblNaOWVjSi1fOWQwTDJLa1JyTlpCdXROZDR0MnBFOWtiRm_SAewBQVVfeXFMTjA4QXFDdnJWVGIyTHZNdlVMbzFwRFptWEJPVkxoSGlJejdpTlN2a0hfdV9GNWlVbWVkRXlWYUFlSlZZdU4tb3FUb3dnNWszUWQ5VlBOT0lnNTNIX2FUREExbndiLUIwQ0xLOEc2bVpITUJnXzhGajJDWm1kRnFORkVYYk1wLWZHcEcyR0lQZHgzbERKTkRWTkVyb3VLcTREbWpqR3ZRSTlvVVZJdlhmMHVnOTVGTS1TOWFaUDA5b0ZfWnZZN1hhMUkzMUdmdG5PeHdFMVcxeWRsZGVWc19Sd1NCb3Y3cmtxNVh4ZHM?oc=5"
+  },
+  {
+    "time": "2026-08-17T10:02:32.809430+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Stock Market News: Strong market debut for Dhoot Transmission; shares jump nearly 38 percent | Details here - India.com",
+    "publisher": "India.com",
+    "age_minutes": 21,
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaV9saWNKRlFldlhJVG9QQmFFY3BUNjRPMS1TSVVoZ1FYejR6VlR2eFNDR2xyVjQ0UHBxMXZsTXF6WGl3a2xEdTBpS2Z1dXVfS2x2V21vRzhfY1h6Zjg4NWtWenB6VGxWckZPSHRIUEtXZUk1VFE0S2FkY1pqbjRLckVZaWphMUl5T1VUQjU3eUpHSnFnTDFycWV1VkhLU2kxU2Y1V0RPNlVBMUVIVmUzd1k4TDRYS29ocHZLbnJWZ1NBUGI1UXV4QjR5VTcySUFPWnZxRTVRVkhVMzDSAeABQVVfeXFMTVhGRXV1cHlhcWRCcW1jUmgzX3RDRS11WHV3dFd6c3BpbndqV0dGLTNiZ2NzSzdsV0ZuUWM4MEdYRzhoSl9Qb0dhUUp2YUdzc0x2dGJsdzdabVdBQ2lZdlhJVnFzWkJocVJIaWh5Q2hoR3ZSX1l6dkdKTTlyTlUtUld1TldHU1hXWTRaTmFvdG9mYURhZkpDTzR3MUpWTDVtcG4tVmFRTDBzVUZ2NkotVHJwNG9OMFRmWkczT05oOHdJSy1TWkZsaUx1RjR5b20yZWZ1WVo3TkFWTWtBSzlwMXM?oc=5"
+  },
+  {
+    "time": "2026-08-17T10:02:32.809446+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Secmark Consultancy Ltd leads losers in 'B' group - Business Standard",
+    "publisher": "Business Standard",
+    "age_minutes": 42,
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS1ZFUnZoWkJfcnJWd0RHdmJjcElxTnF6SmlrUDR2N3hLRm81Ym5jQm9YazA0aUlaVWxLdGlTYjlkT3BmS3gyVlRRYWFCbHhKT0Q1bHAtbTltWGo2TU1heTV1TzJvUDJKLVBSdWx5QXhUY1VIemg2OXhFSkwyeTdZQ3ZBbkhuVXRua0ZoVGFlTnUtWDdKa0VNNlowZ3UtWHlYVEw3VS1SeTc0c1k5ajk1bnpMT0paZ3FiY0VKUjJYZU1aQmdZM21kLdIBzgFBVV95cUxNLTNLazEzcXFDOEMtNlRoRW9CVUhwRDdWcUhjd2xZNURTa1J1SWZ3cG53cUNHYnBQSmxyUVpEMG53bXN6X0p3WF9kaUd3ME1ucWFfSS1EZko3VFJUVW5DZ0pid2VxRHR6MkxTR3E5QkhyWGpEcnpFTEdqT0h3LXJXMXJ3ekxQMFZCY01UdHhYVXhZOHVLdHUySUpKSnYxemNBellCNTR1N000aEI1REFtTjFOY0k4bmRYdzcwNWRBSjdvYlR5WFJjVVEwb195UQ?oc=5"
+  },
+  {
+    "time": "2026-08-17T10:02:32.809460+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Big action amid Jharkhand protest as CID raids Jharkhand Staff Selection Commission office over exam irregula - India.com",
+    "publisher": "India.com",
+    "age_minutes": 9,
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ3NmSVEyVlhEcUdsdnlHX1Uzbm5iOGhGQVRwb2JaTHJPZEtPRldRQkZfanAtcmFzTFM5MzBhTmw2alZwSkU2cGVKa3pCd3hTZ3FhdTFLeGxDSzMxZkFvTlZhNVFTYW5QZUJLVnBqMGlfcF9jTzVIbEpDN1IwTXItc3JZMzR4WHJzc3pOclJ3SEV6S1NYd2dsRGtxWUUxb1hOazlOd1RlMlA0VUFOVHh4X2tjNTVWano5cTdYRTdTby1wT0RoN09YZUcwd2ExQjVrbDRuZEU3aUJLUzdsMlZ4aWltVkhPNmhmbGxKcnN30gHzAUFVX3lxTFBLdUNhU1ZhUjNqM0RMNXZMbGlic2QxMWJQNjRTbnpvNkhnNkp1Xy0xeGRMckF3aXUtdnBSWS10NkNHaVEzWHhqSlNIMjNVSnM1a0g2ZkdWWFJuTklZM1NYLUdwNFR6X0pBQk51Z20yRFdpY2x1aEttNlpMbzZTdF9sUnVLS2htNFFXUUJlcGtoQ2xJeGtXeVNMZlNQOEFMbENUSlRudnc0V0JPbG5lM1dsUEsxMkFIWVgtbFZmcFJiMXpoQ3pUT2RJTlNfZTRFeEVWeWU0enFLaDRpbXE0T0U5cjl0SmYwamRPbXF4M2FDQ0J2SQ?oc=5"
+  },
+  {
+    "time": "2026-08-17T10:02:32.809479+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Berkshire Hathaway 13F: Purchases Outweighed Sales, Alphabet Most Traded in Q2 - Morningstar",
+    "publisher": "Morningstar",
+    "age_minutes": 41,
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS3NWYUNTckx3N2xMay1pZFQ0OTF4QmlrZk9abjhaZm14UnpsSTdKajR3Q2U5UXIwWGxUMXBjS2NtMy04dnc2eTFOWVJET3h4VVhPdVZGeEdlMmg5d1Qyank0UDN4cWxyQnBrbUNvMWs0dklHeGdmM1Y5UlV6WDRQSkdEWDlVNlRMRVUxT2oyMTBEQ2M5QklISThhU2RYMXF1RnZoLW1pYWw5alVTRnl0TjVvMFgwUzR3?oc=5"
+  },
+  {
+    "time": "2026-08-17T10:02:32.809521+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Ardagh considers divestment of Metal Packaging business following recapitalization - Packaging Insights",
+    "publisher": "Packaging Insights",
+    "age_minutes": 1,
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xbkZqOEJsUXlZWWhrZjlvdzRLRFlNN3doUHo2cUZscWxmSkNyTEpuX3R1WXp3VUZRYjFjemV1aDhSZ0l0aWFzQW83QzM4LTVPUW1ETUEzTnNjQy1SZElnZHE0Y2ZoM3d4QWFsM2p0SnU1M29KaGhPSnpuQQ?oc=5"
+  },
+  {
+    "time": "2026-08-17T10:02:33.650104+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "SEAMEC shareholders approve sale of SEAMEC Gallant vessel - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 19,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOS0U1NDg4SjJVTHhRdGtfa2ZwcEdpNkRxbWRETzhMVjFVUDNZQWp0X1gtenZBWGlmU3dER2NzWHJCS2ZaN0Zza3JmT0ZuSXdCVFRBLXhlTlRBSnIwdVBxUXNxOFdXb0F3UHM0OGxidFQ0UEp3bUx3TlR1dlNEOWJuOGtzakUzOWRDbDI1Qno2OTdaZDJzcWJ1NE9FMjJXZHdOUnNsWC1tSC1PZGNkX1hhTQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T10:02:33.650142+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "J.Safra Asset Management Corp Buys Shares of 3,447 Astera Labs, Inc. $ALAB - MarketBeat",
+    "publisher": "MarketBeat",
+    "age_minutes": 13,
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ21IVXBSTXF0UVdVV3luelRFb0lFV29vVGloUi1XMmVFcWE1dDBPN2dTcVgzMTRUbjhhalVweXNRUGlEMThiV3dLLVJKcVB1Y2phSkVjR21lTl9hdmEzM3lINk1OTVIyTzV1ZlE4Tnp6ZWEwbFNxaTlwOUgxR3R0ZVRZYWoyRlBDNHJaZFN3TnlxVVhETlIyRGNVUnlIR19qbVlmeUxtNlM1bjJ4N0dzN1g5cXRQeUpQZ1M1Q2Zma1BmOU1QZzgtTEFB?oc=5"
+  },
+  {
+    "time": "2026-08-17T10:02:33.650161+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Ashok Leyland: Four brokerages raise target price after strong Q1 show, margin questions linger - Business Upturn",
+    "publisher": "Business Upturn",
+    "age_minutes": 36,
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS1o1TFVhNlRMU3dBTGdKYnZTWE9xMFNyVGJhSUIyNDlLblh6YmRyOXZJNGtMMWwtOHlJRm9YU2VJUUZPR2tza1lVSTF4QXdkdEQwTHlFbVMwVDZhQXZnMV9xMTBSZFl1aERRbE9LS0ZKMXVyQk8wYVRhTDhHTmxtbXVKZENwTUtuQzZPaG41MV9DS0hqQ2lOd1JSVE5zOVVrNE1MQm5MWDVycUpfa1F0Y2pDUWJGb0ZtVUN6d0lLSFc3empGV1pHYnVuYVVkdDdrN2tXSW5mdXlYQQ?oc=5"
   }
 ]
