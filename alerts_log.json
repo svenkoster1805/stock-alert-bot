@@ -9852,5 +9852,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-17T11:02:34.393183+00:00",
+    "symbol": "FILER",
+    "company": "Madison Air Solutions Corp (0002098430) (Filer)",
+    "event_key": "4709c13dbc4dd9b8d86ef7c763b3f6d6560aface3fe50e17e6d036705301562a",
+    "event_family": "M_AND_A",
+    "title": "8-K - Madison Air Solutions Corp (0002098430) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2098430/000162828026057213/0001628280-26-057213-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]

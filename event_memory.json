@@ -2434,5 +2434,11 @@
     "symbol": "FILER",
     "title": "8-K - MSP Recovery, Inc. (0001802450) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "4709c13dbc4dd9b8d86ef7c763b3f6d6560aface3fe50e17e6d036705301562a": {
+    "first_alert_at": "2026-08-17T11:02:31.704956+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Madison Air Solutions Corp (0002098430) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
