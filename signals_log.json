@@ -6662,5 +6662,37 @@
       "is_already_priced": false,
       "notes": "Een 8-K/A met Item 2.01 bevestigt de voltooiing van een transactie, maar de economische impact is onduidelijk zonder verdere details."
     }
+  },
+  {
+    "time": "2026-08-17T21:54:33.921489+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AVAX ONE TECHNOLOGY LTD. (0001826397) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AVAX ONE TECHNOLOGY LTD. heeft een 8-K melding ingediend over het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting. De melding is 25 minuten geleden gepubliceerd op SEC.gov.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst en een financiële verplichting kan duiden op een belangrijke strategische stap of transactie. Dit kan de financiële positie en toekomstige vooruitzichten van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De aard en de financiële details van de overeenkomst zijn onbekend, waardoor de impact op het bedrijf niet kan worden beoordeeld. Zonder deze informatie is het risico op een ongunstige uitkomst hoog.",
+      "invalidation_nl": "Er is geen informatie over de tegenpartij, de specifieke aard van de M&A-transactie of de financiële voorwaarden beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de economische relevantie te kunnen beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-17T21:54:45.338482+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Coherus Oncology, Inc. (0001512762) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Coherus Oncology, Inc. heeft een materiële definitieve overeenkomst gesloten en een andere beëindigd, en een directe financiële verplichting gecreëerd. Dit is gemeld in een 8-K filing bij de SEC op 17 augustus 2026.",
+      "why_nl": "Het aangaan en beëindigen van materiële overeenkomsten kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. De creatie van een financiële verplichting heeft directe gevolgen voor de balans.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de gesloten en beëindigde overeenkomsten, inclusief de financiële impact, zijn niet gespecificeerd. Zonder deze details is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er is geen informatie over de inhoud, de tegenpartij of de financiële waarde van de overeenkomsten.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële gebeurtenis, maar de details ontbreken voor een concrete beoordeling."
+    }
   }
 ]
