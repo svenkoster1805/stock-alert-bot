@@ -2446,5 +2446,29 @@
     "symbol": "FILER",
     "title": "8-K - Prairie Operating Co. (0001162896) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "0b8f4edda6d41439eda2802c274074735a8d498c77a1310a416d09cde573f6ad": {
+    "first_alert_at": "2026-08-17T12:35:04.202616+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HomeTrust Bancshares, Inc. (0001538263) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0d7766a82004c8353d388e02a62f4ee9bc439c7cb816f403df1ab835bbb7cde9": {
+    "first_alert_at": "2026-08-17T12:35:12.205188+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Dermata Therapeutics, Inc. (0001853816) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "fe1d2b6e8c22d8ddb9fd63d21477c8ac06613f7d7a03830ad37a965d4c724387": {
+    "first_alert_at": "2026-08-17T12:35:14.173499+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ABUNDIA GLOBAL IMPACT GROUP, INC. (0001156041) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "88b1f31b77b24198022a4e0f96a976ba2d3c68ef801c78c4799631067490364a": {
+    "first_alert_at": "2026-08-17T12:35:21.270568+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Fulcrum Therapeutics, Inc. (0001680581) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

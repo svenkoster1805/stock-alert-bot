@@ -6230,5 +6230,67 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een gebeurtenis, maar de inhoudelijke details ontbreken voor een concrete analyse."
     }
+  },
+  {
+    "time": "2026-08-17T12:35:11.548524+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HomeTrust Bancshares, Inc. (0001538263) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "HomeTrust Bancshares, Inc. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op een belangrijke transactie zoals een fusie of overname. Dit kan de toekomstige waardering en strategische richting van het bedrijf beïnvloeden.",
+      "risk_nl": "De specifieke voorwaarden, de contractwaarde en de impact op de aandeelhouders zijn nog onbekend. Zonder deze details is de economische relevantie moeilijk te kwantificeren.",
+      "invalidation_nl": "De contractwaarde en de volledige voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Een 8-K-melding over een materiële definitieve overeenkomst is een sterke indicator, maar details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-08-17T12:35:13.444426+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Dermata Therapeutics, Inc. (0001853816) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-17T12:35:20.503600+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ABUNDIA GLOBAL IMPACT GROUP, INC. (0001156041) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "ABUNDIA GLOBAL IMPACT GROUP, INC. heeft een 8-K formulier ingediend dat melding maakt van de totstandkoming van een materiële definitieve overeenkomst. Tevens wordt de creatie van een directe financiële verplichting gerapporteerd.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een significante strategische of financiële transactie die de toekomstige richting van het bedrijf beïnvloedt. De creatie van een financiële verplichting heeft directe impact op de balans en kasstromen.",
+      "risk_nl": "De specifieke aard, omvang en voorwaarden van de materiële overeenkomst en de financiële verplichting zijn onbekend. Zonder deze details is de economische impact niet te beoordelen.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de betrokken partijen of de specifieke aard van de materiële overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële overeenkomst en financiële verplichting, maar de inhoudelijke details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-08-17T12:35:21.270593+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Fulcrum Therapeutics, Inc. (0001680581) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
