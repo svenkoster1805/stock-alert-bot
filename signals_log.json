@@ -6368,5 +6368,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-17T16:10:05.527700+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Narragansett Bancorp, Inc. (0002138186) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Narragansett Bancorp, Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Dit document is op 17 augustus 2026 gepubliceerd.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst duidt op een bindende transactie, zoals een fusie of overname. Dit kan een significante impact hebben op de waardering van het bedrijf.",
+      "risk_nl": "De specifieke financiële voorwaarden van de overeenkomst, zoals de overnameprijs of ruilverhouding, zijn niet bekend uit de verstrekte informatie. De deal kan nog afhankelijk zijn van goedkeuringen.",
+      "invalidation_nl": "Zonder de concrete financiële voorwaarden van de overeenkomst is een geïnformeerde handelsbeslissing niet mogelijk.",
+      "is_already_priced": false,
+      "notes": "De volledige 8-K filing zou de ontbrekende details moeten bevatten."
+    }
   }
 ]

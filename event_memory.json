@@ -2500,5 +2500,11 @@
     "symbol": "FILER",
     "title": "8-K - Securetech Innovations, Inc. (0001703157) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "7ca3d9adb91c4e63172f040c6601bf1fff79b7431e206a302f718ca898b949d8": {
+    "first_alert_at": "2026-08-17T16:09:51.291979+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Narragansett Bancorp, Inc. (0002138186) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
