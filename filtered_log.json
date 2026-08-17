@@ -1,113 +1,5 @@
 [
   {
-    "time": "2026-07-13T20:08:42.491146+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Galera Therapeutics, Inc. (0001563577) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 7,
-    "url": "https://www.sec.gov/Archives/edgar/data/1563577/000119312526301997/0001193125-26-301997-index.htm"
-  },
-  {
-    "time": "2026-07-13T20:08:42.491168+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - SOLITRON DEVICES INC (0000091668) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 33,
-    "url": "https://www.sec.gov/Archives/edgar/data/91668/000143774926023424/0001437749-26-023424-index.htm"
-  },
-  {
-    "time": "2026-07-13T20:08:42.491185+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - BASIN ELECTRIC POWER COOPERATIVE (0000720515) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 61,
-    "url": "https://www.sec.gov/Archives/edgar/data/720515/000072051526000007/0000720515-26-000007-index.htm"
-  },
-  {
-    "time": "2026-07-13T20:08:42.670104+00:00",
-    "reason": "te oud voor fastlane (68 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Inception Growth Acquisition Ltd (0001866838) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 68,
-    "url": "https://www.sec.gov/Archives/edgar/data/1866838/000121390026077511/0001213900-26-077511-index.htm"
-  },
-  {
-    "time": "2026-07-13T20:08:42.670213+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - MATERIALISE NV (0001091223) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 7,
-    "url": "https://www.sec.gov/Archives/edgar/data/1091223/000110465926083088/0001104659-26-083088-index.htm"
-  },
-  {
-    "time": "2026-07-13T20:08:42.670232+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Clearmind Medicine Inc. (0001892500) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 7,
-    "url": "https://www.sec.gov/Archives/edgar/data/1892500/000121390026077542/0001213900-26-077542-index.htm"
-  },
-  {
-    "time": "2026-07-13T20:08:42.670246+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Polyrizon Ltd. (0001893645) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 8,
-    "url": "https://www.sec.gov/Archives/edgar/data/1893645/000121390026077540/0001213900-26-077540-index.htm"
-  },
-  {
-    "time": "2026-07-13T20:08:42.670287+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - AKZO NOBEL NV (0000003124) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 43,
-    "url": "https://www.sec.gov/Archives/edgar/data/3124/000095010326010551/0000950103-26-010551-index.htm"
-  },
-  {
-    "time": "2026-07-13T20:08:43.126874+00:00",
-    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
-    "symbol": "",
-    "title": "White Cap Signs Definitive Agreement to Acquire the Business of Gierke Robinson Company, Inc. - PR Newswire",
-    "publisher": "PR Newswire",
-    "age_minutes": 8,
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOckV0aHRKREI4eWhiNUNBVm11UHdCYkNvZzh1bEZWbzUzSExxVEw5M1ZLbnVwdE9VWmVhMndtYnlWTmU5a1VBbGlmbnd0UE1EMEdBM0lqejBrVGJqZzJxR2YyVE5XMkRNWGY4c25XQ2RSemtzbFJsblM2UUkzUGgxU0F6bHZuWlYxQm5EWkYtbExpbDJMREVRbno2T3NlalcyRk8xYWZpbVU0bmpLZHFQMVdrY1FyV0lTRWNmSzRnWTRBNWRodlpRcEFtLUlGY0hWRDdaVG9RbkNmSkxMQm05ag?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
-    "time": "2026-07-13T20:08:43.126928+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "VIA",
-    "title": "Scrap metal to hydrogen: GH Power’s tech heads for NYSE via Matinas deal - Stock Titan",
-    "publisher": "Stock Titan",
-    "age_minutes": 23,
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWEZwZVplTHo4SE05TkVYQ0NWLTZEV2dBSkZyYlBwanFJZ1B0dnZZaDY2OEF6Mi1zRFZEakdfTWZDYkpZbHE5R1N0VzJtNVF4ZUJ5WGNFWGFKd0RNTkxuRDNxM3lKeEF3OGZTVXVONDZSMDFOcEVWeTJJWkQ0Q0pEXzVudDFaMWRVdGlzazNKNUxEbWd1eGR0S0lsSjE4QU9GbGJzMl9qTXIteUFHTFVMekJ5dldRZEhMR056ZXItaw?oc=5"
-  },
-  {
-    "time": "2026-07-13T20:08:43.126948+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "Apogee Therapeutics stock hits all-time high at 133.88 USD By Investing.com - Investing.com Canada",
-    "publisher": "Investing.com Canada",
-    "age_minutes": 2,
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYVRPQi1IM3htVTNmUlN0MjE4TEZYMWo5aVl2dXZxVkt1QTdtSWUtMXowMEttb3RtOWd0QjdMbGZIZVA3Z2ZUZV9nbjI5cXYxbU9oTTBPbUNCcUJsOVI1ZzRPbVE1UEJhc1AxNS1BZTYyQ2xKd3ZUR2YtZnFoUHQ5eWxZSW9HMU5ER1pQNGd1TDNiSWRObm9fRjU2bmwyaVd3dC1tV25DcHZrY21zWkRObnBEY2dTTXcx?oc=5"
-  },
-  {
-    "time": "2026-07-13T20:08:43.656632+00:00",
-    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
-    "symbol": "",
-    "title": "GH Power to go public via merger with Matinas BioPharma By Investing.com - Investing.com Canada",
-    "publisher": "Investing.com Canada",
-    "age_minutes": 12,
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGFacXJSbnQ1QWc0Z0NsVk95alYybzA5cmJ2M1FPOHpmUGpCM2NyekVKcjFFQm11NE5nSGVqeldTS1BLaU1PSHJRSElmUWhkVTF6UlRLWEpTdUFVaGVQZnBFYjl6WGhKR0ZxRTJqOFd0M1Vod240RmFFNzg0OFJGYmNHVm9hSUFwc2JNZVFVMGVicmtWejhnVWZQZzJZVWJvRTBNTWR4QndMdlBFbHgzSHpvdm5DR1U?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
     "time": "2026-07-13T20:08:43.656681+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "NBIS",
@@ -107998,5 +107890,113 @@
     "publisher": "Stock Titan",
     "age_minutes": 21,
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVBSbUlKT1R2VG8zZ2gtQUxpNW9WUDdHYkhwR0x0c29sUmpXOFJ2cmhHYl9FZXREYXE3RmhTU1JfZ2pJY3lHX0FiVDBOcTZZQmVROEdDRFdnckVaLUxybEhndzFEbnJsRTR1LWdrWXZqSVlHdGNHd0pIQmdUMlZRbS12a1RpTXFyZmJuZC1tbkpZV0kzd0pzeC1xVjB3aDM3ZDVHYnA1eXhIMjE2LThWSWF3?oc=5"
+  },
+  {
+    "time": "2026-08-17T20:03:14.889685+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "8-K - Edible Garden AG Inc (0001809750) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 17,
+    "url": "https://www.sec.gov/Archives/edgar/data/1809750/000147793226005129/0001477932-26-005129-index.htm"
+  },
+  {
+    "time": "2026-08-17T20:03:14.889784+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Maris Tech Ltd. (0001872964) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 1,
+    "url": "https://www.sec.gov/Archives/edgar/data/1872964/000121390026090740/0001213900-26-090740-index.htm"
+  },
+  {
+    "time": "2026-08-17T20:03:14.889797+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - YXT.COM GROUP HOLDING Ltd (0001872090) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 2,
+    "url": "https://www.sec.gov/Archives/edgar/data/1872090/000110465926097832/0001104659-26-097832-index.htm"
+  },
+  {
+    "time": "2026-08-17T20:03:14.889811+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - ReNew Energy Global plc (0001848763) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 3,
+    "url": "https://www.sec.gov/Archives/edgar/data/1848763/000119312526353990/0001193125-26-353990-index.htm"
+  },
+  {
+    "time": "2026-08-17T20:03:14.889822+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Brookfield Property Partners L.P. (0001545772) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 58,
+    "url": "https://www.sec.gov/Archives/edgar/data/1545772/000110465926097788/0001104659-26-097788-index.htm"
+  },
+  {
+    "time": "2026-08-17T20:03:14.889835+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - SOL Strategies Inc. (0001846839) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 77,
+    "url": "https://www.sec.gov/Archives/edgar/data/1846839/000110465926097779/0001104659-26-097779-index.htm"
+  },
+  {
+    "time": "2026-08-17T20:03:14.889845+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - ARAUCO & CONSTITUTION PULP INC (0001004156) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 83,
+    "url": "https://www.sec.gov/Archives/edgar/data/1004156/000157587226000589/0001575872-26-000589-index.htm"
+  },
+  {
+    "time": "2026-08-17T20:03:14.889860+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - HSBC HOLDINGS PLC (0001089113) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 190,
+    "url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426007697/0001654954-26-007697-index.htm"
+  },
+  {
+    "time": "2026-08-17T20:03:14.889872+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - OceanaGold Corp (0001487326) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 193,
+    "url": "https://www.sec.gov/Archives/edgar/data/1487326/000127956926000797/0001279569-26-000797-index.htm"
+  },
+  {
+    "time": "2026-08-17T20:03:15.332634+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "GH",
+    "title": "Guardant Health (GH) Surges on FDA Approval and Cancer Screening Momentum - Yahoo Finance",
+    "publisher": "Yahoo Finance",
+    "age_minutes": 14,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0hvcHAzMGlHRmhhRnhvNWdCSTZJTkhBN0lCcl9zQjEtcWVha3FVaDBWZFVIOGtoS28tY3ZRTUJqSFJ0X1VXZHc0WWVYTndrbk0zOFAydXl2SEFaY2E1Yko5SlZjZmdvc2w1Umx4ME5tbmxkRXNhMEJnODNxUEpGdGRJN0N6S2pGQkNXX0Q0VFY5NWdJ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T20:03:15.332704+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "MBX",
+    "title": "MBX Biosciences (NASDAQ: MBX) insider to sell 3,745 shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 21,
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmVzdm5LYXZLVXphOEwxRjVXRmQzcElTVkYyRjRmdUtXSXVaei1PbG5IVF9xYldpUHV5STZnVFJYc3BnWENhRVFpbE5walpLMkdXdUhJRF9xOXpKS2NiVllzSlVhUXFWdGVGc2E3VElsQU1ac21zT3dGRFBrbjFmOUZRUWp3X0ttcnF5dVdPU3pMMDdJalFYTzdGUQ?oc=5"
+  },
+  {
+    "time": "2026-08-17T20:03:15.332718+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "SMTC",
+    "title": "Why Semtech (SMTC) Stock Is Trading Up Today - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 27,
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYWtObFRUVk9DZnRRbGV0Ui1QbGlxTnJsbW5TUG10cjE5SFJEN29zcWE1X2dQbWN4UU9CWTdkMGxib29PZVBQZ1NBRnFobFhQMll1eUE3aHUzVmJ0REFGaEpCLUUxaUFqcmpOQmN4R19zRXAxb1Jja2xaQ0lJNFRESGEzVFVmOVNfSk0tUHVJXzlTN1FjS1lkMXlQRmVib3UxZTZTaDN3?oc=5"
   }
 ]
