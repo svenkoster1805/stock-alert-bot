@@ -2518,5 +2518,101 @@
     "symbol": "FILER",
     "title": "8-K - PILGRIMS PRIDE CORP (0000802481) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "7f7ace9a16c3407a70047195fe7ea7e8d59bd9b33cdf072e794fc8dedfb86ad0": {
+    "first_alert_at": "2026-08-17T20:37:26.897323+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Limoneira CO (0001342423) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "63052b79459f776fbb3d1a4363a7bbc87ff2ddedebe43aea9bc80c221fe1d7fb": {
+    "first_alert_at": "2026-08-17T20:37:36.102121+00:00",
+    "symbol": "FILER",
+    "title": "8-K - UGI CORP /PA/ (0000884614) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d8c5494567d5377b836212e4973c08bca6cd264a5b89b3f46cc8866d954e2e50": {
+    "first_alert_at": "2026-08-17T20:38:12.102613+00:00",
+    "symbol": "FILER",
+    "title": "8-K - STARZ ENTERTAINMENT CORP /CN/ (0000929351) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f4858d2e5ea89468233305764b8746c5eed91b61c09cee3ac9490e89a73edb15": {
+    "first_alert_at": "2026-08-17T20:38:21.784978+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DocGo Inc. (0001822359) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "47e1b6980892e224a1466edbd57c585cbc2f1f0a967a437e97de0ad8eb168c9c": {
+    "first_alert_at": "2026-08-17T20:38:22.450414+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MASTEC INC (0000015615) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "cca0fc470aff35541e15e7aa896f781770fe16a411e22bfc92e5ecf43fa8685e": {
+    "first_alert_at": "2026-08-17T20:38:23.165146+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Fabrinet (0001408710) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a81ae172a7732883fd56044a87030611f3611fce22478a2280c1a5409f3bf9e2": {
+    "first_alert_at": "2026-08-17T20:38:24.032392+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AdvanSix Inc. (0001673985) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1b861080aa4315637798fe3ae570a83055863866d36d24aeb8640b65f07e79b3": {
+    "first_alert_at": "2026-08-17T20:38:24.867957+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Braemar Hotels & Resorts Inc. (0001574085) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0346d212d850c227ffcacc358bbe68218dcdf48f9440f236bacc1afe56870aab": {
+    "first_alert_at": "2026-08-17T20:38:25.649948+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Phoenix Energy One, LLC (0001818643) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "04308ab33f4c7b7f7598c8e10205ed5f80db6f23364463572047cb457e88b649": {
+    "first_alert_at": "2026-08-17T20:38:26.296947+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ribbon Acquisition Corp. (0002035016) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "85e75eb0aa8bd1ec3ce4b17de2b6e16b5d28ea32bf9d9306e8f719a25d252154": {
+    "first_alert_at": "2026-08-17T20:38:26.980089+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SHARING ECONOMY INTERNATIONAL INC. (0000819926) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7802e87d41e0698276b856f2e205c6ec037df2ab51cff555e48833720399e128": {
+    "first_alert_at": "2026-08-17T20:38:27.616366+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ERP OPERATING LTD PARTNERSHIP (0000931182) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d8eefd25680450e4e134094a1d0e85d88fddef231f74ad57cda3c5aff170239c": {
+    "first_alert_at": "2026-08-17T20:38:28.280894+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VIVMARK RESIDENTIAL (0000906107) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2409a5449829fa79bd37920ea99f320b5a6a16e299c1474905d61f339f2f3e95": {
+    "first_alert_at": "2026-08-17T20:38:28.920914+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MICROVISION, INC. (0000065770) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "750bd9f6cf9a2834d9e077ed7b4f592af9538bad777a6bae7fec91f1806f86b9": {
+    "first_alert_at": "2026-08-17T20:38:29.565715+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TERADATA CORP /DE/ (0000816761) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d91857204743c667777207cce8ed63f77f9d79cccfca79aa2fb404d057d9e5c4": {
+    "first_alert_at": "2026-08-17T20:38:30.218245+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Fastly, Inc. (0001517413) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

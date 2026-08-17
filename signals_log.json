@@ -6416,5 +6416,235 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de specifieke aard van de M&A en de financiële implicaties zijn nog onbekend."
     }
+  },
+  {
+    "time": "2026-08-17T20:37:35.454266+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Limoneira CO (0001342423) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Limoneira CO heeft op 17 augustus 2026 een 8-K filing ingediend bij de SEC, waarin de \"Entry into a Material Definitive Agreement\" en \"Material Impairments\" worden gemeld.",
+      "why_nl": "Een materieel definitief akkoord kan een significante strategische stap zijn die de waarde van het bedrijf beïnvloedt, terwijl materiële waardeverminderingen de balans kunnen aantasten.",
+      "risk_nl": "De specifieke aard en financiële details van het akkoord zijn nog onbekend, evenals de omvang en impact van de materiële waardeverminderingen.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de tegenpartij of de exacte aard van de \"Material Definitive Agreement\" om een handelsbesluit te rechtvaardigen.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is recent en van een betrouwbare bron, maar mist cruciale details voor een handelsbesluit."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:11.372534+00:00",
+    "symbol": "FILER",
+    "title": "8-K - UGI CORP /PA/ (0000884614) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:21.063091+00:00",
+    "symbol": "FILER",
+    "title": "8-K - STARZ ENTERTAINMENT CORP /CN/ (0000929351) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "STARZ ENTERTAINMENT CORP heeft een 8-K-rapport ingediend bij de SEC, waarin de onderneming melding maakt van het aangaan van een materiële definitieve overeenkomst. Dit omvat ook het creëren van een directe financiële verplichting of een verplichting buiten de balans.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of verkoop, wat de toekomstige waarde van het bedrijf kan beïnvloeden. De financiële verplichtingen kunnen de balans en winstgevendheid van het bedrijf significant veranderen.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de contractwaarde en de impact op de financiële positie, zijn nog onbekend. Zonder deze details is de economische impact onduidelijk.",
+      "invalidation_nl": "Er is geen contractwaarde, specifieke voorwaarden of details over de tegenpartij van de materiële definitieve overeenkomst beschikbaar in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is recent en afkomstig van een betrouwbare bron, maar de samenvatting mist cruciale details voor een handelsbeslissing."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:21.785003+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DocGo Inc. (0001822359) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:22.450439+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MASTEC INC (0000015615) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:23.165172+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Fabrinet (0001408710) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:24.032417+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AdvanSix Inc. (0001673985) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:24.867984+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Braemar Hotels & Resorts Inc. (0001574085) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:25.649971+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Phoenix Energy One, LLC (0001818643) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:26.296971+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ribbon Acquisition Corp. (0002035016) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:26.980114+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SHARING ECONOMY INTERNATIONAL INC. (0000819926) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:27.616391+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ERP OPERATING LTD PARTNERSHIP (0000931182) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:28.280919+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VIVMARK RESIDENTIAL (0000906107) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:28.920937+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MICROVISION, INC. (0000065770) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:29.565739+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TERADATA CORP /DE/ (0000816761) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-17T20:38:30.218270+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Fastly, Inc. (0001517413) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
