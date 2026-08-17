@@ -1,122 +1,5 @@
 [
   {
-    "time": "2026-07-10T20:06:10.873327+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - GeoVax Labs, Inc. (0000832489) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 1,
-    "url": "https://www.sec.gov/Archives/edgar/data/832489/000143774926023320/0001437749-26-023320-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:10.873340+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Trump Media & Technology Group Corp. (0001849635) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 2,
-    "url": "https://www.sec.gov/Archives/edgar/data/1849635/000143774926023318/0001437749-26-023318-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:10.873353+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Traws Pharma, Inc. (0001130598) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 3,
-    "url": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926082649/0001104659-26-082649-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:10.873374+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - STERLING INFRASTRUCTURE, INC. (0000874238) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 3,
-    "url": "https://www.sec.gov/Archives/edgar/data/874238/000087423826000095/0000874238-26-000095-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:10.873390+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - LEE ENTERPRISES, Inc (0000058361) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 3,
-    "url": "https://www.sec.gov/Archives/edgar/data/58361/000005836126000049/0000058361-26-000049-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:11.126684+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - PSQ Holdings, Inc. (0001847064) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 4,
-    "url": "https://www.sec.gov/Archives/edgar/data/1847064/000110465926082646/0001104659-26-082646-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:11.382787+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - ENvue Medical, Inc. (0001326706) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 4,
-    "url": "https://www.sec.gov/Archives/edgar/data/1326706/000149315226032830/0001493152-26-032830-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:11.868435+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - MDWerks, Inc. (0001295514) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 5,
-    "url": "https://www.sec.gov/Archives/edgar/data/1295514/000149315226032828/0001493152-26-032828-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:11.868455+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Golden Minerals Co (0001011509) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 45,
-    "url": "https://www.sec.gov/Archives/edgar/data/1011509/000110465926082613/0001104659-26-082613-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.111597+00:00",
-    "reason": "te oud voor fastlane (48 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - BRANDYWINE OPERATING PARTNERSHIP, L.P. (0001060386) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 48,
-    "url": "https://www.sec.gov/Archives/edgar/data/1060386/000079081626000022/0000790816-26-000022-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.396022+00:00",
-    "reason": "te oud voor fastlane (48 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - BRANDYWINE REALTY TRUST (0000790816) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 48,
-    "url": "https://www.sec.gov/Archives/edgar/data/790816/000079081626000022/0000790816-26-000022-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.396073+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Accenture plc (0001467373) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 52,
-    "url": "https://www.sec.gov/Archives/edgar/data/1467373/000119312526300813/0001193125-26-300813-index.htm"
-  },
-  {
-    "time": "2026-07-10T20:06:12.396094+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - TRIO-TECH INTERNATIONAL (0000732026) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 71,
-    "url": "https://www.sec.gov/Archives/edgar/data/732026/000143774926023298/0001437749-26-023298-index.htm"
-  },
-  {
     "time": "2026-07-10T20:06:12.690423+00:00",
     "reason": "te oud voor fastlane (71 min, limiet 30)",
     "symbol": "FILER",
@@ -107998,5 +107881,122 @@
     "publisher": "The Business Times",
     "age_minutes": 16,
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbXBaNkhsZHM5OElTTU1seWJuZVdDUnBGQWNLeUZmcjZwQjRORnpUMWVvVjlINld1c0c1ZjZEUDY1ZVJvang4a0M1amQyRDZEc2VVQVlHUlVXZFY3Y2RVLVF3bHdPNkRaM2ZZNU1tMUwwRnE5Q3pYbDhwZ05rR1dDelFqem1xcEhKdVkwYXJHNWFPSENyc3BpVnB3UHpUMDRDaDZ5TjJuNm1PT2szbVRZcEFvUnc?oc=5"
+  },
+  {
+    "time": "2026-08-17T06:57:50.398045+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Anupam Rasayan posts PAT of Rs 512 crore for Q1; EBITDA margin remains flat at 26% - Business Standard",
+    "publisher": "Business Standard",
+    "age_minutes": 37,
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcWk0WDQ3YWRueW4xT3V1NndTMlJYNFRjelhRYjlSbmhvOXo3ekFxTlh3aVdnMVVpQkV5bHN1Rkk1b0Fhc2dYR3haM2RrUlAweklmTmNWU1dUMXVPOTd3Z3lpR0h2dS15Y014N0NLQ09aLUJRZDM2R243LWF0SlBUUUdROEVuU3ZCXzdIQjhEUjVJQkl4aURWVE1uV2hRZnp2VHk3RV9CQlhCdnB3V3kwUUJLWmVXN2E5dmdNOE9lTS1iTno5cmVOQUFQSWQzWDN2QWh5UVdmbjNmUzJiYW9DU3RnOHZLNkpTcnA5LV92YUhFZjRU0gH6AUFVX3lxTFAyZjVYdWNxcWZwV2NRN0pkQTI1WEp1NTFLMnRBQVFOZ0o5UTUxLXpMbXNwZ0xRczBVdmhIdU1IU3lwZk9mX09KbFVmV1dod0puQ0dMSkZwYkVXRE84NUhORWhqSnZLbUNpZENKR2hlQ2xHN2lTSWxlY3ZleGh3SUM5YkFXQS1vZnhQSGV0S1VFUzVWTW9pVkRSZEJNbk1Odm9mQWUyc2YxamUzMUVWWjVFa2dralNNNDQ4VE1yamJWVXYwS0JOZ2hnMHhlZFN6cUFoWXVDamNnWGZhREtaVTdnVTVsSkdWSVhaY05OTWVTTjBQc3A4UV9ZZlE?oc=5"
+  },
+  {
+    "time": "2026-08-17T06:57:50.884204+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Bristol Myers Squibb stock steadies as FDA approval and strong earnings shape outlook - ad-hoc-news.de",
+    "publisher": "ad-hoc-news.de",
+    "age_minutes": 59,
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXRXLUhxaWxyRjNYN252T0c4QS1mbG5vSjc5ZlJTdDlKTThGMzZzWmVkOUhOS2RvZGZLNWRtQXFQNkRYT3dzaUlvR2N1bkVkbXhoSnJvNHZKNEs2cmkwdzJmSkZLT0xLcW5nemc0ZVdhU3prOWF2Uk91TThpbjBvQVdsaUhKNDNwTVRwSEhYV3gza3dUdV90ejZrVzVOQkZFWjg1MlNsYUdGWnp2NmVNN3BkdWRHaWdfbXd6alVHUVhjdktkS2RKRmZYNHpITzg?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T06:57:51.179507+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Lupin secures U.S. FDA approval for Pitolisant Tablets - Business Upturn",
+    "publisher": "Business Upturn",
+    "age_minutes": 3,
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGVrSzdhZlhXTXR0UmJuTXRJS1VaT2xWOWR0UThOR2hkOEhrMWJzSjd1Sk1xcXBYcFMyNE53cHlLb0JWWDJyUWRhY20taWRFY293TXdtWUJ0RnNhcGFRMU5EN09JTnFmVmdKRS0xdVpQaF9DM1ljamtzamdlUFg4ZjJHM2NZWTVvUktwYy13cURWRmE0UUd1aEVB?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T06:57:51.179548+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "REG - BATM Advanced Comm - Notice of GM and Update on Transaction - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 57,
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZTVGb3F6Q0ZxU2oxWG1ZQlN1SXdZcFlzdUNabkdLT01hYWUxY1JtWmNHX09Wa3cxZnZUUE1fZUZSYWYtMDVEUDJTVV9GUnNJQldSVzlmUmczUlkwZ1c4QW4zcTh4ZjBqVkxoeEVsX0hNeG1ubTczZmhrbVJVMFBIbWdGWEV1eHBmZ0JUTE51MFBCN2tVOWtBaEVidnllcmxnZU9hQktVdDQyV0pZT1dSUWFfWU4tZFZTWllzQ1dsbmZrNHowdS1IY2hLamY3b2dTZ1dz?oc=5"
+  },
+  {
+    "time": "2026-08-17T06:57:51.179565+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "REG - International PPL - Update regarding investment in toob - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 57,
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjI1WkFVeVJwYW9iVm95T0J3dTNfVnByTURWdDRuRXVGVm1OMUFRRWhfT3ZfX2toMExNbXVlcFFnWW03OENENWh2RlBkQ3BNVXBTT0pXOVlzVWd5ajFaN2ctQ09pRG1jcENiUVdmN1BOeU4yYm5jcXBIQU1iazNhS2dRWW02Q05vcjIyM3A2dUV1WG0wM0RZaDBNbVQwT1JqX3dyTHhUYWgydGpPYUVjUXZpNFJkOWtqY2hWVE9Hb0daeHhxekl0S0dhcjNqUQ?oc=5"
+  },
+  {
+    "time": "2026-08-17T06:57:51.619386+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "BP stock steadies as North Sea asset sale draws bidder interest - ad-hoc-news.de",
+    "publisher": "ad-hoc-news.de",
+    "age_minutes": 43,
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWhERld5Z2FpRm1JR3pLUnRhRUk5bHF0RGthd0lXLXJsTW1HMWNISTlGN1c0bEkwSHA1enBudXlaYi1jSW5OczNub0tsZHp3WDJ3cnl2dUZvbkUtVUJnVkloLUVmVjk0eklsVWgxdEJMWWpaRWZVM2Rrd2NGb3hkZmhvT1dDZ3RWajd6N1QyQkhxR0s1eXRvOTVFcWdPZ0ZqZHRiMndRbjNSbTA1VXR5RkdQdTNSSTYzeVQtcUhEVlB1VXY2?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T06:57:52.099345+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "ITAT Allows Capital Loss on Sale of Unlisted Shares, Holds Physical Transfer Valid [Read Order] - Taxscan",
+    "publisher": "Taxscan",
+    "age_minutes": 13,
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM1BOWXNZWHdXZGYwQmdOaWNHdEZJUmV0Szhfb2ZHZWh1M01tS0Z0Ykc2MHY4Skx5a0ZWMTBLdW5LakE1NkZndHNQXzVkSTZEdS00OGI4OVk2cWRLZE9iU1hiZlN0NVRhbXZnMG45cG1YSE1MVm9TQ3hxUHNlTThQa2MwWURBNkM4dzYzTGl1LTd5dUVsOEhMSkk3TzExSm9COWFPNlZsTklVdzhJNWNEU1NwNXVlSFJ5R2lpekd1U1pMVTR0NDNzejhsa3VEZ0hm?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T06:57:52.099386+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "REG - Springfield Props. - Land Sale and Final Deferred Consideration Payment - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 57,
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS0dncVluSFY5X1BYUTl2MjFQZmNoQVAtT0N5TWgwSkRzc0FZdEhud1pKR0h3VjFPTWRETE5FT3VlandJLVgxcmwzTWZpUmRGVGdCdGtFWV9hdTVoeUFxMHhuODhjdnM5ZUJCakVIY1N3eFJFZ0JZWmxPMmUyNHVpRzdQQmRLa2lfMkhZWFAtSHBTdWx3RGxTRllsTHJTYkZabHJjUkVCblhqT1M1NklzOW42aGx6S1J5UkdRbjBTLTF1eWFIT1FmazUxWWk1LXg5VHk5bUxfTTlzcUJMTG5FUG93?oc=5"
+  },
+  {
+    "time": "2026-08-17T06:57:52.099405+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Lalithaa Jewellery Mart IPO GMP Today: Date, Price, and Listing Date - Sahi",
+    "publisher": "Sahi",
+    "age_minutes": 4,
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmVzBPTEFLVlNINFNfaDZZVDFtN19kb2daZWxqMXdLYkFSbk9Ja0xSSks2Xzd2cmZGakZBN1RxZkxZOXVlbXA0LXZDbk5rTzJzTURoc1hqQUNvZjEybm4zV1NEa1dlT2Njby1NN0J6bnBsUQ?oc=5"
+  },
+  {
+    "time": "2026-08-17T06:57:52.099421+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "News by CNBC TV18 on TradingView, 2026-08-17 — cnbctv:680baae85094b:0 - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 33,
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZFl2T0dmMTlOazV4QXdfRDBiY1dWMG0tSGFWWng3TG1NSDZPQ0NlOE55bG5zTmtpU3d2NDI2YU93OEY0V3FJSVNscVpwRThQbGh3S0ZnbFBuQjlTYVVuYjU3SEtjZmM?oc=5"
+  },
+  {
+    "time": "2026-08-17T06:57:52.099434+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Efor Holding Trims Stake in Efor Yatirim Sanayi Ticaret - TipRanks",
+    "publisher": "TipRanks",
+    "age_minutes": 28,
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGhtRlhLblU5SGFCSGpJc0J6dFR3OE5jX2g2RGFPeGx0dENrenVHeE5rR3VENTNNNG4tTjRvUWRNV2R1eU5GNjB6clVOVWx0ZzkwTkQ3RzB5MWpQdnh2aUF4amtGRTJheUw1aktwVEY3SFN4R0RGTGgzandIOWpFZTV5ek9EYl9hMC1raEp3UmhLY3RXSTNlaHZsYzVFYzBtcDY3LTlsZUk0V2M?oc=5"
+  },
+  {
+    "time": "2026-08-17T06:57:52.686715+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "US Solar Fund Extends Exclusivity for Potential Sale of Entire Solar Portfolio - TipRanks",
+    "publisher": "TipRanks",
+    "age_minutes": 36,
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLUxydHhlY3VQS0IwVURyTm9JNlBDOUFvbURQZDNWU05xdzZtMEg4OC1VZ2l2dTNZTkFNejd3ZTJ3RWhaQWFvSjY1RDhmOThwSHlWbW5kdHpTeGpXOURkdW1GTzREV2JFVldSLXRjdG8wMTgydGd2S0NlTG5mOUI1dGpkYXd5VExxUUloSWphLWxfNkNYTDJJSjJRQlVhaFZ2NTdtellPQXNtelVPb2VqaHZscGIwaW82azJTaWV4Ykw5SzA1NXduV3Bn?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-17T06:57:52.686754+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Thriveni Earthmovers Pledges 4.05% of Lloyds Engineering Works - investywise.com",
+    "publisher": "investywise.com",
+    "age_minutes": 25,
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0R0xLb1pHekl1Rk9yT29yNHRDTFBtUklqRnZHMHIzR2p1MXp4bDJhejJGRk1Za3ZHR2c5R0ZPY05mOWI2OS1nYjE3NFV3MWg5bmltLXhtVl80dDhZSDJJdGZYNU51ZHQzVFlTN2RhcE1Xd0JRbWtSa25Sbw?oc=5"
   }
 ]
