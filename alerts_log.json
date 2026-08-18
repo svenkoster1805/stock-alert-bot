@@ -10745,5 +10745,30 @@
       "is_already_priced": false,
       "notes": "Nadere details over de inhoud van de 8-K zijn nodig om de M&A-gebeurtenis te bevestigen en te beoordelen."
     }
+  },
+  {
+    "time": "2026-08-18T12:00:35.853116+00:00",
+    "symbol": "FILER",
+    "company": "Iron Horse Acquisition II Corp. (0002051985) (Filer)",
+    "event_key": "4d2faec1d1b10897db40098572242aace2adb000b1203711483c74c5c9ba7d75",
+    "event_family": "M_AND_A",
+    "title": "8-K - Iron Horse Acquisition II Corp. (0002051985) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2051985/000121390026090983/0001213900-26-090983-index.htm",
+    "news_age_minutes": 4,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Iron Horse Acquisition II Corp. heeft op 18 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit document bevat een Regulation FD Disclosure en financiële overzichten en bijlagen.",
+      "why_nl": "Een 8-K-melding duidt op een materiële gebeurtenis die de bedrijfsvoering of financiële positie kan beïnvloeden. De vermelding van een M&A-event in de metadata suggereert een mogelijke transactie.",
+      "risk_nl": "De specifieke details van de vermeende M&A-transactie, zoals de betrokken partijen, voorwaarden en waarde, zijn niet bekend. Zonder deze informatie is de economische impact onduidelijk.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard, omvang of voorwaarden van de M&A-transactie beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is recent en van een betrouwbare bron, maar de inhoud van de M&A is niet gespecificeerd."
+    }
   }
 ]
