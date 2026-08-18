@@ -2830,5 +2830,17 @@
     "symbol": "FILER",
     "title": "8-K - Sezzle Inc. (0001662991) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "d5f4df504f68cafb9cd4b4f8400d319d7c9bf7923e933fb19004351bd4ad182e": {
+    "first_alert_at": "2026-08-18T21:41:36.004440+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TREASURE GLOBAL INC (0001905956) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d81f8e82b8f5477036df287cbcff0e405b8b5751aacdf3dca5555d2d6f088ffb": {
+    "first_alert_at": "2026-08-18T21:41:45.244045+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Launch Two Acquisition Corp. (0002023676) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

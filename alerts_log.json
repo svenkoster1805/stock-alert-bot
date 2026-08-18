@@ -11436,5 +11436,55 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-18T21:41:44.864322+00:00",
+    "symbol": "FILER",
+    "company": "TREASURE GLOBAL INC (0001905956) (Filer)",
+    "event_key": "d5f4df504f68cafb9cd4b4f8400d319d7c9bf7923e933fb19004351bd4ad182e",
+    "event_family": "M_AND_A",
+    "title": "8-K - TREASURE GLOBAL INC (0001905956) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1905956/000121390026091317/0001213900-26-091317-index.htm",
+    "news_age_minutes": 21,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-18T21:41:51.589085+00:00",
+    "symbol": "FILER",
+    "company": "Launch Two Acquisition Corp. (0002023676) (Filer)",
+    "event_key": "d81f8e82b8f5477036df287cbcff0e405b8b5751aacdf3dca5555d2d6f088ffb",
+    "event_family": "M_AND_A",
+    "title": "8-K - Launch Two Acquisition Corp. (0002023676) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2023676/000121390026091307/0001213900-26-091307-index.htm",
+    "news_age_minutes": 25,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]
