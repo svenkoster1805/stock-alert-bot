@@ -2632,5 +2632,17 @@
     "symbol": "FILER",
     "title": "8-K - Coherus Oncology, Inc. (0001512762) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "b0aca85edb189217f14b6313dccc75f12d804276aad8eb612555068fab745a4b": {
+    "first_alert_at": "2026-08-18T10:15:46.973999+00:00",
+    "symbol": "FILER",
+    "title": "8-K - XTI Aerospace, Inc. (0001529113) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4ce95af7625c9eaa50accfb4c5891674b025e722546bb14b131428f7115dc695": {
+    "first_alert_at": "2026-08-18T10:16:03.197545+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
