@@ -1,104 +1,5 @@
 [
   {
-    "time": "2026-07-15T10:16:13.281698+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K/A - SemiLEDs Corp (0001333822) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 14,
-    "url": "https://www.sec.gov/Archives/edgar/data/1333822/000119312526303965/0001193125-26-303965-index.htm"
-  },
-  {
-    "time": "2026-07-15T10:16:13.281711+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - FRACTYL HEALTH, INC. (0001572616) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 15,
-    "url": "https://www.sec.gov/Archives/edgar/data/1572616/000119312526303948/0001193125-26-303948-index.htm"
-  },
-  {
-    "time": "2026-07-15T10:16:13.281725+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Strive, Inc. (0001920406) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 527,
-    "url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026048231/0001628280-26-048231-index.htm"
-  },
-  {
-    "time": "2026-07-15T10:16:13.512477+00:00",
-    "reason": "te oud voor fastlane (529 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Sunbelt Rentals Holdings, Inc. (0002083785) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 529,
-    "url": "https://www.sec.gov/Archives/edgar/data/2083785/000119312526303702/0001193125-26-303702-index.htm"
-  },
-  {
-    "time": "2026-07-15T10:16:13.512532+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Gossamer Bio, Inc. (0001728117) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 576,
-    "url": "https://www.sec.gov/Archives/edgar/data/1728117/000172811726000061/0001728117-26-000061-index.htm"
-  },
-  {
-    "time": "2026-07-15T10:16:13.512553+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - AVANOS MEDICAL, INC. (0001606498) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 658,
-    "url": "https://www.sec.gov/Archives/edgar/data/1606498/000160649826000093/0001606498-26-000093-index.htm"
-  },
-  {
-    "time": "2026-07-15T10:16:13.512570+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - AMAZE HOLDINGS, INC. (0001880343) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 689,
-    "url": "https://www.sec.gov/Archives/edgar/data/1880343/000149315226033243/0001493152-26-033243-index.htm"
-  },
-  {
-    "time": "2026-07-15T10:16:13.512585+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - NEWS CORP (0001564708) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 704,
-    "url": "https://www.sec.gov/Archives/edgar/data/1564708/000156470826000152/0001564708-26-000152-index.htm"
-  },
-  {
-    "time": "2026-07-15T10:16:13.512600+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Liberty Broadband Corp (0001611983) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 712,
-    "url": "https://www.sec.gov/Archives/edgar/data/1611983/000161198326000014/0001611983-26-000014-index.htm"
-  },
-  {
-    "time": "2026-07-15T10:16:13.512613+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Liberty Media Corp (0001560385) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 719,
-    "url": "https://www.sec.gov/Archives/edgar/data/1560385/000156038526000020/0001560385-26-000020-index.htm"
-  },
-  {
-    "time": "2026-07-15T10:16:13.512651+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Churchill Capital Corp IX/Cayman (0002006291) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 741,
-    "url": "https://www.sec.gov/Archives/edgar/data/2006291/000119312526303455/0001193125-26-303455-index.htm"
-  },
-  {
     "time": "2026-07-15T10:16:13.512666+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107899,104 @@
     "publisher": "Quiver Quantitative",
     "age_minutes": 31,
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMllzRDBBbE50NWhTdzd2a3h5S3F4LTFyeDl1ajBMMTJrTlRxY2FmaG9va05jLTl5eUpyRnFjZW81QVA1akdhUC1FM19FWmtERElQcmdoRTQyY3IzRkpGWU1pVXRTQ2tRdGV0QXFjUGRjNmtGd0Y1RXVkSUhmb3pPU1UtUHY5TXVBSHV3blVwbWwwcFBRdkE?oc=5"
+  },
+  {
+    "time": "2026-08-18T19:18:12.062147+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Francisco Partners Management, L.P. entered into a definitive agreement to acquire Weave Communications, Inc. for approximately $650 million. - marketscreener.com",
+    "publisher": "marketscreener.com",
+    "age_minutes": 41,
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRURXcGIwYXZiRUl6WEhVbjFwUG1idDRpTENUYVhzT2dsZU5fOUxqVDJmMHFONk9DaDVYVVZsVFplczFVVlQxSHBxODZiWnMzTjZiWFhsR1RfZC1mbWttWGlVVWhEemNSZGlHWWkxZnh1VjZ3Vm1tcUlmRlhsaWRMV3ZtUDlJS0JsRlRYU0RZQ3NoSzBaWktSZk81WVpRdThzemU3VjUyOFctZGVjVlRRa1M3TjZORzc1WTJmMzQyNmdjYkNReHNXZi1OcWtRS0ZzNlgtRV9DZmxxTjFkNXR4ODVzMXJudw?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-18T19:18:12.788525+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Canadian GoldCamps to Acquire Majority Stake in Stealthwall West Gold Project in Québec - tipranks.com",
+    "publisher": "tipranks.com",
+    "age_minutes": 27,
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOGtSclFMSjNCU0FXMURCcU9QSkdyQzhHVWc4MnJ3Q1dncVRWdkhEWDZycTVjSTNfWnViSzZNWVBZNVl0dG1XOGhhdWRmdmRYd3RlYXlibi00ZEI4Z3RLNEFfYUFsMzBYREhRZUV2LVl2VE1TS2l3eWhVTUo3NFNqdzhVdmhvVi1jRlhmR3ZsZW13Tm9SdHdFdEJNbklsUXRaMkl6eHBCc3hfQWpvekVmMXhGSzFoMnhuSzlIb0k3WF80UUhMbmpZNEF1dklxV00xcVlnS1lB?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-18T19:18:12.788579+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "BHRB",
+    "title": "Burke & Herbert (BHRB) director keeps 12,607 shares after cancelled sale - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 12,
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmZ0cTc2T1NPeXQwLXZqWDQtWmJtOFdlTXNKbHk1WHpYVFRPdDZ1d0dkWTJCX3Jza1AxUXFxNm5rQ1BIZHBOX0RPZVdhb0laeExwTUhrUm1wNk5BTnJDeEhjMkl1T3JZRXN5N1kwQzNwSmpBcll0S2xEVFVzX0ZpQnEtUEZKZHJwMUlYRGdyVmlqZUxzaGNoMzU1OGdHUm5jQ2hobXZDTjhoaWNfcVZwRDB4RWY3aU5kN3hZaUtjY0Y1QmxsSVExWG9XQQ?oc=5"
+  },
+  {
+    "time": "2026-08-18T19:18:12.788592+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Insider Sale: Director at $KN Sells 175 Shares - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 16,
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0UyYS05RWlwVXJZcFpuREpfeDdlY3Z2M3hkLUc0MlJqR1hBZ3ppbkoyX2c5VS1GMGhaM19hZDg4Y1NlZGJWcG9qZE1YN1VBQ1lMdDFYUkRqQ2xkdXVleTkzQXFYaWw3NE9Yak5aTDk0Z3UtLW1TLUxpazRtMzFTNEpDcGFkUHBFOGFJ?oc=5"
+  },
+  {
+    "time": "2026-08-18T19:18:13.533835+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Rexford Inks $1.2B Sale Of 22 Industrial Properties - Law360",
+    "publisher": "Law360",
+    "age_minutes": 55,
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaE1US2lzWV9tbFplbTE0NjRBQnlkdzJXZllwUHhDREdRbncxOTl3Qkcyd1ZrTXhGRmpTUG05bE5ZVHRoOS0wVUxVRE1TZ205WENOQU1Xci1CbEZDV0lVTlNlNkwzRTdWT3hEckV2SmJSYVRHdnFhM0Z2UExzVEk1M0hETU1RUkwtRnYxQ1dfdTVtUGVhclJSYW9YVDFMQ3VfU3pmNUI4S1dQVmVQZzZWaVFHRXlTTk96WnpxSG5JR3TSAXNBVV95cUxOR2FKc1RQVEREWVVLOG8xMVkyVjVReGFjNEdMZWVDLWlXdWFDQWZVRE9FZG1Lc0tFdjc3cy1ETEdIc3hWUVBWVXcxVFRWNWdIbHF1dGxZcDJnTDRGMHNFN1U5MmxYY202cUJ2akdyS0t0aUtN?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-18T19:18:13.533889+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Insider Sale: EVP of $FSLR Sells 127 Shares - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 16,
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPME1mNmFYa1VzMUxrZE1ERGlCYkpZejZZM1k1dzdwMzN0dUlYZWpySmVGSGNEN3ZKNkdrZ1VRVUxUWEZDRC1YVnotaEpGdnR5OVg3VG9CWmptRGdycVViOGsyTFdFQ2tGV2F0ZWg1TEx4enhsVVZVOWI3TEJiZENGYTJRejBsV2s?oc=5"
+  },
+  {
+    "time": "2026-08-18T19:18:13.533906+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "LXEO",
+    "title": "Lexeo Therapeutics (NASDAQ: LXEO) insider to sell 4,117 shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 8,
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVU1TeTJKX3NNYTNMbXBHN185SllLMlg4SXo1VDdCcGFZd3VhRXphRGMwQ0dPOTNJVkxwNFZBY3otTTdybzd0aUdVcEV0RVRNSUxDYnpZQ3JvMk9Kc2htVzkwMHlNNXBaU0E1UlZOZzRnWm9EbWpTNngtblB1THBHNHE0OUd2MHlERG9JRk5PZFZaU3RmWjZIUmZ0bnh5Q0hl?oc=5"
+  },
+  {
+    "time": "2026-08-18T19:18:13.533919+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Jones Lang LaSalle CFO Kelly Campbell Howe Reports August 2026 RSU Vesting and Share Withholding - Kalkine Media",
+    "publisher": "Kalkine Media",
+    "age_minutes": 53,
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcWhnZWp3OTZiSDNfZ19QSzRvQ1RnQ3J0Q1BNWHM5cUkwTEREdjR3WTRsWUQtT0FzVjFrQlhod1hvTTFnb18wUi04NFdPRE1oMGpaVTJmNlphSG9qTTFNYTl0cmRFQ3NIRXlkVkJXWFQ3RC1zVlFwdXJ6dXlxMUs4RkVROFBuNzUwbmZaMFFnNGhEbEgtSk5QeEJwYUJaeXQyU1JJanJxeWxCdU1fNFRvWEd4Q3lwbzBuSVVFV1oydlVRQVo3d05KM05GRGI1ZHJSX2xRcFJJdzRGa3M?oc=5"
+  },
+  {
+    "time": "2026-08-18T19:18:13.533928+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Insider Sale: CO-CEO of $CLH Sells 2,500 Shares - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 16,
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcHYtcUJWdzJZWFBULWN6TnlkdUdYOHpjOTZsRlA0a0J5U0F2OGdzaWZ3SGRSMjc5UXFaT1doUHRlcTVSZEVfcW1NSkNqNUpGUWVtTk84Uk80ZGFVc013NVdkaTFHUGFubDNnQk1kMC1NSF9iQ25WN3V2N3NjLW5rb3dodUQ3NFpUaER5cG1Ocw?oc=5"
+  },
+  {
+    "time": "2026-08-18T19:18:13.533938+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "DE",
+    "title": "Deere (NYSE: DE) CFO has 19 shares withheld at $608.85 for taxes - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 7,
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb28waGRaZUdFSEdQY2JSWWFDY2FpNURGZDNBTWNtMWU3QlBQUU1OWmQteU5IWDFIcDZ4MDYtUzlXcVNGY1ZBdWlCaGs1SG1NVVNHTHZRbndCY3VkUEJxc3hpTlRlb0Y3X210WkhEYjFHS3dCVmgyNTNZRmEyR1JrZUNfWXRtVExtOHB0WlotZ29qX2o0bHNLNXo0Z2c3YVgyTVE?oc=5"
+  },
+  {
+    "time": "2026-08-18T19:18:13.533946+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Insider Sale: President & CEO of $NWPX Sells 2,500 Shares - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 16,
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTC1KYjVvSXFoeVVDclktZ1YzeFdQUlBvZktnTm5zVUFiQlpMRDRrMTExandMZ0ZuSGpKWjB0T3R5Smxzd0VwVzJjYTlWbVNURFpUSjlUNmVGQmhVSHFWTzZ0Y3E4ZG9ib3RrZEYtRzVSZVRuOExUMzZiVnlBNXRBS2ttS2phN0NNWm9weF9KUjI5STNsVGRNU081cXpXVDQ?oc=5"
   }
 ]
