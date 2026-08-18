@@ -1,104 +1,5 @@
 [
   {
-    "time": "2026-07-14T11:42:39.083600+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - BREAD FINANCIAL HOLDINGS, INC. (0001101215) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 10,
-    "url": "https://www.sec.gov/Archives/edgar/data/1101215/000110121526000065/0001101215-26-000065-index.htm"
-  },
-  {
-    "time": "2026-07-14T11:42:39.083613+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Lulu's Fashion Lounge Holdings, Inc. (0001780201) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 11,
-    "url": "https://www.sec.gov/Archives/edgar/data/1780201/000110465926083337/0001104659-26-083337-index.htm"
-  },
-  {
-    "time": "2026-07-14T11:42:39.083623+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - ANGIODYNAMICS INC (0001275187) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 11,
-    "url": "https://www.sec.gov/Archives/edgar/data/1275187/000114036126028368/0001140361-26-028368-index.htm"
-  },
-  {
-    "time": "2026-07-14T11:42:39.083634+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - GOLDMAN SACHS GROUP INC (0000886982) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 11,
-    "url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000294/0000886982-26-000294-index.htm"
-  },
-  {
-    "time": "2026-07-14T11:42:39.083644+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 12,
-    "url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226033111/0001493152-26-033111-index.htm"
-  },
-  {
-    "time": "2026-07-14T11:42:39.083654+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - ADI GLOBAL DISTRIBUTION INC. (0002105139) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 34,
-    "url": "https://www.sec.gov/Archives/edgar/data/2105139/000121390026077774/0001213900-26-077774-index.htm"
-  },
-  {
-    "time": "2026-07-14T11:42:39.083670+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - INTERNATIONAL BUSINESS MACHINES CORP (0000051143) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 40,
-    "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000070/0000051143-26-000070-index.htm"
-  },
-  {
-    "time": "2026-07-14T11:42:39.216186+00:00",
-    "reason": "te oud voor fastlane (41 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - NextCure, Inc. (0001661059) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 41,
-    "url": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083326/0001104659-26-083326-index.htm"
-  },
-  {
-    "time": "2026-07-14T11:42:39.216236+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - D-Wave Quantum Inc. (0001907982) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 41,
-    "url": "https://www.sec.gov/Archives/edgar/data/1907982/000190798226000099/0001907982-26-000099-index.htm"
-  },
-  {
-    "time": "2026-07-14T11:42:39.216251+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - BANK OF AMERICA CORP /DE/ (0000070858) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 57,
-    "url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000353/0000070858-26-000353-index.htm"
-  },
-  {
-    "time": "2026-07-14T11:42:39.216262+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - JPMORGAN CHASE & CO (0000019617) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 71,
-    "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026048078/0001628280-26-048078-index.htm"
-  },
-  {
     "time": "2026-07-14T11:42:39.334294+00:00",
     "reason": "te oud voor fastlane (72 min, limiet 30)",
     "symbol": "FILER",
@@ -107998,5 +107899,104 @@
     "publisher": "Free Press Journal",
     "age_minutes": 30,
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQU5tSEc5NVNKNnB5Z3BXT0RHQmViRk1RVXNYODgtVkU4R01WMFJtWEpaVHY5QUV5S2kwVWxHZUYtRFVBNW9IakxwY3pialpqQ0p0cEhZdjhfb201RUw2U2tPZHNyOG83NGlkX3F4dDNPVWFKaE9KRHhDRmpabWFXVloxZ1NnTE44elJJbVlDSnprSzVUdUsxMm84V0zSAaIBQVVfeXFMUHFmWFJtckRIdGxEVGZ3VFlnQVFXWU1BaldtVHdGUU1VNjRiMWZXMzVwUDQ3QmZlM3FCY245M21aa1RmVFlYeWZWSUcxNWpPdENpaml4NEkyNW0zeXAwUWoxM09jbmdKRl90dHhRc0xBbVktTFYxSU5wZ0tEV1M2bkVHZW56UkZ6dXpFcVVxOHloaGZQWXlXaEpPY1g3aTN4UGxn?oc=5"
+  },
+  {
+    "time": "2026-08-18T08:01:51.674061+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Fulcrum and Slate Medicines sign merger agreement - Pharmaceutical Technology",
+    "publisher": "Pharmaceutical Technology",
+    "age_minutes": 1,
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkpNcXB6eW55SnhkUUZGSllHRkhxQlpXRl92eXBQQUd3WlRSN0JHVkNUZHM4X3QtRTN3djAxUDFtR2tYd3FKSk9xbzNvV3NvemNzcDFEVVAwOXcyc2E1VS1pb0cwQUZ6SlM3NURfYXVLSWFseEVKbXUyV01iQzYyVGNaa0haUlNxMVphWFlVeElEc21GbkZvOVdyWFJKdw?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-18T08:01:51.674119+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "ACEN sells 49% stake in Indian wind developer amid capital recycling strategy - Manila Bulletin",
+    "publisher": "Manila Bulletin",
+    "age_minutes": 9,
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV0FZUFpwdHIyVjhrWVM0LWRFaEhlT3JrajlQWFh3YkdESVA1RWVnaXV2YzhHNXhnaDZnWWhzX0dRYlIyeXZncUVkSWlzaDFfZm5sM1YxZE55eF85VWh6V3RXdmtlUTE5eGZiUWM1a0hmcVJZaVAwcEFhZUhwOUN4UkJRR2xsNkdZMEF3aW56cFpVN21BU2pndlBVandJei1ad0ZBN0g3aE4?oc=5"
+  },
+  {
+    "time": "2026-08-18T08:01:51.674139+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "TE Connectivity stock holds above $217 as investors look to recent earnings and guidance - AD HOC NEWS",
+    "publisher": "AD HOC NEWS",
+    "age_minutes": 27,
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVWJVU242cEFaa0lTZU83cVZkM2ZHRUhZYXYza2F6NDlqdFczdWk5dDJIdXlCTmUtWE13TmFrSFpwV0VzWnBaOE1taDFwdHo5RFA4eEZjcFd3VWk2VGZILVJjSmVYaVgyN21EY2o4Q3NjT3RIcjl4cEJrdUw5LW9mSUcwRTBCcGNmUW9uaFE5eHk2Y1BjY1Zyd0J0dkluUU9taEdtakw4WmNHaGZhSURBTHotSU5oUG5nV3JKSE5QZmFhRjlQWlBF?oc=5"
+  },
+  {
+    "time": "2026-08-18T08:01:51.674169+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Sunshine Pictures IPO opens today; here’s price band, GMP, issue size and key details - IndiaIPO",
+    "publisher": "IndiaIPO",
+    "age_minutes": 40,
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdXlwTUJaaU5qZmRZRldkQy1kVm1fZ1NfSWR5MWctU2t6ZUtlSTZPZU93XzQ3dUt2RVlRWTR6MHZKaUltempUcWYtelQwNnlBZWtVNzNhOTlhd0pEUHhfM2pYYWZLUmJ5bkFBNm5ueEF6M1ZHNjN6bTlFcU9hV2lpeGhFRHNNWmR1SlZBTVdCdHRTMkJSLTFBd2hoSmJLQUlYWHZud1FjdkxYM0Ribm9EOTY1OURmM1pz?oc=5"
+  },
+  {
+    "time": "2026-08-18T08:01:51.674183+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Shankesh Jewellers IPO Day 1 Subscription Status: Issue Booked 0.07x so Far - hdfcsky.com",
+    "publisher": "hdfcsky.com",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5bHVoOE1BOXNWMEdQTXRlM2IyZGJBZXZETzVkNkhYUjA5SnRTeDZMZHBjUzhQaG04cmFPWHBNUEV3YWtlLVBaVUxfd1MyaTFXMlNta0JPWWVoc2ZqN0tJWEVqVzhPaDkwdTE0LUw3ZkFSTGhXYkFtUkd5Nmw2dw?oc=5"
+  },
+  {
+    "time": "2026-08-18T08:01:51.674196+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Lalithaa Jewellery Mart IPO Day 2 Subscription Status Update - hdfcsky.com",
+    "publisher": "hdfcsky.com",
+    "age_minutes": 56,
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGF1OE9vR25vWWRfclh0eUNSUUZ3cE1ZVTB0RmpkN1VGdzVsR211ZmhkazBDVGN0UE9JMEZEdUhHSTdqZDZITndhUGtxelpuUlMxb0NuWVNvbndKVUFka3dkS1FIS203NXhBVUFHV1JvYmNRVzZ5Smp2LU9IRFk5aFZidmw?oc=5"
+  },
+  {
+    "time": "2026-08-18T08:01:51.674214+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Cathie Wood's Investment Moves on August 17! Increased Buying in Blood Safety and AI Infrastructure; Shifted Capital from Roblox and Biotech Positions to CERS and NVDA - Moomoo",
+    "publisher": "Moomoo",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdll2MFpucXIxZThxY3d4eHFHaFh3OENsYnFneWpodUNRd3k3RVV6bkNFbjVJbzBPdEp2eW9rMThzSlcwUjlLS3hpM0gtR2UzcEw1bjk0UF9kOGhzSGFCUElCbFQtTGJBSjB3cDZGeVdodi1zblA1ZnB0eDZwNEFBeTVzc0JVdjNwY1hCdFRPS0xUb3JxeVBIQ0J6a2hPSjhxazNUNU45T0Nqb2xVajJ3dVJSRE1ubTA?oc=5"
+  },
+  {
+    "time": "2026-08-18T08:01:51.674231+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "BABA",
+    "title": "Alibaba (BABA) Stock Looks Below Fair Value As AI Spending Builds - simplywall.st",
+    "publisher": "simplywall.st",
+    "age_minutes": 25,
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNFdNVzZoYTVERy1vbUdLVGZ3MGdKNG9aSUhKMXpSNnVBMGhYUG5hWFdrUDMzNG5jWHhDS0p2VnczbFBGb2RaQmhEbGE3QlhvWDFfdkhZYVN0bDRlYlNMVHlsTDFfSVY4VUJCZFJxUjlCSFhpVnkzbHFXenp2Ui1acmh5a1F6NjdmUFBkcXpDZlprQnpGcldNMTZPcm1kd3RScDZ1RzBUVHd5RjQ0cHlrRGhteDd4S1F4M2oyQ0JXNW5feG9NdmNWRnNSSG11eUFfaVHSAdcBQVVfeXFMTWU1UW1XVWhqMHc3Q1REcTBidnFyQUdVWnB4X2ZxWWh2V0hVMDFlT19xUGNVNHkyUDhMakU5R2liRXdGR0tOQ1lPeklndzBVTlY1N0VLTmgzLUFJRkhfeHlWY0YySWlZUWJ5VDFzV0VaaDVoZnlBYlFxdzhkODdHRU1QLVdRVHJKYnRacmprUXRRWm9mbDdvV0dHN0RkRDZ6RlhZNkVlc2g2cnpidHpwUTJpTkhVYTNyeHFLalNxbWN1QUdpRWlYMXN4dHh6aFp2NEJNVkJ4dE0?oc=5"
+  },
+  {
+    "time": "2026-08-18T08:01:51.674245+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "A BJ's Restaurants Director Sells Over 7,500 Company Shares. Here's a Closer Look at the Transaction. - fool.com",
+    "publisher": "fool.com",
+    "age_minutes": 32,
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON0dfZXRVMG1uRkN2anRQQTJsZ2JaWnBXbjBhTWYwTjNlSDdVeXlpWUFOU1RWLWNoaVl5UXY4dUlyVnJ2MEpfeXBUek9pU1hZYWpCMUswZ0puN0FRSzRmQmdmTTA0TzBjeEVxUE9OTGNzNkEwMGY5ckV4NVN0eDYwejY0dXNCYzMwMWlneVo4RmlIZV9ka28ySnFrejRnc09oZFBHMlJtOWs2NkxjQWV6MTNFMWNFWDFENV9fTTAzanNKYWxpNUFiNlFONTZOVEJxOHJjX3ZJQWlXSXo2SU9YMVpIVQ?oc=5"
+  },
+  {
+    "time": "2026-08-18T08:01:52.717264+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "CONDITIONS FOR SALE OF RIKSBANK CERTIFICATES - finance.yahoo.com",
+    "publisher": "finance.yahoo.com",
+    "age_minutes": 31,
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUlhKVW9LbExIMXNBdDUzd0hxSGc3ZERrZmJ2ZW9kakdUWjZ0MEdZZGlrd2pGVDIwWXVOMnZhRjI5YjZVb1gxQldlTUVQdFZXdFFTTGFwNGR5T19TRzRRc0hlb0VuaG9oS0VOU1dHUExFQ1NWa3FBNVV0X1N6OTd2RllXbE5PNU1XM1Fn?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-18T08:01:52.717325+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Türkiye İş Bankası Completes USD 100 Million Overseas Bond Issuance - The Globe and Mail",
+    "publisher": "The Globe and Mail",
+    "age_minutes": 28,
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY1ZyWmQ0SEZ6RmFOanI3UmtOUWJPN0liejM5bkNVVGVVZWo0WnY3enF4U0FBUHZTNkxteC1NMXVNZ3lpd0Q5WXNmRzNubmk0aktGT3NmLUxyNlhaRVRuU3ZSUTI4djRndHBJUzNhdTlOOV9CVzNGYTdTYWw1RzJhRGlkNGZUTUlvbjdGMjNUNjBybkQwcWttc1gtZDdraHh4MUhJRGlWOGRYN2t2cVpvLUZQNDJyQ041V3UtNXpKRmdITTFfa280djgwX0Q5a25scEpnaUs0TVptNmpvelpZWWhB?oc=5"
   }
 ]
