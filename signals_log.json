@@ -6774,5 +6774,81 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding is recent en van een betrouwbare bron, maar de inhoud van de M&A is niet gespecificeerd."
     }
+  },
+  {
+    "time": "2026-08-18T13:01:02.086403+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ACORN ENERGY, INC. (0000880984) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-18T13:01:19.053393+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TruGolf Holdings, Inc. (0001857086) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "TruGolf Holdings, Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing op 18 augustus 2026. De filing vermeldt ook de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst kan duiden op een fusie, overname of een andere strategische transactie. Dit kan de toekomstige waardering en bedrijfsstructuur van TruGolf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn niet bekend. Zonder deze details is de impact op het bedrijf en de aandeelhouders onduidelijk.",
+      "invalidation_nl": "De contractwaarde en de gedetailleerde voorwaarden van de materiële definitieve overeenkomst zijn niet vermeld in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De volledige 8-K filing zou meer details moeten bevatten over de aard van de overeenkomst."
+    }
+  },
+  {
+    "time": "2026-08-18T13:01:20.947336+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BIOMARIN PHARMACEUTICAL INC (0001048477) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-18T13:01:21.638222+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Arxis, Inc. (0002093536) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T13:01:22.296694+00:00",
+    "symbol": "FILER",
+    "title": "8-K - La Rosa Holdings Corp. (0001879403) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

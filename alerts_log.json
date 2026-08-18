@@ -10770,5 +10770,126 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding is recent en van een betrouwbare bron, maar de inhoud van de M&A is niet gespecificeerd."
     }
+  },
+  {
+    "time": "2026-08-18T13:01:02.414328+00:00",
+    "symbol": "FILER",
+    "company": "ACORN ENERGY, INC. (0000880984) (Filer)",
+    "event_key": "bf43dccde45c7c9cb252084989c560f094226f572ea2dc89c3dd454638aae2ae",
+    "event_family": "M_AND_A",
+    "title": "8-K - ACORN ENERGY, INC. (0000880984) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/880984/000149315226038905/0001493152-26-038905-index.htm",
+    "news_age_minutes": 16,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-18T13:01:19.406727+00:00",
+    "symbol": "FILER",
+    "company": "TruGolf Holdings, Inc. (0001857086) (Filer)",
+    "event_key": "d63a1c1115d3580e44638a5bfc8324f1b766860db8b052983f027d1e380c852c",
+    "event_family": "M_AND_A",
+    "title": "8-K - TruGolf Holdings, Inc. (0001857086) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226038904/0001493152-26-038904-index.htm",
+    "news_age_minutes": 17,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "TruGolf Holdings, Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing op 18 augustus 2026. De filing vermeldt ook de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst kan duiden op een fusie, overname of een andere strategische transactie. Dit kan de toekomstige waardering en bedrijfsstructuur van TruGolf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn niet bekend. Zonder deze details is de impact op het bedrijf en de aandeelhouders onduidelijk.",
+      "invalidation_nl": "De contractwaarde en de gedetailleerde voorwaarden van de materiële definitieve overeenkomst zijn niet vermeld in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De volledige 8-K filing zou meer details moeten bevatten over de aard van de overeenkomst."
+    }
+  },
+  {
+    "time": "2026-08-18T13:01:21.271518+00:00",
+    "symbol": "FILER",
+    "company": "BIOMARIN PHARMACEUTICAL INC (0001048477) (Filer)",
+    "event_key": "22e4579e8cd4ce9887eac123240d4dd5cf5672fb794733ca4a8f1cbd5daa30d7",
+    "event_family": "M_AND_A",
+    "title": "8-K - BIOMARIN PHARMACEUTICAL INC (0001048477) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1048477/000119312526354780/0001193125-26-354780-index.htm",
+    "news_age_minutes": 21,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-18T13:01:21.966706+00:00",
+    "symbol": "FILER",
+    "company": "Arxis, Inc. (0002093536) (Filer)",
+    "event_key": "bd9c0d5a908aa87eb54408038241d542a6706eaf9ff0199e75593656cd34fc21",
+    "event_family": "M_AND_A",
+    "title": "8-K - Arxis, Inc. (0002093536) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2093536/000119312526354774/0001193125-26-354774-index.htm",
+    "news_age_minutes": 30,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T13:01:22.622769+00:00",
+    "symbol": "FILER",
+    "company": "La Rosa Holdings Corp. (0001879403) (Filer)",
+    "event_key": "7575267605f3b202661f8eef9ac551e52f23b289c3c84d8c430eb4a4eda9d033",
+    "event_family": "M_AND_A",
+    "title": "8-K - La Rosa Holdings Corp. (0001879403) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1879403/000121390026091004/0001213900-26-091004-index.htm",
+    "news_age_minutes": 30,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

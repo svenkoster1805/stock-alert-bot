@@ -2662,5 +2662,35 @@
     "symbol": "FILER",
     "title": "8-K - Iron Horse Acquisition II Corp. (0002051985) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "bf43dccde45c7c9cb252084989c560f094226f572ea2dc89c3dd454638aae2ae": {
+    "first_alert_at": "2026-08-18T13:01:00.347318+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ACORN ENERGY, INC. (0000880984) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d63a1c1115d3580e44638a5bfc8324f1b766860db8b052983f027d1e380c852c": {
+    "first_alert_at": "2026-08-18T13:01:02.741460+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TruGolf Holdings, Inc. (0001857086) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "22e4579e8cd4ce9887eac123240d4dd5cf5672fb794733ca4a8f1cbd5daa30d7": {
+    "first_alert_at": "2026-08-18T13:01:19.779543+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BIOMARIN PHARMACEUTICAL INC (0001048477) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "bd9c0d5a908aa87eb54408038241d542a6706eaf9ff0199e75593656cd34fc21": {
+    "first_alert_at": "2026-08-18T13:01:21.638195+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Arxis, Inc. (0002093536) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7575267605f3b202661f8eef9ac551e52f23b289c3c84d8c430eb4a4eda9d033": {
+    "first_alert_at": "2026-08-18T13:01:22.296669+00:00",
+    "symbol": "FILER",
+    "title": "8-K - La Rosa Holdings Corp. (0001879403) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
