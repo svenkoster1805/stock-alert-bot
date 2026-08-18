@@ -7056,5 +7056,137 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-18T21:17:06.343855+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HeartSciences Inc. (0001468492) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "HeartSciences Inc. heeft een 8-K-rapport ingediend over de totstandkoming van een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen. Dit document is op 18 augustus 2026 gepubliceerd.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op kapitaalverhoging of een verandering in de eigendomsstructuur.",
+      "risk_nl": "De aard en de financiële impact van de materiële overeenkomst zijn onbekend, evenals de details van de M&A-transactie. Er is geen informatie over de partijen, voorwaarden of contractwaarde beschikbaar.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud, partijen of financiële voorwaarden van de materiële overeenkomst of de M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is te algemeen om een specifieke M&A-transactie te beoordelen zonder verdere details."
+    }
+  },
+  {
+    "time": "2026-08-18T21:17:16.474958+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BLUE OWL CAPITAL INC. (0001823945) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BLUE OWL CAPITAL INC. heeft een 8-K-formulier ingediend op 18 augustus 2026, waarin de totstandkoming van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een overname of fusie. Dit kan de toekomstige financiële positie en groeivooruitzichten van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de voorwaarden en de financiële impact, zijn niet bekend. Zonder deze informatie is de economische relevantie en het risicoprofiel onduidelijk.",
+      "invalidation_nl": "De essentiële details van de M&A, zoals de betrokken partijen en de financiële voorwaarden, ontbreken volledig in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K bevestigt een materiële overeenkomst, maar de inhoudelijke details van de M&A zijn nog niet beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T21:17:22.970989+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BAXTER INTERNATIONAL INC (0000010456) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BAXTER INTERNATIONAL INC heeft op 18 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de 'Entry into a Material Definitive Agreement' en 'Other Events'.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie, zoals een overname of desinvestering. Dit kan de financiële positie of strategische richting van Baxter International significant beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst zijn onbekend, inclusief de financiële impact en de betrokken partijen. Zonder deze details is het onmogelijk de economische relevantie of het succes van de transactie te beoordelen.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de tegenpartij of de specifieke inhoud van de overeenkomst.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële overeenkomst zijn nodig om de impact te kunnen beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-18T21:17:23.735392+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ReposiTrak, Inc. (0000050471) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T21:17:24.569857+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MARTIN MARIETTA MATERIALS INC (0000916076) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T21:17:25.291914+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NextBoat Inc. (0002067767) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T21:17:26.025853+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WaterBridge Infrastructure LLC (0002064947) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T21:17:26.745812+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TScan Therapeutics, Inc. (0001783328) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T21:17:27.520557+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sezzle Inc. (0001662991) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
