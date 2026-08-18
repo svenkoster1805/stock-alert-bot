@@ -10695,5 +10695,30 @@
       "is_already_priced": false,
       "notes": "De 8-K bevestigt een overeenkomst, maar de inhoudelijke details van de M&A ontbreken volledig, waardoor een concrete beoordeling onmogelijk is."
     }
+  },
+  {
+    "time": "2026-08-18T11:11:38.183092+00:00",
+    "symbol": "FILER",
+    "company": "CYPHERPUNK TECHNOLOGIES INC. (0001509745) (Filer)",
+    "event_key": "8af849cc8190020b6970bb1e5b1721e965d047fd3003be9981e16646f413024e",
+    "event_family": "M_AND_A",
+    "title": "8-K - CYPHERPUNK TECHNOLOGIES INC. (0001509745) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1509745/000110465926098120/0001104659-26-098120-index.htm",
+    "news_age_minutes": 5,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CYPHERPUNK TECHNOLOGIES INC. heeft een 8-K-formulier ingediend over een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen. Het document bevat ook andere gebeurtenissen en financiële overzichten.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst en de verkoop van aandelen kan duiden op strategische veranderingen of financieringsactiviteiten. Deze kunnen de toekomstige financiële positie en groeivooruitzichten van het bedrijf beïnvloeden.",
+      "risk_nl": "De aard en de financiële voorwaarden van de overeenkomst en de aandelenverkoop zijn onbekend. Zonder deze details is de impact op de waardering van het bedrijf onduidelijk.",
+      "invalidation_nl": "Er is geen concrete informatie over de inhoud, waarde of tegenpartij van de materiële overeenkomst of de aandelenverkoop.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de overeenkomst en de aandelenverkoop zijn essentieel voor een beoordeling."
+    }
   }
 ]

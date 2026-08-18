@@ -2644,5 +2644,11 @@
     "symbol": "FILER",
     "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "8af849cc8190020b6970bb1e5b1721e965d047fd3003be9981e16646f413024e": {
+    "first_alert_at": "2026-08-18T11:11:23.811364+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CYPHERPUNK TECHNOLOGIES INC. (0001509745) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
