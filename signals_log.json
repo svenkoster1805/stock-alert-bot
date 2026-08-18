@@ -6882,5 +6882,179 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt het bestaan van een overeenkomst, maar de economisch relevante details ontbreken in de verstrekte gegevens."
     }
+  },
+  {
+    "time": "2026-08-18T20:54:20.792609+00:00",
+    "symbol": "FILER",
+    "title": "8-K - POSITRON CORP (0000844985) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "POSITRON CORP heeft op 18 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke transactie, zoals een overname of fusie, die de financiële positie van het bedrijf kan beïnvloeden. Dit kan leiden tot veranderingen in de bedrijfsstructuur of toekomstige inkomstenstromen.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de tegenpartij en financiële details, zijn onbekend. Zonder deze informatie is de impact op POSITRON CORP onduidelijk en kan de overeenkomst zowel positieve als negatieve gevolgen hebben.",
+      "invalidation_nl": "De contractwaarde, de identiteit van de tegenpartij en de volledige voorwaarden van de overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële definitieve overeenkomst zijn essentieel voor een economische beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-18T20:54:37.075296+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Zoned Properties, Inc. (0001279620) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Zoned Properties, Inc. heeft een 8-K formulier ingediend waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Het document is op 18 augustus 2026 gepubliceerd.",
+      "why_nl": "De aard van de 'materiële definitieve overeenkomst' is niet gespecificeerd in de verstrekte informatie. Zonder details over de inhoud is de economische relevantie onduidelijk.",
+      "risk_nl": "Het grootste risico is dat de overeenkomst geen fusie of overname betreft, ondanks de classificatie van het event. De impact op het bedrijf is onbekend.",
+      "invalidation_nl": "De brontekst bevestigt niet dat de 'materiële definitieve overeenkomst' een fusie of overname betreft, waardoor de classificatie als M&A niet ondersteund wordt door de feiten.",
+      "is_already_priced": false,
+      "notes": "Er zijn geen details over de partijen, waarde of specifieke aard van de overeenkomst beschikbaar in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-18T20:54:46.241402+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Synchrony Card Issuance Trust (0001724789) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Synchrony Card Issuance Trust heeft op 18 augustus 2026 een 8-K formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op belangrijke strategische veranderingen of transacties voor de trust. Dit kan de toekomstige inkomstenstromen of de operationele structuur beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële details van de overeenkomst zijn onbekend, waardoor de impact op de trust niet kan worden beoordeeld. Zonder deze informatie is het onduidelijk of de overeenkomst positief of negatief is.",
+      "invalidation_nl": "Er zijn geen details over de partijen, de voorwaarden of de financiële waarde van de materiële overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Nadere informatie over de inhoud van de materiële overeenkomst is essentieel voor een economische beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-18T20:54:47.264405+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Synchrony Card Funding, LLC (0001724786) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T20:54:48.266153+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ExlService Holdings, Inc. (0001297989) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T20:54:49.285033+00:00",
+    "symbol": "FILER",
+    "title": "8-K - IDT CORP (0001005731) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T20:54:50.381396+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Blue Water Acquisition Corp. IV (0002082847) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T20:54:51.509884+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Mitesco, Inc. (0000802257) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T20:54:52.573990+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AGENUS INC (0001098972) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T20:54:53.583463+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T20:54:54.611223+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CCO HOLDINGS LLC (0001271833) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-18T20:54:55.734778+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CHARTER COMMUNICATIONS, INC. /MO/ (0001091667) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
