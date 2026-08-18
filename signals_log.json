@@ -6866,5 +6866,21 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een overeenkomst, maar de economische relevantie van de M&A is onduidelijk door gebrek aan details."
     }
+  },
+  {
+    "time": "2026-08-18T19:44:29.627987+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Super League Enterprise, Inc. (0001621672) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Super League Enterprise, Inc. heeft op 18 augustus 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC. Dit document bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, die de toekomstige waarde van het bedrijf kan beïnvloeden. Dit kan leiden tot significante veranderingen in de bedrijfsstructuur of marktpositie.",
+      "risk_nl": "Het grootste risico is het ontbreken van details over de aard, de tegenpartij en de financiële voorwaarden van deze overeenkomst. Zonder deze informatie is de impact op het bedrijf en de aandeelhouders onduidelijk.",
+      "invalidation_nl": "Er is geen informatie beschikbaar over de specifieke inhoud, de betrokken partijen of de financiële waarde van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt het bestaan van een overeenkomst, maar de economisch relevante details ontbreken in de verstrekte gegevens."
+    }
   }
 ]
