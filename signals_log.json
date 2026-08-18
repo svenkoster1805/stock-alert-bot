@@ -6742,5 +6742,21 @@
       "is_already_priced": false,
       "notes": "Nadere details over de overeenkomst en de aandelenverkoop zijn essentieel voor een beoordeling."
     }
+  },
+  {
+    "time": "2026-08-18T11:41:19.279279+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Future Vision II Acquisition Corp. (0002010653) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Future Vision II Acquisition Corp. heeft op 18 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier omvat 'Other Events' onder Item 8.01 en 'Financial Statements and Exhibits' onder Item 9.01.",
+      "why_nl": "De indiening van een 8-K-formulier kan duiden op een belangrijke gebeurtenis, zoals een fusie of overname, die de bedrijfswaarde kan beïnvloeden. Echter, zonder specifieke details over de aard van deze gebeurtenis is de economische relevantie nog onduidelijk.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete informatie over de aard van de 'Other Events' en de M&A-gebeurtenis. Hierdoor is de potentiële impact op de onderneming en haar waarde volledig onbekend en speculatief.",
+      "invalidation_nl": "De 8-K-melding bevat geen specifieke details, contractwaarde of formele voorwaarden die de M&A-gebeurtenis bevestigen.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de inhoud van de 8-K zijn nodig om de M&A-gebeurtenis te bevestigen en te beoordelen."
+    }
   }
 ]

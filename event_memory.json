@@ -2650,5 +2650,11 @@
     "symbol": "FILER",
     "title": "8-K - CYPHERPUNK TECHNOLOGIES INC. (0001509745) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "fc98577453b837a7bb99ebd6c7433cbe6f7c940636990d64cd3504111ee237ab": {
+    "first_alert_at": "2026-08-18T11:41:07.650089+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Future Vision II Acquisition Corp. (0002010653) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
