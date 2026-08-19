@@ -11686,5 +11686,30 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevat ook informatie over de verkoop van aandelen en wijzigingen in het management."
     }
+  },
+  {
+    "time": "2026-08-19T16:00:32.851632+00:00",
+    "symbol": "FILER",
+    "company": "Star Mountain Lower Middle-Market Capital Corp (0001786835) (Filer)",
+    "event_key": "567f87864327f6c2d5c6d73dd19f240bb3ae13ef364e86a383dd87759b17a12d",
+    "event_family": "M_AND_A",
+    "title": "8-K - Star Mountain Lower Middle-Market Capital Corp (0001786835) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1786835/000119312526356397/0001193125-26-356397-index.htm",
+    "news_age_minutes": 24,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Star Mountain Lower Middle-Market Capital Corp heeft op 19 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan aanzienlijke gevolgen hebben voor de financiële positie en strategie van het bedrijf. Afhankelijk van de aard kan dit leiden tot waardeverandering of strategische verschuivingen.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend. Zonder deze details is de potentiële invloed op de belegger onduidelijk.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, partijen of financiële voorwaarden van de materiële definitieve overeenkomst bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een officiële gebeurtenis, maar de details ontbreken nog."
+    }
   }
 ]

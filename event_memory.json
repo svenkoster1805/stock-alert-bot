@@ -2890,5 +2890,11 @@
     "symbol": "FILER",
     "title": "8-K - ZeroStack Corp. (0001790169) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "567f87864327f6c2d5c6d73dd19f240bb3ae13ef364e86a383dd87759b17a12d": {
+    "first_alert_at": "2026-08-19T16:00:23.233768+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Star Mountain Lower Middle-Market Capital Corp (0001786835) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
