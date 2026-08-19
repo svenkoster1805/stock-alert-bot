@@ -7220,5 +7220,53 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-08-19T10:19:33.103392+00:00",
+    "symbol": "FILER",
+    "title": "8-K - First Choice Healthcare Solutions, Inc. (0001416876) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-19T10:19:46.290401+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Datavault AI Inc. (0001682149) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Datavault AI Inc. heeft een 8-K ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en een directe financiële verplichting wordt gemeld.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een overname, fusie of belangrijke samenwerking die de bedrijfsstrategie beïnvloedt. De creatie van een directe financiële verplichting impliceert een significante financiële transactie die de balans kan wijzigen.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de contractwaarde en de tegenpartij, zijn niet gespecificeerd in de samenvatting. Zonder deze details is de exacte impact op de financiële positie en toekomstige vooruitzichten van Datavault AI Inc. onduidelijk.",
+      "invalidation_nl": "De samenvatting van de 8-K vermeldt geen concrete contractwaarde of de identiteit van de tegenpartij, wat essentieel is voor een economische beoordeling.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van de volledige 8-K filing is noodzakelijk om de economische impact te bepalen."
+    }
+  },
+  {
+    "time": "2026-08-19T10:19:54.719803+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - CXApp Inc. (0001820875) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "CXApp Inc. heeft een 8-K/A-formulier ingediend bij de SEC. Dit formulier meldt de voltooiing van een acquisitie of desinvestering van activa.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de activa, passiva en toekomstige inkomstenstromen van een bedrijf significant beïnvloeden. Dit kan leiden tot een herwaardering van het bedrijf door de markt.",
+      "risk_nl": "De specifieke details van de acquisitie of desinvestering, zoals de tegenpartij, de waarde en de aard van de activa, zijn niet vermeld. Zonder deze details is het onmogelijk om de economische impact nauwkeurig te beoordelen.",
+      "invalidation_nl": "De bron vermeldt de voltooiing van een transactie, maar biedt geen enkele financiële of inhoudelijke detail over de acquisitie of desinvestering.",
+      "is_already_priced": false,
+      "notes": "De 8-K/A melding bevestigt de voltooiing van een transactie, maar mist cruciale details voor een economische beoordeling."
+    }
   }
 ]

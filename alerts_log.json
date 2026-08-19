@@ -11486,5 +11486,80 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-08-19T10:19:33.634279+00:00",
+    "symbol": "FILER",
+    "company": "First Choice Healthcare Solutions, Inc. (0001416876) (Filer)",
+    "event_key": "56ebe21ae080e5af46aa9db39d5e1002f0b5f6c6fcd4ee2469d9fb18840274bc",
+    "event_family": "M_AND_A",
+    "title": "8-K - First Choice Healthcare Solutions, Inc. (0001416876) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1416876/000149315226039089/0001493152-26-039089-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-19T10:19:46.799926+00:00",
+    "symbol": "FILER",
+    "company": "Datavault AI Inc. (0001682149) (Filer)",
+    "event_key": "37222b58d260658fd3faecd5407881d0946cceaf4a315f73b8fff552b6e53c3e",
+    "event_family": "M_AND_A",
+    "title": "8-K - Datavault AI Inc. (0001682149) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682149/000110465926098494/0001104659-26-098494-index.htm",
+    "news_age_minutes": 17,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Datavault AI Inc. heeft een 8-K ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en een directe financiële verplichting wordt gemeld.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een overname, fusie of belangrijke samenwerking die de bedrijfsstrategie beïnvloedt. De creatie van een directe financiële verplichting impliceert een significante financiële transactie die de balans kan wijzigen.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de contractwaarde en de tegenpartij, zijn niet gespecificeerd in de samenvatting. Zonder deze details is de exacte impact op de financiële positie en toekomstige vooruitzichten van Datavault AI Inc. onduidelijk.",
+      "invalidation_nl": "De samenvatting van de 8-K vermeldt geen concrete contractwaarde of de identiteit van de tegenpartij, wat essentieel is voor een economische beoordeling.",
+      "is_already_priced": false,
+      "notes": "Nadere analyse van de volledige 8-K filing is noodzakelijk om de economische impact te bepalen."
+    }
+  },
+  {
+    "time": "2026-08-19T10:19:55.203247+00:00",
+    "symbol": "FILER",
+    "company": "/A - CXApp Inc. (0001820875) (Filer)",
+    "event_key": "94c944a9003fd298b4fb902e49818a15350b4b54471ac367c7c3b11e36881a89",
+    "event_family": "M_AND_A",
+    "title": "8-K/A - CXApp Inc. (0001820875) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1820875/000182912626009035/0001829126-26-009035-index.htm",
+    "news_age_minutes": 17,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "CXApp Inc. heeft een 8-K/A-formulier ingediend bij de SEC. Dit formulier meldt de voltooiing van een acquisitie of desinvestering van activa.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de activa, passiva en toekomstige inkomstenstromen van een bedrijf significant beïnvloeden. Dit kan leiden tot een herwaardering van het bedrijf door de markt.",
+      "risk_nl": "De specifieke details van de acquisitie of desinvestering, zoals de tegenpartij, de waarde en de aard van de activa, zijn niet vermeld. Zonder deze details is het onmogelijk om de economische impact nauwkeurig te beoordelen.",
+      "invalidation_nl": "De bron vermeldt de voltooiing van een transactie, maar biedt geen enkele financiële of inhoudelijke detail over de acquisitie of desinvestering.",
+      "is_already_priced": false,
+      "notes": "De 8-K/A melding bevestigt de voltooiing van een transactie, maar mist cruciale details voor een economische beoordeling."
+    }
   }
 ]

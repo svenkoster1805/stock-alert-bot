@@ -2842,5 +2842,23 @@
     "symbol": "FILER",
     "title": "8-K - Launch Two Acquisition Corp. (0002023676) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "56ebe21ae080e5af46aa9db39d5e1002f0b5f6c6fcd4ee2469d9fb18840274bc": {
+    "first_alert_at": "2026-08-19T10:18:57.672176+00:00",
+    "symbol": "FILER",
+    "title": "8-K - First Choice Healthcare Solutions, Inc. (0001416876) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "37222b58d260658fd3faecd5407881d0946cceaf4a315f73b8fff552b6e53c3e": {
+    "first_alert_at": "2026-08-19T10:19:34.243315+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Datavault AI Inc. (0001682149) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "94c944a9003fd298b4fb902e49818a15350b4b54471ac367c7c3b11e36881a89": {
+    "first_alert_at": "2026-08-19T10:19:47.291214+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - CXApp Inc. (0001820875) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
