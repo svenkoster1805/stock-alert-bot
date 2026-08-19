@@ -2914,5 +2914,47 @@
     "symbol": "FILER",
     "title": "8-K - Cavitation Technologies, Inc. (0001376793) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "6a876b969028983eff46f4f01ee47629dbc236fd35a2b8703c4f6d0ff6766789": {
+    "first_alert_at": "2026-08-19T20:20:07.058236+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HARTE HANKS INC (0000045919) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "730eefb13eeee3848370f668f058d5e7cb891876cb68ac585cc2c1ed4e0b82d3": {
+    "first_alert_at": "2026-08-19T20:20:16.831755+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Viking Acquisition Corp. II (0002139246) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b9fa09ba22b35362a550cd9107ede9eddae3f3315fdf060837c3e2667d8a9f82": {
+    "first_alert_at": "2026-08-19T20:20:32.994814+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Karman Line Acquisition Corp. (0002134856) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2d7f8844d18d0204c9b1d37333ce8fde6bf25588c773a61fb911492499a90e54": {
+    "first_alert_at": "2026-08-19T20:20:48.154273+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Silicon Valley Acquisition Corp. (0002085659) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f0d3c84426341d671d01f4297e11b2d8d8ea55f128eb339c0e1be64e8dbb9c31": {
+    "first_alert_at": "2026-08-19T20:20:49.250309+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Opendoor Technologies Inc. (0001801169) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "11448152d8a1683b253da0f4088625d2a6e722ad37f86fffa10d991e69983a86": {
+    "first_alert_at": "2026-08-19T20:20:50.267392+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Science Applications International Corp (0001571123) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "c761b6c273a02df62e9443482d17995830365b2dbb15626578e4b550c01afea7": {
+    "first_alert_at": "2026-08-19T20:20:51.248762+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Oceanhawk Acquisition Corp. (0002090787) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

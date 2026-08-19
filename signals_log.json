@@ -7412,5 +7412,109 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een overeenkomst, maar de inhoud is cruciaal voor verdere beoordeling."
     }
+  },
+  {
+    "time": "2026-08-19T20:20:15.773248+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HARTE HANKS INC (0000045919) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Harte Hanks Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC op 19 augustus 2026.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie die de financiële positie en strategie van het bedrijf beïnvloedt.",
+      "risk_nl": "De specifieke aard, partijen en voorwaarden van de overeenkomst, inclusief de financiële impact, zijn nog onbekend. Zonder deze details is een volledige beoordeling niet mogelijk.",
+      "invalidation_nl": "De contractwaarde, de partijen en de exacte voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de overeenkomst zijn nodig voor een volledige beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-19T20:20:31.906399+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Viking Acquisition Corp. II (0002139246) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Viking Acquisition Corp. II heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij SEC.gov. Deze filing van 19 augustus 2026 omvat ook de creatie van een directe financiële verplichting en de verkoop van niet-geregistreerde aandelen.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst duidt op een concrete M&A-transactie die de bedrijfsstructuur en financiële positie van Viking Acquisition Corp. II significant kan beïnvloeden. De bijbehorende financiële verplichtingen en aandelenuitgifte zijn directe indicatoren van de financiering en impact van deze transactie.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de transactiewaarde en de exacte voorwaarden, zijn nog niet bekend. Zonder deze details is de volledige impact op de waardering en toekomstige prestaties van het bedrijf onzeker.",
+      "invalidation_nl": "De financiële details en de identiteit van de overnamepartner zijn nog niet openbaar gemaakt, wat essentieel is voor een geïnformeerde handelsbeslissing.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van de volledige 8-K filing is noodzakelijk om de economische impact te bepalen."
+    }
+  },
+  {
+    "time": "2026-08-19T20:20:47.153814+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Karman Line Acquisition Corp. (0002134856) (Filer)",
+    "score": 14,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Karman Line Acquisition Corp. heeft een 8-K-formulier ingediend waarin de ondertekening van een materiële definitieve overeenkomst wordt gemeld. Het formulier vermeldt ook de verkoop van aandelen, wijzigingen in het bestuur en statuten.",
+      "why_nl": "De ondertekening van een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie, zoals een fusie of overname, wat de waarde van het bedrijf kan beïnvloeden. Dit kan leiden tot strategische veranderingen en nieuwe groeimogelijkheden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de voorwaarden en de financiële impact, zijn niet bekend. Zonder deze informatie is de economische relevantie en het potentiële effect op de aandelenkoers onduidelijk.",
+      "invalidation_nl": "Er zijn geen concrete details over de aard van de materiële definitieve overeenkomst, de betrokken partijen of de contractwaarde beschikbaar in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-indiening bevestigt een materiële overeenkomst, maar de inhoud van de M&A-transactie is niet gespecificeerd."
+    }
+  },
+  {
+    "time": "2026-08-19T20:20:48.154288+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Silicon Valley Acquisition Corp. (0002085659) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-19T20:20:49.250322+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Opendoor Technologies Inc. (0001801169) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-19T20:20:50.267410+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Science Applications International Corp (0001571123) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-19T20:20:51.248787+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Oceanhawk Acquisition Corp. (0002090787) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
