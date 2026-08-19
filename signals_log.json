@@ -7516,5 +7516,151 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-19T20:50:05.766678+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TXNM ENERGY INC (0001108426) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "TXNM ENERGY INC heeft een 8-K-rapport ingediend bij de SEC, waarin het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting wordt gemeld.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en financiële verplichting kan duiden op een belangrijke strategische zet, zoals een overname of fusie. Dit kan de financiële positie en toekomstige groeivooruitzichten van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de tegenpartij en de financiële impact, zijn nog onbekend. Zonder deze details is het onmogelijk om de potentiële waardecreatie of risico's voor aandeelhouders te beoordelen.",
+      "invalidation_nl": "Er is geen concrete informatie over de contractwaarde, de betrokken partijen of de specifieke aard van de M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een gebeurtenis, maar de economische details ontbreken nog voor een beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-19T20:50:15.045557+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PUBLIC SERVICE CO OF NEW MEXICO (0000081023) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "PUBLIC SERVICE CO OF NEW MEXICO (Filer) heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst en een financiële verplichting kan duiden op een belangrijke strategische transactie, zoals een fusie of overname. Dit kan de toekomstige financiële positie en groeivooruitzichten van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, omvang en voorwaarden van de overeenkomst zijn nog onbekend, wat de impact op de waardering van het bedrijf onzeker maakt. Zonder details over de tegenpartij of de financiële implicaties is het risico op een ongunstige uitkomst moeilijk in te schatten.",
+      "invalidation_nl": "Er zijn geen details over de contractwaarde, de betrokken partijen of de specifieke voorwaarden van de M&A-transactie beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de inhoud van de 8-K-melding zijn essentieel voor een volledige beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-19T20:50:29.652301+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TEXAS NEW MEXICO POWER CO (0000022767) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "TEXAS NEW MEXICO POWER CO heeft een materiële definitieve overeenkomst gesloten en een directe financiële verplichting aangegaan, zoals gemeld in een 8-K filing op SEC.gov. Dit document bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. De creatie van een directe financiële verplichting duidt op een verandering in de balansstructuur, wat economisch relevant is.",
+      "risk_nl": "De specifieke aard, de tegenpartij en de financiële voorwaarden van de overeenkomst zijn niet gespecificeerd in de verstrekte samenvatting. Zonder deze details is de impact op de belegger onduidelijk en onmeetbaar.",
+      "invalidation_nl": "Er is geen concrete contractwaarde, gedetailleerde voorwaarden van de M&A-transactie of de identiteit van de tegenpartij bekendgemaakt.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt het bestaan van een materiële overeenkomst, maar de inhoud van de M&A-transactie is nog onbekend."
+    }
+  },
+  {
+    "time": "2026-08-19T20:50:30.650051+00:00",
+    "symbol": "FILER",
+    "title": "8-K - OptimumBank Holdings, Inc. (0001288855) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-19T20:50:31.674482+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FrontView REIT, Inc. (0001988494) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-19T20:50:32.679019+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Loop Industries, Inc. (0001504678) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-19T20:50:33.677207+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NEWELL BRANDS INC. (0000814453) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-19T20:50:34.720022+00:00",
+    "symbol": "FILER",
+    "title": "8-K - XCel Brands, Inc. (0001083220) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-19T20:50:35.740383+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Worthington Steel, Inc. (0001968487) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-19T20:50:36.668309+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GRIFFON CORP (0000050725) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

@@ -2956,5 +2956,65 @@
     "symbol": "FILER",
     "title": "8-K - Oceanhawk Acquisition Corp. (0002090787) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "093d4691759723024ea436d53077de6adcf713bd4f71d4c445e7a92a5250ca24": {
+    "first_alert_at": "2026-08-19T20:49:59.016240+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TXNM ENERGY INC (0001108426) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f63dbca7989bd635308430bc7ead65683aa8a512ec7ea66bfe63d1223e34f3bc": {
+    "first_alert_at": "2026-08-19T20:50:06.614463+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PUBLIC SERVICE CO OF NEW MEXICO (0000081023) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2c95319edbba857290a6ce95d8abc71ac28cf862dcde1e605ddb4acebed26c06": {
+    "first_alert_at": "2026-08-19T20:50:15.888130+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TEXAS NEW MEXICO POWER CO (0000022767) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "da083638036b36b1ceb00c229fae80a8d5df9c03cc61cca9c1065f2ef3681c8e": {
+    "first_alert_at": "2026-08-19T20:50:30.650025+00:00",
+    "symbol": "FILER",
+    "title": "8-K - OptimumBank Holdings, Inc. (0001288855) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "815dac8d88fc1cbb5647a91c83f150fb737553294050457c3ec9333569deddf8": {
+    "first_alert_at": "2026-08-19T20:50:31.674416+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FrontView REIT, Inc. (0001988494) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5596d194969ff935a116a888a7d29adf7faac09192a0513416a579e6976b8bec": {
+    "first_alert_at": "2026-08-19T20:50:32.678992+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Loop Industries, Inc. (0001504678) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "58189ccb37aba85e9d17953c49a8724acda21b6d2da98e18a307ae638a367900": {
+    "first_alert_at": "2026-08-19T20:50:33.677181+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NEWELL BRANDS INC. (0000814453) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0d8445b65528625c168ed22068d86511bc42995b719631b4a4e6ae91c79bcd52": {
+    "first_alert_at": "2026-08-19T20:50:34.719995+00:00",
+    "symbol": "FILER",
+    "title": "8-K - XCel Brands, Inc. (0001083220) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "278a5874f7726a87a17bcf5f86eb05352834a178a13899ccdd65a728e8d00b6b": {
+    "first_alert_at": "2026-08-19T20:50:35.740360+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Worthington Steel, Inc. (0001968487) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "949aa95e2dda885041fad04a6da53fec691818f39cf4a073c94e3ce44eae7d18": {
+    "first_alert_at": "2026-08-19T20:50:36.668283+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GRIFFON CORP (0000050725) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
