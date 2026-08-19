@@ -2908,5 +2908,11 @@
     "symbol": "FILER",
     "title": "8-K - BMW FS SECURITIES LLC (0001136586) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "d84abacd776417579e151a53d8c46be3f3697cf4360e3c36384ae8b6fffc581a": {
+    "first_alert_at": "2026-08-19T18:26:36.930231+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cavitation Technologies, Inc. (0001376793) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
