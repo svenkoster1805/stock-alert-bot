@@ -2860,5 +2860,11 @@
     "symbol": "FILER",
     "title": "8-K/A - CXApp Inc. (0001820875) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "84cd9a7b6a76e9652c4cbe4d36e20c1594e491a0f64cddfa8705807ef71ba5dc": {
+    "first_alert_at": "2026-08-19T11:11:35.633435+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KIORA PHARMACEUTICALS INC (0001372514) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

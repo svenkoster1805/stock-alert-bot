@@ -11561,5 +11561,30 @@
       "is_already_priced": false,
       "notes": "De 8-K/A melding bevestigt de voltooiing van een transactie, maar mist cruciale details voor een economische beoordeling."
     }
+  },
+  {
+    "time": "2026-08-19T11:11:48.729993+00:00",
+    "symbol": "FILER",
+    "company": "KIORA PHARMACEUTICALS INC (0001372514) (Filer)",
+    "event_key": "84cd9a7b6a76e9652c4cbe4d36e20c1594e491a0f64cddfa8705807ef71ba5dc",
+    "event_family": "M_AND_A",
+    "title": "8-K - KIORA PHARMACEUTICALS INC (0001372514) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1372514/000137251426000077/0001372514-26-000077-index.htm",
+    "news_age_minutes": 10,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "KIORA PHARMACEUTICALS INC heeft op 19 augustus 2026 een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Dit document bevat ook een Regulation FD Disclosure en financiële overzichten en bijlagen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan een belangrijke strategische stap voor het bedrijf betekenen, mogelijk in de context van een fusie of overname, wat de toekomstige waarde kan beïnvloeden.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de materiële definitieve overeenkomst zijn onbekend, waardoor de impact op het bedrijf onduidelijk is. Zonder details over de inhoud kan de economische relevantie niet worden beoordeeld.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard, de partijen of de financiële voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt het bestaan van een overeenkomst, maar de inhoud is nog niet gespecificeerd."
+    }
   }
 ]
