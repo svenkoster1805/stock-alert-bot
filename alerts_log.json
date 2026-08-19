@@ -12189,5 +12189,126 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-19T21:12:26.449077+00:00",
+    "symbol": "FILER",
+    "company": "Dror Ortho-Design, Inc. (0001282980) (Filer)",
+    "event_key": "2229caf4af438c0496ed14c0784a4f8cd0ddc85c248f2b5b5e5219d91328f254",
+    "event_family": "M_AND_A",
+    "title": "8-K - Dror Ortho-Design, Inc. (0001282980) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1282980/000121390026091749/0001213900-26-091749-index.htm",
+    "news_age_minutes": 10,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Dror Ortho-Design, Inc. heeft een 8-K ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen. Dit document is 10 minuten geleden gepubliceerd op SEC.gov.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische transactie, zoals een overname of fusie, wat de toekomstige waarde van het bedrijf aanzienlijk kan beïnvloeden. De verkoop van aandelen kan gerelateerd zijn aan de financiering van deze transactie.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de financiële voorwaarden en de impact op de bedrijfsstrategie, zijn nog onbekend. Zonder deze informatie is de economische relevantie en het potentiële effect op de aandelenkoers onduidelijk.",
+      "invalidation_nl": "Er is geen concrete informatie over de inhoud, waarde of partijen van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is een officiële bron, maar de samenvatting geeft onvoldoende details voor een handelsbeslissing."
+    }
+  },
+  {
+    "time": "2026-08-19T21:12:35.846899+00:00",
+    "symbol": "FILER",
+    "company": "NOCERA, INC. (0001756180) (Filer)",
+    "event_key": "49a0248aa67e2d8f5d51e3382a3de5a59a13eb16cdd90bf269955957a6356062",
+    "event_family": "M_AND_A",
+    "title": "8-K - NOCERA, INC. (0001756180) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1756180/000168316826006601/0001683168-26-006601-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "NOCERA, INC. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een recente 8-K filing bij de SEC. De filing vermeldt ook wijzigingen in het bestuur en management.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst kan duiden op een fusie, overname of andere significante transactie die de toekomstige waarde van het bedrijf kan beïnvloeden. Wijzigingen in het management zijn vaak gerelateerd aan dergelijke strategische zetten.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn niet bekend, waardoor de economische relevantie onduidelijk blijft. Zonder deze details is het onmogelijk om de potentiële waardecreatie of -vernietiging te beoordelen.",
+      "invalidation_nl": "Er is geen informatie over de tegenpartij, de contractwaarde of de gedetailleerde voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de inhoudelijke details ontbreken voor een handelsbeslissing."
+    }
+  },
+  {
+    "time": "2026-08-19T21:12:37.291500+00:00",
+    "symbol": "FILER",
+    "company": "DT Cloud Star Acquisition Corp (0002017950) (Filer)",
+    "event_key": "10f2d36cced9b2a075571e210a4c08796c0eeb7c44a09821d6a916568793a13e",
+    "event_family": "M_AND_A",
+    "title": "8-K - DT Cloud Star Acquisition Corp (0002017950) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2017950/000149315226039248/0001493152-26-039248-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-19T21:12:38.290020+00:00",
+    "symbol": "FILER",
+    "company": "KORN FERRY (0000056679) (Filer)",
+    "event_key": "461ecd11800a8ef5582d74ba87ca36ff0c5038c75d751d7fdbc388aab82305d6",
+    "event_family": "M_AND_A",
+    "title": "8-K - KORN FERRY (0000056679) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/56679/000119312526357084/0001193125-26-357084-index.htm",
+    "news_age_minutes": 12,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-19T21:12:39.194990+00:00",
+    "symbol": "FILER",
+    "company": "SARATOGA INVESTMENT CORP. (0001377936) (Filer)",
+    "event_key": "0412ce136a2375154d6dff23aaa7e623e10b4475aaa69fdbb364613b3b1797e6",
+    "event_family": "M_AND_A",
+    "title": "8-K - SARATOGA INVESTMENT CORP. (0001377936) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1377936/000121390026091736/0001213900-26-091736-index.htm",
+    "news_age_minutes": 17,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

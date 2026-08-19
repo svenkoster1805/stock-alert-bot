@@ -7662,5 +7662,81 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-19T21:12:26.026767+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Dror Ortho-Design, Inc. (0001282980) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Dror Ortho-Design, Inc. heeft een 8-K ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen. Dit document is 10 minuten geleden gepubliceerd op SEC.gov.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische transactie, zoals een overname of fusie, wat de toekomstige waarde van het bedrijf aanzienlijk kan beïnvloeden. De verkoop van aandelen kan gerelateerd zijn aan de financiering van deze transactie.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de financiële voorwaarden en de impact op de bedrijfsstrategie, zijn nog onbekend. Zonder deze informatie is de economische relevantie en het potentiële effect op de aandelenkoers onduidelijk.",
+      "invalidation_nl": "Er is geen concrete informatie over de inhoud, waarde of partijen van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is een officiële bron, maar de samenvatting geeft onvoldoende details voor een handelsbeslissing."
+    }
+  },
+  {
+    "time": "2026-08-19T21:12:35.382541+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NOCERA, INC. (0001756180) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "NOCERA, INC. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een recente 8-K filing bij de SEC. De filing vermeldt ook wijzigingen in het bestuur en management.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst kan duiden op een fusie, overname of andere significante transactie die de toekomstige waarde van het bedrijf kan beïnvloeden. Wijzigingen in het management zijn vaak gerelateerd aan dergelijke strategische zetten.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn niet bekend, waardoor de economische relevantie onduidelijk blijft. Zonder deze details is het onmogelijk om de potentiële waardecreatie of -vernietiging te beoordelen.",
+      "invalidation_nl": "Er is geen informatie over de tegenpartij, de contractwaarde of de gedetailleerde voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de inhoudelijke details ontbreken voor een handelsbeslissing."
+    }
+  },
+  {
+    "time": "2026-08-19T21:12:36.858335+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DT Cloud Star Acquisition Corp (0002017950) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-19T21:12:37.748696+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KORN FERRY (0000056679) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-19T21:12:38.764166+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SARATOGA INVESTMENT CORP. (0001377936) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
