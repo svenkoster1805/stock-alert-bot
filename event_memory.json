@@ -2884,5 +2884,11 @@
     "symbol": "FILER",
     "title": "8-K - Arrive AI Inc. (0001818274) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "6e306f4e1c42ee8551f9c7d8675c6c3229121c9a9bf01e11c1135022656ff321": {
+    "first_alert_at": "2026-08-19T13:51:55.488466+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ZeroStack Corp. (0001790169) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

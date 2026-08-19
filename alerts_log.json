@@ -11661,5 +11661,30 @@
       "is_already_priced": false,
       "notes": "De volledige 8-K filing moet worden geraadpleegd voor de details van de materiële overeenkomst en de verkoop van aandelen."
     }
+  },
+  {
+    "time": "2026-08-19T13:52:14.628353+00:00",
+    "symbol": "FILER",
+    "company": "ZeroStack Corp. (0001790169) (Filer)",
+    "event_key": "6e306f4e1c42ee8551f9c7d8675c6c3229121c9a9bf01e11c1135022656ff321",
+    "event_family": "M_AND_A",
+    "title": "8-K - ZeroStack Corp. (0001790169) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1790169/000106299326004501/0001062993-26-004501-index.htm",
+    "news_age_minutes": 24,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "TRADEABLE",
+      "confidence": 1,
+      "summary_nl": "ZeroStack Corp. heeft een materiële definitieve overeenkomst gesloten en de acquisitie of verkoop van activa voltooid, zoals gemeld in een recente 8-K filing bij de SEC.",
+      "why_nl": "De voltooiing van een acquisitie kan de financiële positie, marktpositie en toekomstige groeivooruitzichten van het bedrijf significant beïnvloeden. Dit kan leiden tot een herwaardering van de aandelenkoers.",
+      "risk_nl": "De specifieke financiële details van de acquisitie, zoals de waarde en de impact op de balans, zijn niet direct beschikbaar in de samenvatting. De integratie van de overgenomen activa of entiteit brengt ook risico's met zich mee.",
+      "invalidation_nl": "Indien de volledige 8-K filing geen concrete financiële details of een duidelijke positieve impact op het bedrijf onthult, is dit geen trade.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevat ook informatie over de verkoop van aandelen en wijzigingen in het management."
+    }
   }
 ]
