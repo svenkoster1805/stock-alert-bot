@@ -2896,5 +2896,17 @@
     "symbol": "FILER",
     "title": "8-K - Star Mountain Lower Middle-Market Capital Corp (0001786835) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "eafb20964e9828f316617ec90db9b806b8b8db97a5174a36ecdf16856de1fc5f": {
+    "first_alert_at": "2026-08-19T16:39:38.568087+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BMW Vehicle Owner Trust 2026-A (0002143474) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "c76f0af0a825d58902ad76f01131797524a07a2694ed3f7940ffbc614754cecf": {
+    "first_alert_at": "2026-08-19T16:39:51.011252+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BMW FS SECURITIES LLC (0001136586) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

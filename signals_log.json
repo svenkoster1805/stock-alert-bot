@@ -7364,5 +7364,37 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een officiële gebeurtenis, maar de details ontbreken nog."
     }
+  },
+  {
+    "time": "2026-08-19T16:39:50.131560+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BMW Vehicle Owner Trust 2026-A (0002143474) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BMW Vehicle Owner Trust 2026-A heeft een materiële definitieve overeenkomst gesloten. Dit is gemeld in een 8-K filing bij de SEC op 19 augustus 2026.",
+      "why_nl": "De aard van een materiële definitieve overeenkomst kan de financiële positie of operationele structuur van de trust significant beïnvloeden. Dit kan leiden tot veranderingen in de waarde van de onderliggende activa of de uitkeringen aan beleggers.",
+      "risk_nl": "De specifieke inhoud, voorwaarden en financiële impact van de overeenkomst zijn onbekend. Zonder deze details is het onmogelijk de economische relevantie te beoordelen.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de tegenpartij, waarde en precieze voorwaarden, ontbreken volledig.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt het bestaan van een overeenkomst, maar de inhoud is niet gespecificeerd."
+    }
+  },
+  {
+    "time": "2026-08-19T16:40:26.326542+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BMW FS SECURITIES LLC (0001136586) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]
