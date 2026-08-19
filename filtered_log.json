@@ -1,104 +1,5 @@
 [
   {
-    "time": "2026-07-16T22:16:56.294271+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - BioRestorative Therapies, Inc. (0001505497) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 46,
-    "url": "https://www.sec.gov/Archives/edgar/data/1505497/000149315226033593/0001493152-26-033593-index.htm"
-  },
-  {
-    "time": "2026-07-16T22:16:56.294292+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Vivakor, Inc. (0001450704) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 47,
-    "url": "https://www.sec.gov/Archives/edgar/data/1450704/000182912626007621/0001829126-26-007621-index.htm"
-  },
-  {
-    "time": "2026-07-16T22:16:56.294307+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Polar Power, Inc. (0001622345) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 48,
-    "url": "https://www.sec.gov/Archives/edgar/data/1622345/000149315226033591/0001493152-26-033591-index.htm"
-  },
-  {
-    "time": "2026-07-16T22:16:56.473592+00:00",
-    "reason": "te oud voor fastlane (49 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Distribution Solutions Group, Inc. (0000703604) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 49,
-    "url": "https://www.sec.gov/Archives/edgar/data/703604/000119312526306263/0001193125-26-306263-index.htm"
-  },
-  {
-    "time": "2026-07-16T22:16:56.473662+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K/A - Bakkt, Inc. (0001820302) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 50,
-    "url": "https://www.sec.gov/Archives/edgar/data/1820302/000162828026048523/0001628280-26-048523-index.htm"
-  },
-  {
-    "time": "2026-07-16T22:16:56.473683+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - HYCROFT MINING HOLDING CORP (0001718405) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 51,
-    "url": "https://www.sec.gov/Archives/edgar/data/1718405/000149315226033587/0001493152-26-033587-index.htm"
-  },
-  {
-    "time": "2026-07-16T22:16:56.473705+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Bone Biologics Corp (0001419554) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 51,
-    "url": "https://www.sec.gov/Archives/edgar/data/1419554/000149315226033586/0001493152-26-033586-index.htm"
-  },
-  {
-    "time": "2026-07-16T22:16:56.473720+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - DESTINY MEDIA TECHNOLOGIES INC (0001099369) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 52,
-    "url": "https://www.sec.gov/Archives/edgar/data/1099369/000106299326003695/0001062993-26-003695-index.htm"
-  },
-  {
-    "time": "2026-07-16T22:16:56.473734+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - DOMO, INC. (0001505952) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 53,
-    "url": "https://www.sec.gov/Archives/edgar/data/1505952/000162828026048519/0001628280-26-048519-index.htm"
-  },
-  {
-    "time": "2026-07-16T22:16:56.671667+00:00",
-    "reason": "te oud voor fastlane (54 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K/A - La Rosa Holdings Corp. (0001879403) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 54,
-    "url": "https://www.sec.gov/Archives/edgar/data/1879403/000121390026078793/0001213900-26-078793-index.htm"
-  },
-  {
-    "time": "2026-07-16T22:16:56.671730+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K/A - Silence Therapeutics plc (0001479615) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 56,
-    "url": "https://www.sec.gov/Archives/edgar/data/1479615/000119312526306251/0001193125-26-306251-index.htm"
-  },
-  {
     "time": "2026-07-16T22:16:56.671750+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107899,104 @@
     "publisher": "Stock Titan",
     "age_minutes": 50,
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORG9LenVTTjgzbDBqVFF5S292bVhWaUJxZFFRLVI4UFZlRTh0Y3BpdmdhaXJId1VhSTU4d29Jdy1mZEwxUWk1QzktSW8yeGY1VmlDSVZuWEFQckZPMzY3OHluQU9sLTN4OE55VnBkTzlONk5LSjRZNDNTRVBGZWF2dWNBc3duZERFYlZFdlFlNmpUaXZ1ZkpVc01Jbkw?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-19T22:00:40.549980+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Martin Marietta Materials Announces New Credit Agreement - The Globe and Mail",
+    "publisher": "The Globe and Mail",
+    "age_minutes": 19,
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeVd6MnV1MF91WW9jbDlBUjVIbG1ubnYwNjVXNGRXQktxcEpqOFlhbjBDUkpzUS12SHVELUdSeUFSbk5TUkpRdWlEUU5UMldyN1J4X3F6SlVLN1BBbnN3Z1NQREphdlY3R3Rnb2hwUUt2dGtNVTlrSnFQUlY4ZjRkQzVaWmNpNGJFUnoydmtGMUN4MzE5MnVkbGlad0xwSWFrc1JDOGlRVVFUNnRTZGxQQks2X3pUb3RXRVhsZktLeWRDR1FPN0tHd0RrWDZUbGxORGJ4LTZtUQ?oc=5"
+  },
+  {
+    "time": "2026-08-19T22:00:41.222436+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Ultragenyx receives FDA approval for gene therapy treating GSDIa By Investing.com - Investing.com UK",
+    "publisher": "Investing.com UK",
+    "age_minutes": 34,
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaUMtRE04YmNVbXNTMmw4SGlKMTQzYjJOM0NSdXFPbmdyYzBVemhFeUd4MUlUbnpxU2NQZmxfR0JTNDZCb1JLdGpBbkRDQ0d1QnREMVM2bU9EYXJqSFRKQXhHeURtQXBPTlNHVXBUSG5BUW1uSVdFQVV2NzU3U2xfZTJEWVlfNGkwT0pSRGZZeENNa1NReHU1MEhlRmJ0WklOVkRMYXdXUGVPVmREY1pYU1RYRk5UNXJPREIyRHR1dXVhczA?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-19T22:00:41.222494+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "PCOR",
+    "title": "Procore (NYSE: PCOR) director to sell 1,500 shares under Rule 144 - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 15,
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblk3MTFxdFB4bkJkVk5FTFp4ZElwRXBUcUY0bWJOWEJOczM1SVJleHRXWEkySUEtamhXRVMyTWU0ZG91dXNUQVV6aEJvRUF5bk4xS0x2LXNiRGk5eHczUGM0ZGg3RXJFczN5d0ZxTjNsTjRwdDhXdFlDQmpGRFF3SlZaMlZreEJFS1RZTkgtdU9zazRZOURkQmxoMW1FWmhXdk1n?oc=5"
+  },
+  {
+    "time": "2026-08-19T22:00:41.222507+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Agilysys Insiders Sold Shares Worth Over $1.6M - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 50,
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcVZjQkxzbDdiRmVBbGUzR09acWp0SWMxZ0N4bWFqT25GbEZpNkFnNEU5X2d2Sk5PU2hWQ1A3LU5rSTZHRC0tNnJfTmpEeUU5NkRZWnlabDduVXBZaVdRNl82SlJ0NWRITEZzUzN3dUllOExSdnM3ekowdklhTldGRF84WTMtMDJpTUpkcEEwSmNsTTlLeTFEaWxkOEl4MlZmbzJqMjJwR213ajg?oc=5"
+  },
+  {
+    "time": "2026-08-19T22:00:41.222521+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Globus Medical Director Sold Shares Worth Over $2.1M - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 50,
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZWN2SGJNODFWeHIzd3VYWXE1UFVBY1A5OHNHR2twQlhXR1FLOXZUS2lNTkRYbmZacHRlMDNsX1FjdDRQaS1fU184OFlDQ2d0TkNlWGZXWnRGejlEMmJlcTFsSmNuRjhlZnRBYzNKQUdkNXJfcDJrRS1pZ2VTU1JvNHRvVHJZbjBCRzFfVjVJMTJaV2xfcjZEMzFDS1FsTi1wczFWaEQ2ZFB5U0ZmMG5kNGlTSQ?oc=5"
+  },
+  {
+    "time": "2026-08-19T22:00:41.222532+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "EVCM",
+    "title": "EverCommerce (NASDAQ: EVCM) insider plans 11,558-share Rule 144 sale - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNVZCc3lvYmRRcmI4OXByT0tVU1F0Wlh1dExINWVIV3U2TFBFcFpmMmJSOWFweXZ3SUhueGt4MHNybE5JSDNXbnJjSUN4NDhPd1N6QXJxNUk5ZDlRcVFLcGZscXFmWEpkeGsteU40UmtQMkc5d3RzQ2EtMDlCRzBpVUwwd1hHR3hGMlEzNnJKR1ZOOWVVeGNmOVhR?oc=5"
+  },
+  {
+    "time": "2026-08-19T22:00:41.222544+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "SERV",
+    "title": "Serve Robotics (SERV) COO sells 37,993 shares, some for taxes - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 13,
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVFwTU9uSHVYOHczdkNNQXFwX3l6WDA1aHhLZmt0N09yMjNMX2pCTHNEYmdsRDl5VEdyaGRrdFh5NDZoOWxGblU0YjRsU3NFaDB2WngtSUJ0SmF6R2tFSGhwUnZ2VkZVUEF3dUlmanoxR1hJZ2xGN0thN0RIaTN5N1FKUW4ySmRIeGtid0M1VnVDYVZKWW9rbHpMMDJXTHBRWDVQVjhTWFNFWHpjTzRYcUFRX0p6Zw?oc=5"
+  },
+  {
+    "time": "2026-08-19T22:00:41.222554+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "ASTC",
+    "title": "Astrotech (ASTC) launches new $50M at-the-market offering - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 33,
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTWZWbldOeVNfQmRldDg3dVUwM2E5Q1BsUkZYS0RjV2FkYTdjUTAyLVhYN2lPUldOejZQZDYxVEJKc1lPTVhENWo1cHkxYkI3U2FvR3FDUXVvNzFacVhMZUpHWUVyWjc5dXRkUUQ2eU40Rjg1SkRxM3BPSG5QWFRoYkFJRl82VnVHaFJIS0pFcXFsaFEyb2pRZDhpbTZnWDJXVllzTlR3?oc=5"
+  },
+  {
+    "time": "2026-08-19T22:00:41.222564+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "ABX",
+    "title": "Abacus Global (ABX) CFO plans NYSE stock sale via UBS under Rule 144 - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 16,
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1pCTmI3cFVkU09XZ2ZLVEdTdUpXVWVuS3E1aXkzZmJQTXAzZl9NTmFfbWYyUGJQRmd5NFpuNkNiWHFjZWlfMkVDaVU2N2ZPTU5EbHpWeFhEQmV0LWJEMFlzbWpOLW03elhsejdub2lMU21XOWdvY1ZmSGhvakZ4RndzY2NNZjBmR0JPUWpDU2xRUFlwRjBDcElPYTZyX0Vyc1czdkVacw?oc=5"
+  },
+  {
+    "time": "2026-08-19T22:00:41.222572+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Insider Sale: Director at $PBF Sells 100,000 Shares - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 42,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUhQM2YzaEFmMEt1bmN2WENzREtUNUptNGlIbGF5R24xLVplU0RwRHR1R05pY3VzSjdDUk9JZ2FUXzFDUlh1dy1jYjUyaF94ak1CVEtwbElhRXBxaUdRNXIyTHFwSW5VM2I2cDhkcS13ekRnTXRtaDJCbjloc1hSODJOM2JObktlRWxMYi1FeW90dS1w?oc=5"
+  },
+  {
+    "time": "2026-08-19T22:00:41.222584+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Astrotech files prospectus supplement for up to $50 million stock offering - Investing.com Canada",
+    "publisher": "Investing.com Canada",
+    "age_minutes": 1,
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMzZaWFhhYzgtX3RWMUdqTWdoMGx3X242NUNtSXVqZTR5eTMzX2ZKWVlrTXNvb2FUU0VreTM0MGxOeFJ3alZ3Q0J1aC11Yjl4ajBYdHJKQnItN1VSamJzZXZISFlIZWh0ajZnMXFmRlo2SVlvenJpVGlYYjQ1NzZsalgzemVxTElINFl1bUZKRmRKNGkxUE9KUXRfdFFVRVNNaUV5eWdaeWhIZ1g1X3BMeUFYd2tNMEJ4eUc0YzhuamY5ZEV0SmRwVWlTRjdabXM?oc=5"
   }
 ]
