@@ -7284,5 +7284,53 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt het bestaan van een overeenkomst, maar de inhoud is nog niet gespecificeerd."
     }
+  },
+  {
+    "time": "2026-08-19T13:01:31.497398+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Weave Communications, Inc. (0001609151) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Weave Communications, Inc. heeft op 19 augustus 2026 een 8-K formulier ingediend, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie voor het bedrijf. Dit kan de toekomstige inkomsten, kosten of de structuur van Weave Communications, Inc. beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële details van de overeenkomst zijn onbekend, waardoor de impact niet kan worden beoordeeld. Zonder deze details is het onduidelijk of de overeenkomst positief of negatief is voor de aandeelhouders.",
+      "invalidation_nl": "Er zijn geen financiële voorwaarden of partijen van de overeenkomst bekendgemaakt.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de inhoud is nog niet openbaar."
+    }
+  },
+  {
+    "time": "2026-08-19T13:01:45.353830+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Earth Science Tech, Inc. (0001538495) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WATCH",
+      "confidence": 1,
+      "summary_nl": "Earth Science Tech, Inc. heeft op 19 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de voltooiing van een acquisitie of desinvestering van activa.",
+      "why_nl": "De voltooiing van een acquisitie kan leiden tot groei of synergieën, terwijl een desinvestering de balans kan versterken of focus kan aanbrengen. Beide scenario's kunnen de toekomstige financiële prestaties en waardering van het bedrijf beïnvloeden.",
+      "risk_nl": "Het is onbekend of het een acquisitie of desinvestering betreft, en wat de omvang, aard en financiële voorwaarden van de transactie zijn. Zonder deze details is de economische impact op Earth Science Tech, Inc. niet te bepalen.",
+      "invalidation_nl": "De samenvatting vermeldt geen details over de aard (acquisitie of desinvestering), omvang of financiële voorwaarden van de transactie.",
+      "is_already_priced": false,
+      "notes": "Nadere details uit het volledige 8-K-rapport zijn essentieel om de economische relevantie te beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-19T13:02:03.989488+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Arrive AI Inc. (0001818274) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Arrive AI Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC. De filing omvat ook niet-geregistreerde verkopen van aandelen en andere gebeurtenissen.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, die de toekomstige waarde van het bedrijf beïnvloedt. De verkoop van aandelen kan gerelateerd zijn aan de financiering van deze overeenkomst of een andere kapitaaltransactie.",
+      "risk_nl": "De specifieke aard en financiële details van de overeenkomst zijn niet bekend, waardoor de impact op het bedrijf onduidelijk is. Zonder de volledige voorwaarden is het risico dat de overeenkomst ongunstig is of niet doorgaat, aanwezig.",
+      "invalidation_nl": "De samenvatting bevat geen details over de tegenpartij, de waarde of de specifieke voorwaarden van de materiële overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De volledige 8-K filing moet worden geraadpleegd voor de details van de materiële overeenkomst en de verkoop van aandelen."
+    }
   }
 ]

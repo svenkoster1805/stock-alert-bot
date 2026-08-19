@@ -2866,5 +2866,23 @@
     "symbol": "FILER",
     "title": "8-K - KIORA PHARMACEUTICALS INC (0001372514) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "b0366a4150d4bdc492993f277dea83de4fe19df0594114a4e04e890457926788": {
+    "first_alert_at": "2026-08-19T13:01:24.356887+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Weave Communications, Inc. (0001609151) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "16a287d64aa98bf9243b5f04e8942093404dc51f656ec8d97efa2208ce65d89a": {
+    "first_alert_at": "2026-08-19T13:01:32.688953+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Earth Science Tech, Inc. (0001538495) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7b59596e77242330ee33ee2fb27031d70900d2df8d2902bea401f994744aded8": {
+    "first_alert_at": "2026-08-19T13:01:46.575120+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Arrive AI Inc. (0001818274) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
