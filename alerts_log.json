@@ -12310,5 +12310,55 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-19T21:41:17.915216+00:00",
+    "symbol": "FILER",
+    "company": "Silo Pharma, Inc. (0001514183) (Filer)",
+    "event_key": "0f16573d0815eebccc369e9919e4e5acfb36cc312312632a96f66186b89d61d6",
+    "event_family": "M_AND_A",
+    "title": "8-K - Silo Pharma, Inc. (0001514183) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1514183/000121390026091783/0001213900-26-091783-index.htm",
+    "news_age_minutes": 23,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-19T21:41:19.216520+00:00",
+    "symbol": "FILER",
+    "company": "DESTINATION XL GROUP, INC. (0000813298) (Filer)",
+    "event_key": "5782f290162573df1f39d7dbfeb84cf165e35029cb924f99a34e5c582112b67e",
+    "event_family": "M_AND_A",
+    "title": "8-K - DESTINATION XL GROUP, INC. (0000813298) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/813298/000119312526357135/0001193125-26-357135-index.htm",
+    "news_age_minutes": 29,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]

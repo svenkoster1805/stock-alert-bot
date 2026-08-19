@@ -3046,5 +3046,17 @@
     "symbol": "FILER",
     "title": "8-K - SARATOGA INVESTMENT CORP. (0001377936) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "0f16573d0815eebccc369e9919e4e5acfb36cc312312632a96f66186b89d61d6": {
+    "first_alert_at": "2026-08-19T21:41:16.886612+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Silo Pharma, Inc. (0001514183) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5782f290162573df1f39d7dbfeb84cf165e35029cb924f99a34e5c582112b67e": {
+    "first_alert_at": "2026-08-19T21:41:18.396045+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DESTINATION XL GROUP, INC. (0000813298) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
