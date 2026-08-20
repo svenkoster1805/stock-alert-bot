@@ -12458,5 +12458,55 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-20T12:51:52.802664+00:00",
+    "symbol": "FILER",
+    "company": "AMAZE HOLDINGS, INC. (0001880343) (Filer)",
+    "event_key": "acc8b5ecfe36c2b1555fb781ef4f1c0e77ac0f7b7dc26f2cb581073e71f1989e",
+    "event_family": "M_AND_A",
+    "title": "8-K - AMAZE HOLDINGS, INC. (0001880343) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1880343/000149315226039376/0001493152-26-039376-index.htm",
+    "news_age_minutes": 20,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AMAZE HOLDINGS, INC. heeft een 8-K document ingediend bij de SEC. Dit document meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie. Dit kan de strategische richting en financiële vooruitzichten van het bedrijf beïnvloeden.",
+      "risk_nl": "De specifieke inhoud, partijen en financiële voorwaarden van de overeenkomst zijn onbekend. Zonder deze details is de economische impact op het bedrijf onduidelijk en het risico hoog.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, partijen of financiële voorwaarden van de materiële definitieve overeenkomst beschikbaar om een handelsbeslissing te onderbouwen.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig om de economische impact te beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-20T12:52:02.007582+00:00",
+    "symbol": "FILER",
+    "company": "SCANSOURCE, INC. (0000918965) (Filer)",
+    "event_key": "213790b3ff58a26b0cf7c96ed39a22c60f0af7ab7cdceb2507021b1771b24fb4",
+    "event_family": "M_AND_A",
+    "title": "8-K - SCANSOURCE, INC. (0000918965) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/918965/000091896526000043/0000918965-26-000043-index.htm",
+    "news_age_minutes": 21,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "SCANSOURCE, INC. heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van de totstandkoming van een materiële definitieve overeenkomst. Het formulier bevat ook informatie over de bedrijfsresultaten en financiële conditie.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke transactie, zoals een overname of verkoop, die de bedrijfsstructuur of financiële positie van SCANSOURCE beïnvloedt. Dit kan leiden tot veranderingen in de waardering van het bedrijf.",
+      "risk_nl": "De specifieke aard, omvang en voorwaarden van de materiële definitieve overeenkomst zijn onbekend. Zonder deze details is de impact op SCANSOURCE, INC. onduidelijk.",
+      "invalidation_nl": "Er is geen informatie over de tegenpartij, de overeengekomen prijs of de specifieke activa/bedrijven die betrokken zijn bij de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de materiële definitieve overeenkomst zijn essentieel voor een volledige beoordeling."
+    }
   }
 ]

@@ -3082,5 +3082,17 @@
     "symbol": "FILER",
     "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "acc8b5ecfe36c2b1555fb781ef4f1c0e77ac0f7b7dc26f2cb581073e71f1989e": {
+    "first_alert_at": "2026-08-20T12:51:45.173445+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AMAZE HOLDINGS, INC. (0001880343) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "213790b3ff58a26b0cf7c96ed39a22c60f0af7ab7cdceb2507021b1771b24fb4": {
+    "first_alert_at": "2026-08-20T12:51:53.204423+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SCANSOURCE, INC. (0000918965) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
