@@ -2,31 +2,31 @@
   "fmp_press_release": {
     "success": 3,
     "errors": 4,
-    "last": "2026-08-20T17:47:08.002420+00:00",
-    "detail": "402 Client Error: Payment Required for url: https://financialmodelingprep.com/stable/news/press-releases-latest?page=0&limit=60&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
+    "last": "2026-08-20T18:15:17.091453+00:00",
+    "detail": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/news/press-releases-latest?page=0&limit=60&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
   },
   "sec": {
-    "success": 723,
+    "success": 724,
     "errors": 695,
-    "last": "2026-08-20T17:47:13.055640+00:00",
+    "last": "2026-08-20T18:15:26.520209+00:00",
     "detail": "90 rows"
   },
   "fmp_stock": {
     "success": 3,
     "errors": 4,
-    "last": "2026-08-20T17:47:13.215341+00:00",
+    "last": "2026-08-20T18:15:26.775363+00:00",
     "detail": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/news/stock-latest?page=0&limit=70&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
   },
   "fmp_general": {
     "success": 3,
     "errors": 4,
-    "last": "2026-08-20T17:47:13.419879+00:00",
+    "last": "2026-08-20T18:15:27.024535+00:00",
     "detail": "429 Client Error: Too Many Requests for url: https://financialmodelingprep.com/stable/news/general-latest?page=0&limit=50&apikey=1cU4dJY7PJhmFHa0TpBJ0nRK0xmcuf39"
   },
   "google": {
-    "success": 753,
+    "success": 754,
     "errors": 0,
-    "last": "2026-08-20T17:47:15.071587+00:00",
-    "detail": "13 rows"
+    "last": "2026-08-20T18:15:28.811471+00:00",
+    "detail": "7 rows"
   }
 }
