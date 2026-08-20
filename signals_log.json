@@ -7896,5 +7896,123 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding bevestigt een materiële overeenkomst, maar de details ontbreken nog."
     }
+  },
+  {
+    "time": "2026-08-20T21:37:20.377264+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Nexalin Technology, Inc. (0001527352) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Nexalin Technology, Inc. heeft een 8-K ingediend over het aangaan van een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen. Het document bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en de verkoop van aandelen kunnen de financiële positie en eigendomsstructuur van het bedrijf significant beïnvloeden. Dit kan leiden tot kapitaalinjectie of een strategische verschuiving.",
+      "risk_nl": "De aard en de voorwaarden van de materiële overeenkomst en de verkoop van aandelen zijn onbekend. Zonder details over de tegenpartij, waarde of impact is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er is geen concrete informatie over de inhoud van de materiële overeenkomst of de details van de aandelenverkoop, zoals de betrokken partijen of de financiële impact.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is te algemeen om de aard van de M&A-gebeurtenis te bevestigen of te beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-20T21:37:31.461398+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Amylyx Pharmaceuticals, Inc. (0001658551) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Amylyx Pharmaceuticals, Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij SEC.gov. De melding omvat Item 1.01 en Item 9.01.",
+      "why_nl": "De aard en voorwaarden van deze overeenkomst zijn nog onbekend, waardoor de potentiële economische impact op Amylyx Pharmaceuticals, Inc. onduidelijk is. Een materiële overeenkomst kan echter significant zijn voor de bedrijfsvoering of eigendomsstructuur.",
+      "risk_nl": "Het grootste risico is het ontbreken van details over de inhoud van de overeenkomst, zoals de tegenpartij, de waarde en de specifieke voorwaarden. Zonder deze informatie is een accurate beoordeling van de impact onmogelijk.",
+      "invalidation_nl": "Zonder concrete details over de M&A-overeenkomst, zoals de contractwaarde en formele voorwaarden, is het onmogelijk om de financiële impact te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de specifieke M&A-details ontbreken in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-08-20T21:37:43.345054+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NorthStrive Acquisition Corp I. (0002133719) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "NorthStrive Acquisition Corp I. heeft een 8-K-formulier ingediend bij de SEC, waarin onder andere het aangaan van een materiële definitieve overeenkomst wordt gemeld. Ook worden de verkoop van niet-geregistreerde aandelen en wijzigingen in bestuur en statuten genoemd.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan een voorbode zijn van een belangrijke zakelijke transactie, zoals een overname, die de toekomstige waarde van het bedrijf kan beïnvloeden. De verkoop van aandelen kan kapitaal aantrekken voor dergelijke strategische stappen.",
+      "risk_nl": "De specifieke aard, de tegenpartij en de financiële voorwaarden van de materiële definitieve overeenkomst zijn onbekend. Dit maakt een inschatting van de economische impact en risico's onmogelijk.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud van de materiële definitieve overeenkomst, zoals de contractwaarde of de identiteit van de betrokken partijen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is zeer recent en duidt op significante, maar nog ongedefinieerde, bedrijfsontwikkelingen."
+    }
+  },
+  {
+    "time": "2026-08-20T21:37:44.213405+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ASP Isotopes Inc. (0001921865) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-20T21:37:45.063068+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-20T21:37:45.961684+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CCO HOLDINGS LLC (0001271833) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-20T21:37:46.843722+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CHARTER COMMUNICATIONS, INC. /MO/ (0001091667) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-20T21:37:47.726474+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Aptera Motors Corp (0001786471) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

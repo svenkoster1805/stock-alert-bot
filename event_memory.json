@@ -3106,5 +3106,53 @@
     "symbol": "FILER",
     "title": "8-K - BUTLER NATIONAL CORP (0000015847) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "7fcd060e3df183f7f9404339d840d1df51145edabf9f2329929f715b82843b0c": {
+    "first_alert_at": "2026-08-20T21:37:13.084402+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Nexalin Technology, Inc. (0001527352) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "db460125f708558c9d8a964700631b4bc4bd2f7e71aa843032b6a23fa0d30841": {
+    "first_alert_at": "2026-08-20T21:37:21.346529+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Amylyx Pharmaceuticals, Inc. (0001658551) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "72b61f20cf6b976ed95fcf6380428e78025323b956ec363fb32195f7f2bebe0a": {
+    "first_alert_at": "2026-08-20T21:37:32.333548+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NorthStrive Acquisition Corp I. (0002133719) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "cb357e48a96758d9277a6f0b038e12815fd5f027bbfcb9a2bbb651998a1e1728": {
+    "first_alert_at": "2026-08-20T21:37:44.213379+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ASP Isotopes Inc. (0001921865) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e7ace3086941d867435c3d4e01ebab41cfee917830b7598f3c8d5bc73eb9d30d": {
+    "first_alert_at": "2026-08-20T21:37:45.063043+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "98cf77436af84d1923d2d695e9d934c2dad34b712eb657e81784b65cbb003d20": {
+    "first_alert_at": "2026-08-20T21:37:45.961658+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CCO HOLDINGS LLC (0001271833) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "cf242ac04a687bed79a3f4e7751a51903fa74b78a3439c4958f27f0982521c73": {
+    "first_alert_at": "2026-08-20T21:37:46.843699+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CHARTER COMMUNICATIONS, INC. /MO/ (0001091667) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7e47f385645748e3f86ede877bcd4a66d21f8b62cd3edf04cd02968d69c357fd": {
+    "first_alert_at": "2026-08-20T21:37:47.726447+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Aptera Motors Corp (0001786471) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
