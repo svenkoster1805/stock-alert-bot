@@ -12360,5 +12360,103 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-08-20T10:29:40.294650+00:00",
+    "symbol": "FILER",
+    "company": "INNSUITES HOSPITALITY TRUST (0000082473) (Filer)",
+    "event_key": "3cadea81764967fca5e78a67e8fedd4d98dda12dcfb5b7ac7f77235857d1e320",
+    "event_family": "M_AND_A",
+    "title": "8-K - INNSUITES HOSPITALITY TRUST (0000082473) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/82473/000149315226039352/0001493152-26-039352-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "INNSUITES HOSPITALITY TRUST heeft een 8-K formulier ingediend bij de SEC op 20 augustus 2026. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie die de financiële positie of strategie van het bedrijf beïnvloedt. De verkoop van aandelen kan kapitaal aantrekken, maar ook leiden tot verwatering van bestaande aandelen.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de materiële overeenkomst en de aandelenverkoop zijn onbekend. Zonder details over de transactie is het onmogelijk de potentiële waardecreatie of -vernietiging te beoordelen.",
+      "invalidation_nl": "Er zijn geen concrete details over de aard, waarde of partijen van de materiële definitieve overeenkomst of de aandelenverkoop beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is een officiële bron, maar de inhoudelijke details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-08-20T10:29:53.230181+00:00",
+    "symbol": "FILER",
+    "company": "Santander Holdings USA, Inc. (0000811830) (Filer)",
+    "event_key": "eb68df1210bade84785d7847a69b68475287fe3e71c9a3af6dcc1c31907b7bd1",
+    "event_family": "M_AND_A",
+    "title": "8-K - Santander Holdings USA, Inc. (0000811830) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/811830/000095010326012673/0000950103-26-012673-index.htm",
+    "news_age_minutes": 20,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Santander Holdings USA, Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin onder andere de afsluiting van een materiële definitieve overeenkomst en de voltooiing van een acquisitie of desinvestering van activa worden gemeld.",
+      "why_nl": "Een acquisitie of desinvestering kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. De aard en omvang van de transactie zijn echter nog onbekend.",
+      "risk_nl": "Het grootste risico is het ontbreken van details over de aard, omvang en financiële voorwaarden van de gemelde acquisitie of desinvestering. Zonder deze informatie is een accurate beoordeling van de impact onmogelijk.",
+      "invalidation_nl": "Er zijn geen specifieke details over de overname of desinvestering, zoals de betrokken partijen, contractwaarde of voorwaarden, beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een gebeurtenis, maar de economische impact kan pas worden beoordeeld na publicatie van de details."
+    }
+  },
+  {
+    "time": "2026-08-20T10:30:06.040646+00:00",
+    "symbol": "FILER",
+    "company": "Sadot Group Inc. (0001701756) (Filer)",
+    "event_key": "1790af7bca7aad7038cd3d356c2ee387eebb7ba2ff80d4aeba6c206d05ea0343",
+    "event_family": "M_AND_A",
+    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701756/000173112226001106/0001731122-26-001106-index.htm",
+    "news_age_minutes": 25,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Sadot Group Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen. Dit document is op 20 augustus 2026 gepubliceerd.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op kapitaalverhoging voor toekomstige plannen of transacties.",
+      "risk_nl": "De aard en financiële voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op het bedrijf onduidelijk is. Het is onzeker of de aandelenverkoop direct gerelateerd is aan de materiële overeenkomst of een M&A-transactie.",
+      "invalidation_nl": "Er is geen concrete informatie over de tegenpartij, de contractwaarde of de specifieke aard van de M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is recent en van een betrouwbare bron, maar mist cruciale details voor een M&A-beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-20T10:30:06.714500+00:00",
+    "symbol": "FILER",
+    "company": "CALLAN JMB INC. (0002032545) (Filer)",
+    "event_key": "1c19b02ff0b8d632ac7c527ca61df4844d4d5127c8e47bfa1662bae7f69ec626",
+    "event_family": "M_AND_A",
+    "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2032545/000149315226039329/0001493152-26-039329-index.htm",
+    "news_age_minutes": 27,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

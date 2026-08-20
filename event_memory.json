@@ -3058,5 +3058,29 @@
     "symbol": "FILER",
     "title": "8-K - DESTINATION XL GROUP, INC. (0000813298) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "3cadea81764967fca5e78a67e8fedd4d98dda12dcfb5b7ac7f77235857d1e320": {
+    "first_alert_at": "2026-08-20T10:29:33.476239+00:00",
+    "symbol": "FILER",
+    "title": "8-K - INNSUITES HOSPITALITY TRUST (0000082473) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "eb68df1210bade84785d7847a69b68475287fe3e71c9a3af6dcc1c31907b7bd1": {
+    "first_alert_at": "2026-08-20T10:29:40.628372+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Santander Holdings USA, Inc. (0000811830) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1790af7bca7aad7038cd3d356c2ee387eebb7ba2ff80d4aeba6c206d05ea0343": {
+    "first_alert_at": "2026-08-20T10:29:53.586956+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1c19b02ff0b8d632ac7c527ca61df4844d4d5127c8e47bfa1662bae7f69ec626": {
+    "first_alert_at": "2026-08-20T10:30:06.372533+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

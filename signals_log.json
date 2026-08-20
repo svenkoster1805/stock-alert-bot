@@ -7770,5 +7770,67 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-08-20T10:29:39.946113+00:00",
+    "symbol": "FILER",
+    "title": "8-K - INNSUITES HOSPITALITY TRUST (0000082473) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "INNSUITES HOSPITALITY TRUST heeft een 8-K formulier ingediend bij de SEC op 20 augustus 2026. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie die de financiële positie of strategie van het bedrijf beïnvloedt. De verkoop van aandelen kan kapitaal aantrekken, maar ook leiden tot verwatering van bestaande aandelen.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de materiële overeenkomst en de aandelenverkoop zijn onbekend. Zonder details over de transactie is het onmogelijk de potentiële waardecreatie of -vernietiging te beoordelen.",
+      "invalidation_nl": "Er zijn geen concrete details over de aard, waarde of partijen van de materiële definitieve overeenkomst of de aandelenverkoop beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is een officiële bron, maar de inhoudelijke details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-08-20T10:29:52.819884+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Santander Holdings USA, Inc. (0000811830) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Santander Holdings USA, Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin onder andere de afsluiting van een materiële definitieve overeenkomst en de voltooiing van een acquisitie of desinvestering van activa worden gemeld.",
+      "why_nl": "Een acquisitie of desinvestering kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. De aard en omvang van de transactie zijn echter nog onbekend.",
+      "risk_nl": "Het grootste risico is het ontbreken van details over de aard, omvang en financiële voorwaarden van de gemelde acquisitie of desinvestering. Zonder deze informatie is een accurate beoordeling van de impact onmogelijk.",
+      "invalidation_nl": "Er zijn geen specifieke details over de overname of desinvestering, zoals de betrokken partijen, contractwaarde of voorwaarden, beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een gebeurtenis, maar de economische impact kan pas worden beoordeeld na publicatie van de details."
+    }
+  },
+  {
+    "time": "2026-08-20T10:30:05.633854+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Sadot Group Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen. Dit document is op 20 augustus 2026 gepubliceerd.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op kapitaalverhoging voor toekomstige plannen of transacties.",
+      "risk_nl": "De aard en financiële voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op het bedrijf onduidelijk is. Het is onzeker of de aandelenverkoop direct gerelateerd is aan de materiële overeenkomst of een M&A-transactie.",
+      "invalidation_nl": "Er is geen concrete informatie over de tegenpartij, de contractwaarde of de specifieke aard van de M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is recent en van een betrouwbare bron, maar mist cruciale details voor een M&A-beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-20T10:30:06.372555+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
