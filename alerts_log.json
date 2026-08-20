@@ -12508,5 +12508,55 @@
       "is_already_priced": false,
       "notes": "Nadere details over de materiële definitieve overeenkomst zijn essentieel voor een volledige beoordeling."
     }
+  },
+  {
+    "time": "2026-08-20T16:04:35.679031+00:00",
+    "symbol": "FILER",
+    "company": "TREASURE GLOBAL INC (0001905956) (Filer)",
+    "event_key": "58cf014914498e9c12bfc419f8ff646652f6484313a6881432873e5ccce5c34d",
+    "event_family": "M_AND_A",
+    "title": "8-K - TREASURE GLOBAL INC (0001905956) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1905956/000121390026091971/0001213900-26-091971-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "TREASURE GLOBAL INC heeft een materiële definitieve overeenkomst gesloten en niet-geregistreerde verkoop van aandelen uitgevoerd, zoals gemeld in een 8-K filing op 20 augustus 2026.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op kapitaalverhoging of een verandering in eigendomsstructuur.",
+      "risk_nl": "De aard en de financiële voorwaarden van de overeenkomst en de aandelenverkoop zijn onbekend, wat de impact onvoorspelbaar maakt. Zonder details is het onduidelijk of dit positief of negatief is voor de aandeelhouders.",
+      "invalidation_nl": "Er is geen contractwaarde, specifieke partij of aard van de overeenkomst bekendgemaakt om de economische impact te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst en aandelenverkoop, maar mist cruciale details voor analyse."
+    }
+  },
+  {
+    "time": "2026-08-20T16:04:45.219366+00:00",
+    "symbol": "FILER",
+    "company": "BUTLER NATIONAL CORP (0000015847) (Filer)",
+    "event_key": "c33e54308bc4f00e0913c0d36e965b8b832b327098b94d79cc4a77568a79724b",
+    "event_family": "M_AND_A",
+    "title": "8-K - BUTLER NATIONAL CORP (0000015847) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/15847/000001584726000037/0000015847-26-000037-index.htm",
+    "news_age_minutes": 6,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BUTLER NATIONAL CORP heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan de toekomstige financiële positie en strategische richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend, wat de beoordeling van de economische relevantie bemoeilijkt.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, partijen of financiële waarde van de materiële overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een materiële overeenkomst, maar de details ontbreken nog."
+    }
   }
 ]

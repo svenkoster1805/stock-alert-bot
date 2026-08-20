@@ -7864,5 +7864,37 @@
       "is_already_priced": false,
       "notes": "Nadere details over de materiële definitieve overeenkomst zijn essentieel voor een volledige beoordeling."
     }
+  },
+  {
+    "time": "2026-08-20T16:04:35.173121+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TREASURE GLOBAL INC (0001905956) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "TREASURE GLOBAL INC heeft een materiële definitieve overeenkomst gesloten en niet-geregistreerde verkoop van aandelen uitgevoerd, zoals gemeld in een 8-K filing op 20 augustus 2026.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op kapitaalverhoging of een verandering in eigendomsstructuur.",
+      "risk_nl": "De aard en de financiële voorwaarden van de overeenkomst en de aandelenverkoop zijn onbekend, wat de impact onvoorspelbaar maakt. Zonder details is het onduidelijk of dit positief of negatief is voor de aandeelhouders.",
+      "invalidation_nl": "Er is geen contractwaarde, specifieke partij of aard van de overeenkomst bekendgemaakt om de economische impact te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst en aandelenverkoop, maar mist cruciale details voor analyse."
+    }
+  },
+  {
+    "time": "2026-08-20T16:04:44.719830+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BUTLER NATIONAL CORP (0000015847) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BUTLER NATIONAL CORP heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan de toekomstige financiële positie en strategische richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend, wat de beoordeling van de economische relevantie bemoeilijkt.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, partijen of financiële waarde van de materiële overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een materiële overeenkomst, maar de details ontbreken nog."
+    }
   }
 ]
