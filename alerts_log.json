@@ -12748,5 +12748,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-21T11:35:34.894585+00:00",
+    "symbol": "FILER",
+    "company": "Intercontinental Exchange, Inc. (0001571949) (Filer)",
+    "event_key": "032048950bb44458685230715ef39697c6cc4ed5085cfe0ac96aebe888d6cfff",
+    "event_family": "M_AND_A",
+    "title": "8-K - Intercontinental Exchange, Inc. (0001571949) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526359930/0001193125-26-359930-index.htm",
+    "news_age_minutes": 5,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Intercontinental Exchange, Inc. heeft een 8-K ingediend over het aangaan van een materiële definitieve overeenkomst en een directe financiële verplichting.",
+      "why_nl": "Zonder details over de aard, omvang en voorwaarden van de overeenkomst en verplichting is de economische relevantie niet vast te stellen.",
+      "risk_nl": "De specifieke financiële impact en de betrokken partijen zijn onbekend, wat een beoordeling onmogelijk maakt.",
+      "invalidation_nl": "De verstrekte gegevens bevatten geen economische details zoals contractwaarde of specifieke voorwaarden van de overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een gebeurtenis, maar de inhoud is niet beschikbaar voor analyse."
+    }
   }
 ]

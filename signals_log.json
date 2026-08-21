@@ -8014,5 +8014,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-21T11:35:34.370008+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Intercontinental Exchange, Inc. (0001571949) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Intercontinental Exchange, Inc. heeft een 8-K ingediend over het aangaan van een materiële definitieve overeenkomst en een directe financiële verplichting.",
+      "why_nl": "Zonder details over de aard, omvang en voorwaarden van de overeenkomst en verplichting is de economische relevantie niet vast te stellen.",
+      "risk_nl": "De specifieke financiële impact en de betrokken partijen zijn onbekend, wat een beoordeling onmogelijk maakt.",
+      "invalidation_nl": "De verstrekte gegevens bevatten geen economische details zoals contractwaarde of specifieke voorwaarden van de overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een gebeurtenis, maar de inhoud is niet beschikbaar voor analyse."
+    }
   }
 ]
