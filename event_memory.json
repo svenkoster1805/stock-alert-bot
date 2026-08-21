@@ -3244,5 +3244,65 @@
     "symbol": "FILER",
     "title": "8-K - RenX Enterprises Corp. (0001959023) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "c460b541fc1dad39f36fdc923ae9cd2499cd68e46b89f18f08c32376b963a86d": {
+    "first_alert_at": "2026-08-21T20:39:02.323938+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ALEXANDRIA REAL ESTATE EQUITIES, INC. (0001035443) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2887533310adf920d72ecb53a2f91f019eee169a2a0977bb7f2dc8d7d2c75929": {
+    "first_alert_at": "2026-08-21T20:39:14.954043+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NON INVASIVE MONITORING SYSTEMS INC /FL/ (0000720762) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "eb88efe18f4262e73878d083414f4a9b137ed1781fa95fffa52c79bda7f99afa": {
+    "first_alert_at": "2026-08-21T20:39:22.259325+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Hinge Health, Inc. (0001673743) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e56aba90819f1af3c3e4ea02fd00834117c714074e75300090a9ce5a428c4e58": {
+    "first_alert_at": "2026-08-21T20:39:34.478461+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Enova International, Inc. (0001529864) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "60f6a7390d6cba4c6154ffb0d67c6de126a307d1e387581fcecfe5653b68483c": {
+    "first_alert_at": "2026-08-21T20:39:35.497730+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Planet Green Holdings Corp. (0001117057) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4592fe02a7c5c611002fd35c02330d1ba858ac081441f521aac77085ca4b739a": {
+    "first_alert_at": "2026-08-21T20:39:36.519866+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Adient plc (0001670541) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b6bbad779a5223f27f89e3c03712a8cb6a7eff84d4e4e161c208e6e0df9999e5": {
+    "first_alert_at": "2026-08-21T20:39:37.547539+00:00",
+    "symbol": "FILER",
+    "title": "8-K - APPLIED OPTOELECTRONICS, INC. (0001158114) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7db7ebe3a43d07740704f0577f6c8c6b43200d9c456f2b21f40721df12d8779d": {
+    "first_alert_at": "2026-08-21T20:39:38.586162+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bleichroeder Acquisition Corp. II (0002088295) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "08409ddad4e190075e5e18ed6c59fcf2fddbb878d1deef2ec19fe2bfaef70348": {
+    "first_alert_at": "2026-08-21T20:39:39.645363+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ESS Tech, Inc. (0001819438) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0f217b262f4c2a0a9f5ad575694ac0e4c855705d87807b646cee7651cdb8a501": {
+    "first_alert_at": "2026-08-21T20:39:40.653062+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WhiteFiber, Inc. (0002042022) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

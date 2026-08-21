@@ -4867,5 +4867,95 @@
     "event_family": "M_AND_A",
     "news_age_minutes": 7,
     "original_time_verified": true
+  },
+  {
+    "time": "2026-08-21T20:39:02.323953+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 7,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-08-21T20:39:14.954059+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 7,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-08-21T20:39:22.259335+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 11,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-08-21T20:39:34.478473+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 21,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-08-21T20:39:35.497742+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 22,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-08-21T20:39:36.519876+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 22,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-08-21T20:39:37.547577+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 23,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-08-21T20:39:38.586172+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 27,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-08-21T20:39:39.645371+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 29,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-08-21T20:39:40.653075+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 29,
+    "original_time_verified": true
   }
 ]
