@@ -3160,5 +3160,35 @@
     "symbol": "FILER",
     "title": "8-K - Intercontinental Exchange, Inc. (0001571949) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "a2b6161c2c6850b414d82ec48dec9d215232c467170f54d0cec78c1ab63f894e": {
+    "first_alert_at": "2026-08-21T12:52:28.058518+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Odysight.ai Inc. (0001577445) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e040c7b2a0eaab85d71ee13d03a87a5ac0acc5bf0f2420a27deb0a2b6acc44ff": {
+    "first_alert_at": "2026-08-21T12:52:36.120225+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Latham Group, Inc. (0001833197) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "36a32c12c488c421cd00ccaf238c90f210d8bf1d3588e063bdde6a4fcf242e26": {
+    "first_alert_at": "2026-08-21T12:52:52.435351+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ff56786b4a56d2bfec44cc7103ad7474f4dcd6a9b6c9f8ec74b19ef738ffd96d": {
+    "first_alert_at": "2026-08-21T12:53:01.081072+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Meridian3 Industrials Acquisition Corp (0002136530) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f233e9bc8523dc5b97c2a518bc62e8cdb9b6ff3f7b15b7a055d3a316de781632": {
+    "first_alert_at": "2026-08-21T12:53:02.162241+00:00",
+    "symbol": "FILER",
+    "title": "8-K - reAlpha Tech Corp. (0001859199) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

@@ -8030,5 +8030,81 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een gebeurtenis, maar de inhoud is niet beschikbaar voor analyse."
     }
+  },
+  {
+    "time": "2026-08-21T12:52:35.085695+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Odysight.ai Inc. (0001577445) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Odysight.ai Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin zowel het aangaan als het beëindigen van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan duiden op een nieuwe strategische transactie, zoals een overname of verkoop. Het beëindigen van een materiële overeenkomst kan echter ook een geplande transactie annuleren, wat de economische impact onzeker maakt.",
+      "risk_nl": "De aard, partijen en financiële details van zowel de aangegane als de beëindigde overeenkomst zijn onbekend. Het is onduidelijk welke M&A-gebeurtenis hier precies plaatsvindt en of deze positief of negatief is.",
+      "invalidation_nl": "Er zijn geen details over de aard, partijen of financiële voorwaarden van de genoemde overeenkomsten.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is te algemeen en tegenstrijdig om een concrete M&A-gebeurtenis te beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-21T12:52:51.337636+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Latham Group, Inc. (0001833197) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Latham Group, Inc. heeft een 8-K-formulier ingediend bij de SEC. Hierin wordt melding gemaakt van een materiële definitieve overeenkomst en het aangaan van een directe financiële verplichting.",
+      "why_nl": "Een materiële overeenkomst en financiële verplichting in het kader van een M&A-gebeurtenis kunnen de balans en toekomstige kasstromen van het bedrijf aanzienlijk beïnvloeden. Dit kan duiden op een belangrijke strategische stap of acquisitie.",
+      "risk_nl": "De specifieke aard, de betrokken partijen en de financiële voorwaarden van deze M&A-transactie zijn niet bekend. Zonder deze informatie is de economische impact onduidelijk.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de specifieke voorwaarden of de aard van de M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een materiële gebeurtenis, maar de inhoudelijke details ontbreken in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-08-21T12:53:00.036201+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Wheeler Real Estate Investment Trust, Inc. heeft op 21 augustus 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie die de financiële positie of operationele focus van het bedrijf beïnvloedt.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn onbekend, wat aanzienlijke onzekerheid creëert over de gevolgen voor de aandeelhouders.",
+      "invalidation_nl": "De details van de materiële definitieve overeenkomst, inclusief de contractwaarde en de betrokken partijen, zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Marktdata is niet beschikbaar om te beoordelen of het nieuws al is ingeprijsd."
+    }
+  },
+  {
+    "time": "2026-08-21T12:53:01.081095+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Meridian3 Industrials Acquisition Corp (0002136530) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-21T12:53:02.162264+00:00",
+    "symbol": "FILER",
+    "title": "8-K - reAlpha Tech Corp. (0001859199) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

@@ -12773,5 +12773,126 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een gebeurtenis, maar de inhoud is niet beschikbaar voor analyse."
     }
+  },
+  {
+    "time": "2026-08-21T12:52:35.606715+00:00",
+    "symbol": "FILER",
+    "company": "Odysight.ai Inc. (0001577445) (Filer)",
+    "event_key": "a2b6161c2c6850b414d82ec48dec9d215232c467170f54d0cec78c1ab63f894e",
+    "event_family": "M_AND_A",
+    "title": "8-K - Odysight.ai Inc. (0001577445) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1577445/000149315226039574/0001493152-26-039574-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Odysight.ai Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin zowel het aangaan als het beëindigen van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan duiden op een nieuwe strategische transactie, zoals een overname of verkoop. Het beëindigen van een materiële overeenkomst kan echter ook een geplande transactie annuleren, wat de economische impact onzeker maakt.",
+      "risk_nl": "De aard, partijen en financiële details van zowel de aangegane als de beëindigde overeenkomst zijn onbekend. Het is onduidelijk welke M&A-gebeurtenis hier precies plaatsvindt en of deze positief of negatief is.",
+      "invalidation_nl": "Er zijn geen details over de aard, partijen of financiële voorwaarden van de genoemde overeenkomsten.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is te algemeen en tegenstrijdig om een concrete M&A-gebeurtenis te beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-21T12:52:51.842752+00:00",
+    "symbol": "FILER",
+    "company": "Latham Group, Inc. (0001833197) (Filer)",
+    "event_key": "e040c7b2a0eaab85d71ee13d03a87a5ac0acc5bf0f2420a27deb0a2b6acc44ff",
+    "event_family": "M_AND_A",
+    "title": "8-K - Latham Group, Inc. (0001833197) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1833197/000183319726000036/0001833197-26-000036-index.htm",
+    "news_age_minutes": 10,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Latham Group, Inc. heeft een 8-K-formulier ingediend bij de SEC. Hierin wordt melding gemaakt van een materiële definitieve overeenkomst en het aangaan van een directe financiële verplichting.",
+      "why_nl": "Een materiële overeenkomst en financiële verplichting in het kader van een M&A-gebeurtenis kunnen de balans en toekomstige kasstromen van het bedrijf aanzienlijk beïnvloeden. Dit kan duiden op een belangrijke strategische stap of acquisitie.",
+      "risk_nl": "De specifieke aard, de betrokken partijen en de financiële voorwaarden van deze M&A-transactie zijn niet bekend. Zonder deze informatie is de economische impact onduidelijk.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de specifieke voorwaarden of de aard van de M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een materiële gebeurtenis, maar de inhoudelijke details ontbreken in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-08-21T12:53:00.540280+00:00",
+    "symbol": "FILER",
+    "company": "Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
+    "event_key": "36a32c12c488c421cd00ccaf238c90f210d8bf1d3588e063bdde6a4fcf242e26",
+    "event_family": "M_AND_A",
+    "title": "8-K - Wheeler Real Estate Investment Trust, Inc. (0001527541) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1527541/000152754126000303/0001527541-26-000303-index.htm",
+    "news_age_minutes": 19,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Wheeler Real Estate Investment Trust, Inc. heeft op 21 augustus 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie die de financiële positie of operationele focus van het bedrijf beïnvloedt.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn onbekend, wat aanzienlijke onzekerheid creëert over de gevolgen voor de aandeelhouders.",
+      "invalidation_nl": "De details van de materiële definitieve overeenkomst, inclusief de contractwaarde en de betrokken partijen, zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Marktdata is niet beschikbaar om te beoordelen of het nieuws al is ingeprijsd."
+    }
+  },
+  {
+    "time": "2026-08-21T12:53:01.617359+00:00",
+    "symbol": "FILER",
+    "company": "Meridian3 Industrials Acquisition Corp (0002136530) (Filer)",
+    "event_key": "ff56786b4a56d2bfec44cc7103ad7474f4dcd6a9b6c9f8ec74b19ef738ffd96d",
+    "event_family": "M_AND_A",
+    "title": "8-K - Meridian3 Industrials Acquisition Corp (0002136530) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2136530/000110465926099399/0001104659-26-099399-index.htm",
+    "news_age_minutes": 25,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-21T12:53:02.695258+00:00",
+    "symbol": "FILER",
+    "company": "reAlpha Tech Corp. (0001859199) (Filer)",
+    "event_key": "f233e9bc8523dc5b97c2a518bc62e8cdb9b6ff3f7b15b7a055d3a316de781632",
+    "event_family": "M_AND_A",
+    "title": "8-K - reAlpha Tech Corp. (0001859199) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1859199/000121390026092336/0001213900-26-092336-index.htm",
+    "news_age_minutes": 26,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
