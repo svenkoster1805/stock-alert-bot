@@ -3214,5 +3214,35 @@
     "symbol": "FILER",
     "title": "8-K - Woodward, Inc. (0000108312) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "fab29134612326da846f0fbce5c7d16ac9875a4072d584acc4328bae0727fe11": {
+    "first_alert_at": "2026-08-21T20:08:51.516211+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Profusa, Inc. (0001859807) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5f46b668ea1673b431614c926ec2f60785402c0c5a2675817fc3a83ac73e3cdf": {
+    "first_alert_at": "2026-08-21T20:09:03.742813+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Chaince Digital Holdings Inc. (0001527762) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "dda228a41f6f982c8879bfdf03e228381ede20dd151153e97f8262b86f2d7ed3": {
+    "first_alert_at": "2026-08-21T20:09:12.318528+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WINNEBAGO INDUSTRIES INC (0000107687) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "608a732fbdf8d7a36a0b4452a9355013e237fadac09a488419dfbbcf0e8db7b5": {
+    "first_alert_at": "2026-08-21T20:09:23.386112+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GSI TECHNOLOGY INC (0001126741) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "67ecd2ce6a0b40cc73c58df2fb9ed39471e3eb78979b93ea86644aff1dd55f50": {
+    "first_alert_at": "2026-08-21T20:09:24.304127+00:00",
+    "symbol": "FILER",
+    "title": "8-K - RenX Enterprises Corp. (0001959023) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

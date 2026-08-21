@@ -12994,5 +12994,126 @@
       "is_already_priced": false,
       "notes": "Nadere details over de materiële definitieve overeenkomst en de financiële verplichting zijn essentieel voor een beoordeling."
     }
+  },
+  {
+    "time": "2026-08-21T20:09:03.262894+00:00",
+    "symbol": "FILER",
+    "company": "Profusa, Inc. (0001859807) (Filer)",
+    "event_key": "fab29134612326da846f0fbce5c7d16ac9875a4072d584acc4328bae0727fe11",
+    "event_family": "M_AND_A",
+    "title": "8-K - Profusa, Inc. (0001859807) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1859807/000121390026092597/0001213900-26-092597-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Profusa, Inc. heeft een 8-K-formulier ingediend dat melding maakt van een materiële definitieve overeenkomst, het creëren van een directe financiële verplichting en de niet-geregistreerde verkoop van aandelen. Dit document is op 21 augustus 2026 gepubliceerd.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst en een financiële verplichting duidt op een significante zakelijke transactie die de financiële positie van Profusa kan beïnvloeden. De verkoop van aandelen kan duiden op financiering of een eigendomsoverdracht gerelateerd aan deze transactie.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de materiële overeenkomst en de financiële verplichting zijn onbekend. Zonder deze details is het onduidelijk of de transactie positief of negatief is voor de aandeelhouderswaarde.",
+      "invalidation_nl": "De contractwaarde, de tegenpartij en de volledige voorwaarden van de materiële overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een materiële gebeurtenis, maar de details van de M&A-transactie ontbreken in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-21T20:09:11.844929+00:00",
+    "symbol": "FILER",
+    "company": "Chaince Digital Holdings Inc. (0001527762) (Filer)",
+    "event_key": "5f46b668ea1673b431614c926ec2f60785402c0c5a2675817fc3a83ac73e3cdf",
+    "event_family": "M_AND_A",
+    "title": "8-K - Chaince Digital Holdings Inc. (0001527762) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1527762/000149315226039671/0001493152-26-039671-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Chaince Digital Holdings Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin de onderneming melding maakt van het aangaan van een materiële definitieve overeenkomst.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een fusie, overname of andere strategische transactie die de toekomstige waarde van het bedrijf beïnvloedt.",
+      "risk_nl": "De belangrijkste onbekende is de inhoud en financiële impact van de overeenkomst, inclusief de contractwaarde en de identiteit van de tegenpartij.",
+      "invalidation_nl": "Zonder concrete financiële details of voorwaarden van de overeenkomst is een geïnformeerde handelsbeslissing niet mogelijk.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een materiële overeenkomst, maar specifieke details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-08-21T20:09:22.883316+00:00",
+    "symbol": "FILER",
+    "company": "WINNEBAGO INDUSTRIES INC (0000107687) (Filer)",
+    "event_key": "dda228a41f6f982c8879bfdf03e228381ede20dd151153e97f8262b86f2d7ed3",
+    "event_family": "M_AND_A",
+    "title": "8-K - WINNEBAGO INDUSTRIES INC (0000107687) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/107687/000110465926099676/0001104659-26-099676-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "WINNEBAGO INDUSTRIES INC heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van een materiële definitieve overeenkomst en het aangaan van een directe financiële verplichting. Dit document is op 21 augustus 2026 gepubliceerd.",
+      "why_nl": "Een materiële definitieve overeenkomst en een directe financiële verplichting kunnen duiden op een belangrijke strategische zet of investering die de financiële positie van het bedrijf beïnvloedt. Dit kan de toekomstige groei of schuldpositie van Winnebago beïnvloeden.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de overeenkomst en de financiële verplichting zijn onbekend, waardoor de impact op het bedrijf onduidelijk is. Zonder details over de tegenpartij of de waarde is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard van de overeenkomst, de betrokken partijen of de financiële omvang om een handelsbeslissing te rechtvaardigen.",
+      "is_already_priced": false,
+      "notes": "De 8-K-titel en samenvatting bevestigen een officiële melding, maar de inhoudelijke details ontbreken."
+    }
+  },
+  {
+    "time": "2026-08-21T20:09:23.851221+00:00",
+    "symbol": "FILER",
+    "company": "GSI TECHNOLOGY INC (0001126741) (Filer)",
+    "event_key": "608a732fbdf8d7a36a0b4452a9355013e237fadac09a488419dfbbcf0e8db7b5",
+    "event_family": "M_AND_A",
+    "title": "8-K - GSI TECHNOLOGY INC (0001126741) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1126741/000110465926099675/0001104659-26-099675-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-21T20:09:24.753073+00:00",
+    "symbol": "FILER",
+    "company": "RenX Enterprises Corp. (0001959023) (Filer)",
+    "event_key": "67ecd2ce6a0b40cc73c58df2fb9ed39471e3eb78979b93ea86644aff1dd55f50",
+    "event_family": "M_AND_A",
+    "title": "8-K - RenX Enterprises Corp. (0001959023) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1959023/000121390026092589/0001213900-26-092589-index.htm",
+    "news_age_minutes": 7,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
