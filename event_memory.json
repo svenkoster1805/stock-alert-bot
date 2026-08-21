@@ -3208,5 +3208,11 @@
     "symbol": "FILER",
     "title": "8-K - Antares Private Credit Fund (0001976336) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "ff10384f45e62d5fd5a83a24d429c44b24097d82aaee52dab1bf106b3c9808a4": {
+    "first_alert_at": "2026-08-21T18:58:33.507148+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Woodward, Inc. (0000108312) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
