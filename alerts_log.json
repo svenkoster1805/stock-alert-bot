@@ -13351,5 +13351,103 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-21T20:58:45.538269+00:00",
+    "symbol": "FILER",
+    "company": "OS Therapies Inc (0001795091) (Filer)",
+    "event_key": "53fac147fcf13fb633389fd89d43111a85a5d21d6a572a68f4992bb22d6b0dba",
+    "event_family": "M_AND_A",
+    "title": "8-K - OS Therapies Inc (0001795091) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1795091/000121390026092651/0001213900-26-092651-index.htm",
+    "news_age_minutes": 7,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "OS Therapies Inc (Filer) heeft op 21 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst (Item 1.01).",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een fusie, overname of een andere transactie die de bedrijfswaarde beïnvloedt. Dit kan leiden tot significante veranderingen in de financiële positie of operationele activiteiten van het bedrijf.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn onbekend, wat het risico op onverwachte uitkomsten vergroot. Zonder details over de tegenpartij of de contractwaarde is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de betrokken partijen of de exacte aard van de M&A-transactie beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de materiële overeenkomst zijn essentieel voor een volledige beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-21T20:58:55.172402+00:00",
+    "symbol": "FILER",
+    "company": "GRAY MEDIA, INC (0000043196) (Filer)",
+    "event_key": "b6e72cb8c96f20ae88b3cc03b45eb1c4c56cebdf08d3219563020fb6d90dff1a",
+    "event_family": "M_AND_A",
+    "title": "8-K - GRAY MEDIA, INC (0000043196) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/43196/000143774926028749/0001437749-26-028749-index.htm",
+    "news_age_minutes": 8,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "GRAY MEDIA, INC heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting. Dit document is op 21 augustus 2026 gepubliceerd.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst, mogelijk een overname, kan de bedrijfsstructuur en financiële positie van GRAY MEDIA, INC significant beïnvloeden. De creatie van een financiële verplichting duidt op een concrete transactie met economische gevolgen.",
+      "risk_nl": "De specifieke financiële voorwaarden, zoals de contractwaarde en de aard van de financiële verplichting, zijn niet bekend uit de verstrekte samenvatting. Zonder deze details is de impact op de aandeelhouderswaarde onduidelijk.",
+      "invalidation_nl": "De contractwaarde, de specifieke voorwaarden van de overeenkomst en de identiteit van de tegenpartij zijn niet vermeld in de beschikbare gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële overeenkomst en financiële verplichting, maar details ontbreken in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-08-21T20:59:05.774804+00:00",
+    "symbol": "FILER",
+    "company": "JAB Acquisition Corp I (0002128739) (Filer)",
+    "event_key": "74049b40261f550f9cbdf1a1f483fba133f0ff65c84fbf8cd544853f003cee90",
+    "event_family": "M_AND_A",
+    "title": "8-K - JAB Acquisition Corp I (0002128739) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2128739/000121390026092644/0001213900-26-092644-index.htm",
+    "news_age_minutes": 13,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "JAB Acquisition Corp I heeft een 8-K document ingediend op 21 augustus 2026, met betrekking tot 'Other Events' en 'Financial Statements and Exhibits'.",
+      "why_nl": "Een 8-K filing kan belangrijke bedrijfsevenementen signaleren, maar de specifieke aard van deze 'Other Events' is onbekend.",
+      "risk_nl": "Zonder details over de inhoud van de 8-K is het onmogelijk om de economische impact te beoordelen.",
+      "invalidation_nl": "De verstrekte samenvatting van de 8-K filing bevestigt geen fusie- of overnameactiviteit.",
+      "is_already_priced": false,
+      "notes": "De classificatie als M&A wordt niet ondersteund door de beschikbare tekst."
+    }
+  },
+  {
+    "time": "2026-08-21T20:59:06.640231+00:00",
+    "symbol": "FILER",
+    "company": "ROCKETFUEL BLOCKCHAIN, INC. (0000823546) (Filer)",
+    "event_key": "184021c3252bafacde9e1b1f841a3bf1c904dd898c2b0955bcc4cb4a9bf2d4c5",
+    "event_family": "M_AND_A",
+    "title": "8-K - ROCKETFUEL BLOCKCHAIN, INC. (0000823546) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/823546/000137647426000578/0001376474-26-000578-index.htm",
+    "news_age_minutes": 18,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
