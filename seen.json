@@ -1,24 +1,4 @@
 {
-  "0b29c1ceec1986de38ae2ccc1fe067222bd047c01dc4a7e1a74cde55ff7746d8": {
-    "first_seen": "2026-08-03T20:37:45.611334+00:00",
-    "title": "8-K - GLACIER BANCORP, INC. (0000868671) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "902110148a6175da12f12cb767f3c9db41a84cd3a54fda4d37e21d762434964b": {
-    "first_seen": "2026-08-03T20:37:45.611351+00:00",
-    "title": "8-K - Stagwell Inc (0000876883) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "1b6db6f0c362d4c77928aed5761747ac5de6e9969283488768922713053f8e88": {
-    "first_seen": "2026-08-03T20:37:45.611366+00:00",
-    "title": "8-K - Teladoc Health, Inc. (0001477449) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "41e007dca6aa165db5324288188f527eaa24a87f72a1fd6d3a3726413ffb0e73": {
-    "first_seen": "2026-08-03T20:37:45.611381+00:00",
-    "title": "8-K - ALAMO GROUP INC (0000897077) (Filer)",
-    "publisher": "SEC.gov"
-  },
   "6fc2966c9b2914bc427029ab7f5a3ee0b47a402ae906269df5e9533397317f61": {
     "first_seen": "2026-08-03T20:37:45.611394+00:00",
     "title": "8-K - Bancorp, Inc. (0001295401) (Filer)",
@@ -39998,5 +39978,25 @@
     "first_seen": "2026-08-21T18:58:33.066264+00:00",
     "title": "ConocoPhillips (NYSE: COP) executive plans $1.3M stock sale - Stock Titan",
     "publisher": "Stock Titan"
+  },
+  "c63153fd43e8b08576bbf5da0c375146a32fad3588749d3b446faf8e500c4012": {
+    "first_seen": "2026-08-21T19:29:29.676326+00:00",
+    "title": "8-K - CONSUMER PORTFOLIO SERVICES, INC. (0000889609) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "2d8279d2fdfd7bb900363321199dde793892bc45430c9977c87c384b2c08f0ee": {
+    "first_seen": "2026-08-21T19:29:29.676359+00:00",
+    "title": "8-K - Gaucho Group Holdings, Inc. (0001559998) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "234ecd16a49d7e42182cd4733fbb99899238223849f2cd6e58fc4d48b0bbee73": {
+    "first_seen": "2026-08-21T19:29:29.676378+00:00",
+    "title": "8-K/A - NEONC TECHNOLOGIES HOLDINGS, INC. (0001979414) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "baf4b2e16e0927d702424349eaf4039ec9e28943ea39f76b4c1ce1fae1a3bd17": {
+    "first_seen": "2026-08-21T19:29:29.676476+00:00",
+    "title": "6-K - Banco Santander, S.A. (0000891478) (Filer)",
+    "publisher": "SEC.gov"
   }
 }
