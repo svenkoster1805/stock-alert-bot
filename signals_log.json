@@ -8454,5 +8454,193 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-21T21:28:50.405836+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Starling Oncology, Inc. (0001799191) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Starling Oncology, Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en een directe financiële verplichting wordt gemeld.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden, wat potentieel economische relevantie heeft.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn onbekend, waardoor de potentiële waardecreatie of risico's niet beoordeeld kunnen worden.",
+      "invalidation_nl": "De essentiële details van de M&A, zoals de betrokken partijen, de contractwaarde en de precieze voorwaarden, ontbreken volledig in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een overeenkomst, maar de inhoudelijke details voor een M&A-beoordeling ontbreken."
+    }
+  },
+  {
+    "time": "2026-08-21T21:29:01.728051+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GEE Group Inc. (0000040570) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "GEE Group Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Dit document is recent gepubliceerd op 21 augustus 2026.",
+      "why_nl": "Een materiële definitieve overeenkomst kan een significante impact hebben op de bedrijfsvoering en financiële prestaties van GEE Group Inc. Het kan duiden op een strategische transactie die de toekomstige richting van het bedrijf bepaalt.",
+      "risk_nl": "De specifieke aard, de tegenpartij en de financiële voorwaarden van deze overeenkomst zijn nog onbekend. Zonder deze details is het risico hoog dat de impact op de aandeelhouderswaarde niet kan worden ingeschat.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de contractwaarde en de specifieke voorwaarden, zijn niet beschikbaar in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere openbaarmakingen zijn noodzakelijk om de economische relevantie en potentiële impact van deze overeenkomst te kunnen beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-21T21:29:13.224503+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Global Water Resources, Inc. (0001434728) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Global Water Resources, Inc. heeft op 21 augustus 2026 een materiële definitieve overeenkomst gesloten en niet-geregistreerde aandelen verkocht, zoals gemeld in een 8-K filing.",
+      "why_nl": "Een materiële overeenkomst kan de strategie en financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan leiden tot verwatering of kapitaal verschaffen voor groei, wat de waardering kan beïnvloeden.",
+      "risk_nl": "De exacte aard, partijen en financiële voorwaarden van de overeenkomst zijn onbekend, wat de impact onzeker maakt. Zonder deze details is het onduidelijk of dit positief of negatief uitpakt voor aandeelhouders.",
+      "invalidation_nl": "Er is geen contractwaarde, partijen of specifieke voorwaarden van de M&A-transactie bekendgemaakt in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de materiële overeenkomst en de verkoop van aandelen zijn essentieel voor een volledige beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-21T21:29:13.914339+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Zeo Energy Corp. (0001865506) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-21T21:29:14.624453+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Nexalin Technology, Inc. (0001527352) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-21T21:29:15.366704+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MANGOCEUTICALS, INC. (0001938046) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-21T21:29:16.089062+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Apimeds Pharmaceuticals US, Inc. (0001894525) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-21T21:29:16.904341+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FARADAY FUTURE INTELLIGENT ELECTRIC INC. (0001805521) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-21T21:29:17.701131+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Edgemode, Inc. (0001652958) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-21T21:29:18.407124+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sadot Group Inc. (0001701756) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-21T21:29:19.241021+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - RMX INDUSTRIES, INC. (0001970743) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-21T21:29:19.944867+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ELUTIA INC. (0001708527) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-21T21:29:20.730312+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Phillips 66 (0001534701) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
