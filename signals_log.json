@@ -8138,5 +8138,21 @@
       "is_already_priced": false,
       "notes": "Verdere details over de overeenkomst en de aandelenverkoop zijn nodig voor een volledige beoordeling."
     }
+  },
+  {
+    "time": "2026-08-21T18:14:49.828072+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Antares Private Credit Fund (0001976336) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Antares Private Credit Fund heeft een 8-K-formulier ingediend bij de SEC, waarin de sluiting van een materiële definitieve overeenkomst en wijzigingen in de statuten worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke transactie die de financiële positie of strategie van het fonds beïnvloedt. Wijzigingen in de statuten kunnen ook invloed hebben op de governance en toekomstige bedrijfsvoering.",
+      "risk_nl": "Zonder de inhoud van de materiële definitieve overeenkomst is de impact op de financiële positie en strategie van het fonds onbekend. De economische relevantie kan hierdoor niet volledig worden beoordeeld.",
+      "invalidation_nl": "De essentiële economische details van de overeenkomst, zoals de tegenpartij, de waarde en de specifieke voorwaarden, zijn niet beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt het bestaan van een overeenkomst, maar de inhoud is niet gespecificeerd in de verstrekte gegevens."
+    }
   }
 ]

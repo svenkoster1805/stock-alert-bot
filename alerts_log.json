@@ -12944,5 +12944,30 @@
       "is_already_priced": false,
       "notes": "Verdere details over de overeenkomst en de aandelenverkoop zijn nodig voor een volledige beoordeling."
     }
+  },
+  {
+    "time": "2026-08-21T18:14:50.208415+00:00",
+    "symbol": "FILER",
+    "company": "Antares Private Credit Fund (0001976336) (Filer)",
+    "event_key": "d5c1d3eb2a9ac5decd62d8de722166bdbdf8cdc09a4108eb9973223bb81ec584",
+    "event_family": "M_AND_A",
+    "title": "8-K - Antares Private Credit Fund (0001976336) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1976336/000110465926099624/0001104659-26-099624-index.htm",
+    "news_age_minutes": 15,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Antares Private Credit Fund heeft een 8-K-formulier ingediend bij de SEC, waarin de sluiting van een materiële definitieve overeenkomst en wijzigingen in de statuten worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke transactie die de financiële positie of strategie van het fonds beïnvloedt. Wijzigingen in de statuten kunnen ook invloed hebben op de governance en toekomstige bedrijfsvoering.",
+      "risk_nl": "Zonder de inhoud van de materiële definitieve overeenkomst is de impact op de financiële positie en strategie van het fonds onbekend. De economische relevantie kan hierdoor niet volledig worden beoordeeld.",
+      "invalidation_nl": "De essentiële economische details van de overeenkomst, zoals de tegenpartij, de waarde en de specifieke voorwaarden, zijn niet beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt het bestaan van een overeenkomst, maar de inhoud is niet gespecificeerd in de verstrekte gegevens."
+    }
   }
 ]
