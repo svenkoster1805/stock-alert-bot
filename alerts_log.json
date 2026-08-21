@@ -12894,5 +12894,55 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-21T13:36:29.724351+00:00",
+    "symbol": "FILER",
+    "company": "/A - CDT Equity Inc. (0001896212) (Filer)",
+    "event_key": "70556b5febd8169931a1d65723b54f0cec9c3fe04093fadb49d834ea205666f3",
+    "event_family": "M_AND_A",
+    "title": "8-K/A - CDT Equity Inc. (0001896212) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1896212/000149315226039587/0001493152-26-039587-index.htm",
+    "news_age_minutes": 8,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "CDT Equity Inc. heeft op 21 augustus 2026 een 8-K/A-formulier ingediend bij de SEC. Dit formulier meldt de voltooiing van een acquisitie of desinvestering van activa.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering is een belangrijke gebeurtenis die de financiële positie en toekomstige vooruitzichten van CDT Equity Inc. kan veranderen. Dit kan invloed hebben op de aandelenkoers.",
+      "risk_nl": "De specifieke details van de acquisitie of desinvestering, zoals de waarde, de aard van de activa en de tegenpartij, zijn niet bekend. Zonder deze informatie is de economische impact onduidelijk.",
+      "invalidation_nl": "Er zijn geen economische details (zoals contractwaarde of specifieke activa) beschikbaar om de impact van de transactie te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K/A melding bevestigt de voltooiing van een transactie, maar de financiële voorwaarden ontbreken in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-08-21T13:36:44.376720+00:00",
+    "symbol": "FILER",
+    "company": "Werewolf Therapeutics, Inc. (0001785530) (Filer)",
+    "event_key": "551350e0bd9bdd73ff525ede45ade36f9174aea8cfb42146d291860118dcf40b",
+    "event_family": "M_AND_A",
+    "title": "8-K - Werewolf Therapeutics, Inc. (0001785530) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1785530/000119312526360059/0001193125-26-360059-index.htm",
+    "news_age_minutes": 25,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Werewolf Therapeutics, Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Tevens zijn er niet-geregistreerde verkopen van aandelen gemeld.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of samenwerking, die de toekomstige waarde van het bedrijf kan beïnvloeden. De verkoop van aandelen kan gerelateerd zijn aan de financiering hiervan.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn onbekend, wat het risico op een ongunstige uitkomst vergroot. Zonder details over de tegenpartij of de impact op de balans is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er is geen contractwaarde, tegenpartij of concrete voorwaarden van de materiële definitieve overeenkomst bekendgemaakt in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst en de aandelenverkoop zijn nodig voor een volledige beoordeling."
+    }
   }
 ]

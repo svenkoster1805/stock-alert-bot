@@ -3190,5 +3190,17 @@
     "symbol": "FILER",
     "title": "8-K - reAlpha Tech Corp. (0001859199) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "70556b5febd8169931a1d65723b54f0cec9c3fe04093fadb49d834ea205666f3": {
+    "first_alert_at": "2026-08-21T13:36:15.523833+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - CDT Equity Inc. (0001896212) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "551350e0bd9bdd73ff525ede45ade36f9174aea8cfb42146d291860118dcf40b": {
+    "first_alert_at": "2026-08-21T13:36:30.120691+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Werewolf Therapeutics, Inc. (0001785530) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
