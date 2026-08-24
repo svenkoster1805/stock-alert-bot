@@ -1,131 +1,5 @@
 [
   {
-    "time": "2026-07-23T10:49:53.732322+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - LUXFER HOLDINGS PLC (0001096056) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 8,
-    "url": "https://www.sec.gov/Archives/edgar/data/1096056/000143774926024227/0001437749-26-024227-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.732335+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Mobileye Global Inc. (0001910139) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 8,
-    "url": "https://www.sec.gov/Archives/edgar/data/1910139/000110465926086062/0001104659-26-086062-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.732357+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Mobileye Global Inc. (0001910139) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 9,
-    "url": "https://www.sec.gov/Archives/edgar/data/1910139/000110465926086061/0001104659-26-086061-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.732371+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - FIRST CITIZENS BANCSHARES INC /DE/ (0000798941) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 17,
-    "url": "https://www.sec.gov/Archives/edgar/data/798941/000079894126000027/0000798941-26-000027-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.732391+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Snap-on Inc (0000091440) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 18,
-    "url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000141/0000091440-26-000141-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.732402+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Lazard, Inc. (0001311370) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 18,
-    "url": "https://www.sec.gov/Archives/edgar/data/1311370/000162828026049278/0001628280-26-049278-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.732414+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - LOCKHEED MARTIN CORP (0000936468) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 18,
-    "url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026049277/0001628280-26-049277-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.732425+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - T-Mobile US, Inc. (0001283699) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 20,
-    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000100/0001283699-26-000100-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.732437+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - CLEVELAND-CLIFFS INC. (0000764065) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 22,
-    "url": "https://www.sec.gov/Archives/edgar/data/764065/000076406526000097/0000764065-26-000097-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.732448+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Amalgamated Financial Corp. (0001823608) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 23,
-    "url": "https://www.sec.gov/Archives/edgar/data/1823608/000182360826000177/0001823608-26-000177-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.732461+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - HUNTINGTON BANCSHARES INC /MD/ (0000049196) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 33,
-    "url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000060/0000049196-26-000060-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.783279+00:00",
-    "reason": "te oud voor fastlane (39 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Gentherm Inc (0000903129) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 39,
-    "url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526313204/0001193125-26-313204-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.783332+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - CVB FINANCIAL CORP (0000354647) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 39,
-    "url": "https://www.sec.gov/Archives/edgar/data/354647/000119312526313203/0001193125-26-313203-index.htm"
-  },
-  {
-    "time": "2026-07-23T10:49:53.783350+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - COMCAST CORP (0001166691) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 43,
-    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026049274/0001628280-26-049274-index.htm"
-  },
-  {
     "time": "2026-07-23T10:49:53.783366+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107872,131 @@
     "publisher": "Stock Titan",
     "age_minutes": 10,
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc04wVjhfNU9nbklRbkRGZ0VlSnRCSHRiYzJwYmVlTm5WUkNvSG94YjZoRVdvYXZ2QTZDU1RtZWlGcTItR3hkQVBNRVVBT2hlN2FUTGdSUV9RaTJxaVVDRzMyTmhOcDVtbFUySXg1UFQ1RWNiRmFvd0hsbExTZzVCYTN5MzNpNndVWVozM2NRTXN6Rnc?oc=5"
+  },
+  {
+    "time": "2026-08-24T21:39:35.360362+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "CHGA",
+    "title": "Change Agents (NASDAQ: CHGA) sets 20¢ share line with 19.99% cap - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 34,
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX21URlR6LTBuX0NTcm5aY1RGWVZOMVp5ZlZ5dHBLMXF6WUZtb085TFJfR0t2WEJlQUNxcWtMWDhISEFXb0w0MUxjM3lHZVdIMVBpS0hSM3JDUmMtWG1ORDkwMVJKdEpqZ3NPZVlibE4tV0ZFSTJ4MVgxT1ZKNUZyWnJ6bnRFc1FIMFJocG1lUnJuT2VoVWw0bC1RNW5qUlhGWHlfVUFCaVYtMUVhX0k4d3JMMGs?oc=5"
+  },
+  {
+    "time": "2026-08-24T21:39:35.360380+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "JUNS",
+    "title": "Jupiter Neurosciences (NASDAQ: JUNS) raises $2M as Nasdaq review continues - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 46,
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDdMU244NVlhRDhwYXR6SEJqbGg5bmJfUWE4RkYwRThiWmZlV2ljQTdlWWlEOEpWSnhrclREU1o4Q1VBMXJZUXdOTlMzOTk2dDdjazRMLURfTS1qTWRmZnpKMXBadm10My1WUVJOd3ZFLVg1UEYyczg0RVBsZnNmeTNXOHloWjNvenM0MkFUdzJHOWo0MFBFM1dhM2RaMHh3RXlMMjUtdHhfR1hKMlFnRVZPRk4?oc=5"
+  },
+  {
+    "time": "2026-08-24T21:39:35.835272+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Calian completes acquisition of Galaxy Broadband for C$51.5M By Investing.com - Investing.com Canada",
+    "publisher": "Investing.com Canada",
+    "age_minutes": 12,
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV3ZPOEZ3RDJXak1WcjJnbGs4UmF5OWxxaDAyLVZLQldPWW5UbHpBaDI5M3E4WUw3OXF6QVRaLU5GWWQySDMzRFhUSDNsZXhtWm5EaFRDclRYV3JubHlyR1hfLUtCeldEeTBWYmluU3VUMHJxdzdpdmhjSzB6MUwweFV2RElqaWNfTVFHVWFiVWVteW9vcHNBdm1BX2R2dmtjOWxQcmVUQWdnbG0zdG5uSXBYcE1TclBJM2o4?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-24T21:39:36.215543+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Orangekloud to acquire VeVe operator, rename company - Investing.com",
+    "publisher": "Investing.com",
+    "age_minutes": 43,
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcG16cEZSLXVIYUZVSkg0NEVqNF8zdFg5UW5CVXRvN3R2WUd5aFJUYUUxc290RWtBX1l6SkplVVpqUjI5ZlFtMmE0WXZaS2E4Snpta1hUcWt2bGlJY0JLWTI1cS1ZRmdWVmVCZ3ZMLWs4V1lkXzQzdUFJcjFtYk9XREIyQ3JhVjVtel9ma1NpM283NFlKYzVjUTZxNzZ0T3lydFFzYS14OGZqZThs?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-24T21:39:36.436094+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "REAX",
+    "title": "Real REMAX Group (Nasdaq: REAX) debuts after $550M merger - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 51,
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0lRTzRzV2lxdU95ck5FUzhtS2NQMVd6Z0tzOXJsN0dmMUxJTk40NHBLVVJQYldZUjQwYWRiMExZTlpPQVI3RWZ4dDB3dHBheGJtMkViUjg2NnBEZWVBOTFVeE1MQTVhenVuYTcyMUMxREswUDRhVGkyX2t2WjBrY1NYdUg4V09teXRtS2hWcTlhVDMwSVlYeWRZcGZrNWpqbTNZUEtaVzNqWEszQ2MwcFN2ejk?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-24T21:39:36.436142+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "[6-K] Linkers Industries Ltd Current Report (Foreign Issuer) - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 38,
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWdaM0FEbURvMGliZTN1d3hBc3VET2k1MEIySDk3bDFoMHN5QVVRNXpUOVhsNmtqZGdVMmNTZ1pCS3FUS1FQZ2tfb1lIdnVMWllmQlRCZUl5eWpncUg2Q0VyOS1XZi1zUkFxS3NjcnFXd1ZrQWlWTG5VSTBpYWxSSm9DZm1Ga1pLbEFmVi1TcElwb3NkYzNXUWJrY0hHc1VFZ1hnc1pTMjBhV0tLdzd3OU8xQi1kQVdTbXc?oc=5"
+  },
+  {
+    "time": "2026-08-24T21:39:36.436166+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "TGT",
+    "title": "Target (NYSE: TGT) insider lines up $2.6M stock sale for 2026 - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 26,
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFJTM1dIYVo0M0FENncyTFZCZ0Nqd3lRNWk5RkJBSkZrY2RMWUdaTmVSS0p3R1RhamFidEY5TlhkUWhTV1Vmd3J5Ml9KLUdfWDkyUTZrNDd3WDdIX2JoQXFxOWgzUU0ybGtOMjhqejE5VTdYUFlfWWVmeXp5RlBpNUx6RWRFNHpnamgtQVJ4bmo?oc=5"
+  },
+  {
+    "time": "2026-08-24T21:39:36.436182+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "TXG",
+    "title": "10x Genomics (NASDAQ: TXG) holder to sell 2,207 RSU shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 11,
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZElpMHRfOHc4WmZCdXpMQi0xMEZkNTR6Y21CWTJLWldGd3lKUVphZ1lzQmJfRk12UmhPcUgwS3ptMU9mNENYWjdzU1dtUThKdVRhWHAwRUt0blJWemMxMEV6ejF0d0h4UE43R0VDUkNUMWZCdVQxNG02ZV9KMXNFd2lxQVpSbEdqbGRSN0xjeWNjLURLMWE4?oc=5"
+  },
+  {
+    "time": "2026-08-24T21:39:36.436197+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "CGON",
+    "title": "CG Oncology (NASDAQ: CGON) officer plans new sale after $7.95M August trade - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 26,
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYjZnODI2RzlyZXgzanRqUHREX1FJTEFUb3lrRmYtTk1seDdCdkhDbEZWWkRCNXI0RExwLXJwM3k0MkIxRm1PbHBPRzRtNGJuY1Jvc210R1NodUVDNE5KTmMyOWlJNGF0by1fZS1OZzlrN2VTRV9SUUIxcGVJS1FIcjBheG5VbWllS3M2Qjl0T3lZNWZyYUt3?oc=5"
+  },
+  {
+    "time": "2026-08-24T21:39:36.436232+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "NWPX",
+    "title": "NWPX Infrastructure (NASDAQ: NWPX) director to sell 1,250 shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 37,
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb0RmYW9VMmlfck45X0loaE93c2VMSURCOTBHdkdpUldadHZISFY1SmVyRHdPRm5kUGhqRFEweTI4WkNVVDBqZVZlejBIVlo1aHRHYTVzaHNZQUlVMEZEQW1YNUNydFlHZzNrYzZ2dElXaEFXX25KY1ZoMEg5QTl1ckpLenFYVDFCUFF6b1pxbUtlaGgwVVNuX3hQUGd1d0RYMEE?oc=5"
+  },
+  {
+    "time": "2026-08-24T21:39:36.436248+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "BFST",
+    "title": "Business First Bancshares (BFST) director plans $76K sale - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 26,
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeXVHMUpZWjdTOUhhZmQ3Nm9EZ3FBdnVrUW5ZanhCN3IzSEZkY21QSXRwaXJmQU8zdlZPMmRlZXFsR0NaNHZSaTExRmlaT0RGT3ZiWHV6d1E3czNlNHc3YTBPYTMtRE9BOUVvUTdIQmd4Zm01M19wU1oyWkdiaGUxbUJzdmR6VmVsTEhvLXkwd2t2c1VtM0xiX2dicnZuTGZSTjBfMDNBeFBMdw?oc=5"
+  },
+  {
+    "time": "2026-08-24T21:39:36.436260+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "INTA",
+    "title": "Intapp, Inc. (INTA) insider lines up multimillion stock sale - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 59,
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUHphc01iYXRYUnBxVnBQREZBWk1GTUxZTUxCUWwzcUdYbU5NZE44bkFIQkVsWGxKOF9MWmc4UzRWX1FZa0lJRUgxamlzZ3hIV1JHVkdyVEJoWFptOTlCSnFWOVhBbVhvYXdIVXBsZUlvVUtTWmFaRFo1LW9fRUx0cTZLLUVTdHdweVc2ZG9Bc20?oc=5"
+  },
+  {
+    "time": "2026-08-24T21:39:36.436273+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "OCUL",
+    "title": "Ocular Therapeutix (NASDAQ: OCUL) officer to sell $32.7K stock - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 55,
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcU15eWtaNmpkTDJpQjhKTHNfS0JRN1NiaExpVGdWNGltTXlKMUJqZklLQzJWOWR5S0xVUno5c1cyUGZJNlB4aUd5ZUdqU1BySGJ3S1gtZDljSGJrdmFTNTBZcEJ2c3hRRExhejh5WTFhVUs5VERYS3lIek9VS2N3QUYyZ25Semdra0xuUnVEZTlSUmRaWTNhOXpEbFBQQlhY?oc=5"
+  },
+  {
+    "time": "2026-08-24T21:39:36.436287+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "SYM",
+    "title": "Symbotic (NASDAQ: SYM) officer to sell 3,985 vested shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 58,
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1lJRHFkYUZKTkY4cWljcFJsUTB0Ry01S0FHRjZ1azVSOU9CYU54S0xnc25xZ201Mm41b3hZeXVLc1F5bU1YX3dEX1NuczhTaWprSTBBM0M4T2d1OVlvQnk3bHVtLXBHLWV6cDdMc0NqeGhKMUI3a2ZPYmh4bU4xMG5DZTBhQTBEajdwR0k5c2tGQQ?oc=5"
   }
 ]
