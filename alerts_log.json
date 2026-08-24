@@ -13854,5 +13854,30 @@
       "is_already_priced": false,
       "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig om de aard en impact ervan te beoordelen."
     }
+  },
+  {
+    "time": "2026-08-24T15:21:30.547621+00:00",
+    "symbol": "FILER",
+    "company": "SILVER BOW MINING CORP. (0002067674) (Filer)",
+    "event_key": "c81d5acef2366cc256b0d7e1890278089964f76f756922d2ed152c9054105182",
+    "event_family": "M_AND_A",
+    "title": "8-K - SILVER BOW MINING CORP. (0002067674) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2067674/000153949726002331/0001539497-26-002331-index.htm",
+    "news_age_minutes": 13,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]

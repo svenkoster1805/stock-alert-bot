@@ -8706,5 +8706,21 @@
       "is_already_priced": false,
       "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig om de aard en impact ervan te beoordelen."
     }
+  },
+  {
+    "time": "2026-08-24T15:21:30.229456+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SILVER BOW MINING CORP. (0002067674) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]

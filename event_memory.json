@@ -3430,5 +3430,11 @@
     "symbol": "FILER",
     "title": "8-K - Expion360 Inc. (0001894954) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "c81d5acef2366cc256b0d7e1890278089964f76f756922d2ed152c9054105182": {
+    "first_alert_at": "2026-08-24T15:21:29.478193+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SILVER BOW MINING CORP. (0002067674) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
