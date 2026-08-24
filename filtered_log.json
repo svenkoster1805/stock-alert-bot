@@ -1,104 +1,5 @@
 [
   {
-    "time": "2026-07-22T21:04:57.688783+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Magnolia Oil & Gas Corp (0001698990) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 32,
-    "url": "https://www.sec.gov/Archives/edgar/data/1698990/000110465926085832/0001104659-26-085832-index.htm"
-  },
-  {
-    "time": "2026-07-22T21:04:57.688797+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - WYNDHAM HOTELS & RESORTS, INC. (0001722684) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 33,
-    "url": "https://www.sec.gov/Archives/edgar/data/1722684/000172268426000072/0001722684-26-000072-index.htm"
-  },
-  {
-    "time": "2026-07-22T21:04:57.688812+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - FULTON FINANCIAL CORP (0000700564) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 33,
-    "url": "https://www.sec.gov/Archives/edgar/data/700564/000070056426000029/0000700564-26-000029-index.htm"
-  },
-  {
-    "time": "2026-07-22T21:04:57.688825+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - NB Bancorp, Inc. (0001979330) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 34,
-    "url": "https://www.sec.gov/Archives/edgar/data/1979330/000110465926085826/0001104659-26-085826-index.htm"
-  },
-  {
-    "time": "2026-07-22T21:04:57.748132+00:00",
-    "reason": "te oud voor fastlane (34 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Onar Holding Corp (0001682265) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 34,
-    "url": "https://www.sec.gov/Archives/edgar/data/1682265/000147793226004451/0001477932-26-004451-index.htm"
-  },
-  {
-    "time": "2026-07-22T21:04:57.748183+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - STEWART INFORMATION SERVICES CORP (0000094344) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 34,
-    "url": "https://www.sec.gov/Archives/edgar/data/94344/000110465926085825/0001104659-26-085825-index.htm"
-  },
-  {
-    "time": "2026-07-22T21:04:57.748202+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Spok Holdings, Inc (0001289945) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 34,
-    "url": "https://www.sec.gov/Archives/edgar/data/1289945/000128994526000039/0001289945-26-000039-index.htm"
-  },
-  {
-    "time": "2026-07-22T21:04:57.748218+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - C3is Inc. (0001951067) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 3,
-    "url": "https://www.sec.gov/Archives/edgar/data/1951067/000119312526312537/0001193125-26-312537-index.htm"
-  },
-  {
-    "time": "2026-07-22T21:04:57.748231+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Nomad Foods Ltd (0001651717) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 4,
-    "url": "https://www.sec.gov/Archives/edgar/data/1651717/000119312526312530/0001193125-26-312530-index.htm"
-  },
-  {
-    "time": "2026-07-22T21:04:57.748244+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - MindWalk Holdings Corp. (0001715925) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 5,
-    "url": "https://www.sec.gov/Archives/edgar/data/1715925/000119312526312521/0001193125-26-312521-index.htm"
-  },
-  {
-    "time": "2026-07-22T21:04:57.748257+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Sigma Lithium Corp (0001848309) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 16,
-    "url": "https://www.sec.gov/Archives/edgar/data/1848309/000129281426003854/0001292814-26-003854-index.htm"
-  },
-  {
     "time": "2026-07-22T21:04:57.748269+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107899,104 @@
     "publisher": "The Hans India",
     "age_minutes": 42,
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRUhsSVNfZ210U28wcmpfQ3Q5VXBjVll3akNETndMN2ptTklMQWh5cEJuYnNZUW0wWlpiVzVfYWNubUlNa0FkRE1lV1FIcDVKLW1VZmVzdzRES0ZjTGFuWHRLUWpjUWpLUHlrSTNEZmRjdEdFRGxyX3NZTWJwVVBzYThiWWtZdmVRck5FTdIBkgFBVV95cUxPZ0lTWGdHWXc0cV9mV3d0ZGhIRm1BT1YtbWFTMXNRVU5RcHF4TFNDN1RNSUhrSlZlUWdjWXNHTXVXejZ3d2V3blFmOWlCUUZUS2s4cXE0bERPLURSYjc3Q1ZobUNubmZ2QjgxZnBmY1ZET3dBdUI4ZEc0aHhsVElmY3l6RklvUUx5NGVWWjB2VkVDQQ?oc=5"
+  },
+  {
+    "time": "2026-08-24T19:05:25.975776+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Ameriwest Critical Metals Moves to Sell Nevada Lithium Brine Asset to Pure Energy - TipRanks",
+    "publisher": "TipRanks",
+    "age_minutes": 10,
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDR3aWE1OFdOcGJOY0xEay1xakgxcDBubkRydnVGNm1qOW9aWWFRSTlUcGNoVjlJaGFhdW9iNE1RLW9zNFg0RmZ5Mi1Qcmx2cHRYZ1pLdGhZXzFYMUJWYjJzTjRqV0tXYUt1SlBHVVYyTTVxX3hCR3FraHVLQ2M5NG54Tm9TZFJqYzNMRGVJSlhiTXNvdDZFbDN1RzRDUGVlZ2RiUkNEb2N0T20ybFFCLTE5akJkaTZnYXREQ1pZdkNEa05vcVZPMkZTNFNXdw?oc=5"
+  },
+  {
+    "time": "2026-08-24T19:05:25.975802+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "SYY",
+    "title": "Sysco (NYSE: SYY) officer lines up 506-share sale after August stock cash-outs - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 47,
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY3VELXNMbzNRY2k5UzVrWHNVeDdvWWxJU1lDOHpoMFVFbzVKVXVPV3FBZU45MHVEMjItbXdYZGVIcEw5aFF1OUVHbmJsVENvV29jclZMN0VlM2lRV0ZxTUU3VlJrODNPLVlpRE5IUkEzcjhEUVhjc1pDdTBsejY1SGVkQnNsYUNmaGFLNW5NMA?oc=5"
+  },
+  {
+    "time": "2026-08-24T19:05:25.975817+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FGL",
+    "title": "Founder Group (FGL) 10% holder trades 146K shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 43,
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3BXc1A2TEFQMng1dDNacXZueUZYV0tSbHBVZHFIX2lvMThiNmVKNFlLZWFfdUNpTGZrUWtWVV9YRThhYzVJUWlvZ1J2a0pCcGRQWjRfQTVFeFhrVUxWMXdRTnFSTlEzYXRpYjBJbkpES1BDSFZqYTBibzY5aTE3LUU4YWZKMFI4TWRWV3ZQUnpWX25LX0c2VlhSSnkxRjJzZXV2M1czX2xaSXB0cnBn?oc=5"
+  },
+  {
+    "time": "2026-08-24T19:05:26.310655+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "K",
+    "title": "Hecla Mining VP Patrick Malone Executes Stock Sales and 401(k) Acquisition in August 2026 - Kalkine Media",
+    "publisher": "Kalkine Media",
+    "age_minutes": 38,
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNckJPOE5ydlpyR2l3dHJPZzJVazAxeFV2MGd5SFhMSF80ZGpldV9UUDZoUnl1ZVdsMUtHUFRFVVpKMDFtckFUVkVoeEIxV285TkJBRHl2QUlsaFhTazZNeTF1aUNSVTJINXJCZk10QlZYQkM1YXVuSkREOXR5a2VaZ01rZjMyOTdJemE3a2RSYVVZU3ZjeldmSnU3WVM5dkI4Y2F6ZE0xYzI2YjF3ZC1WMEZuYk0yMEloeFN4QmUzZVBNVzRYejMyeGJVY3NxZ1E?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-24T19:05:26.310709+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "India Prices Nearly $10 Billion of Equity Deals in August, Setting Monthly Record - finance.biggo.com",
+    "publisher": "finance.biggo.com",
+    "age_minutes": 59,
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzbDVWa00xcThxQ09tb0VlMTNNY2lHbmltWVhQRVZSTFVrX0pGMU5fNFlXeVExWXdSYVpUQVZaQ3JDZmQ3cW8zY0ZaN3RZWlc0S2w3UTM5ZXVwcTU3MjVDWFliaE1VZUVJTTc2R1JKVlNERlVqTVE?oc=5"
+  },
+  {
+    "time": "2026-08-24T19:05:26.310728+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Hyperscale Data Bitcoin treasury reaches 1,087 BTC worth $70.3 million - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 40,
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmtoXzR2Ujd5SVFfRHNOc0o0V1FEVVpVREp0djhIMXdMWnpGUmZpU3dja3l6bDBLMV9tUnV5bks5Wk5NaTBXeEtDV2F0Vm04Q2tDZVJBUDNyZ2stXzR2STdpUUNvSkt5RnJZZEhfZTRSVHdDRlNuOEREampsTm95dmpjbVFNTURzVHpiZ3R4Nml3OWtSWGtsWW1NZWpNb0kySHAxOWxkWDVyUQ?oc=5"
+  },
+  {
+    "time": "2026-08-24T19:05:26.310747+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "COSO",
+    "title": "CoastalSouth (NASDAQ: COSO) officer to sell 1,000 shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 47,
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd24yWVEtLTFzcC01THE2aW9JSjVnSWlpRzdDTDhtTWJHTmc1dmNYRlJOZlVIMVM3X2JoZGo5VVAwU0tPSW1Vem5adF9OczU2UzhWTVNtWGJwaEIyWng0bTFrRDlRX0dIVGZFcnhRMmRrVUdGaldhbnp4ei14bXRWanNJTlA0VmNhYS0xRVhkRkdwMllwUmR3S01zeG1wVDRxaVVpOXJ6enI?oc=5"
+  },
+  {
+    "time": "2026-08-24T19:05:26.310763+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Keysight Technologies SVP Ingrid Estrada Sells 2,000 Shares Through Rule 10b5-1 Plan - Kalkine Media",
+    "publisher": "Kalkine Media",
+    "age_minutes": 42,
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLXpRTmFRMjJXcGxoOGpmNk9KeTlIUWRTUC1Sd18tdmlOc2stMVVmc3RGOHhjaEpxYkNVNkx3V1dKdkRlZkFNQVJ3QUhxeFZtTE9QMWk0N2EtalpsVERHYWVvV1ZPaF9NRldPdkQ4SUZJQ2dXdnVRd1NBRDhRX2d5aGVOcjVFZFJ5UmxSbVhyd2w5ZEZVaGdsaVR2QWZpeWpWMnhyWWlZYW5rbjlqMEg3SjF3OTl4UWtfdWMtYXVtLWlRMkZwaTcxVXp3?oc=5"
+  },
+  {
+    "time": "2026-08-24T19:05:26.310776+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Navigator Holdings CCO Oeyvind Lindeman Sells 7,500 Shares at $21.68 Each - Kalkine Media",
+    "publisher": "Kalkine Media",
+    "age_minutes": 40,
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2hLSzgtZFVvSXFGTDNGaWJxYVhUZlhhVEF5SWE1Ml85OW9ESnVlZ29wcDJYTEF1X1lZRndpcWZBUV9jcTFuUGh6aEpzalp2ZWhLbWdwUER4aV9MVVBDeUdiakRVcTI5Z0JYV0FPV09VOVNYbHFrX0t5LUoya1dmMk9GRE5UdFdrZ3hWMEEyVHlNSlVZTHp6QkNrbVdJejdGdVczRXBSankwXzhKRl9EbXczWEpRWWhL?oc=5"
+  },
+  {
+    "time": "2026-08-24T19:05:26.761163+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "BlackRock explores sale of TCP Capital's remaining loans - report (BLK:NYSE) - Seeking Alpha",
+    "publisher": "Seeking Alpha",
+    "age_minutes": 5,
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObzBlWXR4YmhSek5yU0dWX3FqLUgtN29NYWNhZXhJbXF5eUNjem1RcGdYLVpicVQ0aDNkUkdRdHBwaklLQ3VFYUxVYVVhODZmWTJSNS1EdFdwOTEwbWduMm1aMzR0RDktek84X0Z0TTJqYU1BeGZnTnpRb1BnOUhid1VFTnhTd3JRS1ByamNQdGpFNjl3eUdnSzRIckwxY091VEJhOEtOVk10UWU4TFF3NElhSWxqTWp4U2RqY0xlYTBkNnVfTzZaeDZUdENqMDZyN3B0MkYzemdsLVVWOElwWEY1VGRZbm5tZndvcExZdWN4QzA2ZjFNNDhiNA?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-24T19:05:27.146544+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Insider Transaction: Waste Connections Senior VP Sells 1,750 Shares for $290,500 - The Motley Fool",
+    "publisher": "The Motley Fool",
+    "age_minutes": 21,
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLVBDX256cnVKdDRvOFVMYmlXVWZ2OW1UdVlzVC02YXRlTFhvY21DMUVhVXFTRkJGdlVmdndncWctQm52cC11TUVUVGU5aExYM29WSGJpV2RjbGt1M3RhbW1EdkM4ZWtKeVlJcGhCdEVhLWlhYWE0SmE4ZmxaSGR6dkRCQ0Z2MXlBQk5oN2k4VlhPQU9ZRWJWMmd3Vk96QVdETmlEbGhWQi1lQ2ZWWGhLcXJ6TFNXR2w2Tl9iYjhsQmFLY1Rzd25YOHhKRQ?oc=5&hl=en-US&gl=US&ceid=US:en"
   }
 ]
