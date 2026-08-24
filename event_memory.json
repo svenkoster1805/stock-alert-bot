@@ -3508,5 +3508,17 @@
     "symbol": "FILER",
     "title": "8-K - CPS TECHNOLOGIES CORP/DE/ (0000814676) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "067632d67cc7c65b00c4c79f9db20fecf6a1c79e1d8442a3b6ee0cd4b206cbc4": {
+    "first_alert_at": "2026-08-24T21:04:51.746717+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Tianci International, Inc. (0001557798) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d7ad2f311fa893131d3f4f6ba064fbaadc3a8375667a375ef8c6e30b37b1ff8b": {
+    "first_alert_at": "2026-08-24T21:05:00.744073+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Backblaze, Inc. (0001462056) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

@@ -14161,5 +14161,55 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-24T21:05:00.268006+00:00",
+    "symbol": "FILER",
+    "company": "Tianci International, Inc. (0001557798) (Filer)",
+    "event_key": "067632d67cc7c65b00c4c79f9db20fecf6a1c79e1d8442a3b6ee0cd4b206cbc4",
+    "event_family": "M_AND_A",
+    "title": "8-K - Tianci International, Inc. (0001557798) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1557798/000168316826006698/0001683168-26-006698-index.htm",
+    "news_age_minutes": 4,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Tianci International, Inc. heeft een 8-K-formulier ingediend over het aangaan van een materiële definitieve overeenkomst. Het document is op 24 augustus 2026 gepubliceerd en bevat informatie over Item 1.01 en Item 9.01.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische verandering of transactie voor het bedrijf. Dit kan de toekomstige financiële prestaties en marktpositie van Tianci International beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de financiële impact, zijn niet bekend. Zonder deze details is het onmogelijk om de potentiële waarde of risico's voor beleggers te beoordelen.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de tegenpartij, de aard van de transactie en de financiële voorwaarden, ontbreken volledig.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van het volledige 8-K-document is noodzakelijk om de economische relevantie te bepalen."
+    }
+  },
+  {
+    "time": "2026-08-24T21:05:17.715114+00:00",
+    "symbol": "FILER",
+    "company": "Backblaze, Inc. (0001462056) (Filer)",
+    "event_key": "d7ad2f311fa893131d3f4f6ba064fbaadc3a8375667a375ef8c6e30b37b1ff8b",
+    "event_family": "M_AND_A",
+    "title": "8-K - Backblaze, Inc. (0001462056) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1462056/000114036126034200/0001140361-26-034200-index.htm",
+    "news_age_minutes": 21,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Backblaze, Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin het aangaan van een materiële definitieve overeenkomst en de verkoop van niet-geregistreerde aandelen worden gemeld.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan duiden op een belangrijke strategische stap of transactie. De verkoop van aandelen kan de kapitaalstructuur beïnvloeden en financiering voor groei of overnames signaleren.",
+      "risk_nl": "De specifieke aard van de transactie en de financiële voorwaarden zijn onbekend, wat een accurate beoordeling van de impact onmogelijk maakt.",
+      "invalidation_nl": "De concrete details over de partijen, de aard van de transactie of de financiële voorwaarden zijn niet beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van de volledige 8-K-filing is noodzakelijk om de details van de overeenkomst te achterhalen."
+    }
   }
 ]
