@@ -13829,5 +13829,30 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een overeenkomst, maar de essentiële details ontbreken voor een diepgaande analyse."
     }
+  },
+  {
+    "time": "2026-08-24T13:00:09.698113+00:00",
+    "symbol": "FILER",
+    "company": "Expion360 Inc. (0001894954) (Filer)",
+    "event_key": "0ed574010a574def8011db8bd7eb6e22d639fa8d826c84ca07337307caf7c37c",
+    "event_family": "M_AND_A",
+    "title": "8-K - Expion360 Inc. (0001894954) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000317/0001903596-26-000317-index.htm",
+    "news_age_minutes": 24,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Expion360 Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Het document vermeldt ook wijzigingen in het bestuur en de statuten.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname, fusie of een grote commerciële deal. Dit kan de toekomstige financiële prestaties en marktpositie van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De aard en de financiële details van de materiële definitieve overeenkomst zijn nog onbekend, waardoor de impact op het bedrijf onduidelijk is. Zonder deze details is het risico op een verkeerde inschatting van de economische waarde hoog.",
+      "invalidation_nl": "Er is geen contractwaarde, specifieke tegenpartij of gedetailleerde voorwaarden van de overeenkomst bekendgemaakt.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig om de aard en impact ervan te beoordelen."
+    }
   }
 ]

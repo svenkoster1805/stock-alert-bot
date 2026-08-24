@@ -3424,5 +3424,11 @@
     "symbol": "FILER",
     "title": "8-K - RUM Group Inc. (0001830081) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "0ed574010a574def8011db8bd7eb6e22d639fa8d826c84ca07337307caf7c37c": {
+    "first_alert_at": "2026-08-24T12:59:57.008764+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Expion360 Inc. (0001894954) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
