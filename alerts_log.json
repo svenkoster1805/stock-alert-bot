@@ -13779,5 +13779,30 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding bevestigt een materiële overeenkomst, maar de aard en financiële impact van de M&A zijn nog niet gespecificeerd."
     }
+  },
+  {
+    "time": "2026-08-24T11:37:00.111749+00:00",
+    "symbol": "FILER",
+    "company": "MARTIN MARIETTA MATERIALS INC (0000916076) (Filer)",
+    "event_key": "d6f64db506e960a149f35cdffd9f0391afefc073f31515c819e0b94ea7bd9dc6",
+    "event_family": "M_AND_A",
+    "title": "8-K - MARTIN MARIETTA MATERIALS INC (0000916076) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/916076/000095015726000946/0000950157-26-000946-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "MARTIN MARIETTA MATERIALS INC heeft een 8-K-rapport ingediend bij de SEC, waarin de voltooiing van een acquisitie of desinvestering van activa en een materiële definitieve overeenkomst worden gemeld.",
+      "why_nl": "De voltooiing van een dergelijke transactie kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in omzet, winstgevendheid en de balansstructuur.",
+      "risk_nl": "Het belangrijkste risico is het ontbreken van details over de specifieke activa, de tegenpartij en de financiële voorwaarden van de transactie. Zonder deze informatie is de impact op de waardering van het bedrijf onduidelijk.",
+      "invalidation_nl": "De concrete financiële details, zoals de contractwaarde en de specifieke activa die zijn verworven of afgestoten, ontbreken in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is zeer recent en afkomstig van een betrouwbare bron, maar de economische impact is nog niet kwantificeerbaar."
+    }
   }
 ]

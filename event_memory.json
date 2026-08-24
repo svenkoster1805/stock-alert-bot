@@ -3412,5 +3412,11 @@
     "symbol": "FILER",
     "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "d6f64db506e960a149f35cdffd9f0391afefc073f31515c819e0b94ea7bd9dc6": {
+    "first_alert_at": "2026-08-24T11:36:43.976870+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MARTIN MARIETTA MATERIALS INC (0000916076) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
