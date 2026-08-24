@@ -3406,5 +3406,11 @@
     "symbol": "FILER",
     "title": "8-K - Phillips 66 (0001534701) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "ee0e6c5b0bc80cb12cbf40e621a8cba1fea3a05289bf4abf6cc83c64b33696b7": {
+    "first_alert_at": "2026-08-24T10:25:42.013981+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

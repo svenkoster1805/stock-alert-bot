@@ -13754,5 +13754,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-24T10:25:55.299695+00:00",
+    "symbol": "FILER",
+    "company": "CALLAN JMB INC. (0002032545) (Filer)",
+    "event_key": "ee0e6c5b0bc80cb12cbf40e621a8cba1fea3a05289bf4abf6cc83c64b33696b7",
+    "event_family": "M_AND_A",
+    "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2032545/000149315226039761/0001493152-26-039761-index.htm",
+    "news_age_minutes": 10,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CALLAN JMB INC. heeft een 8-K-formulier ingediend over het aangaan van een materiële definitieve overeenkomst en ongeregistreerde verkoop van aandelen. Dit is gepubliceerd op 24 augustus 2026.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, wat de toekomstige waarde van het bedrijf kan beïnvloeden. De verkoop van aandelen kan gerelateerd zijn aan de financiering van deze overeenkomst.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de voorwaarden en de financiële impact, zijn nog onbekend. Zonder deze informatie is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "Er is geen contractwaarde of gedetailleerde voorwaarden van de M&A bekendgemaakt in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een materiële overeenkomst, maar de aard en financiële impact van de M&A zijn nog niet gespecificeerd."
+    }
   }
 ]

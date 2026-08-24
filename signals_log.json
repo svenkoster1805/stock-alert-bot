@@ -8642,5 +8642,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-24T10:25:54.767949+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CALLAN JMB INC. heeft een 8-K-formulier ingediend over het aangaan van een materiële definitieve overeenkomst en ongeregistreerde verkoop van aandelen. Dit is gepubliceerd op 24 augustus 2026.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, wat de toekomstige waarde van het bedrijf kan beïnvloeden. De verkoop van aandelen kan gerelateerd zijn aan de financiering van deze overeenkomst.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de voorwaarden en de financiële impact, zijn nog onbekend. Zonder deze informatie is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "Er is geen contractwaarde of gedetailleerde voorwaarden van de M&A bekendgemaakt in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een materiële overeenkomst, maar de aard en financiële impact van de M&A zijn nog niet gespecificeerd."
+    }
   }
 ]
