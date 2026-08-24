@@ -8722,5 +8722,179 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-08-24T20:40:24.745024+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-08-24T20:40:34.098702+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CCO HOLDINGS LLC (0001271833) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CCO Holdings LLC heeft een 8-K-formulier ingediend bij SEC.gov, waarin het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting wordt gemeld.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan duiden op een fusie of overname, wat de waardering van het bedrijf kan beïnvloeden. Een directe financiële verplichting kan de balans en kasstromen van CCO Holdings LLC significant veranderen.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de contractwaarde en de voorwaarden, zijn niet bekend. Zonder deze details is de impact op de financiële positie en aandeelhouderswaarde onduidelijk.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de contractwaarde en de betrokken partijen, ontbreken in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de inhoudelijke details zijn nog niet beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-24T20:40:43.231784+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CHARTER COMMUNICATIONS, INC. /MO/ (0001091667) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CHARTER COMMUNICATIONS, INC. heeft een 8-K-formulier ingediend bij SEC.gov, waarin de totstandkoming van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting worden gemeld.",
+      "why_nl": "Een materiële definitieve overeenkomst kan leiden tot significante veranderingen in de bedrijfsstructuur of activa. De creatie van een directe financiële verplichting kan de balans en toekomstige kasstromen van het bedrijf beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst en de financiële verplichting zijn onbekend. Zonder details is het onmogelijk de impact op de financiële positie of strategische richting van het bedrijf te beoordelen.",
+      "invalidation_nl": "De inhoudelijke details van de materiële definitieve overeenkomst en de financiële verplichting ontbreken volledig in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een gebeurtenis, maar de economische impact is onduidelijk zonder de inhoud van de overeenkomst."
+    }
+  },
+  {
+    "time": "2026-08-24T20:40:43.876272+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Integrated Wellness Acquisition Corp (0001877557) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-24T20:40:44.522167+00:00",
+    "symbol": "FILER",
+    "title": "8-K - StableCoinX Inc. (0002080215) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-24T20:40:45.179683+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Stark Novus Financial Inc. (0001759546) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-24T20:40:45.923450+00:00",
+    "symbol": "FILER",
+    "title": "8-K - International Media Acquisition Corp. (0001846235) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-24T20:40:46.664423+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AIR INDUSTRIES GROUP (0001009891) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-24T20:40:47.384290+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TYSON FOODS, INC. (0000100493) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-24T20:40:48.119102+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Evergy, Inc. (0001711269) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-24T20:40:48.791630+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VALVOLINE INC (0001674910) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-24T20:40:49.466318+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CPS TECHNOLOGIES CORP/DE/ (0000814676) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

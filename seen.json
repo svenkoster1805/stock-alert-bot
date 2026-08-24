@@ -1,434 +1,4 @@
 {
-  "0add004db2ba1f98309dd24a83d42693403d2d1bec86a048bc635e4513b52dd7": {
-    "first_seen": "2026-08-05T13:00:44.969609+00:00",
-    "title": "8-K - MFA FINANCIAL, INC. (0001055160) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "6ad84e30f4852be83881e15d3ae3b6b59e73013295cc4ef49a7be5a8820fe500": {
-    "first_seen": "2026-08-05T13:00:44.969623+00:00",
-    "title": "8-K - Flash Sports & Media Holdings, Inc. (0001706524) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "b506d2ebf1ce33bfe616b4d0c53845045d49df3cbbed720470e87266207e9a32": {
-    "first_seen": "2026-08-05T13:00:44.969638+00:00",
-    "title": "8-K - Athene Holding Ltd. (0001527469) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "7d0d87a3342387373cd5e02998733f9dfd9cedc1d0df1d172ae603afafccd61d": {
-    "first_seen": "2026-08-05T13:00:44.969656+00:00",
-    "title": "8-K - SPLASH BEVERAGE GROUP, INC. (0001553788) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "470f7b46aeb05ab578a784a3df6a0d1c49a9aa3ff75f002c5f64e38d8d18f18d": {
-    "first_seen": "2026-08-05T13:00:44.969676+00:00",
-    "title": "8-K - Postal Realty Trust, Inc. (0001759774) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "368577c0107627369c856b739832800e866f0d5d18a258cd08f71daca3ca8a83": {
-    "first_seen": "2026-08-05T13:00:45.274425+00:00",
-    "title": "8-K - CHOICE HOTELS INTERNATIONAL INC /DE (0001046311) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "fbde4c3b4140387333104c009f0e466eef8a02d4507cc37606da59f5fae54b2e": {
-    "first_seen": "2026-08-05T13:00:45.274488+00:00",
-    "title": "8-K - POWERCOMPUTE, INC. (0001640384) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "c7efc291c6e05fd06f25c0d1600c7a2ade11b107d8ad063022d2eccf8ffcc3e7": {
-    "first_seen": "2026-08-05T13:00:45.592261+00:00",
-    "title": "8-K - Charlton Aria Acquisition Corp (0002024459) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "0321ece5f7c3a4a1d6c4d2ba843514d8a9d2a59d86c254493d71b39e626a5af1": {
-    "first_seen": "2026-08-05T13:00:45.902768+00:00",
-    "title": "8-K/A - StratCap Digital Infrastructure REIT, Inc. (0001868516) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "aa6912cab50b38237a07942bded6b21ae3b9a9da9e95b5121e8d0f0f191db678": {
-    "first_seen": "2026-08-05T13:00:45.902812+00:00",
-    "title": "8-K - Rithm Perpetual Life Residential Trust (0002081628) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "d86161eadada9c03fb4cbdd33f9fd9ce5bff826470159e18a4c85c52dad9f83c": {
-    "first_seen": "2026-08-05T13:00:45.902830+00:00",
-    "title": "8-K - Medalist Diversified, Inc. (0001654595) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "e946c8c1e2f8934d4a0ab01a3e50bfa6abba7d9a5a9d39a0544293faf46e3f17": {
-    "first_seen": "2026-08-05T13:00:46.229490+00:00",
-    "title": "8-K - Dermata Therapeutics, Inc. (0001853816) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "ff4aa5bf5aec8e5ee44e74e595ff3739a8f8099c19078173663352fb182dafbc": {
-    "first_seen": "2026-08-05T13:00:46.229532+00:00",
-    "title": "8-K - Easterly Government Properties, Inc. (0001622194) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "8a5522c722914cb0d85e31c98d2472f33e513f2d3da767a2c1dc777ef37c4ed5": {
-    "first_seen": "2026-08-05T13:00:46.229551+00:00",
-    "title": "8-K - AMERICAN FINANCIAL GROUP INC (0001042046) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "a8d7c1cb841d11841113d6363d3166b1474dafe12fdd4819e5f666726770bbdf": {
-    "first_seen": "2026-08-05T13:00:46.229565+00:00",
-    "title": "8-K - NNN REIT, INC. (0000751364) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "9fcef43a80002bba713115d974155647629f1aee43d05c3f65d301df9ce3a503": {
-    "first_seen": "2026-08-05T13:00:46.229579+00:00",
-    "title": "8-K - INTERNATIONAL BATTERY METALS LTD. (0001786318) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "0cf797281cf2c0dd041ca2836eabbd17b758412e82c3a749478fe9ee2366b69c": {
-    "first_seen": "2026-08-05T13:00:46.229592+00:00",
-    "title": "8-K - Global Indemnity Group, LLC (0001494904) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "682f9c5350ac041095a28b50b82d5ca4b7dac2a909167c39e4cb8d6cc273e3fb": {
-    "first_seen": "2026-08-05T13:00:46.229606+00:00",
-    "title": "8-K - RAND CAPITAL CORP (0000081955) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "510bffe9672af1ba40263ef860676b337cb357e8b3db2c8d8e10ea72ba54b04f": {
-    "first_seen": "2026-08-05T13:00:46.229622+00:00",
-    "title": "8-K - SmartRent, Inc. (0001837014) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "857c8cb040bd1cfe624d5bcba34ecd4da59cb3ca612cc08a850a53d69798aa4a": {
-    "first_seen": "2026-08-05T13:00:46.229635+00:00",
-    "title": "8-K - ASP Isotopes Inc. (0001921865) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "522941199cff7451d16e469b1c7c5afccf1e4a20e6273875bb9c2709744efa9e": {
-    "first_seen": "2026-08-05T13:00:46.229648+00:00",
-    "title": "8-K - ImageneBio, Inc. (0001835579) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "b07fb49b45289ce1af57e5f8d79ff08967fbbcafdf2981054de94f67b4dcdca2": {
-    "first_seen": "2026-08-05T13:00:46.229661+00:00",
-    "title": "8-K - Southwest Gas Holdings, Inc. (0001692115) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "f7c37f1d4d387d327a29e425984c198f8dcf546d25471ee58994f235d2f97eb4": {
-    "first_seen": "2026-08-05T13:00:46.229673+00:00",
-    "title": "8-K - SOUTHWEST GAS CORP (0000092416) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "687ad68cec030f29888470aa1d35aadf2fef2d3a7a66b11ad684c7507cbee9f2": {
-    "first_seen": "2026-08-05T13:00:46.229685+00:00",
-    "title": "8-K - AVNET INC (0000008858) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "64a71ec4d331fbfbc0e989bd3081c7fc74b030c2f3ddcd3cda80262835453f37": {
-    "first_seen": "2026-08-05T13:00:46.229698+00:00",
-    "title": "8-K - XPEL, Inc. (0001767258) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "66f404f2b5556a75b03bb3dcce5f60c4719c7c28190f8b10d65594327b3db02c": {
-    "first_seen": "2026-08-05T13:00:46.229710+00:00",
-    "title": "8-K - UroGen Pharma Ltd. (0001668243) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "9b8425aa021575c5f44ff85dd4ceddc40b5a262ba5eed6ec9c23a0e84edf05a2": {
-    "first_seen": "2026-08-05T13:00:46.229722+00:00",
-    "title": "8-K - BORGWARNER INC (0000908255) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "4124ed5bca407b3c5c2390e5844b82f639a3974d949bcb164fdb16759c4fd93f": {
-    "first_seen": "2026-08-05T13:00:46.229734+00:00",
-    "title": "8-K - XWELL, Inc. (0001410428) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "6b35c6ee105255c3e8fe77e70862d9673eb001541bac09461fec044232a7ed9f": {
-    "first_seen": "2026-08-05T13:00:46.229745+00:00",
-    "title": "8-K - ICAHN ENTERPRISES L.P. (0000813762) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "5c3a14483757785da84f0dadcbd1df9fe5524bad25872f83aefbc81d05633ee7": {
-    "first_seen": "2026-08-05T13:00:46.229757+00:00",
-    "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "a925e1a905e5fdaf077a27121ccb781b262737008cd0a96125d838eef155cf8f": {
-    "first_seen": "2026-08-05T13:00:46.229769+00:00",
-    "title": "8-K - AIM ImmunoTech Inc. (0000946644) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "d59bf710f98177800fadd4f2c78bcd2008abc3b4e00ee73ce6a82cfc88a0fad8": {
-    "first_seen": "2026-08-05T13:00:46.549288+00:00",
-    "title": "8-K - Trinity Capital Inc. (0001786108) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "05d7cbabc0646d83cf99d348be5b1d0ef2e845cf4d6577d0d58f3974a2dc1a09": {
-    "first_seen": "2026-08-05T13:00:46.549319+00:00",
-    "title": "8-K - Atlanta Braves Holdings, Inc. (0001958140) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "6802c620cc7286e6dd200d509d9ca71278e491b32a41dd6a90f9194f0bacb73f": {
-    "first_seen": "2026-08-05T13:00:46.549337+00:00",
-    "title": "8-K - RAMBUS INC (0000917273) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "c3e9bd83e4aa62ae75b0b54fa8af574938b9ace3dcbc8eedef12dc33a826342f": {
-    "first_seen": "2026-08-05T13:00:46.878344+00:00",
-    "title": "8-K - Bally's Corp (0001747079) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "05c2dc5ce481a6bf02eff507f9c70232d88ffd7041efb1e885e78e3d012dd76b": {
-    "first_seen": "2026-08-05T13:00:47.195661+00:00",
-    "title": "8-K - NEWS CORP (0001564708) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "3a923fa35062ed80c053623848fb64c7bbd4057ffecd4f8a079edd09a2160961": {
-    "first_seen": "2026-08-05T13:00:47.195694+00:00",
-    "title": "8-K - GRIFFON CORP (0000050725) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "baa146d7431da55480a13148f8ce04b3fd2ea12ff28a7b8aac0c514992c53c32": {
-    "first_seen": "2026-08-05T13:00:47.195712+00:00",
-    "title": "8-K - Stardust Power Inc. (0001831979) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "19683a936934927e79bb3f69a47ae2a2c9871ed2ce3cd85854759630b7a4353b": {
-    "first_seen": "2026-08-05T13:00:47.195727+00:00",
-    "title": "8-K - GIBRALTAR INDUSTRIES, INC. (0000912562) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "ee17d962209693a70af5365abd862da357666445d0cb933cea4dc49f64116e70": {
-    "first_seen": "2026-08-05T13:00:47.195741+00:00",
-    "title": "8-K - Holley Inc. (0001822928) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "6733373c14acaf538c3e60b8f004ec9ba87eb53b9cbf0d836332d7d6075c215e": {
-    "first_seen": "2026-08-05T13:00:47.195756+00:00",
-    "title": "8-K - Immuneering Corp (0001790340) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "59c83b6521dd76b748b0a93f123f6ee507eaec53c963904d9474e641ef69ac4f": {
-    "first_seen": "2026-08-05T13:00:47.195769+00:00",
-    "title": "8-K - EVgo Inc. (0001821159) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "bcc8d47bc2776af0909cd7ad0b53fda7211b82566b96f8d7d7e2ff13bef76e11": {
-    "first_seen": "2026-08-05T13:00:47.195783+00:00",
-    "title": "8-K - Bioventus Inc. (0001665988) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "0a81ed89a909d4734b04dfb4cf07889516a0a257567a5480b513a34d864a6df4": {
-    "first_seen": "2026-08-05T13:00:47.195796+00:00",
-    "title": "8-K - Medline Inc. (0002046386) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "7d11e191a0fa705067afd945302d51d579e54950028858f6b1077a2b9a873111": {
-    "first_seen": "2026-08-05T13:00:47.195809+00:00",
-    "title": "8-K - Royalty Pharma plc (0001802768) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "d6a4ec31bf1fc427907e83564f4e3451888e90b1c85be85e52967cab14299b5d": {
-    "first_seen": "2026-08-05T13:00:47.195821+00:00",
-    "title": "8-K - Summit Therapeutics Inc. (0001599298) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "0d9c78c6929647b9e02df880ac9e3a1ae9c63aaa205a2ed769895bf8f2a1dd33": {
-    "first_seen": "2026-08-05T13:00:47.195834+00:00",
-    "title": "6-K - Magnitude International Ltd (0002046117) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "798d3521408ab48ecb9cc375a40e1150cff7a2bfd4d75ab10d04dd7ac9a582a5": {
-    "first_seen": "2026-08-05T13:00:47.195847+00:00",
-    "title": "6-K - 707 Cayman Holdings Ltd. (0002018222) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "15215eee81bb4cad4f037d5a9ab6a6797d6f3281ee2854c06e38f08ace9c2b02": {
-    "first_seen": "2026-08-05T13:00:47.195858+00:00",
-    "title": "6-K - Cheche Group Inc. (0001965473) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "47f73d769fffdeaa67d4b1f961933bf71731329632ea8a1ced529808b5e98526": {
-    "first_seen": "2026-08-05T13:00:47.195870+00:00",
-    "title": "6-K - Controladora Vuela Compania de Aviacion, S.A.B. de C.V. (0001520504) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "0bd7335e9242ad418a35367a077da59484ceac842e6fbc62b16a5bab9d8f64fe": {
-    "first_seen": "2026-08-05T13:00:47.195881+00:00",
-    "title": "6-K - Nano Labs Ltd (0001872302) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "ffe916b6c43adf238858d4cd53e84faa70a9906ff2807bf1f4fc7209ce904c20": {
-    "first_seen": "2026-08-05T13:00:47.195893+00:00",
-    "title": "6-K - SciSparc Ltd. (0001611746) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "d781cc323e7010ff97f7048fcc0f8858811277c7c04f0bfc25f1ca9e4762e8ba": {
-    "first_seen": "2026-08-05T13:00:47.195905+00:00",
-    "title": "6-K - Rectitude Holdings Ltd. (0001995116) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "bd98545e2d66655c60a10bd41e1e068aa8354c65fc1b47340759f38c84ec8d60": {
-    "first_seen": "2026-08-05T13:00:47.195917+00:00",
-    "title": "6-K - NICE Ltd. (0001003935) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "9599d1f169a4b941594ab82f6b503beab97997113f41f8503d604a4c30512fff": {
-    "first_seen": "2026-08-05T13:00:47.195929+00:00",
-    "title": "6-K - GERDAU S.A. (0001073404) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "06094c32c2f4d52bd6b0b890648e73f94d502f27a169939885835bb07635994e": {
-    "first_seen": "2026-08-05T13:00:47.195941+00:00",
-    "title": "6-K - Beamr Imaging Ltd. (0001899005) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "6d52879083475dc948dea9ae04923610360cbf2b1a2e350b395f82edf043a1da": {
-    "first_seen": "2026-08-05T13:00:47.195953+00:00",
-    "title": "6-K - Lufax Holding Ltd (0001816007) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "4fded68f8dd13d1993bdcd87feb7a12a74412e3eb2cc4e93880e3a872c7e9186": {
-    "first_seen": "2026-08-05T13:00:47.195965+00:00",
-    "title": "6-K - AIR Global PLC (0002097725) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "b5d0e9526e3243c9deb027d71e68c0cd86ad8e9288de3a61eea3432027e14f6d": {
-    "first_seen": "2026-08-05T13:00:47.195988+00:00",
-    "title": "6-K - AUDIOCODES LTD (0001086434) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "ae3b04b636d36f35df2e790dbdd88f0183d6be252f7848dc2b7499d2903a940c": {
-    "first_seen": "2026-08-05T13:00:47.196001+00:00",
-    "title": "6-K - AURORA CANNABIS INC (0001683541) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "471ead7b38d8a650f9fb2baf88e0f38411ea44ec71dbded73df864aff4ee8fd6": {
-    "first_seen": "2026-08-05T13:00:47.196014+00:00",
-    "title": "6-K - Baozun Inc. (0001625414) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "1ed4109e50b42f5fec76f56517dab9cee358ad418d1b3eb1ae7fac2cd83c77a1": {
-    "first_seen": "2026-08-05T13:00:47.196028+00:00",
-    "title": "6-K - Cardiol Therapeutics Inc. (0001702123) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "b28989559589fba3980f6bf57b5904af25e81322ba0b58b0cd6651b2dba4c56b": {
-    "first_seen": "2026-08-05T13:00:47.196041+00:00",
-    "title": "6-K - Mobilicom Ltd (0001898643) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "7f2c503375debfed29759e5279a77bc3f976dfc6e236da63f344677eb4d2d0c0": {
-    "first_seen": "2026-08-05T13:00:47.196055+00:00",
-    "title": "6-K - Caesarstone Ltd. (0001504379) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "f0630f278e1db98118af4447340182df2058534f56a1cf231d07a4d6f2cc259a": {
-    "first_seen": "2026-08-05T13:00:47.196068+00:00",
-    "title": "6-K - TAT TECHNOLOGIES LTD (0000808439) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "42820cdc93c15facce1bce9f33ad6b9f33bdc5ce6cc4d392a1483f18698bee7b": {
-    "first_seen": "2026-08-05T13:00:47.196082+00:00",
-    "title": "6-K - GLOBALFOUNDRIES Inc. (0001709048) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "0305a2c320595388b5a5b81bb194035828d1e24a643012a3ae24b116d02e77ed": {
-    "first_seen": "2026-08-05T13:00:47.196095+00:00",
-    "title": "6-K - China Automotive Systems, Inc. (0002037400) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "cc7fa7a3b78a5228cf58812138d304f4d106485f0876f1e6318ebd83e2dbd741": {
-    "first_seen": "2026-08-05T13:00:47.196108+00:00",
-    "title": "6-K - THOMSON REUTERS CORP /CAN/ (0001075124) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "5534ae18620ee7c0007d22f45a7c3f91b9027156d0042989a995b84b5c2d0680": {
-    "first_seen": "2026-08-05T13:00:47.196121+00:00",
-    "title": "6-K - GLOBALFOUNDRIES Inc. (0001709048) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "f61e077daa5b52d647c32af8561704b41a55aeec72cc438d0eb1f569a1787782": {
-    "first_seen": "2026-08-05T13:00:47.196135+00:00",
-    "title": "6-K - TAT TECHNOLOGIES LTD (0000808439) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "d2e1cdc341e56659c9013a25d6161e5d1ce931f30c435f351207223ce927a408": {
-    "first_seen": "2026-08-05T13:00:47.196147+00:00",
-    "title": "6-K - AURORA CANNABIS INC (0001683541) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "35a3d07ef16f5f74db643f145ab8800633dd1c879174f30b85c48a7682ef1be9": {
-    "first_seen": "2026-08-05T13:00:47.196190+00:00",
-    "title": "VisionWave Expands AI Defense Platform with Planned Acquisition of Perimeter Security Provider D-Fence - AiThority",
-    "publisher": "AiThority"
-  },
-  "1acaafd8ec56b7555a1883ecad24c8d2afdbfb83691a78fe0213722e23efe657": {
-    "first_seen": "2026-08-05T13:00:48.053482+00:00",
-    "title": "BriaCell Receives FDA Clearance to Initiate Bria-PROS+ Clinical Study in Prostate Cancer - Investing News Network",
-    "publisher": "Investing News Network"
-  },
-  "44b0813985e8fa950d317b629838bd847da2b326ce0cfa9cd7d735d4bf0d3933": {
-    "first_seen": "2026-08-05T13:00:48.986997+00:00",
-    "title": "Next Shares Jump 6% as UK Retailer Raises Profit Forecast for the Third Time This Year on Strong Sales - International Business Times Australia",
-    "publisher": "International Business Times Australia"
-  },
-  "9bd3bc8d0a3d37f823f2401d90c2f322dee3b43524bf9eeec4cc0a65bdfde287": {
-    "first_seen": "2026-08-05T13:00:48.987024+00:00",
-    "title": "The sale of Electronic Arts has officially concluded - Game World Observer",
-    "publisher": "Game World Observer"
-  },
-  "6fa91874bcfdc1383290aa071fe201d939b0cf854dacbd8f0837e75f41348a6e": {
-    "first_seen": "2026-08-05T13:00:49.831952+00:00",
-    "title": "Omega Pacific Closes Private Placement - Investing News Network",
-    "publisher": "Investing News Network"
-  },
-  "d62ed1965a4c3ca768d0b80b13fd3a27569a23363478c848fc9901192dd00990": {
-    "first_seen": "2026-08-05T13:00:49.831986+00:00",
-    "title": "China Mobile weighs limited True stake sale as partnership continues - Nation Thailand",
-    "publisher": "Nation Thailand"
-  },
-  "05f8e75bcb6929f9542e843c4034f108254ecd44de81a9da34178825fb92522c": {
-    "first_seen": "2026-08-05T13:00:50.652979+00:00",
-    "title": "China Mobile weighs sale of stake in Thailand’s True - Communications Today",
-    "publisher": "Communications Today"
-  },
-  "be2518b1e0b57de52a9dfb5cc8b5905cc5b5395956edd588a466ee8f123c7dad": {
-    "first_seen": "2026-08-05T13:00:51.607550+00:00",
-    "title": "What Leopold Aschenbrenner can learn from Warren Buffett after $45 billion AI fund implosion - Business Insider",
-    "publisher": "Business Insider"
-  },
-  "2cbe9c4826bc952ef53c29c75ac826e0927b0222f8c74e7342d2d9f4d9b2a068": {
-    "first_seen": "2026-08-05T13:00:51.607588+00:00",
-    "title": "ACE-Market bound GTA inks underwriting agreement with HLIB - The Edge Malaysia",
-    "publisher": "The Edge Malaysia"
-  },
-  "93eaceefbaa25ac05f5370c006146e0fcb3a048faef25b6336996d3c47204f64": {
-    "first_seen": "2026-08-05T13:00:51.607613+00:00",
-    "title": "Climbdown on price and HST rebate grease sale of condo - The Globe and Mail",
-    "publisher": "The Globe and Mail"
-  },
-  "4e0f8442432ef9c5ced7fdc5cb9d3d5d3e83e41d076da0e03f9e052bc3890751": {
-    "first_seen": "2026-08-05T13:00:52.434876+00:00",
-    "title": "Prologis, Inc. Announces 15 Million Share Common Stock Offering – Underwriting Agreement Details and Key Terms - Minichart",
-    "publisher": "Minichart"
-  },
-  "6bdc1bd1a0a8519496ea4dd3235c38ef8669ee00aa1ca17e1f469693a3395ae4": {
-    "first_seen": "2026-08-05T13:00:52.434914+00:00",
-    "title": "Ardee Industries IPO subscribed 3.08 times - Business Standard",
-    "publisher": "Business Standard"
-  },
-  "f7ad7df7f2dc2f0c91d50f25a04d880e3ad4c0eb845a31a44bb6301feaa5e1fc": {
-    "first_seen": "2026-08-05T15:22:08.778780+00:00",
-    "title": "8-K - Palomino Laboratories Inc. (0001938569) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "ce73b3b28bf2306258f2e197af3faea67e1a660ffd4c9d55f8bd85e0956e87c0": {
-    "first_seen": "2026-08-05T15:22:08.860329+00:00",
-    "title": "8-K - Remora Capital Corp (0002045370) (Filer)",
-    "publisher": "SEC.gov"
-  },
-  "4d44ef1fd264f4199930d8799ee060c9e40f180cb36199843d2cf82c2ac7b7cf": {
-    "first_seen": "2026-08-05T15:22:08.860370+00:00",
-    "title": "8-K - D-Wave Quantum Inc. (0001907982) (Filer)",
-    "publisher": "SEC.gov"
-  },
   "7568e1bd03fdedce78a5b32ea39358570257bb3a7c3236aa2d948c8a4a6c8b2e": {
     "first_seen": "2026-08-05T15:22:08.860389+00:00",
     "title": "8-K - Essential Utilities, Inc. (0000078128) (Filer)",
@@ -39998,5 +39568,435 @@
     "first_seen": "2026-08-24T20:01:36.347295+00:00",
     "title": "Beazley stock steadies as Zurich and Vanguard disclosures highlight takeover momentum - Ad-hoc-news.de",
     "publisher": "Ad-hoc-news.de"
+  },
+  "b8e26539c097b30d8d74088bb7b02c97b1e4c297885129b9da8bec4fd1f09960": {
+    "first_seen": "2026-08-24T20:40:20.901978+00:00",
+    "title": "8-K - CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "842ece77764b0ae9883730ef77781d7ca11425ec555a4a5a587d6b1990f13d0f": {
+    "first_seen": "2026-08-24T20:40:20.950665+00:00",
+    "title": "8-K - CCO HOLDINGS LLC (0001271833) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "de2cc79edce9159e09d14026fbd57ac3faab1d179c42420633bbf134b756ecad": {
+    "first_seen": "2026-08-24T20:40:21.024979+00:00",
+    "title": "8-K - CHARTER COMMUNICATIONS, INC. /MO/ (0001091667) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "b87e07a16fc32d373fb4a873d74050ecc5d9aea265a16986823ca267ba0092fa": {
+    "first_seen": "2026-08-24T20:40:21.093341+00:00",
+    "title": "8-K - QXO, Inc. (0001236275) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "0f81f52b9ab45a272aba91cd161c04d17d9397019466434a2bb5ab804588e706": {
+    "first_seen": "2026-08-24T20:40:21.093373+00:00",
+    "title": "8-K - Integrated Wellness Acquisition Corp (0001877557) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "7810caaa10d5af3e416bab64d3802bc2566a5d0b87ff66dd6d865e56eca40230": {
+    "first_seen": "2026-08-24T20:40:21.244796+00:00",
+    "title": "8-K - Identiv, Inc. (0001036044) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "445c00634a9c4fde4e0c12722945343c3325eb5aa8e7420aff2e711fb0909881": {
+    "first_seen": "2026-08-24T20:40:21.244826+00:00",
+    "title": "8-K - Hub Group, Inc. (0000940942) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "395552762361d7d3c976c253a87b962644e8d8e0eeb897ec18c292b0e7eee131": {
+    "first_seen": "2026-08-24T20:40:21.244850+00:00",
+    "title": "8-K - PANTAGES CAPITAL ACQUISITION Corp (0002030829) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "f52e3828facf84a64c57eec524c4046b83664c947a3d7edc6d143221b3a27567": {
+    "first_seen": "2026-08-24T20:40:21.244912+00:00",
+    "title": "8-K - Hawkeye Digital, Inc. (0001750777) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "5f5c1cacb5093f4c6fbd93db2b768ed93465d92e68f90d24f369ca07b9d87915": {
+    "first_seen": "2026-08-24T20:40:21.244929+00:00",
+    "title": "8-K - StableCoinX Inc. (0002080215) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "a409425f3c2734004b70a0ea4b5b3b3fca22d090278aa624595738c07bb12aed": {
+    "first_seen": "2026-08-24T20:40:21.289814+00:00",
+    "title": "8-K - Stark Novus Financial Inc. (0001759546) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "1ab5415f0a5efacb19300ba39afd4919648b0098e829efd76bfe105937c8dc58": {
+    "first_seen": "2026-08-24T20:40:21.331583+00:00",
+    "title": "8-K - Greenlane Holdings, Inc. (0001743745) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "dbf2a94cff62235dd2bb57e53a3e7ab8cdd9fc012bc912514f9c551afacf3882": {
+    "first_seen": "2026-08-24T20:40:21.331629+00:00",
+    "title": "8-K - International Media Acquisition Corp. (0001846235) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "6035822cd4db2904fe1f62458af5d3582f7071036db411ee22179fceb02d857b": {
+    "first_seen": "2026-08-24T20:40:21.374785+00:00",
+    "title": "8-K - AIR INDUSTRIES GROUP (0001009891) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "8977edf4ae2f7e20f81573885be62f0ecef71064e07e6dc1126321552ba0077a": {
+    "first_seen": "2026-08-24T20:40:21.500059+00:00",
+    "title": "8-K - Aveanna Healthcare Holdings, Inc. (0001832332) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "686d554306e03b8d34ea2db363ca5b7feead8bf2fc47c59878939c2c358b1e46": {
+    "first_seen": "2026-08-24T20:40:21.500090+00:00",
+    "title": "8-K/A - Northann Corp. (0001923780) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "95302d6b7a9ab232fbde539c8e0960ac73b857744c83eff3351d0e4412d7c767": {
+    "first_seen": "2026-08-24T20:40:21.500110+00:00",
+    "title": "8-K - TYSON FOODS, INC. (0000100493) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "dcd2c4c512c3a3fb03fc9e23764e9b6025a0e036dd05635ea3cbfbb87f85a900": {
+    "first_seen": "2026-08-24T20:40:21.548987+00:00",
+    "title": "8-K - Golub Capital Private Income Fund S (0002082557) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "c8cf9e5dd8e109fb091e5489849235ac80747dcf8c83946550bf364e9a6050e4": {
+    "first_seen": "2026-08-24T20:40:21.549018+00:00",
+    "title": "8-K/A - ACRES Commercial Realty Corp. (0001332551) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "24a16a2f9c6cd8c2abb3430cbdea91b5b76afb15be2038b9e1380018ffbad349": {
+    "first_seen": "2026-08-24T20:40:21.549036+00:00",
+    "title": "8-K - Golub Capital Private Income Fund I (0002082559) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "782fcb47450ece24b40d504a7b9b7675e5401ce25632a7398f64d424654a5be4": {
+    "first_seen": "2026-08-24T20:40:21.549052+00:00",
+    "title": "8-K - Golub Capital Private Credit Fund (0001930087) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "3182c13fb71f7e4ff347751ac9b5854e83d5e5c8cac557d63e31a6838cf269f7": {
+    "first_seen": "2026-08-24T20:40:21.549066+00:00",
+    "title": "8-K - SILVER BOW MINING CORP. (0002067674) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "b066b444adeeec089ef93d9c9ca85b93551747ae5393965d068670f32baeea60": {
+    "first_seen": "2026-08-24T20:40:21.549080+00:00",
+    "title": "8-K - PLEXUS CORP (0000785786) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "0b646a734361c2fae2feaca3b9e82139335d4c4a40dc6e790224c8e6c0a2fdc6": {
+    "first_seen": "2026-08-24T20:40:21.549093+00:00",
+    "title": "8-K - Evergy, Inc. (0001711269) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "db8dd7fe642ffe7bf2c6a804e4e8cac3582b76d3c5622ac9fafe598a0613b529": {
+    "first_seen": "2026-08-24T20:40:21.602112+00:00",
+    "title": "8-K - Blue Owl Credit Income Corp. (0001812554) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "2f391df2b611a4fe56602a5bd3a259e3e819ed1d16b92d4d67d713394ed4a20a": {
+    "first_seen": "2026-08-24T20:40:21.602143+00:00",
+    "title": "8-K - American Healthcare REIT, Inc. (0001632970) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "a4477228e90ce6d673132d49ec18a53b0d4844d41f8ac23c114565f3fa8ac845": {
+    "first_seen": "2026-08-24T20:40:21.602161+00:00",
+    "title": "8-K - Senmiao Technology Ltd (0001711012) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "587230819fc59b3a37619802198730e1140e4299f8dc9d81d30ffb0e4c9c6d64": {
+    "first_seen": "2026-08-24T20:40:21.602177+00:00",
+    "title": "8-K - KINGSTONE COMPANIES, INC. (0000033992) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "db606afc4c17f61e32b0bfb1582e14bdf428c5482b975680f71cfd6455ddf662": {
+    "first_seen": "2026-08-24T20:40:21.602191+00:00",
+    "title": "8-K - Longeveron Inc. (0001721484) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "c4bc981f48d204fb908a6f25bfa2557fdd67d4590edc824a03360da7bf4641e8": {
+    "first_seen": "2026-08-24T20:40:21.602205+00:00",
+    "title": "8-K - PROVIDENT FINANCIAL SERVICES INC (0001178970) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "13dcc0a7033d1d6287295acc81deeedbceaab1b45eaaec6ddb84751f00e38a85": {
+    "first_seen": "2026-08-24T20:40:21.602217+00:00",
+    "title": "8-K - Silver Point Private Credit Fund (0002033382) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "b68faf24e14237de40c6d6e81374b1153f267e7119b591bf553031cb268754a9": {
+    "first_seen": "2026-08-24T20:40:21.602230+00:00",
+    "title": "8-K - Northann Corp. (0001923780) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "c7483f912ce48a53478088ac471ac8b933c99a25ad12b6768e0261244a7f2930": {
+    "first_seen": "2026-08-24T20:40:21.602244+00:00",
+    "title": "8-K - VALVOLINE INC (0001674910) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "e676b020d086b8a5cbaa395fb2bbe153009bd9b29bccf720c97288372b4db349": {
+    "first_seen": "2026-08-24T20:40:21.645430+00:00",
+    "title": "8-K - CPS TECHNOLOGIES CORP/DE/ (0000814676) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "7ab83aa51dfa742e8ec837546668595df27bdf15db9582cbd0bcc1212873c92d": {
+    "first_seen": "2026-08-24T20:40:21.688706+00:00",
+    "title": "8-K - BEASLEY BROADCAST GROUP INC (0001099160) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "9d500d5e04d1f4b53837aac28bdcda044bbc449ab4d5f9144ddaef53cca1da20": {
+    "first_seen": "2026-08-24T20:40:21.688736+00:00",
+    "title": "8-K - Polar Power, Inc. (0001622345) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "c844656ce8eabab9b83846eaf66e52da78a2a766b5ba0d19f4e4da9c226ab79d": {
+    "first_seen": "2026-08-24T20:40:21.688755+00:00",
+    "title": "8-K - BOSTON OMAHA Corp (0001494582) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "04d837b6e15c75da0094eff5f13290e5e057801d91c3c7bcfc0027f10684473b": {
+    "first_seen": "2026-08-24T20:40:21.688770+00:00",
+    "title": "8-K - America Great Health (0001098009) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "0742a9d742b72e6e00a0553634f1c47a279f804685c9a8691f6a141a6b6922e5": {
+    "first_seen": "2026-08-24T20:40:21.688784+00:00",
+    "title": "8-K - e.l.f. Beauty, Inc. (0001600033) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "11f63d417b415f62ede9d83a80d84b67ce02e0ab06ab4e7675fa47bf899bf20d": {
+    "first_seen": "2026-08-24T20:40:21.688798+00:00",
+    "title": "8-K - WERNER ENTERPRISES INC (0000793074) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "f12017b99231956c45ebf9fdaae025c26264e65134c64e5782d5dba7562c8b51": {
+    "first_seen": "2026-08-24T20:40:21.688813+00:00",
+    "title": "8-K - Oruka Therapeutics, Inc. (0000907654) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "404de24ac1e80cb6f38d88dd189e8a24cb01302a92a98bc9e19686489129749b": {
+    "first_seen": "2026-08-24T20:40:21.688827+00:00",
+    "title": "8-K - Twin Vee PowerCats, Co. (0001855509) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "a1dc1e6c93fa886345c1e8f6d1f5f3247d6731251a47d1cf2e4fb687f1fc44f0": {
+    "first_seen": "2026-08-24T20:40:21.688842+00:00",
+    "title": "8-K - Hashdex Commodities Trust (0001985840) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "9a662b40fa8fd6739f05e7286e45479bf3f8965e26762c1fed36bdbd19666392": {
+    "first_seen": "2026-08-24T20:40:21.730814+00:00",
+    "title": "8-K - Presidio Property Trust, Inc. (0001080657) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "b58e42f4753c519b1e27ce483e036bc1fd5cf7b4617a0c4a9e655be5d6fe854c": {
+    "first_seen": "2026-08-24T20:40:21.730847+00:00",
+    "title": "8-K - Grand Canyon Education, Inc. (0001434588) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "4bfad1e2f04a078f6b71e07818460c57d035f0cf5575bafbf81d296104533b4e": {
+    "first_seen": "2026-08-24T20:40:21.730869+00:00",
+    "title": "8-K - Blue Owl Technology Income Corp. (0001869453) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "c33ef4fe005415df899387a2872da7a24478fb411cd3240963053894ec332500": {
+    "first_seen": "2026-08-24T20:40:21.730890+00:00",
+    "title": "8-K - Track Group, Inc. (0001045942) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "d7da0b2aa295ff123be10bd18b05f5928e9aba8fe9fabc5d1d1f5d60130529e4": {
+    "first_seen": "2026-08-24T20:40:21.780474+00:00",
+    "title": "8-K - APPLIED OPTOELECTRONICS, INC. (0001158114) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "544ff15cb8a51e4be6392eea6281b5629122d86e18714a3704d290c5bbc3edc3": {
+    "first_seen": "2026-08-24T20:40:21.822490+00:00",
+    "title": "8-K - U-Haul Holding Co /NV/ (0000004457) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "6e9fbd766fffd4b8ff7e22ae042b3ed617a5cf1a26ba47edc0285ca96ff38fe3": {
+    "first_seen": "2026-08-24T20:40:21.822518+00:00",
+    "title": "8-K - Nutex Health Inc. (0001479681) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "a704140d8bb1828be8a0f7c0eaf7e83a778b8c745050207da29133c482b79b85": {
+    "first_seen": "2026-08-24T20:40:21.822537+00:00",
+    "title": "6-K - TORM plc (0001655891) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "55b6d338d312d25923469be156161c2f152c8e0399c930e2b65b384bff8d9dd8": {
+    "first_seen": "2026-08-24T20:40:21.822554+00:00",
+    "title": "6-K - Melco Resorts & Entertainment LTD (0001381640) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "e6b7404b89a31216e72db439e372587cf76fe2985c5b706b0c52ce8fb5d6630b": {
+    "first_seen": "2026-08-24T20:40:21.822626+00:00",
+    "title": "6-K - WeShop Holdings Ltd (0002048271) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "4b7faab176dff45f43fc037b138693b42af12ea763827397dbcc9a4f9a20749b": {
+    "first_seen": "2026-08-24T20:40:21.822645+00:00",
+    "title": "6-K - WORK Medical Technology Group LTD (0001929783) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "9cdbcc069eb4e9c6e919d43c6d5eefdaaa35f9b2e8f4e8b847dbd644db3fe2df": {
+    "first_seen": "2026-08-24T20:40:21.822661+00:00",
+    "title": "6-K - ORANGEKLOUD TECHNOLOGY INC. (0001979407) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "e6df39f1b808e5ba03ab27fed5bee4b1048fc02b42a2a08b6572bcaddaab45a1": {
+    "first_seen": "2026-08-24T20:40:21.822675+00:00",
+    "title": "6-K - iOThree Ltd (0001997637) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "3d4e09adb75a7985dff7d1e05b2bca3ee3df3612079c152c6c6d822781745e1b": {
+    "first_seen": "2026-08-24T20:40:21.822688+00:00",
+    "title": "6-K - Gorilla Technology Group Inc. (0001903145) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "52c276d2ce0510cf7a3129c36149735310d6701eb9fb494aec9523cce02acf82": {
+    "first_seen": "2026-08-24T20:40:21.822701+00:00",
+    "title": "6-K - BIRKS GROUP INC. (0001179821) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "04bf506d85b2904b29daa3e03ef60dc200036eabce130eb4277c9e6c0545219a": {
+    "first_seen": "2026-08-24T20:40:21.822713+00:00",
+    "title": "6-K - BIRKS GROUP INC. (0001179821) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "73d17e851b199d8338c69e40e88c7e1496e3fe9994383b428414f1b33a331362": {
+    "first_seen": "2026-08-24T20:40:21.822727+00:00",
+    "title": "6-K - Grupo Supervielle S.A. (0001517399) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "0b51b36eb630b5dd1aee9f8ad42bb7523cb670e2f3b684ef66b44571b000bea0": {
+    "first_seen": "2026-08-24T20:40:21.822739+00:00",
+    "title": "6-K - ZenaTech, Inc. (0001997403) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "4a08f3d19efcffbbb24a7d31a1809d9c8ad6ba048843d0e0213e4bc2a54ac197": {
+    "first_seen": "2026-08-24T20:40:21.822753+00:00",
+    "title": "6-K - Gauzy Ltd. (0001781446) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "097719ec54eac221dc5e983a3d012ecb8919df4a428061b88103220344667f82": {
+    "first_seen": "2026-08-24T20:40:21.822766+00:00",
+    "title": "6-K - Mint Inc Ltd (0001998560) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "07c747b4f1bf3f223e25230ae37e5b8fc41201781f6c0fdc5212f77e357724a4": {
+    "first_seen": "2026-08-24T20:40:21.822780+00:00",
+    "title": "6-K - Brookfield Renewable Partners L.P. (0001533232) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "871ed8f3dc545be08ddb0d0a56b65b2a73f06fb3b1685557b5922c4aa3db3faa": {
+    "first_seen": "2026-08-24T20:40:21.822793+00:00",
+    "title": "6-K - Grupo Aeromexico, S.A.B. de C.V. (0001561861) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "4b3fc5e791b599768d5fcf2c90fbf3adbd7c6230b102c07abfdcb55e143d4d76": {
+    "first_seen": "2026-08-24T20:40:21.822808+00:00",
+    "title": "6-K - Jiuzi Holdings, Inc. (0001816172) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "d7fafa47b97b63c34d93ba8ce2de0187991b69bb6315b662d088a8c6ea425eca": {
+    "first_seen": "2026-08-24T20:40:21.822821+00:00",
+    "title": "6-K - TAT TECHNOLOGIES LTD (0000808439) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "04d37c462881ff0d8bf684416aae9904d48be5a7406d1b128a1ac75d4a7392ab": {
+    "first_seen": "2026-08-24T20:40:21.822835+00:00",
+    "title": "6-K - KE Holdings Inc. (0001809587) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "5404bd622c19711194955f5e4124dbb9ddfc7b3979aba2fec77097393d4f04cf": {
+    "first_seen": "2026-08-24T20:40:21.822848+00:00",
+    "title": "6-K - DESCARTES SYSTEMS GROUP INC (0001050140) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "a8cb6c26701bbf99b59ea5273d018dc23aae4ffd07e69a6436135a2808fdcfe8": {
+    "first_seen": "2026-08-24T20:40:21.822862+00:00",
+    "title": "6-K - Clearmind Medicine Inc. (0001892500) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "68559a8372cf88accdfbb6f6b06ad12038d62fedc9629eba9d2dd380259add32": {
+    "first_seen": "2026-08-24T20:40:21.822876+00:00",
+    "title": "6-K - ReNew Energy Global plc (0001848763) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "debc796ef6cd18a466741b2c2ad777259ce578a54ffb40a8a07bf6e99170d7fb": {
+    "first_seen": "2026-08-24T20:40:21.822889+00:00",
+    "title": "6-K/A - Vale S.A. (0000917851) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "cdd8304712d286484d4e4a00058f7912db51e1c68d4d544f442ed2751e125de7": {
+    "first_seen": "2026-08-24T20:40:21.822902+00:00",
+    "title": "6-K - UNILEVER PLC (0000217410) (Filer)",
+    "publisher": "SEC.gov"
+  },
+  "1a16de57fc6bf24880c5b98804b0d955d30e0db98d4b3a0b9cd23fe722f50754": {
+    "first_seen": "2026-08-24T20:40:21.822947+00:00",
+    "title": "Orangekloud Technology Inc. Enters into Definitive Agreement to Acquire Orbis Technology Limited, Operator of VeVe - Yahoo Finance Singapore",
+    "publisher": "Yahoo Finance Singapore"
+  },
+  "da22ac7138e924fa5c9b1041c170a14596fde72c2aa93f7c130c7f6d14bb24e0": {
+    "first_seen": "2026-08-24T20:40:22.770941+00:00",
+    "title": "Harte Hanks (NASDAQ: HHS) investor pledges votes to $5 sale - Stock Titan",
+    "publisher": "Stock Titan"
+  },
+  "701a0cb03d9e1c2f8b8f4d9cced6560ebe13cc5a1d7b133c9c61ac414f09fc7c": {
+    "first_seen": "2026-08-24T20:40:22.770984+00:00",
+    "title": "TTM Technologies director Rex Geveden buys $524,500 in stock By Investing.com - Investing.com Canada",
+    "publisher": "Investing.com Canada"
+  },
+  "0dc66c8cdb7ef49677c6709c26921ee41209638c847af3b3291a1cde93a06f17": {
+    "first_seen": "2026-08-24T20:40:22.771009+00:00",
+    "title": "Lumentum (NASDAQ: LITE) holder lines up $412K stock sale - Stock Titan",
+    "publisher": "Stock Titan"
+  },
+  "57f509d61353491e9dcc2e57960702956eb80a0f9b25f924251259a6ad118e83": {
+    "first_seen": "2026-08-24T20:40:22.771029+00:00",
+    "title": "Procter & Gamble Insiders Sold Shares Worth Over $2.2M - TradingView",
+    "publisher": "TradingView"
+  },
+  "d527d200847b0830311309f48ad3485a234abc6a21e2cd3a8d8484f765aace58": {
+    "first_seen": "2026-08-24T20:40:22.771048+00:00",
+    "title": "Amprius Technologies (NYSE: AMPX) insider plans more stock sales - Stock Titan",
+    "publisher": "Stock Titan"
+  },
+  "8fb96f16b24dd9e8c007330f9438de62db23d119c6eeeb191b27e53c2725035c": {
+    "first_seen": "2026-08-24T20:40:22.771066+00:00",
+    "title": "VTEX (ticker: VTEX) director to sell 11,994 common shares - Stock Titan",
+    "publisher": "Stock Titan"
+  },
+  "7f80f95a341d40636a3140067725a4624fc38a94d36a89858fe09e211e93d64f": {
+    "first_seen": "2026-08-24T20:40:22.771083+00:00",
+    "title": "Anterix (NASDAQ: ATEX) director plans about $888K stock sale - Stock Titan",
+    "publisher": "Stock Titan"
+  },
+  "07d8e56220c8c095b2d30bfb6cab2f2f53506ade4d8c54358cdeab176caf07d2": {
+    "first_seen": "2026-08-24T20:40:22.771100+00:00",
+    "title": "Criteo (NASDAQ: CRTO) CFO to sell 671 shares for tax withholding - Stock Titan",
+    "publisher": "Stock Titan"
+  },
+  "7504e287981ed9f04e344e39ba44a7fcd91793f29e1591f92dd3cf849908bddd": {
+    "first_seen": "2026-08-24T20:40:22.771116+00:00",
+    "title": "Eastern Bankshares (NASDAQ: EBC) director sells 10,000 shares via 10b5-1 plan - Stock Titan",
+    "publisher": "Stock Titan"
+  },
+  "518275e5d80d4fbb825f6ecb992aa7c212c5a08177365eed85869bbc4639e2c6": {
+    "first_seen": "2026-08-24T20:40:22.771133+00:00",
+    "title": "Itron (NASDAQ: ITRI) insider to sell 76 vested shares - Stock Titan",
+    "publisher": "Stock Titan"
+  },
+  "d43bd89ebb8be6cbdc3d244bbba02844c18a84d20c46c87b1b87d7e23cebe344": {
+    "first_seen": "2026-08-24T20:40:22.771148+00:00",
+    "title": "SM Energy EVP, GC & Corp Secretary Sold Shares Worth Over $647K - TradingView",
+    "publisher": "TradingView"
+  },
+  "bbea450a050ae26ca9728711b72eaa989aae46566916b996826989deef0597d6": {
+    "first_seen": "2026-08-24T20:40:22.771160+00:00",
+    "title": "CorVel (NASDAQ: CRVL) holder targets $486K stock sale - Stock Titan",
+    "publisher": "Stock Titan"
   }
 }
