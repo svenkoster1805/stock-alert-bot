@@ -13804,5 +13804,30 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding is zeer recent en afkomstig van een betrouwbare bron, maar de economische impact is nog niet kwantificeerbaar."
     }
+  },
+  {
+    "time": "2026-08-24T11:59:02.026316+00:00",
+    "symbol": "FILER",
+    "company": "RUM Group Inc. (0001830081) (Filer)",
+    "event_key": "276112361e1f314633b413327d3f5d25fe3569c1adddab3c88fb0452554f6286",
+    "event_family": "M_AND_A",
+    "title": "8-K - RUM Group Inc. (0001830081) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1830081/000121390026092801/0001213900-26-092801-index.htm",
+    "news_age_minutes": 21,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "RUM Group Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Dit rapport omvat ook niet-geregistreerde verkopen van aandelen en andere gebeurtenissen.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap die de toekomstige financiële prestaties van het bedrijf kan beïnvloeden. De verkoop van aandelen kan wijzen op kapitaalverhoging of herstructurering, wat impact heeft op de eigendomsstructuur en liquiditeit.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de materiële definitieve overeenkomst zijn onbekend, wat het moeilijk maakt om de economische relevantie te beoordelen. Zonder details over de tegenpartij, de waarde of de strategische rationale blijft de potentiële waardecreatie of -vernietiging onduidelijk.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud, waarde of partijen van de materiële definitieve overeenkomst beschikbaar om een geïnformeerde handelsbeslissing te nemen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de essentiële details ontbreken voor een diepgaande analyse."
+    }
   }
 ]

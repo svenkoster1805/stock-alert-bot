@@ -8674,5 +8674,21 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding is zeer recent en afkomstig van een betrouwbare bron, maar de economische impact is nog niet kwantificeerbaar."
     }
+  },
+  {
+    "time": "2026-08-24T11:59:01.668169+00:00",
+    "symbol": "FILER",
+    "title": "8-K - RUM Group Inc. (0001830081) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "RUM Group Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Dit rapport omvat ook niet-geregistreerde verkopen van aandelen en andere gebeurtenissen.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap die de toekomstige financiële prestaties van het bedrijf kan beïnvloeden. De verkoop van aandelen kan wijzen op kapitaalverhoging of herstructurering, wat impact heeft op de eigendomsstructuur en liquiditeit.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de materiële definitieve overeenkomst zijn onbekend, wat het moeilijk maakt om de economische relevantie te beoordelen. Zonder details over de tegenpartij, de waarde of de strategische rationale blijft de potentiële waardecreatie of -vernietiging onduidelijk.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud, waarde of partijen van de materiële definitieve overeenkomst beschikbaar om een geïnformeerde handelsbeslissing te nemen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de essentiële details ontbreken voor een diepgaande analyse."
+    }
   }
 ]
