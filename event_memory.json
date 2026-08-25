@@ -3634,5 +3634,35 @@
     "symbol": "FILER",
     "title": "8-K - MARTEN TRANSPORT LTD (0000799167) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "8a4319f88bab52baa344842c8af39fb175bdb4936beabd1fc5036caa62e2da4f": {
+    "first_alert_at": "2026-08-25T21:11:16.109898+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Rare Earths Americas, Inc. (0002095743) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5dbee2ce89e0e876957b602d65c9b79aa9f926ef51b198e810615cd47d99d23f": {
+    "first_alert_at": "2026-08-25T21:11:31.113691+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DT Cloud Star Acquisition Corp (0002017950) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "3ab29b8720793511f45c3d138c3fe08dee153b6a2976d2f46425a068bb9b8359": {
+    "first_alert_at": "2026-08-25T21:11:41.851652+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bicara Therapeutics Inc. (0002023658) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "8cc7cbb9d846d325a9abd47770159defc636f60511c55f68c8394b150ad3ff85": {
+    "first_alert_at": "2026-08-25T21:11:50.740897+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TRACTOR SUPPLY CO /DE/ (0000916365) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4d010e5b1b7148bf3507aae55074eb089db806e148f8c9d60461754cab9029c2": {
+    "first_alert_at": "2026-08-25T21:11:51.806532+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Momentus Inc. (0001781162) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

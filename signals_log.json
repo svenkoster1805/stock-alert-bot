@@ -9220,5 +9220,81 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-25T21:11:30.064525+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Rare Earths Americas, Inc. (0002095743) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Rare Earths Americas, Inc. heeft op 25 augustus 2026 een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap voor het bedrijf. Dit kan de financiële positie of toekomstige groeivooruitzichten van Rare Earths Americas, Inc. beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst zijn onbekend, waardoor de economische impact niet kan worden beoordeeld. Zonder details over de inhoud, de tegenpartij of de financiële implicaties is het risico op een neutrale of negatieve uitkomst hoog.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, partijen of financiële voorwaarden van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Nadere informatie over de overeenkomst is essentieel voor een economische beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-25T21:11:40.782425+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DT Cloud Star Acquisition Corp (0002017950) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "DT Cloud Star Acquisition Corp (FILER) heeft op 25 augustus 2026 een 8-K document ingediend bij de SEC. Dit document, met AccNo 0001493152-26-040073, betreft Item 8.01: Overige Gebeurtenissen.",
+      "why_nl": "Een 8-K filing kan belangrijke bedrijfsevenementen signaleren die de toekomstige waarde van het bedrijf beïnvloeden. Indien dit Item 8.01 gerelateerd is aan een fusie of overname, kan dit significante koersbewegingen veroorzaken.",
+      "risk_nl": "Het grootste risico is dat de inhoud van de 8-K (Item 8.01) geen concrete M&A-details of andere economisch relevante informatie bevat. Zonder de volledige tekst van de filing is de aard en impact van de 'Overige Gebeurtenissen' volledig onbekend.",
+      "invalidation_nl": "De 8-K filing onder Item 8.01 specificeert geen concrete M&A-voorwaarden, partijen of contractwaarde.",
+      "is_already_priced": false,
+      "notes": "De classificatie als M&A is gebaseerd op de 'event' tag, maar de 8-K samenvatting (Item 8.01) bevestigt dit niet expliciet met details."
+    }
+  },
+  {
+    "time": "2026-08-25T21:11:49.717773+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bicara Therapeutics Inc. (0002023658) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Bicara Therapeutics Inc. heeft op 25 augustus 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. Afhankelijk van de aard kan dit leiden tot nieuwe inkomstenstromen, kostenbesparingen of marktuitbreiding.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst zijn onbekend, wat het economische effect onvoorspelbaar maakt. Zonder details over de tegenpartij of de financiële impact is de waardecreatie onzeker.",
+      "invalidation_nl": "De inhoudelijke details van de materiële definitieve overeenkomst, inclusief de contractwaarde en de betrokken partijen, zijn niet bekendgemaakt.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn nodig om de impact te kunnen beoordelen."
+    }
+  },
+  {
+    "time": "2026-08-25T21:11:50.740907+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TRACTOR SUPPLY CO /DE/ (0000916365) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-25T21:11:51.806541+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Momentus Inc. (0001781162) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
