@@ -3526,5 +3526,11 @@
     "symbol": "FILER",
     "title": "8-K - Navitas Semiconductor Corp (0001821769) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "3d92d04233724ac22f55204960bb072795ca1f6027b79feb22abcea45ba488f8": {
+    "first_alert_at": "2026-08-25T10:52:49.313713+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bleichroeder Acquisition Corp. III (0002128045) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
