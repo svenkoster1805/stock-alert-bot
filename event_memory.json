@@ -3520,5 +3520,11 @@
     "symbol": "FILER",
     "title": "8-K - Backblaze, Inc. (0001462056) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "ac9ccb0418df6aceab6c8c573f9ebefa868c1f9227ddff5613e2b05e106b3ccd": {
+    "first_alert_at": "2026-08-25T10:15:44.711985+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Navitas Semiconductor Corp (0001821769) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

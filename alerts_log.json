@@ -14211,5 +14211,30 @@
       "is_already_priced": false,
       "notes": "Verdere analyse van de volledige 8-K-filing is noodzakelijk om de details van de overeenkomst te achterhalen."
     }
+  },
+  {
+    "time": "2026-08-25T10:16:05.837147+00:00",
+    "symbol": "FILER",
+    "company": "Navitas Semiconductor Corp (0001821769) (Filer)",
+    "event_key": "ac9ccb0418df6aceab6c8c573f9ebefa868c1f9227ddff5613e2b05e106b3ccd",
+    "event_family": "M_AND_A",
+    "title": "8-K - Navitas Semiconductor Corp (0001821769) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1821769/000110465926100478/0001104659-26-100478-index.htm",
+    "news_age_minutes": 10,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Navitas Semiconductor Corp heeft een 8-K rapport ingediend bij de SEC, waarin de onderneming melding maakt van het aangaan van een materiële definitieve overeenkomst. Dit betreft een M&A-gerelateerde gebeurtenis, zoals gepubliceerd op 25 augustus 2026.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst, zeker in het kader van een fusie of overname, kan de strategische positie en financiële vooruitzichten van Navitas aanzienlijk beïnvloeden. Dergelijke gebeurtenissen leiden vaak tot significante koersbewegingen, afhankelijk van de aard en voorwaarden van de deal.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de betrokken partijen, de financiële voorwaarden en de impact op de bedrijfsactiviteiten, zijn nog onbekend. Zonder deze informatie is het onmogelijk om de potentiële waardecreatie of -vernietiging voor aandeelhouders te beoordelen.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de aard van de M&A (bijv. overname of verkoop) en de financiële voorwaarden, ontbreken volledig in de beschikbare samenvatting.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van het volledige 8-K rapport is noodzakelijk om de implicaties van deze overeenkomst te begrijpen."
+    }
   }
 ]
