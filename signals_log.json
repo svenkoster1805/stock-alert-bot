@@ -9008,5 +9008,21 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevat waarschijnlijk meer details die nodig zijn voor een volledige beoordeling."
     }
+  },
+  {
+    "time": "2026-08-25T12:17:57.476256+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Iron Horse Acquisition II Corp. (0002051985) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Iron Horse Acquisition II Corp. heeft een 8-K-formulier ingediend bij de SEC, met daarin een Regulation FD Disclosure en financiële overzichten en bijlagen.",
+      "why_nl": "Zonder concrete details over een fusie of overname is er geen basis voor economische analyse of potentiële impact op de aandelenkoers.",
+      "risk_nl": "Het ontbreken van specifieke informatie over de aard van de disclosure maakt het onmogelijk om risico's te beoordelen.",
+      "invalidation_nl": "De samenvatting van de 8-K-melding bevat geen enkele vermelding van een fusie of overname, ondanks de classificatie van het evenement.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding met Item 7.01 en 9.01 is te algemeen om een M&A-evenement te bevestigen."
+    }
   }
 ]
