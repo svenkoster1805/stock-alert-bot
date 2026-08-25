@@ -3556,5 +3556,11 @@
     "symbol": "FILER",
     "title": "8-K - Iron Horse Acquisition II Corp. (0002051985) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "9d9f18380afcb8f54736368ed20ea6103feb6e9ded1485146caa7e3e0236ed18": {
+    "first_alert_at": "2026-08-25T13:15:28.629490+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AMERICAN BATTERY MATERIALS, INC. (0001487718) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

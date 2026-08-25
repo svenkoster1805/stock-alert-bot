@@ -14361,5 +14361,30 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding met Item 7.01 en 9.01 is te algemeen om een M&A-evenement te bevestigen."
     }
+  },
+  {
+    "time": "2026-08-25T13:15:47.480156+00:00",
+    "symbol": "FILER",
+    "company": "AMERICAN BATTERY MATERIALS, INC. (0001487718) (Filer)",
+    "event_key": "9d9f18380afcb8f54736368ed20ea6103feb6e9ded1485146caa7e3e0236ed18",
+    "event_family": "M_AND_A",
+    "title": "8-K - AMERICAN BATTERY MATERIALS, INC. (0001487718) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1487718/000149315226039978/0001493152-26-039978-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AMERICAN BATTERY MATERIALS, INC. heeft op 25 augustus 2026 een 8-K-rapport ingediend bij de SEC. Dit rapport meldt de totstandkoming van een materiële definitieve overeenkomst (Item 1.01).",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie voor het bedrijf. Afhankelijk van de inhoud kan dit de toekomstige financiële prestaties en marktpositie van American Battery Materials beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op het bedrijf onduidelijk is. Zonder details over de tegenpartij of de inhoud van de overeenkomst is het risico op een negatieve of neutrale uitkomst aanzienlijk.",
+      "invalidation_nl": "De inhoud van de materiële definitieve overeenkomst, inclusief eventuele M&A-details, is niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de overeenkomst zijn essentieel om de relevantie voor een M&A-event te beoordelen."
+    }
   }
 ]
