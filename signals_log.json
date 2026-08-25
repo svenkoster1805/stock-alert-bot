@@ -9040,5 +9040,21 @@
       "is_already_priced": false,
       "notes": "Nadere details over de overeenkomst zijn essentieel om de relevantie voor een M&A-event te beoordelen."
     }
+  },
+  {
+    "time": "2026-08-25T18:03:32.703371+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Steele Creek Capital Corp (0001817825) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]

@@ -1,104 +1,5 @@
 [
   {
-    "time": "2026-07-23T22:27:18.732732+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K/A - HARLEY-DAVIDSON, INC. (0000793952) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 59,
-    "url": "https://www.sec.gov/Archives/edgar/data/793952/000079395226000058/0000793952-26-000058-index.htm"
-  },
-  {
-    "time": "2026-07-23T22:27:18.732764+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Samsara Inc. (0001642896) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 62,
-    "url": "https://www.sec.gov/Archives/edgar/data/1642896/000162828026049446/0001628280-26-049446-index.htm"
-  },
-  {
-    "time": "2026-07-23T22:27:18.732786+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - House of Doge Inc. (0001903595) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 66,
-    "url": "https://www.sec.gov/Archives/edgar/data/1903595/000121390026081010/0001213900-26-081010-index.htm"
-  },
-  {
-    "time": "2026-07-23T22:27:18.977813+00:00",
-    "reason": "te oud voor fastlane (66 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Sleep Number Corp (0000827187) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 66,
-    "url": "https://www.sec.gov/Archives/edgar/data/827187/000095010326011104/0000950103-26-011104-index.htm"
-  },
-  {
-    "time": "2026-07-23T22:27:18.977849+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - COASTAL FINANCIAL CORP (0001437958) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 66,
-    "url": "https://www.sec.gov/Archives/edgar/data/1437958/000143795826000049/0001437958-26-000049-index.htm"
-  },
-  {
-    "time": "2026-07-23T22:27:18.977869+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - HeartSciences Inc. (0001468492) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 67,
-    "url": "https://www.sec.gov/Archives/edgar/data/1468492/000121390026081007/0001213900-26-081007-index.htm"
-  },
-  {
-    "time": "2026-07-23T22:27:18.977955+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Nano-X Imaging Ltd. (0001795251) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 56,
-    "url": "https://www.sec.gov/Archives/edgar/data/1795251/000121390026081025/0001213900-26-081025-index.htm"
-  },
-  {
-    "time": "2026-07-23T22:27:18.977968+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Nano-X Imaging Ltd. (0001795251) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 57,
-    "url": "https://www.sec.gov/Archives/edgar/data/1795251/000121390026081022/0001213900-26-081022-index.htm"
-  },
-  {
-    "time": "2026-07-23T22:27:18.977980+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Dynagas LNG Partners LP (0001578453) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 57,
-    "url": "https://www.sec.gov/Archives/edgar/data/1578453/000131786126000035/0001317861-26-000035-index.htm"
-  },
-  {
-    "time": "2026-07-23T22:27:18.978054+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "BXBL",
-    "title": "BOXABL Inc. (Nasdaq: BXBL) closes $3.5B SPAC business combination - Stock Titan",
-    "publisher": "Stock Titan",
-    "age_minutes": 57,
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGFPZFVoa3FGYUVIUGZXaHdQZmFIeWxIMDQwN0c5ejdiZS1BTEFBbEhFdnVEdm9kRnFLRW5DcnQ3SUtZM29EdEQydXBlRTlUUHp6QmlEc3JmbVN0bE95SExYQ1R0UlhENkxJMmxJbDg4TTB0ODZ4TG1odUZUS2pya2pjMGROWks4ZXkxcXV1am9CZ3FPU29NVGNMRGJFQmtDQ0s3azZxMTczZw?oc=5"
-  },
-  {
-    "time": "2026-07-23T22:27:19.920496+00:00",
-    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
-    "symbol": "",
-    "title": "Mapfre to Acquire Safety Insurance Group in $1.54 Billion Deal - citybiz",
-    "publisher": "citybiz",
-    "age_minutes": 49,
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTExQZlJIU2ptY0dqYU56NWxSa0FKRkxHMGFlYVp1UU96TUFUa1dsNzVJa2FFWHFuU3BtaUN4QVhjT0UzMkg5NXFXd0NCLVBwYjl0eWhpbW4xYXlpSjVfSTJYc0F6VFJLM2ZlRTFNSzY4ckFZbm9teVA0Q08yUjMwQ0N3WW5YTmZ1NEUzekJsYmpES1d6b3hUT1JpZ0VXS0p5Z3c?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
     "time": "2026-07-23T22:27:20.727628+00:00",
     "reason": "ticker kon niet betrouwbaar worden gekoppeld",
     "symbol": "",
@@ -107998,5 +107899,104 @@
     "publisher": "Ad-hoc-news.de",
     "age_minutes": 57,
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaHI5NlVSWm9vM053WXVwdm1wUVlxRFlZZG5qeVN1cE9jdEJzRS10bGdiUkMzanZ3RThSUi05SXNLNVRYOWVlaEpVclB6d0hXb2YtRktqR1dBZHBTYUlnN2lieVRLdHVLTnNsbWlGV3Z0aXR6UnNEdU5XVEwtOC02X25XSDZtY3ZaQzRrcDBhNlRlMmlDSlBqc1picENKRUlrbElPMHB0cTg5dDhWMFBCa1ZtNERpLTFrbmZyTmU5c0RnZ0RZMTdLbTJMY2cxU1ZCRFBPbXl4NA?oc=5"
+  },
+  {
+    "time": "2026-08-25T18:02:55.949620+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "8-K - Tennessee Valley Authority (0001376986) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 2,
+    "url": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000038/0001376986-26-000038-index.htm"
+  },
+  {
+    "time": "2026-08-25T18:02:55.949642+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "8-K - CONSUMER PORTFOLIO SERVICES, INC. (0000889609) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 9,
+    "url": "https://www.sec.gov/Archives/edgar/data/889609/000168316826006718/0001683168-26-006718-index.htm"
+  },
+  {
+    "time": "2026-08-25T18:02:55.949747+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Bitzero Holdings Inc. (0002100457) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 3,
+    "url": "https://www.sec.gov/Archives/edgar/data/2100457/000175392626001624/0001753926-26-001624-index.htm"
+  },
+  {
+    "time": "2026-08-25T18:02:55.949763+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - TechCreate Group Ltd. (0002047190) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 17,
+    "url": "https://www.sec.gov/Archives/edgar/data/2047190/000149315226040019/0001493152-26-040019-index.htm"
+  },
+  {
+    "time": "2026-08-25T18:02:55.949850+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Michigan approves US$50M for copper project, conditional on US$150M financing commitments - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb1RWVmYtUzFfOVEzVDBQSWZvcktSeHZjVFJ6NHhYVHA1TXdLb1FZczUzWWpLWnM3MU90cWVWc2E2bzZWMVd4SVk5aVR1bFRPVzFEaHFPQ1VIYkhmLWVCODZLUTlEMU1EMDYzX05CR3diUnlSQk5sUEtTbF9hRzF4Z2FhQnYwZ0JQSWJjSm1WdzFTUHBLR3FVbFV1UEtiZlk2TW5QUWJsWHBKLWVfdDRqcUY0RFNKWERqcTZiOEttVmdldw?oc=5"
+  },
+  {
+    "time": "2026-08-25T18:02:55.949870+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "PGEN",
+    "title": "Precigen (NASDAQ: PGEN) officer to sell 79,166 shares in 2026 - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 9,
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWjVTU2FvRVhLNDRoWEVWbjNFZS1aSkZNTE14bjgzNWJSeHk4cDFmbENvVU16ckJYS3hEVjEyX1p6VWJiV2JZNXRTUzZVVlJjc21Uend5eTV4dDFXM0p2T3Q4cTRTUFRub1dDc0d2WUVtY1BZQ3RBVHdqLVB6Qjk4SUJFeWY4bnVKS3FWaVczSGZuVlE?oc=5"
+  },
+  {
+    "time": "2026-08-25T18:02:55.949886+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "SEZL",
+    "title": "Sezzle (NASDAQ: SEZL) director to sell 1,000 shares on NASDAQ - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 59,
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdGVCa3hJSDdueXA3M09QcnFybWZEbnZPM0MxWUJMVUlNWU9IX0hyY2NPWUQycXBOeWczRHJOenVVUzY5bjN1SGNZX3cySnFuSWlRbE1TTnlBT1RneDA3Ml9ObHRQTVlMZXF2cC1ZM1FEbjR1dnRYZzE3VGxyS1hHSTlLNHl6SU5jWXB2N3lFN1Q?oc=5"
+  },
+  {
+    "time": "2026-08-25T18:02:55.949901+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "BMO reports Q3 profit down from year ago on one-time charge, adjusted profit up - BNN Bloomberg",
+    "publisher": "BNN Bloomberg",
+    "age_minutes": 17,
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeWFBcGhWbzJaYm5vWUNIVFZnMWNQc3ByNmpXUEFrOW5qSkh3V3JxVnFaRHVqRUJzRDNRZG1OakhiYjdzcWo4YWVpcnZXOEVvQWdZck5YOXJJT05xVzBTSVY3dlFfa1B4MXpuYUZoYW9GYVA5eHJ4Q1E1TFBaVk11c25aODVTeTdyZHNXaXN2c3JtckNEaEVBa0VuTU5PWklDcHFiNEtqRzZmZnh5NGN6YUZycXRZZHoweTNQSzdvY2FGZDhET25ubmZuNndBUDB0WUQxeVZZWQ?oc=5"
+  },
+  {
+    "time": "2026-08-25T18:02:56.690756+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "INDB",
+    "title": "Independent Bank (NASDAQ: INDB) director plans sale of 3,750 shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 53,
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeUNnLWRBc2pKNlV1bGRkWVRSMkE2UkNfdFlIZWFQWjVTRDhRdU45N2tYQXFpY21pVUs2MmxZLVllM1ltTEFyWVBuRVhLNTNoZGN0M2cwMXVXdXk1cnAwS2RxNktLSVVsZGtoQjlmbmhlaTlSV2dJLVZrb0dkaktFUlRIekZ1NVA5cUNTUHFvRGQtQkZHRjRvWDRWVVMyY1k?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-08-25T18:02:56.690809+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "NWFL",
+    "title": "Norwood Financial (NWFL) officer to sell 3,000 shares from option grants - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 56,
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWE2eDIyVUJ6OV9BYVNtWUROOFo2bmRvRGh1SmFLaEpRVXpueldyTkFnNVViRlNpZDNMTlRTSV9VS3NMdkVuVFlyVVdOcVNwWlV2SGJuMTJ2TGJOVURMVXlObVhlMHNJS2FwOElZWEUwSWp0RmhWcEItUm1PN2NwTHl0SGJCUVBDQlAwcGhRRThPelJ4ckNhbzg4amNXWE9t?oc=5"
+  },
+  {
+    "time": "2026-08-25T18:02:56.690834+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "SCSC",
+    "title": "ScanSource (NASDAQ: SCSC) ex-director lines up 29,000-share sale - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 55,
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZUU3bkFfU2drNWtWT3NUZGE5Smg3RHdmdEdvQ2U2b1YyXzZuTmdCdjI3ZHM2dlNzd0p1Yl95bEZGdVBvTGJTbHZUeENTendXbjZZdllONTNqV3NrdU5namM2aDh4T2Y4QlMzZlYwY1lkdHpiVWpnSFFhM2Ywb3ZEUFZ1SHpiZFF0MXV4dktsdW1zTm84ZlE?oc=5"
   }
 ]
