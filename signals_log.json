@@ -9056,5 +9056,37 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-08-25T20:12:26.007380+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CREDIT ACCEPTANCE CORP (0000885550) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CREDIT ACCEPTANCE CORP heeft een 8-K-rapport ingediend dat melding maakt van het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting. Het rapport bevat ook andere gebeurtenissen en financiële overzichten.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en een financiële verplichting kan de balans en toekomstige kasstromen van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in de waardering van het bedrijf.",
+      "risk_nl": "De specifieke aard en voorwaarden van de materiële overeenkomst en de financiële verplichting zijn niet gespecificeerd in de samenvatting. Zonder deze details is de economische impact onduidelijk.",
+      "invalidation_nl": "De samenvatting van de 8-K-melding geeft geen concrete details over de inhoud van de materiële overeenkomst of de financiële verplichting, noch de relatie met een M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van het volledige 8-K-document is essentieel om de implicaties van deze gebeurtenis te begrijpen."
+    }
+  },
+  {
+    "time": "2026-08-25T20:12:37.137555+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Grown Rogue International Inc. (0001463000) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Grown Rogue International Inc. heeft op 25 augustus 2026 een 8-K-rapport ingediend bij de SEC. Dit rapport vermeldt de totstandkoming van een materiële definitieve overeenkomst en de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting of financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op financiering of een wijziging in de eigendomsstructuur.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst en de aandelenverkoop zijn onbekend, waardoor de impact niet kan worden beoordeeld. Zonder details is het onduidelijk of dit positief of negatief is voor de aandeelhouders.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud, partijen of financiële voorwaarden van de materiële overeenkomst of de aandelenverkoop beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is zeer recent en afkomstig van een betrouwbare bron, maar mist essentiële details voor een economische beoordeling."
+    }
   }
 ]

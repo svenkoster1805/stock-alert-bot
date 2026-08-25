@@ -3568,5 +3568,17 @@
     "symbol": "FILER",
     "title": "8-K - Steele Creek Capital Corp (0001817825) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "b706c5a92327e58a87c413b23c48968288a3fbf9e1c9916ef6c35ddf31ace690": {
+    "first_alert_at": "2026-08-25T20:12:16.313077+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CREDIT ACCEPTANCE CORP (0000885550) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "436819e32f2de213ed4301287c04c2a939898799811f17ffafc467e533b8b750": {
+    "first_alert_at": "2026-08-25T20:12:26.737116+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Grown Rogue International Inc. (0001463000) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
