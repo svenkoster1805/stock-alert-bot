@@ -14261,5 +14261,80 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding bevestigt een materiële overeenkomst, maar de inhoudelijke details van de M&A ontbreken."
     }
+  },
+  {
+    "time": "2026-08-25T11:16:39.507973+00:00",
+    "symbol": "FILER",
+    "company": "Boxlight Corp (0001624512) (Filer)",
+    "event_key": "8dd56e168a9dd216b498d7e1c0ed024d9ff27b9392edf82220715374e21245c6",
+    "event_family": "M_AND_A",
+    "title": "8-K - Boxlight Corp (0001624512) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1624512/000121390026093241/0001213900-26-093241-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Boxlight Corp heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Dit document bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of verkoop, die de toekomstige financiële prestaties van Boxlight Corp aanzienlijk kan beïnvloeden. Dit kan leiden tot veranderingen in de bedrijfsstructuur, activa of schulden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn niet bekend, waardoor de impact op de waarde van het bedrijf onduidelijk is. Zonder details over de contractwaarde of de betrokken partijen is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "De contractwaarde en de gedetailleerde voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De volledige 8-K filing zou de ontbrekende details over de overeenkomst moeten bevatten."
+    }
+  },
+  {
+    "time": "2026-08-25T11:16:58.244818+00:00",
+    "symbol": "FILER",
+    "company": "WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
+    "event_key": "28490082ca99632ac66809abf6e72e791176791ff0fc7bf8ca657e6e28e64ca9",
+    "event_family": "M_AND_A",
+    "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000072/0001018164-26-000072-index.htm",
+    "news_age_minutes": 6,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "WILLIS LEASE FINANCE CORP heeft op 25 augustus 2026 een 8-K melding ingediend. Deze melding betreft de voltooiing van een acquisitie of desinvestering van activa.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de financiële positie en strategische richting van het bedrijf aanzienlijk beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva en toekomstige winstgevendheid.",
+      "risk_nl": "De specifieke aard en omvang van de transactie zijn onbekend, waardoor de impact op de financiële prestaties niet kan worden beoordeeld. Zonder details over de overgenomen of verkochte activa en de transactievoorwaarden is het risico op een verkeerde inschatting hoog.",
+      "invalidation_nl": "Er zijn geen concrete financiële details zoals de contractwaarde, de specifieke activa of de tegenpartij vermeld in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "De volledige 8-K filing zou de benodigde details moeten bevatten voor een gedegen analyse."
+    }
+  },
+  {
+    "time": "2026-08-25T11:17:10.227424+00:00",
+    "symbol": "FILER",
+    "company": "Madison Air Solutions Corp (0002098430) (Filer)",
+    "event_key": "071ba403a01f003accb791c7ff19f570dcd1733a31630d910951d26e580e8037",
+    "event_family": "M_AND_A",
+    "title": "8-K - Madison Air Solutions Corp (0002098430) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2098430/000162828026058764/0001628280-26-058764-index.htm",
+    "news_age_minutes": 15,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Madison Air Solutions Corp heeft een materiële definitieve overeenkomst gesloten. Dit is gemeld in een 8-K filing bij de SEC.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. Dit kan leiden tot waardeverandering voor aandeelhouders.",
+      "risk_nl": "De specifieke voorwaarden, de aard van de overeenkomst en de financiële impact zijn nog onbekend. Zonder deze details is de potentiële waarde of risico niet te bepalen.",
+      "invalidation_nl": "De contractwaarde en de gedetailleerde voorwaarden van de overeenkomst zijn niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevat waarschijnlijk meer details die nodig zijn voor een volledige beoordeling."
+    }
   }
 ]

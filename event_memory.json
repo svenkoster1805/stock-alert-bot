@@ -3532,5 +3532,23 @@
     "symbol": "FILER",
     "title": "8-K - Bleichroeder Acquisition Corp. III (0002128045) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "8dd56e168a9dd216b498d7e1c0ed024d9ff27b9392edf82220715374e21245c6": {
+    "first_alert_at": "2026-08-25T11:16:16.922269+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Boxlight Corp (0001624512) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "28490082ca99632ac66809abf6e72e791176791ff0fc7bf8ca657e6e28e64ca9": {
+    "first_alert_at": "2026-08-25T11:16:39.933102+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "071ba403a01f003accb791c7ff19f570dcd1733a31630d910951d26e580e8037": {
+    "first_alert_at": "2026-08-25T11:16:58.593847+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Madison Air Solutions Corp (0002098430) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
