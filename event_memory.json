@@ -3580,5 +3580,59 @@
     "symbol": "FILER",
     "title": "8-K - Grown Rogue International Inc. (0001463000) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "e6fe12287b53d5f0bcf76b64b62ed3eae1d18b41d7e841cee20c73769918184b": {
+    "first_alert_at": "2026-08-25T20:46:29.736772+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TPG Twin Brook Capital Income Fund (0001913724) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "da3b3d7f7443626f77e35d07c53055bffb4e90e0592cedb3ed76140fe34bf4d2": {
+    "first_alert_at": "2026-08-25T20:46:41.399154+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Blue Owl Credit Income Corp. (0001812554) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "8b57a57712f62bf93731443a209c48fa0072e69d9d8f671060489f4f4586cd37": {
+    "first_alert_at": "2026-08-25T20:46:50.906962+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Range Capital Acquisition Corp. (0002035644) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4aa930e3b93bbf691a43aa676ab15a5c573d0b62713592506b9f2c85104e8f7d": {
+    "first_alert_at": "2026-08-25T20:46:59.842138+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Future Vision II Acquisition Corp. (0002010653) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7e109ccba96bd0e7ba1773b879d636280efcda2d8702cd9d69c7b4daa381564c": {
+    "first_alert_at": "2026-08-25T20:47:00.562446+00:00",
+    "symbol": "FILER",
+    "title": "8-K - reAlpha Tech Corp. (0001859199) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "07a6c7f6a60ed2f1bedafe9374a03857cf0e5fb49f27524ff378d3a8eb7bd97e": {
+    "first_alert_at": "2026-08-25T20:47:01.227734+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ryman Hospitality Properties, Inc. (0001040829) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ae37f9eea20f601d094b59a5aba91ec93cb1a337f3fb7a427feb1553da4e6397": {
+    "first_alert_at": "2026-08-25T20:47:01.960516+00:00",
+    "symbol": "FILER",
+    "title": "8-K - B&R Technology Merger Corp. (0002131350) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "313d5771548a7092a2a6520a764ca540f12e8386922d9162ee9177f731fdba9a": {
+    "first_alert_at": "2026-08-25T20:47:02.635473+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DraftKings Inc. (0001883685) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "160c724f0c866d734f884d4e845cf81cce5e019be1a3aef8de93b6fdbaf27a2c": {
+    "first_alert_at": "2026-08-25T20:47:03.350888+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MARTEN TRANSPORT LTD (0000799167) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

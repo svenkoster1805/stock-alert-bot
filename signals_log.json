@@ -9088,5 +9088,137 @@
       "is_already_priced": false,
       "notes": "De 8-K melding is zeer recent en afkomstig van een betrouwbare bron, maar mist essentiële details voor een economische beoordeling."
     }
+  },
+  {
+    "time": "2026-08-25T20:46:40.735909+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TPG Twin Brook Capital Income Fund (0001913724) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "TPG Twin Brook Capital Income Fund heeft een 8-K-formulier ingediend over een materiële definitieve overeenkomst en een directe financiële verplichting. Het document is 87 MB groot en recent gepubliceerd.",
+      "why_nl": "Een materiële overeenkomst en financiële verplichting kunnen de balans en toekomstige kasstromen van het bedrijf beïnvloeden. Dit kan leiden tot veranderingen in de waardering van het aandeel.",
+      "risk_nl": "De aard en de financiële impact van de overeenkomst en verplichting zijn onbekend. Zonder details is het onmogelijk de economische relevantie te beoordelen.",
+      "invalidation_nl": "Er zijn geen specifieke details over de inhoud van de overeenkomst, de betrokken partijen of de financiële voorwaarden.",
+      "is_already_priced": false,
+      "notes": "De samenvatting van de 8-K filing is te algemeen om de aard van de gebeurtenis te bepalen."
+    }
+  },
+  {
+    "time": "2026-08-25T20:46:50.231216+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Blue Owl Credit Income Corp. (0001812554) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Blue Owl Credit Income Corp. heeft een 8-K-rapport ingediend bij de SEC, waarin het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting worden gemeld.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de financiële positie of strategische richting van het bedrijf significant beïnvloeden. De creatie van een financiële verplichting kan gevolgen hebben voor de balans en toekomstige winstgevendheid.",
+      "risk_nl": "De specifieke aard en voorwaarden van de materiële overeenkomst en de financiële verplichting zijn nog onbekend. Zonder details over de tegenpartij, de waarde of de impact is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "De concrete details van de M&A, zoals de contractwaarde en de betrokken partijen, ontbreken in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K bevestigt een materiële overeenkomst, maar de inhoud van de M&A is nog niet gespecificeerd."
+    }
+  },
+  {
+    "time": "2026-08-25T20:46:59.205313+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Range Capital Acquisition Corp. (0002035644) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Range Capital Acquisition Corp. heeft een 8-K formulier ingediend op 25 augustus 2026, met betrekking tot 'Other Events' en 'Financial Statements and Exhibits'.",
+      "why_nl": "De ingediende 8-K bevat geen specifieke details over een fusie of overname, noch enige economisch relevante informatie.",
+      "risk_nl": "Zonder concrete details over de inhoud van de 8-K is het onmogelijk om de impact of risico's te beoordelen.",
+      "invalidation_nl": "De verstrekte samenvatting en snippet bevatten geen enkele bevestiging van een M&A-transactie of economische details.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is te algemeen om een M&A-event te bevestigen."
+    }
+  },
+  {
+    "time": "2026-08-25T20:46:59.842163+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Future Vision II Acquisition Corp. (0002010653) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-25T20:47:00.562477+00:00",
+    "symbol": "FILER",
+    "title": "8-K - reAlpha Tech Corp. (0001859199) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-25T20:47:01.227760+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ryman Hospitality Properties, Inc. (0001040829) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-25T20:47:01.960543+00:00",
+    "symbol": "FILER",
+    "title": "8-K - B&R Technology Merger Corp. (0002131350) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-25T20:47:02.635502+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DraftKings Inc. (0001883685) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-08-25T20:47:03.350915+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MARTEN TRANSPORT LTD (0000799167) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
