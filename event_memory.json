@@ -3664,5 +3664,29 @@
     "symbol": "FILER",
     "title": "8-K - Momentus Inc. (0001781162) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "b7a919ce301e80f7e36e4cc0f2a5afad0dad5da865a1bb01c1e6ed99888ebf33": {
+    "first_alert_at": "2026-08-26T10:27:49.395326+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SharonAI Holdings Inc. (0002068385) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f2161d24158102cfd537143927986788fdbb23055e7e08744a9382b528fc2a69": {
+    "first_alert_at": "2026-08-26T10:27:57.161711+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "9fce2318286604bc2fb38acfcd4e13a4296ba157bdbb8b2304ccc99d4b1e2667": {
+    "first_alert_at": "2026-08-26T10:28:15.308175+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CCO HOLDINGS LLC (0001271833) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "380cc1e6ae34e5d2dfd5597d0578f72a539fa5eb86d07fb9c7c4a5f4d1fe24a4": {
+    "first_alert_at": "2026-08-26T10:28:23.028380+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CHARTER COMMUNICATIONS, INC. /MO/ (0001091667) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

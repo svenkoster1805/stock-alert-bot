@@ -14795,5 +14795,103 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-26T10:27:56.834551+00:00",
+    "symbol": "FILER",
+    "company": "SharonAI Holdings Inc. (0002068385) (Filer)",
+    "event_key": "b7a919ce301e80f7e36e4cc0f2a5afad0dad5da865a1bb01c1e6ed99888ebf33",
+    "event_family": "M_AND_A",
+    "title": "8-K - SharonAI Holdings Inc. (0002068385) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2068385/000149315226040152/0001493152-26-040152-index.htm",
+    "news_age_minutes": 16,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "SharonAI Holdings Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Dit document is 16 minuten geleden gepubliceerd.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden, wat potentieel een impact heeft op de aandelenkoers.",
+      "risk_nl": "De specifieke inhoud, voorwaarden en financiële impact van deze materiële definitieve overeenkomst zijn nog onbekend. Zonder deze details is een economische beoordeling niet mogelijk.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de contractwaarde en de betrokken partijen, ontbreken in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "Het 8-K-rapport bevestigt het bestaan van een materiële overeenkomst, maar de inhoud is nog niet geanalyseerd."
+    }
+  },
+  {
+    "time": "2026-08-26T10:28:14.974562+00:00",
+    "symbol": "FILER",
+    "company": "CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)",
+    "event_key": "f2161d24158102cfd537143927986788fdbb23055e7e08744a9382b528fc2a69",
+    "event_family": "M_AND_A",
+    "title": "8-K - CCO HOLDINGS CAPITAL CORP (0001271834) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1271834/000110465926100972/0001104659-26-100972-index.htm",
+    "news_age_minutes": 26,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CCO Holdings Capital Corp heeft een materiële definitieve overeenkomst gesloten en een directe financiële verplichting of een verplichting buiten de balans gecreëerd. Dit is op 26 augustus 2026 via een 8-K-formulier bij de SEC ingediend.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst en het creëren van financiële verplichtingen kan de financiële positie en toekomstige strategie van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva en winstgevendheid.",
+      "risk_nl": "De specifieke financiële details van de overeenkomst, zoals de contractwaarde en de exacte aard van de verplichtingen, zijn niet bekend. Dit maakt een volledige beoordeling van de impact op de belegger onmogelijk.",
+      "invalidation_nl": "De contractwaarde van de materiële overeenkomst is niet bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt het bestaan van een materiële overeenkomst en financiële verplichting, maar de economische impact is nog onduidelijk zonder verdere details."
+    }
+  },
+  {
+    "time": "2026-08-26T10:28:22.638191+00:00",
+    "symbol": "FILER",
+    "company": "CCO HOLDINGS LLC (0001271833) (Filer)",
+    "event_key": "9fce2318286604bc2fb38acfcd4e13a4296ba157bdbb8b2304ccc99d4b1e2667",
+    "event_family": "M_AND_A",
+    "title": "8-K - CCO HOLDINGS LLC (0001271833) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1271833/000110465926100972/0001104659-26-100972-index.htm",
+    "news_age_minutes": 26,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CCO HOLDINGS LLC heeft een 8-K ingediend bij SEC.gov, waarin het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting wordt gemeld.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie. Dit kan de financiële positie en toekomstige vooruitzichten van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de contractwaarde en de betrokken partijen, zijn niet bekend. Zonder deze details is de impact op de financiële prestaties en aandeelhouderswaarde onduidelijk.",
+      "invalidation_nl": "De essentiële financiële voorwaarden en de exacte aard van de materiële overeenkomst zijn niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële overeenkomst en financiële verplichting zijn nodig voor een beoordeling."
+    }
+  },
+  {
+    "time": "2026-08-26T10:28:23.377090+00:00",
+    "symbol": "FILER",
+    "company": "CHARTER COMMUNICATIONS, INC. /MO/ (0001091667) (Filer)",
+    "event_key": "380cc1e6ae34e5d2dfd5597d0578f72a539fa5eb86d07fb9c7c4a5f4d1fe24a4",
+    "event_family": "M_AND_A",
+    "title": "8-K - CHARTER COMMUNICATIONS, INC. /MO/ (0001091667) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000110465926100972/0001104659-26-100972-index.htm",
+    "news_age_minutes": 26,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
