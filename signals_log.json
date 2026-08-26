@@ -9358,5 +9358,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-08-26T11:02:44.032953+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Biohaven Ltd. (0001935979) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Biohaven Ltd. heeft op 26 augustus 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij SEC. Dit document bevat ook Regulation FD Disclosure en financiële overzichten en bijlagen.",
+      "why_nl": "Een materiële definitieve overeenkomst, vooral in het kader van een M&A-gebeurtenis, kan aanzienlijke financiële en strategische gevolgen hebben voor het bedrijf. De officiële melding via een 8-K filing bevestigt de ernst van de gebeurtenis.",
+      "risk_nl": "De specifieke voorwaarden en financiële details van de overeenkomst zijn niet bekend uit de verstrekte samenvatting. Zonder deze details is de exacte impact op de waardering van Biohaven Ltd. onzeker.",
+      "invalidation_nl": "Als de volledige 8-K filing onthult dat de materiële overeenkomst geen significante economische impact heeft.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing met Item 1.01 duidt op een bindende overeenkomst, maar specifieke details over de contractwaarde ontbreken in de samenvatting."
+    }
   }
 ]
