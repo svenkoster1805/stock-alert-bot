@@ -3706,5 +3706,11 @@
     "symbol": "FILER",
     "title": "8-K - Karman Line Acquisition Corp. (0002134856) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "901569ea2c4c80f9f53c258009c6eaf32ffc76c01c2b9dde59b530427a985644": {
+    "first_alert_at": "2026-08-26T17:00:31.061960+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SOMNIGROUP INTERNATIONAL INC. (0001206264) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

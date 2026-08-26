@@ -9406,5 +9406,21 @@
       "is_already_priced": false,
       "notes": "De classificatie als M&A-event wordt niet ondersteund door de inhoud van de 8-K samenvatting."
     }
+  },
+  {
+    "time": "2026-08-26T17:00:39.365686+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SOMNIGROUP INTERNATIONAL INC. (0001206264) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]
