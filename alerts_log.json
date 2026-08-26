@@ -14918,5 +14918,30 @@
       "is_already_priced": false,
       "notes": "De 8-K filing met Item 1.01 duidt op een bindende overeenkomst, maar specifieke details over de contractwaarde ontbreken in de samenvatting."
     }
+  },
+  {
+    "time": "2026-08-26T11:38:39.265094+00:00",
+    "symbol": "FILER",
+    "company": "Priority Technology Holdings, Inc. (0001653558) (Filer)",
+    "event_key": "dc674e219bf931e327e9f97a19c1944c5460dcfbda71dd74ea6204e4e5ec2b31",
+    "event_family": "M_AND_A",
+    "title": "8-K - Priority Technology Holdings, Inc. (0001653558) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1653558/000165355826000134/0001653558-26-000134-index.htm",
+    "news_age_minutes": 7,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "TRADEABLE",
+      "confidence": 1,
+      "summary_nl": "Priority Technology Holdings, Inc. heeft op 26 augustus 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC.",
+      "why_nl": "De aankondiging van een materiële definitieve overeenkomst, gerelateerd aan een M&A-gebeurtenis, kan de toekomstige financiële prestaties en strategische richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend, wat leidt tot onzekerheid over de uiteindelijke waardecreatie of -vernietiging.",
+      "invalidation_nl": "Als de volledige details van de overeenkomst geen significante economische impact blijken te hebben of negatief zijn voor de aandeelhouders.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van de volledige 8-K filing is essentieel om de details en implicaties van deze materiële overeenkomst te begrijpen."
+    }
   }
 ]

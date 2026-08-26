@@ -3694,5 +3694,11 @@
     "symbol": "FILER",
     "title": "8-K - Biohaven Ltd. (0001935979) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "dc674e219bf931e327e9f97a19c1944c5460dcfbda71dd74ea6204e4e5ec2b31": {
+    "first_alert_at": "2026-08-26T11:38:22.878151+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Priority Technology Holdings, Inc. (0001653558) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
