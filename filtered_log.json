@@ -1,68 +1,5 @@
 [
   {
-    "time": "2026-07-24T17:12:01.920751+00:00",
-    "reason": "te oud voor fastlane (37 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Digital Brands Group, Inc. (0001668010) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 37,
-    "url": "https://www.sec.gov/Archives/edgar/data/1668010/000149315226034517/0001493152-26-034517-index.htm"
-  },
-  {
-    "time": "2026-07-24T17:12:02.814486+00:00",
-    "reason": "te oud voor fastlane (56 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - LISATA THERAPEUTICS, INC. (0000320017) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 56,
-    "url": "https://www.sec.gov/Archives/edgar/data/320017/000114036126029541/0001140361-26-029541-index.htm"
-  },
-  {
-    "time": "2026-07-24T17:12:02.814566+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Profound Medical Corp. (0001628808) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 73,
-    "url": "https://www.sec.gov/Archives/edgar/data/1628808/000117184326004863/0001171843-26-004863-index.htm"
-  },
-  {
-    "time": "2026-07-24T17:12:03.839796+00:00",
-    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
-    "symbol": "",
-    "title": "Intermountain Health Care, Inc. entered into a definitive agreement to acquire remaining majority stake in Idaho Falls Community Hospital, LLC from Surgery Partners, Inc.. - marketscreener.com",
-    "publisher": "marketscreener.com",
-    "age_minutes": 20,
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZzJqRzd2dktWWldUSlA1UlEzdWxtSnl6Tlp5RWxhQkgtQXZFX2REMWdJa1BqSWxiWGlPZ2dNRk9ua1NGb0VQQUl4aE91Nk9xTU9tanA0QmV3QTBfQ0xtVWcxQlNFZDByVWdCdnpMQ1NfZ0tUTU1wblk1aVh0TVRORlZPb25sQ09YZk5rNXRjVzlvVElKLTMwaU1YUUJKN2ZCYV9jaFJ4Z29hNXhLU0kyOE5FamlOSUhTVEJqQTdVbzlLcmcxYWxWTmVFdVpRWmhXUVprblB4dUxtYjhJQ1VmaDl6bDBlZw?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
-    "time": "2026-07-24T17:12:04.810114+00:00",
-    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
-    "symbol": "",
-    "title": "WSP Global makes takeover offer for Dutch engineering firm Arcadis - The Globe and Mail",
-    "publisher": "The Globe and Mail",
-    "age_minutes": 45,
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUkpVbE5rS0VCM0Y3Ni1sLThMSjU4eE9RLS1aZFE0bHdHTGtWOTE3ZldFbmVyb2xWVGFySGNTWXhOSlFfekwzbEs2elBIM1RHb3hUM0hhelU2Q09ERldRTS1ibUFFSXdmMWZhT1d0OVRjQWthY19OU3lucW9xaFQtVUNVV1V5MzNEWHVkYWQzYmtCU2JNV3hEdVcwWE9CS1NsODNSRmRySGVnb1BUaWhOMHBiekhtU0lyTWFQdGpya3ROLWg0NjFoWndsYkx2T1JwMFRIM3dmV2JpNTZtVkRPOFc4cWhFZm8?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
-    "time": "2026-07-24T17:12:04.810162+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "3 Bank Stocks to Buy in July - The Motley Fool",
-    "publisher": "The Motley Fool",
-    "age_minutes": 42,
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95bDFUMGZWUlB0RW1SMTZ1Y0RtQVJBMm5CREZEWXhpZWV2ZXUxb0s2Y1dDNGhuSXVjMFlEbmV4RVRydGJuQVRTdjBGUnlYak94T0Z2OV9wLVhrN2R1SzNtTkd4cFk1a2R1V29ic1FxVHRmLXp3VmNZbU80aw?oc=5"
-  },
-  {
-    "time": "2026-07-24T17:12:04.810184+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "3 Bank Stocks to Buy in July - AOL.com",
-    "publisher": "AOL.com",
-    "age_minutes": 34,
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KNHAtbm1sdndGOHZPVmpQS3h1X2hKbHN0eVZrekRSNUI5bS1ZTGVDX1Q0S0NjWGcxMUtIdDV2VHZiTWk2TXY2STlpcjNVUDBieDR5YnpVZHd0LTM5NzQwQUpmNVVsT0tmS2c1c2RzN19xU184?oc=5"
-  },
-  {
     "time": "2026-07-24T17:12:04.810200+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "",
@@ -107998,5 +107935,68 @@
     "publisher": "Court Book",
     "age_minutes": 52,
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTNlMFZlN3BYX1RGRVIzZ1ViYXNYa1NvRGtBMEJPeDFxV3U4cThCWEx5Uk92RzJrV2JqSlFlN2ZRR0pPeTJHeDlaWHpwdVA2YnptYkRSMEVfM0c3OVRjZ1ZJaVo3R0FyVzBreFFLS09wXzFic0hVeDkzTkM2TFZzX1NxSGxpSDNrM3dubmJtNnhRWFJwd3BBdTF0b3dudnRUNlhmeWpmQzFLb2dLZXJZMTc1b2s?oc=5"
+  },
+  {
+    "time": "2026-08-26T09:54:32.187280+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Share Market News: THIS company bags major contract to build 550-bed hospital in Uttar Pradesh's Prayagraj, s - India.com",
+    "publisher": "India.com",
+    "age_minutes": 10,
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPcG1tM2I3X1UxQmliUUhvQS0wR0tqVlhwYlhnUUszY1FUSXhJQkF6YnN5X1hDdkdVZ2xMcjBuSnFSNktLU0xfMzBxa3pxTHVSTEo4azFpQ3lBczdJc1N0WU5IMjJyZjc3Zmd6ZGlTQmV3ak1uc01nVjBMbnhxV2dtR3V6N3hoNFI1UVBFUWtRMk90anhsblZ6Z3M4d1djU1BhWUVtU21JWC12NGRadThDZGtoTHktcDJCQWNqTV9RVHdpYnBUeWFQWENpSkFtelNZSHhxOHQ1dUlQZVdxYjdkSlN3ejVWVGVPUWVWeVg2dGw0NlIwN3ZHUEt5ZjNUSUFaUDEyeWJFTlE5N0RGY1lpYURtVnNuSW1aVXRZ0gGgAkFVX3lxTE5WbUZzcGRDcms0UUdHNWlkQWtPQmFzOEZfcGlZNEdtTWF0Zk9sMVoxMjEtRWtlTUFhY3BzeDRBYmlMZWhNVFJ0cExkWWhKVXFZWmxNMDBNZjZMcm1sUVQzZGtoa3RCVzJ5VFoyY194ak1jVWV4NHZSX2NhLS1BLUswaG9OU2ZhdUYzR1J2Q1lOeU0tbUdKNXI3TEM5Z0dzdDJNa0hJZlN1MThqejVCT0x5NVkyTnJfaFc3U2MtNmhwdllPYlZ1UHNwSklaM3B4d0VERjhjZU9VaHlKWTY2eWN4Q0RKTnkyQTJ2cGZQZGx3bkJadXFkR09tNnZCbGxST0FkZ3ZGYlNrZFZOMlpqeXUwUmdrMzVLOWY3bGxOTXhEdg?oc=5"
+  },
+  {
+    "time": "2026-08-26T09:54:32.187294+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "HMRC defeats £1 billion Isle of Man property tax challenge - ICLG",
+    "publisher": "ICLG",
+    "age_minutes": 41,
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFc0SE1TaXozOVNnY1VNemVkR1NGS0QxaTZOZDNiVllSRktzdVFXaEJTaUxOdEI3OVprTkRwdWluNnJ2aXlZZkMxdkRSNFNwUEQ0Q1VUVV9VeERCRGcwdkx1dW9ENmJjODkzTEI5MVljYTJNMFJKdUxBOGdLQXBNQXctZl9Cc0k?oc=5"
+  },
+  {
+    "time": "2026-08-26T09:54:32.187305+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Hyperscale Data Bitcoin treasury reaches 1,087 BTC worth $70.3 million - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 9,
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmtoXzR2Ujd5SVFfRHNOc0o0V1FEVVpVREp0djhIMXdMWnpGUmZpU3dja3l6bDBLMV9tUnV5bks5Wk5NaTBXeEtDV2F0Vm04Q2tDZVJBUDNyZ2stXzR2STdpUUNvSkt5RnJZZEhfZTRSVHdDRlNuOEREampsTm95dmpjbVFNTURzVHpiZ3R4Nml3OWtSWGtsWW1NZWpNb0kySHAxOWxkWDVyUQ?oc=5"
+  },
+  {
+    "time": "2026-08-26T09:54:32.187317+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Adani’s Cemindia is said to near up to Rs 5,000 crore share sale - Moneycontrol.com",
+    "publisher": "Moneycontrol.com",
+    "age_minutes": 43,
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ2hTMlkwUXVWNzdvNm9tZzBPaWtOX2I4N0NMeTZQclF1TnM0RGNyN0ZmTXBMQVpPOFpESUI4cGtQaEwyOUZhM3ItbDhXdDhkT1BabVNTWDRjMXBHek9mR29zaEFsOTAyTWNCN29sYW1sZkZjdjFkWjBOUkpJWEpfOGpHUW1PazdYdF9lVWJyc1FyMDlURlpMT3UzdFVuSl96SUJHd3VpM25mYlQ3UTVEQmJxMGllWjRKV1lLZjF6c2l5VWUtOGFmeXdORdIB0AFBVV95cUxNelF0SE9ydlgwSUJodDhDSzN5d3NpV0dZWmZsRXJKdkFQa0hQbW90QVZPRlZ3RFVYbVFRalZmTTlwN3U4ZDk3ck5FQXZkUEdOVUhZZ2luTEZ6ZlpTYXlZc2NaelpWTmY0bFpsMEc4MXg3SkMwNXpTZWd5V0s4bW9iTm96ZHJLbVJRQ3hfM2ZzSzBYTFZUajZINXQyR1dxR1NxX0J1YmlrOWdCcTdZaWhCUzN5c204MjlxYzZKWVRtVWxmcTVIdFJFSjNxYV9KTEdH?oc=5"
+  },
+  {
+    "time": "2026-08-26T09:54:32.187327+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Omnicom Group stock holds close to a 52-week high as Q2 revenue beats estimates - Ad-hoc-news.de",
+    "publisher": "Ad-hoc-news.de",
+    "age_minutes": 47,
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUmdOXzFtbjVESE1QQlRiMHJiWl9qOWd1djF5QlNOLUFkZUNkWmU4cTdCbFlVM1NvU0lRUktmU1pBZF9GVzN5M0NVeXlQNThpX1RVMlVYRGJhWU0ybjZaQ2hDa3hYdjc0SFpuOUotTkprU01tQlF6V3RxZG9IVVJyQkxReXJMaDdYallRRUNJQ3NrcHVtb1lOV0I1V01GZnJmT1M1QnNNSnZsU1F0NVluLWRlcG9FcHg4Y291Wk1LOXJNQ2FsbEhCQ3ltWU8?oc=5"
+  },
+  {
+    "time": "2026-08-26T09:54:32.187343+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "PEF",
+    "title": "Private equity fund (PEF) manager Keystone Partners is seeking to sell PIMZ. Pims is a company that - 매일경제",
+    "publisher": "매일경제",
+    "age_minutes": 58,
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53M3RXa1dBQW9FSkNDS0liWXRyWWJ2cTRoRUFxUkxxRWhwUWsxYWpFemg1V0gwREZQSzlrRWFTa1ljeHg2Ui1MSTI5TWxvZk0?oc=5"
+  },
+  {
+    "time": "2026-08-26T09:54:32.187353+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Mylan Inc.: Corrects Shareholding Disclosure in Biocon Limited - InvestyWise",
+    "publisher": "InvestyWise",
+    "age_minutes": 26,
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0dMYThiWDV0R2l5ejRWWUM5cURlMHZ1NFBOUlNVem9TWm1oR29vdzBsbkhiV2Jid2pCcjlyenVlekVmOWNjRnBZMlNSTGR1SmpzeWZ6YlR1MGtWbVEzUnI5MzVHTkkxQlpDQ0otUFBKUTBUQ0dRTllzeTc3LVJhc2F6ZmRfQQ?oc=5"
   }
 ]
