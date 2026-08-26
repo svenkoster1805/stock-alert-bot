@@ -9390,5 +9390,21 @@
       "is_already_priced": false,
       "notes": "Verdere analyse van de volledige 8-K filing is essentieel om de details en implicaties van deze materiële overeenkomst te begrijpen."
     }
+  },
+  {
+    "time": "2026-08-26T13:09:05.830553+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Karman Line Acquisition Corp. (0002134856) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Karman Line Acquisition Corp. heeft een 8-K formulier ingediend bij de SEC, met daarin 'Other Events' (Item 8.01) en 'Financial Statements and Exhibits' (Item 9.01). Het document is recent gepubliceerd op 26 augustus 2026.",
+      "why_nl": "Een 8-K melding kan belangrijke bedrijfsevenementen signaleren die de koers kunnen beïnvloeden. Echter, de specifieke inhoud van de 'Other Events' is hier niet gedetailleerd.",
+      "risk_nl": "De aard van de 'Other Events' is onbekend, waardoor de economische relevantie of impact niet kan worden beoordeeld. Er is geen informatie over een contractwaarde of formele voorwaarden.",
+      "invalidation_nl": "De verstrekte informatie over de 8-K melding bevat geen details die een fusie of overname bevestigen of beschrijven.",
+      "is_already_priced": false,
+      "notes": "De classificatie als M&A-event wordt niet ondersteund door de inhoud van de 8-K samenvatting."
+    }
   }
 ]
