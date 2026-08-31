@@ -3712,5 +3712,11 @@
     "symbol": "FILER",
     "title": "8-K - SOMNIGROUP INTERNATIONAL INC. (0001206264) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "03ccc42b635fdb006511d4fc424a2aba806c0839c1d0e0d74158e1dcbabc31b4": {
+    "first_alert_at": "2026-08-31T12:59:12.877649+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Datacentrex, Inc. (0001853825) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
