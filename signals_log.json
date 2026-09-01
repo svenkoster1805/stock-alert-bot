@@ -9438,5 +9438,53 @@
       "is_already_priced": false,
       "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig voor een volledige beoordeling."
     }
+  },
+  {
+    "time": "2026-09-01T21:25:03.181074+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TPG Private Equity Opportunities, L.P. (0002050260) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "TPG Private Equity Opportunities, L.P. heeft een materiële definitieve overeenkomst gesloten en een directe financiële verplichting aangegaan, zoals gemeld in een 8-K filing bij de SEC.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst en een financiële verplichting kan duiden op een acquisitie of desinvestering die de financiële positie van het bedrijf beïnvloedt.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op de belegger onduidelijk is.",
+      "invalidation_nl": "Er zijn geen details over de tegenpartij, de transactiewaarde of de specifieke activa die betrokken zijn bij de overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een overeenkomst, maar mist cruciale M&A-details voor een beoordeling."
+    }
+  },
+  {
+    "time": "2026-09-01T21:25:11.544843+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Rent the Runway, Inc. (0001468327) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Rent the Runway, Inc. heeft op 1 september 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en bevat financiële overzichten en bijlagen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de financiële positie of operationele strategie van Rent the Runway significant beïnvloeden. Afhankelijk van de inhoud kan dit leiden tot veranderingen in inkomsten, kosten of activa.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op het bedrijf onduidelijk is. Zonder details over de partijen of de financiële implicaties is het risico op een negatieve uitkomst niet in te schatten.",
+      "invalidation_nl": "Er is geen informatie over de inhoud, waarde of partijen van de materiële overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke ontwikkeling, maar de aard van de 'M_AND_A' is niet gespecificeerd in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-09-01T21:25:19.527252+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Hyperliquid Strategies Inc (0002078856) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Hyperliquid Strategies Inc (Filer) heeft op 1 september 2026 een 8-K-rapport ingediend bij de SEC. Dit rapport vermeldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan de financiële positie en toekomstige strategie van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of operationele inkomsten.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend. Zonder deze details is het onmogelijk de economische relevantie volledig te beoordelen.",
+      "invalidation_nl": "De 8-K-melding bevat geen details over de contractwaarde, de tegenpartij of de specifieke voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een overeenkomst, maar de inhoudelijke details ontbreken voor een handelsbesluit."
+    }
   }
 ]

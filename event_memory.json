@@ -3718,5 +3718,23 @@
     "symbol": "FILER",
     "title": "8-K - Datacentrex, Inc. (0001853825) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "72a788cfd56e8bae61ed158f68530d90a1aadd02ba8652d5df2032dfeb1a3271": {
+    "first_alert_at": "2026-09-01T21:24:57.450359+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TPG Private Equity Opportunities, L.P. (0002050260) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "62ff71347d3c80fdd7451123c39b58b102354caba39511bee35e11e8f01a1124": {
+    "first_alert_at": "2026-09-01T21:25:04.370239+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Rent the Runway, Inc. (0001468327) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "acfcdcc1a0e0161b30d28e04c34f0d94fcb82ed7f5c521ebecc016ac38cbe8b0": {
+    "first_alert_at": "2026-09-01T21:25:12.619510+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Hyperliquid Strategies Inc (0002078856) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
