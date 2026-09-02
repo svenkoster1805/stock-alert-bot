@@ -9502,5 +9502,21 @@
       "is_already_priced": false,
       "notes": "De 8-K filing duidt op een belangrijke gebeurtenis, maar de details van de 'Material Definitive Agreement' zijn cruciaal voor een volledige analyse en om de impact te bepalen."
     }
+  },
+  {
+    "time": "2026-09-02T14:45:35.571025+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Nex Neo Tech Inc. (0002091438) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Nex Neo Tech Inc. heeft een 8-K-formulier ingediend over het aangaan van een materiële definitieve overeenkomst. Het document is 225 KB groot en bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. Dit kan leiden tot waardeverandering afhankelijk van de aard en voorwaarden van de deal.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op het bedrijf en de aandeelhouders niet kan worden beoordeeld. Zonder details is het risico op een negatieve uitkomst of teleurstelling hoog.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de betrokken partijen of de specifieke aard van de M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een overeenkomst, maar de details ontbreken om de M&A-relevantie en impact te beoordelen."
+    }
   }
 ]

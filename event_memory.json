@@ -3742,5 +3742,11 @@
     "symbol": "FILER",
     "title": "8-K - Vertiv Holdings Co (0001674101) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "0da3e0434a7b2207583b387bf380e2aad576fbd833481dbe278b6bbad1cadfd9": {
+    "first_alert_at": "2026-09-02T14:45:14.027330+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Nex Neo Tech Inc. (0002091438) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
