@@ -3748,5 +3748,53 @@
     "symbol": "FILER",
     "title": "8-K - Nex Neo Tech Inc. (0002091438) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "3d80307900a6b7e620ec39db732dc01e3907387beced9755f61249623dbdbf6f": {
+    "first_alert_at": "2026-09-02T20:59:16.763773+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SRX Global Inc. (0001471727) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "3372adf2723f91adbb7012e595f45bbd770b13808e55481bc63085805207c724": {
+    "first_alert_at": "2026-09-02T20:59:31.230053+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VOLITIONRX LTD (0000093314) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7f8bebc0abb50e3bf1eac7a5ad8164a56ae56258aab0e413e521724d537db4ac": {
+    "first_alert_at": "2026-09-02T20:59:48.809720+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CAL-MAINE FOODS INC (0000016160) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a84523a2c10fb9e0d0164a4b7b040f030dc6dee0b4ee3c3f23d6e8078205a641": {
+    "first_alert_at": "2026-09-02T20:59:59.412441+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Venture Global, Inc. (0002007855) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0ff4bfc874d8f4411dfa81a73e08a1d6f9e911fe1a46496eae0d0a33546335bd": {
+    "first_alert_at": "2026-09-02T21:00:00.441686+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Inflection Point Acquisition Corp. VIII (0002146310) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2adc98dc047a2ca88be39e73e93293cfa8092e8a50356c0f4213e9a2943e0076": {
+    "first_alert_at": "2026-09-02T21:00:01.464525+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Southern Cross Acquisition II Corp. (0002133239) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "08f18ae4b2baff05d2088a9d91b6a6a9da8e19493402fcf6492400f12aba8c98": {
+    "first_alert_at": "2026-09-02T21:00:02.686557+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Four Leaf Acquisition Corp (0001936255) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "004039d7622dfbd5213ca1b5587c20c3bd3f9bd590c597188456b9f4c1f391e6": {
+    "first_alert_at": "2026-09-02T21:00:03.725440+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Data443 Risk Mitigation, Inc. (0001068689) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
