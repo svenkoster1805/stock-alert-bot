@@ -3736,5 +3736,11 @@
     "symbol": "FILER",
     "title": "8-K - Hyperliquid Strategies Inc (0002078856) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "b098374b5353ac07addf73f279c2e4945bb1fba5cf6778a3ae73de8a8b5511ac": {
+    "first_alert_at": "2026-09-02T10:50:45.981201+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Vertiv Holdings Co (0001674101) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
