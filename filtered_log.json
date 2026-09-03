@@ -1,131 +1,5 @@
 [
   {
-    "time": "2026-07-30T12:14:51.988402+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - APi Group Corp (0001796209) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 38,
-    "url": "https://www.sec.gov/Archives/edgar/data/1796209/000162828026050806/0001628280-26-050806-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:51.988415+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - CRESCENT BIOPHARMA, INC. (0001253689) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 38,
-    "url": "https://www.sec.gov/Archives/edgar/data/1253689/000162828026050805/0001628280-26-050805-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:51.988427+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - PHINIA INC. (0001968915) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 41,
-    "url": "https://www.sec.gov/Archives/edgar/data/1968915/000196891526000109/0001968915-26-000109-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:52.287461+00:00",
-    "reason": "te oud voor fastlane (41 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Intercontinental Exchange, Inc. (0001571949) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 41,
-    "url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526324909/0001193125-26-324909-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:52.287513+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - NETLIST INC (0001282631) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 42,
-    "url": "https://www.sec.gov/Archives/edgar/data/1282631/000110465926088464/0001104659-26-088464-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:52.287533+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Acadian Asset Management Inc. (0001748824) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 42,
-    "url": "https://www.sec.gov/Archives/edgar/data/1748824/000162828026050801/0001628280-26-050801-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:52.287547+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - HNI CORP (0000048287) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 42,
-    "url": "https://www.sec.gov/Archives/edgar/data/48287/000004828726000122/0000048287-26-000122-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:52.287561+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - JONES LANG LASALLE INC (0001037976) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 43,
-    "url": "https://www.sec.gov/Archives/edgar/data/1037976/000103797626000150/0001037976-26-000150-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:52.287574+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Tvardi Therapeutics, Inc. (0001346830) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 44,
-    "url": "https://www.sec.gov/Archives/edgar/data/1346830/000110465926088461/0001104659-26-088461-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:52.287589+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Soluna Holdings, Inc (0000064463) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 44,
-    "url": "https://www.sec.gov/Archives/edgar/data/64463/000149315226035326/0001493152-26-035326-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:52.287604+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Intercontinental Exchange, Inc. (0001571949) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 44,
-    "url": "https://www.sec.gov/Archives/edgar/data/1571949/000110465926088462/0001104659-26-088462-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:52.287618+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Ranpak Holdings Corp. (0001712463) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 44,
-    "url": "https://www.sec.gov/Archives/edgar/data/1712463/000162828026050798/0001628280-26-050798-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:52.287632+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Leonardo DRS, Inc. (0001833756) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 45,
-    "url": "https://www.sec.gov/Archives/edgar/data/1833756/000183375626000037/0001833756-26-000037-index.htm"
-  },
-  {
-    "time": "2026-07-30T12:14:52.287646+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - UPBOUND GROUP, INC. (0000933036) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 45,
-    "url": "https://www.sec.gov/Archives/edgar/data/933036/000119312526324902/0001193125-26-324902-index.htm"
-  },
-  {
     "time": "2026-07-30T12:14:52.287659+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107872,131 @@
     "publisher": "scanx.trade",
     "age_minutes": 49,
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUEN2TzltMFBtNXJCWjBHN1FYQ0NHRi1OLWhZTlhRd3JrTThUbVBDS2g4eWhURmtuWUlSNERFTFE4cXlHZk02aGdmTERzYm5FSmljTVpXak1PMjNYN29hdjhXWlIweHdJZnZUNGludGdybnpHVWkxaktma1VJdWliX2pfd2dhdDVZdUxrcTRVZ1FBb2dCdzlyN1NtZWhnc1hIX01JRlN4WVRNMTZtWTVWSkNFeDB2TzFz?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835422+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Flex to Acquire EPC Power, Adding Leading Power Conversion Capabilities for AI Data Centers and Grid Applications - PR Newswire",
+    "publisher": "PR Newswire",
+    "age_minutes": 53,
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOc191d3Zkal9xb0xJUlFlY2V1cHRCTmpJVHhYa1RTZWxQVzlLR2lKNVp1YXB2bTFMUHpHdUw3LWZ2TnZfWlVoaXlVaUdCMjE0X3JLRDQ2UVlVZjVwSHhFTUNrcXRqaGZDQWFXRHIzRHJaek82NWNTWW82ZVJ6NTRaWnVPRVJsa2tVaU02SDRTelFNSldteGRvYlAwMFBLS0tQR2pjR3hOajg5M1RYb2RzV1Y5Y1Nwc3JuYVFwaTNmUXVnNV9ld2FaNks5MmRpVk1ZSkZaR3FiQkFQOTFfMHpJZFUtWWtEMjREVnBnOTZ6UTBnWDRJeWdsdm5VVjA?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835484+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "BCIC",
+    "title": "BCP Investment Corp (BCIC) adds 2029 debt to refinance 2026 notes - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 45,
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX0tkWF9IS2FsMlVkMXVVZUdDd0Q1ZDd4NWY2bVFYM0hmVEJhR1FvelIweHdUcnBPV0pVVjFyV190bF9MUmp6MWFKTjFOUTFENmVnSHpteGtYcWo3UHJIbG8tTjk5TjdZNDlITlBXSWhGRmIySjRsVFVSYUtIT2kxLUJXTGNtTV9haTNwVDl0aGhZYUtGTHJlUmpsdWRtYTRublpOd1R1c2s0eVJx?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835526+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "HRI",
+    "title": "Herc Holdings (NYSE: HRI) lifts borrowing capacity with new receivables amendment - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 40,
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX0VOaVB3bHNDZzRKNHFacFNlSzdIYVRqRndJSnNzYU9RSUtMbUtleTJzTk5TZFZ0dW5Gc0FGMmtId29TTkt5V1FxMzFNNklaWVV5UlBuWUI1X0I0TXVTNXFDX1dqRGNFR005Xy1wVXpYU2ZrYnV3bmhZdXhxUlNaSGVoenJ2dnF4QmIyaUt5RkNPRng3QlREQmFDbUlEejZpOFRzTFZqR3E?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835542+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "MLYS",
+    "title": "Mineralys: Why I'm Making Stock A Buy Ahead Of Hypertension Approval Decision (MLYS) - Seeking Alpha",
+    "publisher": "Seeking Alpha",
+    "age_minutes": 32,
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcUNhMlRrekhZQkswREZyNDJXU3d6ajFkTXlMQXVHYmpNR0tUYkI5MGMyQ0gtZVNQMjZ1ZGhZZk9GeEhSR3lGV2hrMHU5eE5HT053UUxKQkZUSXZUT1lpRk1NZGJaTGUxYkhORmc1dzlxbnpOeGVHN1RhVjUwa08xYVlsUkxCNUV5M1ZseGYxRkRtQ010WktXRGhOR0hDRUhvME1fQy1pQTFwdm9mdkxMSmdYLVVDYTQ?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835557+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "RNR",
+    "title": "RenaissanceRe (NYSE: RNR) officer lines up new stock sale after August trades - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 39,
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTDU0YVUzM0dkUmJCWUhBUnZTQ1ZfTWRjcGhUSmFOdU1DeE9Sbnc2RHRKdHpESVlVOWdLeUJ5dHJpVGhKOEVOQ3I2cFF2Rl8yRklLQy0wV3l6cWY5VlpxcGY1bC1nbkJtTWptaUQyV0hrSjBLbDVUOGdBaGRZaVR4YTk4UHVybU5BLWw5Qkd1MlAxcGpFbDAtMU5ndWlEeFZoQzJ5Sg?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835571+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "Z",
+    "title": "Zillow Group (NASDAQ: Z) director to sell stock from equity award - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 51,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVlN0TGlFd1BpUkROZlFDTDRqUjdKOWJQWWpOUDNmbTVBVFpEZVpJVU1CRDNKcTNzeGV1cW1Qb1pWdjNySmRHTG5XZUswdXlvdVlfQUdlMmlUU2dMUzhPZU90S09ZMDZIYkJaWkdTNHdGbkt4cFIzT0FjVzFMdWpNdlh3SjJfcEZlQ3hVMnkwc1phWk5x?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835589+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FROG",
+    "title": "JFrog (FROG) officer plans $773K stock sale - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 55,
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNVd3R2FVXzJPWkxOU0lpYUZFZ29MLWw3OG01NmpHN0hsQUc4UjFmQW5WYXFRTnBkVjA1NnQ2MEhhMFNxZUN4RVNDeG0yMjI4dHRkTUw5VDZnWW4waE5ETGJnbElVWWpQdmhpR09WS2tvSFdiblFFZ2lZWnFFNklBQUp2X3JaVzNxMmsta1I0ckk?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835606+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "PLBY",
+    "title": "Playboy (NASDAQ: PLBY) director lines up Rule 144 stock sale - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 35,
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUJxSFFXbXhFWWluTld6SW5xVkhRTE1GWlQ3dkNGMEtydkpZUW5KNVd5Tm9JZEFFQzRObkZ0MVA0UnJsdEhFWUgwdmNONmluQzVGUnl4anlOTnpVOXFyNnpBNURMR29DRUhuVVg4ZDlpVmZNMEU0TkVOZEZZZkRjaGpGb0FoNVBSMU1relFvb0pOUQ?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835620+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "SNAP",
+    "title": "Snap (SNAP) insider plans new sale after three recent stock trades - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 53,
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGdpcXRVVlNIWWp2ZFZlRzJkbUN4dnJoeVhZTFJqd0FFM2Y1V1V3cXJQWFJ4emhsYk1uQlFJNjU0MzV6UGJVems4cGRDMjVRUkZMb0ROeUl2dDFabnRhNDB4SkQ1Y1BHLW9XeEJMbThjeTh6cGxRUWJXOHFCVmJsNGtIUEdrbjNQN1dWRWRR?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835632+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "SO",
+    "title": "Officer plans 1,400-share stock sale at Southern (NYSE: SO) - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 56,
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXc5X0N1b0dmZUxMNVhOaXdZRzRBcWcycWE2c2VfVzJTUFhMRXZUclpha1BSRWtIUl9FMzM3bmtSVTY1NmRSdUs5NTNkcjl1Qm9xNHZQVXFTWjRLZVphcnplZWk5RXktZURlR1FtbFYtcmRyQ0FaM2NOSFloamoySV93Z0VFY1ZGcVNOa0ZBdw?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835644+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "Z",
+    "title": "Zillow Group (NASDAQ: Z) director files to sell Class C stock - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 50,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcnZISFdvejloR083Z3J2Z3hwMjJyV3dBVVdKbXpfSi1IaWV2endxcXZLbG84YkpQWTROZEtsOG5nZzlsRS1qLUgxUlYxYnNTNExxUlI4R2JCZUdZZHdQaXpLdmNXN2M5ZEszUnU5NnpVbnI2NzIyQUk1VHBuUEtHVk1FV2UxTFczUmNwMmJCZU45NFVx?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835655+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "PR",
+    "title": "Permian Resources (NYSE: PR) officer to sell stock, including shares to cover taxes on vested award - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 39,
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRm5mUlpoTUNSUXdOOFZlZ1RfQXNReHVGRkl6OGlWbVJYTmtxR0dPLXpNakNtT2xzNVN4cExLMlJfd2pTMDgwTTFVQlMzTUwtdExrSmhFWEQ4eG9QQ0tQeEw0Q2lWdHlZSEJZbUE3U3VIQXZlZUE0X0hWclJ2V0p5c1JPRXc1dy1zSmFlajhQSDBQQUJQUnYtVDY0SlR5dw?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835667+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "PR",
+    "title": "Planned $121K stock sale in Permian Resources (NYSE: PR) - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 43,
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNC01MTY3czNkeExBLUZYbllUd3V2V0ltLS1sLWwzODZBNWxxUTU1aVEwNjlLUHc0MGVHRHBwelRfMVV5YXhfcjFIZEw0RnU0aDdCaG1jRVhkZm1oWktGTXdFLS02NlpreVRCaGtIcnlmUEk4X0hjUVZ2UDhLM2E0Vnk2OXpFakpRSFdyRDNmc05LWEZVWHFwVFhBOE5Ddw?oc=5"
+  },
+  {
+    "time": "2026-09-03T20:58:13.835679+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "GDYN",
+    "title": "Grid Dynamics (GDYN) officer plans $31K stock sale - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 53,
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc0d0QnBhcHM3cE1jSVdjXzJOWXVnV25wVFJmWjNUZ2xLblptSzV6cTZZTmRfdG8yYkhzTTVxNU1feEdPSTZfMjBzUTZwaThIaGQxZHBaNi1tSFVTNWtDaHFpZlBzWXo0X2ViMGtfV09tc0xmODBUWER2OElkZE5IcTFTNzgyYnlCNGRvSXl0ZjBvWFpPNFc0dEtCS1hrWmE0LVVLSTZB?oc=5"
   }
 ]
