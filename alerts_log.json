@@ -15333,5 +15333,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-09-04T19:55:26.535836+00:00",
+    "symbol": "FILER",
+    "company": "King Resources, Inc. (0000774415) (Filer)",
+    "event_key": "c993894d56d63462589e881e21f701f7c37de58d2a93b92efa891ddab163df08",
+    "event_family": "M_AND_A",
+    "title": "8-K - King Resources, Inc. (0000774415) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/774415/000168316826006960/0001683168-26-006960-index.htm",
+    "news_age_minutes": 9,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "King Resources, Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de onderneming melding maakt van het aangaan van een materiële definitieve overeenkomst. Dit document is op 4 september 2026 gepubliceerd.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst, vaak gerelateerd aan M&A, kan een significante impact hebben op de waardering van het bedrijf. Dit kan leiden tot een herwaardering van de aandelenprijs.",
+      "risk_nl": "De specifieke voorwaarden, de tegenpartij en de financiële impact van deze overeenkomst zijn nog onbekend. Zonder deze details is de economische relevantie moeilijk te kwantificeren.",
+      "invalidation_nl": "Er is geen contractwaarde of gedetailleerde voorwaarden van de overeenkomst bekendgemaakt in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst worden verwacht in de volledige 8-K filing."
+    }
   }
 ]

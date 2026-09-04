@@ -3796,5 +3796,11 @@
     "symbol": "FILER",
     "title": "8-K - Data443 Risk Mitigation, Inc. (0001068689) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "c993894d56d63462589e881e21f701f7c37de58d2a93b92efa891ddab163df08": {
+    "first_alert_at": "2026-09-04T19:55:15.781065+00:00",
+    "symbol": "FILER",
+    "title": "8-K - King Resources, Inc. (0000774415) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
