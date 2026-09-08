@@ -3802,5 +3802,11 @@
     "symbol": "FILER",
     "title": "8-K - King Resources, Inc. (0000774415) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "dec2afde9d56674857473fba00051e65c38647f07104d9cd7c3f566f2e52eb2b": {
+    "first_alert_at": "2026-09-08T18:07:55.559204+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Healthcare Triangle, Inc. (0001839285) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

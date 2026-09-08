@@ -9652,5 +9652,21 @@
       "is_already_priced": false,
       "notes": "Verdere details over de overeenkomst worden verwacht in de volledige 8-K filing."
     }
+  },
+  {
+    "time": "2026-09-08T18:08:04.895667+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Healthcare Triangle, Inc. (0001839285) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Healthcare Triangle, Inc. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de financiële positie of strategische richting van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva, inkomstenstromen of de marktpositie van Healthcare Triangle.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de financiële impact en de identiteit van de tegenpartij, zijn nog onbekend. Zonder deze details is het onmogelijk de economische waarde of risico's van de transactie te beoordelen.",
+      "invalidation_nl": "De details van de materiële definitieve overeenkomst, zoals de contractwaarde of de betrokken partijen, zijn niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt het bestaan van een definitieve overeenkomst, maar de inhoud is nog niet bekend."
+    }
   }
 ]
