@@ -9684,5 +9684,37 @@
       "is_already_priced": false,
       "notes": "De 8-K filing is zeer recent; de volledige inhoud moet nog worden geanalyseerd voor concrete details over de overeenkomst."
     }
+  },
+  {
+    "time": "2026-09-09T21:05:59.946183+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Glucotrack, Inc. (0001506983) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Glucotrack, Inc. heeft een materiële definitieve overeenkomst gesloten, wat resulteert in een directe financiële verplichting en de verkoop van niet-geregistreerde aandelen. Dit is gemeld in een 8-K filing bij de SEC op 9 september 2026.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst, mogelijk gerelateerd aan een overname, kan de financiële positie en toekomstige groeivooruitzichten van het bedrijf significant beïnvloeden. De bijbehorende financiële verplichtingen en aandelenuitgifte zijn van belang voor de waardering.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de aard van de transactie, de tegenpartij en de financiële voorwaarden, zijn niet bekend. Dit maakt een inschatting van de impact op het bedrijf onmogelijk.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de over te nemen entiteit of de volledige voorwaarden van de materiële overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de inhoudelijke details van de M&A zijn nog niet openbaar gemaakt."
+    }
+  },
+  {
+    "time": "2026-09-09T21:06:09.899780+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Diversified Energy Co (0001922446) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Diversified Energy Co heeft een 8-K-formulier ingediend bij SEC.gov, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Het formulier bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de toekomstige financiële prestaties of strategische richting van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of inkomstenstromen.",
+      "risk_nl": "De specifieke inhoud, voorwaarden en financiële implicaties van deze overeenkomst zijn niet bekendgemaakt. Zonder deze details is een economische beoordeling van de impact onmogelijk.",
+      "invalidation_nl": "De essentiële details zoals contractwaarde, betrokken partijen en exacte voorwaarden van de overeenkomst ontbreken in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig voor een economische beoordeling."
+    }
   }
 ]

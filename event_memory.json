@@ -3814,5 +3814,17 @@
     "symbol": "FILER",
     "title": "8-K - INDEPENDENCE REALTY TRUST, INC. (0001466085) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "8c200fced396f94b27a9235f39a8e5772182e959e8ab6c84863954f3488381b4": {
+    "first_alert_at": "2026-09-09T21:05:45.319493+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Glucotrack, Inc. (0001506983) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "83858c004599cadc0bb6ec73aa4a196d2d15ae7f6f80230970f16b742262d904": {
+    "first_alert_at": "2026-09-09T21:06:00.678194+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Diversified Energy Co (0001922446) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
