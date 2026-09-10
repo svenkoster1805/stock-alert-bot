@@ -9716,5 +9716,37 @@
       "is_already_priced": false,
       "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig voor een economische beoordeling."
     }
+  },
+  {
+    "time": "2026-09-10T10:51:51.769890+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Chemours Co (0001627223) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-09-10T10:52:01.156504+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cooper-Standard Holdings Inc. (0001320461) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Cooper-Standard Holdings Inc. heeft een 8-K formulier ingediend met betrekking tot het aangaan van een materiële definitieve overeenkomst. Het document bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan de toekomstige financiële positie en operationele strategie van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of inkomstenstromen.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de materiële definitieve overeenkomst zijn onbekend. Zonder deze details is de economische impact niet te beoordelen.",
+      "invalidation_nl": "Er is geen informatie beschikbaar over de inhoud, partijen of financiële voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt het bestaan van een materiële overeenkomst, maar de details ontbreken."
+    }
   }
 ]

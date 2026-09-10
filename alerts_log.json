@@ -15458,5 +15458,55 @@
       "is_already_priced": false,
       "notes": "Verdere details over de materiële definitieve overeenkomst zijn nodig voor een economische beoordeling."
     }
+  },
+  {
+    "time": "2026-09-10T10:51:52.306142+00:00",
+    "symbol": "FILER",
+    "company": "Chemours Co (0001627223) (Filer)",
+    "event_key": "462a72304f34fa5e08321e82a20b6e99798236fd40873cc2b7363b376633ad2f",
+    "event_family": "M_AND_A",
+    "title": "8-K - Chemours Co (0001627223) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1627223/000162722326000029/0001627223-26-000029-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-09-10T10:52:01.688202+00:00",
+    "symbol": "FILER",
+    "company": "Cooper-Standard Holdings Inc. (0001320461) (Filer)",
+    "event_key": "ffbb15b208695c2e39a3ad78d05996da4a75256c8c9468ef847669a106caf5d2",
+    "event_family": "M_AND_A",
+    "title": "8-K - Cooper-Standard Holdings Inc. (0001320461) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1320461/000132046126000119/0001320461-26-000119-index.htm",
+    "news_age_minutes": 29,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Cooper-Standard Holdings Inc. heeft een 8-K formulier ingediend met betrekking tot het aangaan van een materiële definitieve overeenkomst. Het document bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan de toekomstige financiële positie en operationele strategie van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of inkomstenstromen.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de materiële definitieve overeenkomst zijn onbekend. Zonder deze details is de economische impact niet te beoordelen.",
+      "invalidation_nl": "Er is geen informatie beschikbaar over de inhoud, partijen of financiële voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt het bestaan van een materiële overeenkomst, maar de details ontbreken."
+    }
   }
 ]

@@ -3826,5 +3826,17 @@
     "symbol": "FILER",
     "title": "8-K - Diversified Energy Co (0001922446) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "462a72304f34fa5e08321e82a20b6e99798236fd40873cc2b7363b376633ad2f": {
+    "first_alert_at": "2026-09-10T10:51:16.390874+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Chemours Co (0001627223) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ffbb15b208695c2e39a3ad78d05996da4a75256c8c9468ef847669a106caf5d2": {
+    "first_alert_at": "2026-09-10T10:51:52.806960+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cooper-Standard Holdings Inc. (0001320461) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
