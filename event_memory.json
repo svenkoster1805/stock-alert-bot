@@ -3850,5 +3850,53 @@
     "symbol": "FILER",
     "title": "8-K - MERCADOLIBRE INC (0001099590) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "c8903c23ec2080068760286b8846cc1490cf9454da2776b786df7f0dede3fa47": {
+    "first_alert_at": "2026-09-10T20:12:49.094045+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Linkhome Holdings Inc. (0002017758) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f19779b24a76bf762de84f2bd22e1252de058a94a8e7f7699392c60f4ffd007e": {
+    "first_alert_at": "2026-09-10T20:13:01.186830+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Autodesk, Inc. (0000769397) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "63155723bf81d4a6a5be68afad71dcb7d29f791762e9aa0cc2102857f8c523e4": {
+    "first_alert_at": "2026-09-10T20:13:09.494690+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FRIEDMAN INDUSTRIES INC (0000039092) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d88e37d39de0c1c5980fb53abec8a97f21495f9e80f12630b8d5577bf7711e46": {
+    "first_alert_at": "2026-09-10T20:13:22.586269+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MYR GROUP INC. (0000700923) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1275699829639a2dc33484131b37e3bf57762e531643b327fbb9d1f1ea05fe0e": {
+    "first_alert_at": "2026-09-10T20:13:23.535899+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DigitalOcean Holdings, Inc. (0001582961) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7b4db0bb52a348f80b1d5cd3147483b82380bd22d738bfc62102319d46a17654": {
+    "first_alert_at": "2026-09-10T20:13:24.500289+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Tarsus Pharmaceuticals, Inc. (0001819790) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "cd37cd6c63fcd288fcdba6df9b7e373be1e0939538c8695356d037db87b9f5df": {
+    "first_alert_at": "2026-09-10T20:13:25.533705+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SurgePays, Inc. (0001392694) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "385ff12ea1db74a64183172cc1c3a6a310ac73da9e3dea40f768c0470fdd6e06": {
+    "first_alert_at": "2026-09-10T20:13:26.507319+00:00",
+    "symbol": "FILER",
+    "title": "8-K - APPLIED OPTOELECTRONICS, INC. (0001158114) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
