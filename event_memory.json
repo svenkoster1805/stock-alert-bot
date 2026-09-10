@@ -3838,5 +3838,17 @@
     "symbol": "FILER",
     "title": "8-K - Cooper-Standard Holdings Inc. (0001320461) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "f13c4653a14fd22ebe4fd427e06ddfea1fbaa3d0aab291a777bbd763cc5dddd4": {
+    "first_alert_at": "2026-09-10T14:41:13.493205+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NEONC TECHNOLOGIES HOLDINGS, INC. (0001979414) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2149558c623cd5238d259efe9c90297bf27d7b8a318c42e7798f74ecf1ba485e": {
+    "first_alert_at": "2026-09-10T14:41:21.857575+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MERCADOLIBRE INC (0001099590) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

@@ -9748,5 +9748,37 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt het bestaan van een materiële overeenkomst, maar de details ontbreken."
     }
+  },
+  {
+    "time": "2026-09-10T14:41:20.788851+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NEONC TECHNOLOGIES HOLDINGS, INC. (0001979414) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "NEONC TECHNOLOGIES HOLDINGS, INC. heeft een 8-K document ingediend bij de SEC. Dit document meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke zakelijke transactie, zoals een overname of fusie. Dit kan de toekomstige financiële positie en strategische richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de waarde en de voorwaarden, zijn nog onbekend. Zonder deze details is het onmogelijk om de impact op de aandeelhouderswaarde te beoordelen.",
+      "invalidation_nl": "De economische voorwaarden en de identiteit van de tegenpartij van de materiële definitieve overeenkomst zijn niet gespecificeerd in de beschikbare gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding van een materiële definitieve overeenkomst is een sterke indicator, maar de inhoudelijke details ontbreken."
+    }
+  },
+  {
+    "time": "2026-09-10T14:41:30.436909+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MERCADOLIBRE INC (0001099590) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "MercadoLibre Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Dit rapport is op 10 september 2026 gepubliceerd.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische zet, zoals een overname of desinvestering. Dit kan de toekomstige financiële prestaties en marktpositie van MercadoLibre beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op MercadoLibre's waardering onduidelijk is. Zonder details over de tegenpartij of de transactiewaarde is het risico op een ongunstige deal niet in te schatten.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de tegenpartij, de aard van de transactie en de financiële voorwaarden, ontbreken volledig in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van het volledige 8-K-document is nodig om de economische relevantie van deze materiële overeenkomst te bepalen."
+    }
   }
 ]
