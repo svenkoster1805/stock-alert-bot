@@ -1,338 +1,5 @@
 [
   {
-    "time": "2026-08-04T11:08:24.269244+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - ROCKWELL AUTOMATION, INC (0001024478) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 6,
-    "url": "https://www.sec.gov/Archives/edgar/data/1024478/000102447826000028/0001024478-26-000028-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.269256+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K/A - BIOCRYST PHARMACEUTICALS INC (0000882796) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 7,
-    "url": "https://www.sec.gov/Archives/edgar/data/882796/000117184326005168/0001171843-26-005168-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.269267+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - DigitalOcean Holdings, Inc. (0001582961) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 7,
-    "url": "https://www.sec.gov/Archives/edgar/data/1582961/000162828026052135/0001628280-26-052135-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.269278+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Better Home & Finance Holding Co (0001835856) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 7,
-    "url": "https://www.sec.gov/Archives/edgar/data/1835856/000162828026052134/0001628280-26-052134-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.269290+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Certara, Inc. (0001827090) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 7,
-    "url": "https://www.sec.gov/Archives/edgar/data/1827090/000110465926090050/0001104659-26-090050-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.269301+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - BRUKER CORP (0001109354) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 8,
-    "url": "https://www.sec.gov/Archives/edgar/data/1109354/000119312526331511/0001193125-26-331511-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.269312+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Odyssey Therapeutics, Inc. (0001882782) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 8,
-    "url": "https://www.sec.gov/Archives/edgar/data/1882782/000119312526331512/0001193125-26-331512-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.269323+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Eton Pharmaceuticals, Inc. (0001710340) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 8,
-    "url": "https://www.sec.gov/Archives/edgar/data/1710340/000143774926025506/0001437749-26-025506-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.269334+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - OPENLANE, Inc. (0001395942) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 8,
-    "url": "https://www.sec.gov/Archives/edgar/data/1395942/000139594226000030/0001395942-26-000030-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.269346+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Hamilton Lane INC (0001433642) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 8,
-    "url": "https://www.sec.gov/Archives/edgar/data/1433642/000143364226000039/0001433642-26-000039-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.269356+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Versigent PLC (0002078008) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 9,
-    "url": "https://www.sec.gov/Archives/edgar/data/2078008/000207800826000014/0002078008-26-000014-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.269367+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - UL Solutions Inc. (0001901440) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 10,
-    "url": "https://www.sec.gov/Archives/edgar/data/1901440/000190144026000021/0001901440-26-000021-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632222+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Kimco Realty OP, LLC (0001959472) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 13,
-    "url": "https://www.sec.gov/Archives/edgar/data/1959472/000119312526331498/0001193125-26-331498-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632240+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - KIMCO REALTY CORP (0000879101) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 13,
-    "url": "https://www.sec.gov/Archives/edgar/data/879101/000119312526331498/0001193125-26-331498-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632254+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - TIMKEN CO (0000098362) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 13,
-    "url": "https://www.sec.gov/Archives/edgar/data/98362/000009836226000048/0000098362-26-000048-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632267+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - ENERGIZER HOLDINGS, INC. (0001632790) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 14,
-    "url": "https://www.sec.gov/Archives/edgar/data/1632790/000163279026000073/0001632790-26-000073-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632278+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - WILLIS LEASE FINANCE CORP (0001018164) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 15,
-    "url": "https://www.sec.gov/Archives/edgar/data/1018164/000101816426000065/0001018164-26-000065-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632290+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Blackstone Digital Infrastructure Trust Inc. (0002100161) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 17,
-    "url": "https://www.sec.gov/Archives/edgar/data/2100161/000210016126000008/0002100161-26-000008-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632303+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Aptiv PLC (0001521332) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 17,
-    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133226000057/0001521332-26-000057-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632315+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Pediatrix Medical Group, Inc. (0000893949) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 18,
-    "url": "https://www.sec.gov/Archives/edgar/data/893949/000119312526331488/0001193125-26-331488-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632328+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - MPLX LP (0001552000) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 18,
-    "url": "https://www.sec.gov/Archives/edgar/data/1552000/000155200026000035/0001552000-26-000035-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632339+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Marathon Petroleum Corp (0001510295) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 19,
-    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000060/0001510295-26-000060-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632350+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Merck & Co., Inc. (0000310158) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 20,
-    "url": "https://www.sec.gov/Archives/edgar/data/310158/000110465926090045/0001104659-26-090045-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632362+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - HAVERTY FURNITURE COMPANIES INC (0000216085) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 21,
-    "url": "https://www.sec.gov/Archives/edgar/data/216085/000162828026052124/0001628280-26-052124-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.632373+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - InfuSystem Holdings, Inc (0001337013) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 22,
-    "url": "https://www.sec.gov/Archives/edgar/data/1337013/000162828026052123/0001628280-26-052123-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.949880+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Hut 8 Corp. (0001964789) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 25,
-    "url": "https://www.sec.gov/Archives/edgar/data/1964789/000110465926090041/0001104659-26-090041-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.949897+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - ACRES Commercial Realty Corp. (0001332551) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 26,
-    "url": "https://www.sec.gov/Archives/edgar/data/1332551/000119312526331466/0001193125-26-331466-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.949911+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - ADTRAN Holdings, Inc. (0000926282) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 31,
-    "url": "https://www.sec.gov/Archives/edgar/data/926282/000119312526331458/0001193125-26-331458-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.949925+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Athene Holding Ltd. (0001527469) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 33,
-    "url": "https://www.sec.gov/Archives/edgar/data/1527469/000152746926000047/0001527469-26-000047-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.949938+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - United Parks & Resorts Inc. (0001564902) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 33,
-    "url": "https://www.sec.gov/Archives/edgar/data/1564902/000119312526331457/0001193125-26-331457-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.949951+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - CATERPILLAR FINANCIAL SERVICES CORP (0000764764) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 33,
-    "url": "https://www.sec.gov/Archives/edgar/data/764764/000076476426000017/0000764764-26-000017-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.949964+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - KIMBERLY CLARK CORP (0000055785) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 34,
-    "url": "https://www.sec.gov/Archives/edgar/data/55785/000162828026052113/0001628280-26-052113-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.949999+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - IDEXX LABORATORIES INC /DE (0000874716) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 35,
-    "url": "https://www.sec.gov/Archives/edgar/data/874716/000110465926090033/0001104659-26-090033-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.950011+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Vivid Seats Inc. (0001856031) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 35,
-    "url": "https://www.sec.gov/Archives/edgar/data/1856031/000119312526331453/0001193125-26-331453-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.950024+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - CATERPILLAR INC (0000018230) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 36,
-    "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000040/0000018230-26-000040-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.950036+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Horizon Quantum Holdings Ltd. (0002088256) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 3,
-    "url": "https://www.sec.gov/Archives/edgar/data/2088256/000121390026084895/0001213900-26-084895-index.htm"
-  },
-  {
-    "time": "2026-08-04T11:08:24.950050+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - TOWER SEMICONDUCTOR LTD (0000928876) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 3,
-    "url": "https://www.sec.gov/Archives/edgar/data/928876/000117891326003776/0001178913-26-003776-index.htm"
-  },
-  {
     "time": "2026-08-04T11:08:24.950063+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107665,338 @@
     "publisher": "Stock Titan",
     "age_minutes": 39,
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclNnYVZpZXlYWV80Y1d3dTA1UDdkS3ZHMnVzTHkxYm5jUm9rblJvNVBkbDlicVdxbEJsby1RSjVJU1dhdVR2Yk42MTNmUkRRLWN3bGNyNHRYR2otRFl1TXkzZzdCVDVXVldIZ0YyajdlMS1MUWFCUGQxSFM5dHRIOGZ1eTlqQ3l2WlN6WVZJb1BkZFFUTEt1cGxwLVpEZjNHaGh6RGN3SzJFZmRzVFJIY3YxLUxUMlYxbThrazcyZE4?oc=5"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923145+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Copa Holdings, S.A. (0001345105) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 192,
+    "url": "https://www.sec.gov/Archives/edgar/data/1345105/000162828026061420/0001628280-26-061420-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923167+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Swvl Holdings Corp (0001875609) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 193,
+    "url": "https://www.sec.gov/Archives/edgar/data/1875609/000110465926106765/0001104659-26-106765-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923183+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Cardiol Therapeutics Inc. (0001702123) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 199,
+    "url": "https://www.sec.gov/Archives/edgar/data/1702123/000127956926000875/0001279569-26-000875-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923198+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - STANDARD LITHIUM LTD. (0001537137) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 207,
+    "url": "https://www.sec.gov/Archives/edgar/data/1537137/000110465926106754/0001104659-26-106754-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923213+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Creative Global Technology Holdings Ltd (0001967822) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 210,
+    "url": "https://www.sec.gov/Archives/edgar/data/1967822/000121390026098846/0001213900-26-098846-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923226+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Arbe Robotics Ltd. (0001861841) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 210,
+    "url": "https://www.sec.gov/Archives/edgar/data/1861841/000121390026098845/0001213900-26-098845-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923240+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - SAFE BULKERS, INC. (0001434754) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 213,
+    "url": "https://www.sec.gov/Archives/edgar/data/1434754/000131786126000047/0001317861-26-000047-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923270+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Mega Matrix Inc (0001953021) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 235,
+    "url": "https://www.sec.gov/Archives/edgar/data/1953021/000121390026098825/0001213900-26-098825-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923320+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - SMITH & NEPHEW PLC (0000845982) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 238,
+    "url": "https://www.sec.gov/Archives/edgar/data/845982/000095010326013772/0000950103-26-013772-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923339+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Ohmyhome Ltd (0001944902) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 240,
+    "url": "https://www.sec.gov/Archives/edgar/data/1944902/000121390026098819/0001213900-26-098819-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923353+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - BANK BRADESCO (0001160330) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 247,
+    "url": "https://www.sec.gov/Archives/edgar/data/1160330/000129281426004520/0001292814-26-004520-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923367+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - BANCO SANTANDER CHILE (0001027552) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 248,
+    "url": "https://www.sec.gov/Archives/edgar/data/1027552/000102755226000115/0001027552-26-000115-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923380+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - XORTX Therapeutics Inc. (0001729214) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 252,
+    "url": "https://www.sec.gov/Archives/edgar/data/1729214/000117184326005981/0001171843-26-005981-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923392+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - BANCO SANTANDER CHILE (0001027552) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 253,
+    "url": "https://www.sec.gov/Archives/edgar/data/1027552/000102755226000112/0001027552-26-000112-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923405+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - ARM HOLDINGS PLC /UK (0001973239) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 260,
+    "url": "https://www.sec.gov/Archives/edgar/data/1973239/000197323926000128/0001973239-26-000128-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923419+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Clearmind Medicine Inc. (0001892500) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 265,
+    "url": "https://www.sec.gov/Archives/edgar/data/1892500/000121390026098779/0001213900-26-098779-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923432+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Canada Goose Holdings Inc. (0001690511) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 265,
+    "url": "https://www.sec.gov/Archives/edgar/data/1690511/000119312526387857/0001193125-26-387857-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923445+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Gix Internet Ltd. (0001782265) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 265,
+    "url": "https://www.sec.gov/Archives/edgar/data/1782265/000149315226042147/0001493152-26-042147-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923457+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - COMPUGEN LTD (0001119774) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 265,
+    "url": "https://www.sec.gov/Archives/edgar/data/1119774/000117891326004494/0001178913-26-004494-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923470+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Bitfufu Inc. (0001921158) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 268,
+    "url": "https://www.sec.gov/Archives/edgar/data/1921158/000121390026098773/0001213900-26-098773-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923483+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Dynagas LNG Partners LP (0001578453) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 269,
+    "url": "https://www.sec.gov/Archives/edgar/data/1578453/000110465926106698/0001104659-26-106698-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923495+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - TH International Ltd (0001877333) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 270,
+    "url": "https://www.sec.gov/Archives/edgar/data/1877333/000121390026098770/0001213900-26-098770-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923507+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Nuran Wireless Inc. (0001680637) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 315,
+    "url": "https://www.sec.gov/Archives/edgar/data/1680637/000175392626001744/0001753926-26-001744-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923519+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - BANCO SANTANDER CHILE (0001027552) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 355,
+    "url": "https://www.sec.gov/Archives/edgar/data/1027552/000102755226000110/0001027552-26-000110-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923531+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - APEX CRITICAL METALS CORP. (0002093856) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 362,
+    "url": "https://www.sec.gov/Archives/edgar/data/2093856/000149315226042123/0001493152-26-042123-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923543+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - Allot Ltd. (0001365767) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 369,
+    "url": "https://www.sec.gov/Archives/edgar/data/1365767/000117891326004492/0001178913-26-004492-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:34.923555+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "FILER",
+    "title": "6-K - CYBIN INC. (0001833141) (Filer)",
+    "publisher": "SEC.gov",
+    "age_minutes": 386,
+    "url": "https://www.sec.gov/Archives/edgar/data/1833141/000183314126000074/0001833141-26-000074-index.htm"
+  },
+  {
+    "time": "2026-09-11T00:30:35.335088+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Rigetti Computing CEO Sells 120,000 Shares for $1.9 Million After Signing an Agreement with the U.S. Government - The Motley Fool",
+    "publisher": "The Motley Fool",
+    "age_minutes": 4,
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRWZUZUF1TlNBWFlwVjYyNkNHNW84U0V1dS1iSUFkN2czYW9Fa2lfSlFyc0lfQmI0NWxrOUdqbDJEcm41aUZUNVhNZVozUldlYWVTUDhZWDlRUkVHN3JmTXV2RjB4c0NzNTloa3VZSjJKcHdrbmhkN3ZwOUFsVURZNU5BNjJmcEh5cmk3OFBHSXNERUIxd21aUmx0QnNuN0d6eGdCVW1FNExRcjBaM2FzZU9qZDJKRDdOQzBvcDNRM1pBbWN3ajVzeGlLRnJfSjB4R0pMdXU1VXNlQmIxTWY0WElVTWU3MnktYnROeUpvMXNXWnd3?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-09-11T00:30:35.747477+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Wilson Sonsini Advises Copart on Acquisition of ACV - Wilson Sonsini",
+    "publisher": "Wilson Sonsini",
+    "age_minutes": 14,
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa0VydzgtLThwMUgwa3RkT3Y1NW5HTVlDNjBBZVc5MUkzcUJKUU80WktYV2V5cnR2bnlpV21RQ3QzX0RCamNEdmRYalEyQ1E1YlMzV1lBUmh2Qm1RSkQ2eGVQZEhCdkQ1VHpiTlBPcXBxSFhVR1pfSzg3VFA0X2xKR2hYeUt2LXhlNXZkNmhJRmE5TWc?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-09-11T00:30:35.747522+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "ANET",
+    "title": "Arista Networks (ANET) director sells shares in high-$190s under preset plan - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 42,
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNEVXLWM3UHZkMldXbmhhOUd1T2NhUlFxUU1WLW1ldUloN3MzemNZZGpxRlpJVVVlVHpnQXFxVUY4ZTRfckU1V3Rwckdkd3o1Ym1XZFJLQ21CTTd4Y0lCREljZnlvTFkwczl0TUFCREhLMm82UkZPN1ByUVByeE5leko1Y0plajJKZTZUWU5OdXNxVmVTUVM5bGVMcm1fRFhXbktSUlo5YTA4Zkx5ZzR3dU9xcw?oc=5"
+  },
+  {
+    "time": "2026-09-11T00:30:36.113949+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Transwarp Technology Plans Sale of 14.01 Mln H Shares In Hong Kong Listing - marketscreener.com",
+    "publisher": "marketscreener.com",
+    "age_minutes": 33,
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSGpKX1BLakF6S3R5LVdfSWwteUtDV2hkRVVfTkhoTkl1djZjUWhBZ1FZUjhnRzdKNVBET19zSmdSWUk4UGlMZi1fZXhpU1hCVGptd2c5dC1jb3FCMTlLdXJRMmpQRVFMYmFjNjdNcW83d0FsUW4tV25Ec0c0ODZqb2djMmhQcUMyR0YydkYzS2g5VXliWXZDdFJSaVoyU1JqRW1VcF96Rm5lNGJEOTh2eWRua2dWbFBoVEdMMFFCaHJkTVhvRHc?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-09-11T00:30:36.113992+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "LIF",
+    "title": "Life360 (LIF) director covers RSU taxes as holdings reach 374,511 shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 59,
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkxYWmwwYl85V2lIN2dZQnQzWVhYNG4yYjhHNjN6SS1CUnpDOW1GTDJ4aVVacGtURGdmcmtMVmRWeTc0enlyZ1dHZWl0RnhnTGlPN09ESFFQMHlISUtyUXExZzZfMS1zLTRPRlRUTWZvZjU3TjhDQWMzVDc3Q21iVzVIQVJvNW5NSGxldnlaUnZadUQwMC1xbm5PYnZrQUZEQmtSMGtpQQ?oc=5"
+  },
+  {
+    "time": "2026-09-11T00:30:36.114009+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "STX",
+    "title": "Officer at Seagate (STX) to sell shares only to cover RSU taxes - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 49,
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ25qMGtJb1lLc1c2T29kZE1QSGxNUGYyaVNlUFBqNkV6SURlUVNfa2NyeTJCLWxvay1nR2N2cVBwQWhLQzYtYWktWUdTdFBiTmRueTJOU3hhbnQ5TEJrNXlSTjB1MmM2YlB2ZzBCNFRZSy12Zm5MTHRqb3JKME5zeDZvQ1lrVFAwc29VbDNvNDNzTThxUUkxblNKd3ZfQWZlQUx0ZnhKSE1GLTQ?oc=5"
+  },
+  {
+    "time": "2026-09-11T00:30:36.114023+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "STX",
+    "title": "2,992 Seagate (NASDAQ: STX) shares to be sold just to cover RSU taxes - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 53,
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOejhNNENnQmU3RHhqNE5QdDMwYXBFdmpSajl2ci1BbDV1amZnb3ZVakI5WXhzM04tUFVMUFJsSmM5MW1ZekJya2tfQ1JJYV83dWw2Ml9WaVlQQmExMlhnWHR3R2Faanc0YWdaa1NNdkY4bEdjRWZfSTVQN1NtRVJuOEUyVVptRWtldklDb2l4ZlJYczdvNTdqRTgybzVQVGVYMDA1QjdrV2ZHZTA?oc=5"
+  },
+  {
+    "time": "2026-09-11T00:30:36.114037+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Insider Sale: Director at $NFLX Sells 720 Shares - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 15,
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOE4tRk9vMEoxWEh3MkREWEQycEFlRF9RelRKblhoOG1VS0Q0U0pXSFdvZVh2UWtLa3VCTl8xaERMV3dVQTlIeGlXdXpIczJtZWdoM1pReEVuUXVnQ2JRVnJoSHBKekUyMlVjWlFYZERpTnd6WWRsRUxUODVwZW5xVTlIdUw0Tk5HT2s3VlBR?oc=5"
+  },
+  {
+    "time": "2026-09-11T00:30:36.114053+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Meta platforms COO Javier Olivan sells $3.3m in shares By Investing.com - Investing.com India",
+    "publisher": "Investing.com India",
+    "age_minutes": 16,
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWWZadkhzZmRPX01PUjNiWmR2eEx1dVMydFI5RFVobmt5Mjh1OTBuMzJsbXZTMWJVeG9rdS10cjJZOE1SRkdzNmVqRFViYlNOOFVyNk1SbkhMN0N2VThkTDlRV1Zqb0FFOTZTdjMxeng5QjJuUk5rTjJsTFNSZmt5b0Q1bkp1Z0VMeGNNakpOTUlncDY5Y3VZdHFFaVFEeTZFZjZuNlBaY1ByOEl1aFIyZlFoOA?oc=5"
+  },
+  {
+    "time": "2026-09-11T00:30:36.114067+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "NSE IPO: Check GMP; price band Rs 1,700-1,785; bid opens on September 17 | Will you apply? - News9live",
+    "publisher": "News9live",
+    "age_minutes": 14,
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWEphZmVrQnVnaGQ5ODRubi15NFZJMkZLcWcyUl9DVUhvel9WT2x2dndJZWxGSFphMWdRYmc5djl5My1ZMk5jamtqSlhsc0JlUVpUXzVCR2pnZjg1TDR4TjBDY2lVOEJEeVI0ZjVaU3hwUTV3TFZ2YkwtbVQ1UzVzUnNMT29uTWJzejlRV3RINWdOdzNTOGQ5VzVZNlZzUnhicHhKY3Y3Y0NqWi1YUjdnQWpiNmpzS0pKalA3S1RRbDdmaTZfZU5QanBzU194UdIB0wFBVV95cUxNRGxTeEdEZXRXeE9oUnRlRDhVTEVBeFFiSlVqRkVJNHZmcWRtLTh3RXl0YTJ1SWpLRzFyblluNmtwYXJBV05NMnRPTzRqMXJVVlM2ZmhpNFFhQTVHYmljWHlBOXhPd3BKYUtRSEYxcGotQVBqRUdyNWE0enJTZGFFNjYyb1NtQnZMWklLRDVCXzh6MVZoOExVNDB5b0p2RU9IOVBTblQzWEZlOHptOE41el9HM3NiWnlNVEVIcWxlZndfM0tUYW15QUsxOXhSRm10LWJB?oc=5"
   }
 ]
