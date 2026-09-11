@@ -15748,5 +15748,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-09-11T10:48:24.694317+00:00",
+    "symbol": "FILER",
+    "company": "NewHold Investment Corp. III (0002043699) (Filer)",
+    "event_key": "b1dcc5d11771535a994e5170adffe7984117d2da897bd2bfe3dc0b22bb36ce1a",
+    "event_family": "M_AND_A",
+    "title": "8-K - NewHold Investment Corp. III (0002043699) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2043699/000114036126036270/0001140361-26-036270-index.htm",
+    "news_age_minutes": 5,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "NewHold Investment Corp. III heeft een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan significant zijn voor de bedrijfsvoering, maar de specifieke impact is onbekend zonder details.",
+      "risk_nl": "Het grootste risico is het volledig ontbreken van informatie over de aard, omvang en financiële voorwaarden van de M&A-transactie.",
+      "invalidation_nl": "De verstrekte gegevens bevatten geen enkele economische detail over de materiële definitieve overeenkomst, zoals de tegenpartij, waarde of specifieke voorwaarden.",
+      "is_already_priced": false,
+      "notes": "Hoewel een 8-K-melding een officiële bevestiging is, ontbreken de inhoudelijke details in de input voor een beoordeling."
+    }
   }
 ]

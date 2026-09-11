@@ -9898,5 +9898,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-09-11T10:48:24.128635+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NewHold Investment Corp. III (0002043699) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "NewHold Investment Corp. III heeft een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan significant zijn voor de bedrijfsvoering, maar de specifieke impact is onbekend zonder details.",
+      "risk_nl": "Het grootste risico is het volledig ontbreken van informatie over de aard, omvang en financiële voorwaarden van de M&A-transactie.",
+      "invalidation_nl": "De verstrekte gegevens bevatten geen enkele economische detail over de materiële definitieve overeenkomst, zoals de tegenpartij, waarde of specifieke voorwaarden.",
+      "is_already_priced": false,
+      "notes": "Hoewel een 8-K-melding een officiële bevestiging is, ontbreken de inhoudelijke details in de input voor een beoordeling."
+    }
   }
 ]
