@@ -1,113 +1,5 @@
 [
   {
-    "time": "2026-08-04T15:33:06.433556+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - CONSUMERS ENERGY CO (0000201533) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 90,
-    "url": "https://www.sec.gov/Archives/edgar/data/201533/000110465926090132/0001104659-26-090132-index.htm"
-  },
-  {
-    "time": "2026-08-04T15:33:06.433569+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - STEEL DYNAMICS INC (0001022671) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 96,
-    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926090129/0001104659-26-090129-index.htm"
-  },
-  {
-    "time": "2026-08-04T15:33:06.433582+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - AMETEK INC/ (0001037868) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 96,
-    "url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786826000173/0001037868-26-000173-index.htm"
-  },
-  {
-    "time": "2026-08-04T15:33:06.433604+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Federal Home Loan Bank of Topeka (0001325878) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 100,
-    "url": "https://www.sec.gov/Archives/edgar/data/1325878/000132587826000151/0001325878-26-000151-index.htm"
-  },
-  {
-    "time": "2026-08-04T15:33:06.476539+00:00",
-    "reason": "te oud voor fastlane (117 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - KUSTOM ENTERTAINMENT, INC. (0001342958) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 117,
-    "url": "https://www.sec.gov/Archives/edgar/data/1342958/000149315226035942/0001493152-26-035942-index.htm"
-  },
-  {
-    "time": "2026-08-04T15:33:06.476589+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - STANDARD MOTOR PRODUCTS, INC. (0000093389) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 118,
-    "url": "https://www.sec.gov/Archives/edgar/data/93389/000009338926000083/0000093389-26-000083-index.htm"
-  },
-  {
-    "time": "2026-08-04T15:33:06.476609+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Federal Home Loan Bank of Dallas (0001331757) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 119,
-    "url": "https://www.sec.gov/Archives/edgar/data/1331757/000133175726000140/0001331757-26-000140-index.htm"
-  },
-  {
-    "time": "2026-08-04T15:33:06.476624+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Main Street Capital CORP (0001396440) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 126,
-    "url": "https://www.sec.gov/Archives/edgar/data/1396440/000139644026000088/0001396440-26-000088-index.htm"
-  },
-  {
-    "time": "2026-08-04T15:33:06.528396+00:00",
-    "reason": "te oud voor fastlane (135 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Hepion Pharmaceuticals, Inc. (0001583771) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 135,
-    "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226035940/0001493152-26-035940-index.htm"
-  },
-  {
-    "time": "2026-08-04T15:33:06.528470+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Chatham Lodging Trust (0001476045) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 141,
-    "url": "https://www.sec.gov/Archives/edgar/data/1476045/000143774926025519/0001437749-26-025519-index.htm"
-  },
-  {
-    "time": "2026-08-04T15:33:06.528558+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - HSBC HOLDINGS PLC (0001089113) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 38,
-    "url": "https://www.sec.gov/Archives/edgar/data/1089113/000108911326000025/0001089113-26-000025-index.htm"
-  },
-  {
-    "time": "2026-08-04T15:33:06.528574+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - NOVO NORDISK A S (0000353278) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 53,
-    "url": "https://www.sec.gov/Archives/edgar/data/353278/000117184326005172/0001171843-26-005172-index.htm"
-  },
-  {
     "time": "2026-08-04T15:33:06.528587+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107890,113 @@
     "publisher": "TipRanks",
     "age_minutes": 20,
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcnZ6N1VDSkRMQUR4QWVESllIUy1ub3hDQWdEZGNpekZFR2xFTE01ZUxSRWF4ZFh6UkNGZERoTUNIdmhXYnd2X2ZoRGhYdzhjbTdDSUVPcVFIOGZvMjBoVmE0ZGpfVkJiWmg2aE1WTUpFUngxQmtoV18wMzhZSWE2NkdCbElGQ0F0VUpyeTZZTlFBbGhkM0o4VEZJakl3eUJxaGtNSVg3c0l2WF9NUlI2dUJoSmVxQ0RQcldwcEJZRlpnUQ?oc=5"
+  },
+  {
+    "time": "2026-09-11T17:54:39.125087+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "ACVA",
+    "title": "ACV Auctions (ACVA) Shares Skyrocket, What You Need To Know - StockStory",
+    "publisher": "StockStory",
+    "age_minutes": 55,
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVzlkWjYxamY3eUhTeUE4TGk2MEJTcUFOUTY4dDQ3LUt2NGJqZXQxN2JucFk3a25MUkNyNHhxUkNneFdueEhFNHpFSTlIT2FIQTJLblV2MGtpZkZqRExpQTBtVUJsam85OW01Qm5Ob1M2VGVJUXBfN2NHQTE5eERLT0lhajFXdXhMZG5jT3YwWEVRd3pqVUZWZEVJNkluOHF2MlNfR0FIcEcyeENvcHJ5c1lCYk51bWM?oc=5"
+  },
+  {
+    "time": "2026-09-11T17:54:39.125101+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "News by CNBC TV18 on TradingView, 2026-09-11 — cnbctv:9cf36290e094b:0 - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 52,
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54SG11TmoxYi1rNXhIRjVxVWRBMEhkM0pOM1oya25ORE8zNW9kSlZCWWRnUXdjaVlWTEQzeWxFbzJNUkx2SDUtNmxBR2xSSUM1elh1TlR6X0U4dmg5WlM3SFZqRFRIVDQ?oc=5"
+  },
+  {
+    "time": "2026-09-11T17:54:39.125114+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Eli Lilly's Immunology Push Builds New Growth Engines Beyond GLP-1s - theglobeandmail.com",
+    "publisher": "theglobeandmail.com",
+    "age_minutes": 51,
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNWpsWVd0U3V2aTZvMjZzcXRnYUR4dkppbnFOVmFpTER6aDdFWmFmREwzOUFneVllbG5KcjRjb0d4bTI2NDc5QXpzT1dydXRoZTBFRU5XWl9VcnE3ajJ0Zi1sZ2JoMlNDaS1Tc2d5aEN1SHlPWk1MclFfQWdaRElPck9UbWRuUE1BcUdIblQ1ODQ5YlNoYkVzaWRrNVk3SDk5WF9oRTFraEhVQlNkOEUtODhqRzU4d0poVWh1MTlGM0FRTGNES2F2aXVXT00yREdGMGo1dWt1bVlWODB3c2hzWjRhQVd2dw?oc=5"
+  },
+  {
+    "time": "2026-09-11T17:54:39.125124+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Crude Oil Down 3%; Kroger Shares Gain After Upbeat Q2 Earnings - Benzinga",
+    "publisher": "Benzinga",
+    "age_minutes": 20,
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQlFVNzQ0VWM4ajVtcmFReVh0a1IwajNYaHVXeTFFMzBEbVBQd0hWZEdwWVgyNHFKeHlsZWVQMGx2Tl9VSW5aeDZlQ3hROUNsZDdGekVtcTkwcEt3bmJpanNOZHdRRklLdHNsTkw3TGRHNnhHQk5TWUt0NU83Vmh4WjFxaS1YYUpLQ1IxTEUtUGluVFo3UlhnX0dzZFFIM2g3QVMyYzBKMkhPaWVJM0NuSVZTZ0ludGFua3BGc3hjeGc?oc=5"
+  },
+  {
+    "time": "2026-09-11T17:54:39.125135+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Brilliant Earth Group And 2 Other Penny Stocks With Promising Potential - simplywall.st",
+    "publisher": "simplywall.st",
+    "age_minutes": 16,
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ2xtOUg2YmZ1Vk1WUU5sckNVZzFSQkx3R2dTVlpoX25pZko3bG9HeE9hRi1USGJ5bWNhSkh6TW1RczdockhjaXVycmRvMlZoLTBtZlFubThaUGtzUjkyMkR2QkxITDRyTVpkU2U2NFFITTRSSUpYTWNnN1pDR2dCRzJYZTFTZ0FxY3hjekZUYWY4dUFMTGk0Q1lWaHBKYkFmZWFQaHA1ekZwd29pbFhOMURWSU91Tk5iZjlKNEREbC10TzA0cU9Mbmx2RWIwRU9VaXFJc9IB2gFBVV95cUxOcVRFMkhfdVl1VEtSMFBLQVN1QXlsVVN3czdMZWRabDZ2LUxMY3NGRF9qR1JkRXBvNU10T1BYdllvczBaVm9taG9XTnZpcmJlRHpkYzAxZlpiY2E5NVRHd254dTNhemd3MERUd1d0QUJkSW5CN3N2ZlRIejZRR1V6aHNLckRYRDBCTzQyOTdvTkVOSWl2WEVRZXMwaWlpT2R4SElJQjNJQXdSUXBPZTVYc1BEa0c0N1A2dkNrdTBmLUJBNUp0NDU3NElmNnBiR080WmUweFVGUkY2Zw?oc=5"
+  },
+  {
+    "time": "2026-09-11T17:54:39.125145+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "ACEL",
+    "title": "Accel Entertainment (ACEL) officer moves to sell shares after June sale - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 40,
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3pIcC12UVNTdG9jYWNjTnRjVjctUnYtaE42U1hkdkwwUFRITUZyZjhsckhDWWw4ZTlpUUtoOEhsMEoyWm1iMTVsM3U1TVhYU3J0S1RtLVVXS3Bfc2ZmLTFqazF2WEctTXdMU19VLWhJdnpudmlaSlRQTnh3ZHY0ZlJzNm9yMV91Zk54RHUtU2xSaWtQbkVPekdPUEdZdFRDMXlDVw?oc=5"
+  },
+  {
+    "time": "2026-09-11T17:54:39.125156+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "PMA",
+    "title": "Ming Shing (PMA) director sells shares in two September 2026 trades - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 48,
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaDBlQXlUX3NSSEEwd1JCMndIN1ZqRFF2Z3hvNFVXcUdta3NfUWtBYnExNy1QTUZDVGlaaFpjZk5kMzcxQU52V0Q0Zk5oRDJjTDVfVVFZRlV6SUdZTlBwUjE0UExjekpDb0xuTG1sOWM1b09MTF9aYzZqNWVaS2NSUUlsbTJyWXlQVXZmLVpHOFlxaENfekVWNHJERTc3MnRBQm42cG1zNWFqZjlFNEJaTTlfYXZGTDZjbTlBWnd5SQ?oc=5"
+  },
+  {
+    "time": "2026-09-11T17:54:39.697435+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Xelpmoc Design & Tech approves ₹14.58 crore sale of Woovly India stake - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 9,
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNUphSnlKTE1GOC1LVzFtZGZSOHpXaEY2R3FYeERKMS1XdmkwZFNia212ZldmZFhmNE5YSFM3SmU5R1M0R0F1el8zMWU3TllGRkR1SkV3Y1pKTHloQkVvc1puRUE4MmdGMzZoLWVScW9rdFR5c2haNktmX2dPZ084cTg2d1RmaFZqaTY5SDg4TUtfTDV4aFkyMnJUNjhSVzNLX0dLM29YblAzUHh1V1MzYUpRSHdKLXZ1NWxRZlB3?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-09-11T17:54:39.697487+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "EQT stock dips slightly as CVC nears deal for Ginko China unit - ad-hoc-news.de",
+    "publisher": "ad-hoc-news.de",
+    "age_minutes": 58,
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYzkxV1VMZ2pZQU4wQU5KdmFkSHpDWmVOM201V1FyamRyTWE5dDNRV09QZ3piZHJCc0g2YWtFNDdUZ1JYTU93c2NKdDExbS1QY0ZJS3pnTVE5UVRGeHdIYjBaNVRvc3RUYTZXZFFuYXhhTDFhUkt5TWlla0hVZjE3RzBWeVM2aUN0LUQxYmZNT2doQUZ3NFVEMzk4Qkk1eHY1N3RxTXQtQ2pOdFVOMTRaVGdvZmNVSF9ROWVnWUlSWFFveE0?oc=5"
+  },
+  {
+    "time": "2026-09-11T17:54:39.697502+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Trump Administration Weighs Defense Production Act To Boost Oil Refining Capacity, Says Report — DK, VLO, PSX, DINO, MPC Stocks In Focus - Stocktwits",
+    "publisher": "Stocktwits",
+    "age_minutes": 7,
+    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPeGlBQUNkTG85MUh3NmdXcU5WbUdUczNNVUJMcG1oT2hOaGZfeU45WXJWOG00MEJ1RmJpTTg3c2xVVERtVmFvQnZseS1OaFJhbHd1dTVyTEgteTRsanJWXzRyS3JoeWxsT0FxTDR6VUYwMlF2Z0VuZHFqRTVLdlozRmRiMnE2bEEtZ1BHbzFjaDJxWk10VmFDTzZ1cE1aTkgxNEh6aUlyb2cyV0xQWlJDdExzNXZHUEo0UW91S3NtcExfNFJqY0Y4eE9wb19NNUZEcWhXYU1fVUY0VEFmcXFrdERZWVU5NWNQYTBNeTBhaVFuV09xWUxPaE85eVFreU1GRWxIcF9sVmJQQlRFYmtRb2dwQmNMWVU0MTFQOXhB?oc=5"
+  },
+  {
+    "time": "2026-09-11T17:54:39.697513+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Kalyon Güneş to Transfer 11.82% Stake to Group Tech Investor - TipRanks",
+    "publisher": "TipRanks",
+    "age_minutes": 6,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcHcwdTUxOWgtTWtlLVIwN0l3TGZQOW1lSF91MEdOTkM5V0VfV2dEeHVjRl9DWGNTRXJ4MmxCNEtSdGFoWmQ0NHY5R0tKUzM0WUw3blZVWGtTSHFsMngzUVBGNDNmR0s0eGFlQ3JPYXJQS0VuSk1Ia0VuakpDek9IRTA2S09TUG5PcUZ3LUstZUFpQ1ZDQ0RFdUVvem5mX1MyRy1jYlk0MmNQYkdtT3lOeA?oc=5"
+  },
+  {
+    "time": "2026-09-11T17:54:39.697522+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "TIM Reports Insider Share Sale Amid Poste Italiane Tender Offer - TipRanks",
+    "publisher": "TipRanks",
+    "age_minutes": 14,
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc0otMzQyYUVwWEl0cDhiancxTjZtLWJiOXJ0OTNMVjNsZE1sd183QzBqajQ4Z0I1UV9TeW81cU90Sm1QQUNiU3NaRlM2UTlpV1pQcjVBZlg4UkpwbXh0WUJqc1NXSlRNREV5WXU3UVZ5VkhFTVhtZ1d5aG4yX2lWZlk3ZVl4SWlRbGhkVHFkZ21lVWFHVk1MWFZzUXY2ZG9UOS1TczNTLTFmVUNFRTJyVTlJS2hMemxp?oc=5"
   }
 ]
