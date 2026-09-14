@@ -3982,5 +3982,29 @@
     "symbol": "FILER",
     "title": "8-K - Net Power Inc. (0001845437) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "5325cf61ca937267027c1bcb917b154daa7da1beadb07ec6c9da63d56fc16207": {
+    "first_alert_at": "2026-09-14T12:06:52.133018+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Medicus Pharma Ltd. (0001997296) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "54d7aa468784311f042aab35060ad9d858ca4849b2b270cce6ef55abd1a4c9d4": {
+    "first_alert_at": "2026-09-14T12:06:55.158945+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Thryv Holdings, Inc. (0001556739) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4a0d31ffec9f4eb23358ed964561cb1146d3f5aab7b1804e9ffa13166b998c38": {
+    "first_alert_at": "2026-09-14T12:07:08.898663+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PERDOCEO EDUCATION Corp (0001046568) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f30bf95a23489b8addfad743a61b8247c712fce6fd9162adcb5bf620def8ff5f": {
+    "first_alert_at": "2026-09-14T12:07:17.228331+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AirJoule Technologies Corp. (0001855474) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
