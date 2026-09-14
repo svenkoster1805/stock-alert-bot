@@ -16199,5 +16199,80 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-09-14T21:45:28.224627+00:00",
+    "symbol": "FILER",
+    "company": "Clean Energy Technologies, Inc. (0001329606) (Filer)",
+    "event_key": "76f4082fbf637dc1b6b889f26ea5e6a1e0c420b88238faa81ee48f1133f369e2",
+    "event_family": "M_AND_A",
+    "title": "8-K - Clean Energy Technologies, Inc. (0001329606) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1329606/000149315226042617/0001493152-26-042617-index.htm",
+    "news_age_minutes": 19,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Clean Energy Technologies, Inc. heeft een 8-K-formulier ingediend met meldingen over een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen. Het document is 19 minuten geleden gepubliceerd op SEC.gov.",
+      "why_nl": "Zonder details over de aard van de overeenkomst of de voorwaarden van de aandelenverkoop, is de economische relevantie onduidelijk. Het is niet mogelijk om de impact op het bedrijf te beoordelen.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete informatie over de inhoud van de overeenkomst en de verkoop van aandelen. Dit kan leiden tot verkeerde interpretaties of speculatie.",
+      "invalidation_nl": "Er zijn geen economische details, contractwaarde of specifieke voorwaarden van de overeenkomst of aandelenverkoop bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is te algemeen om een gefundeerde beoordeling te maken over een mogelijke M&A."
+    }
+  },
+  {
+    "time": "2026-09-14T21:45:38.597908+00:00",
+    "symbol": "FILER",
+    "company": "DevvStream Corp. (0001854480) (Filer)",
+    "event_key": "580e4df26bf2982f02f6c0538eb2868f459b0563e2c8b35510579cc6ef93d836",
+    "event_family": "M_AND_A",
+    "title": "8-K - DevvStream Corp. (0001854480) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1854480/000114036126036511/0001140361-26-036511-index.htm",
+    "news_age_minutes": 19,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "DevvStream Corp. heeft op 14 september 2026 een 8-K-formulier ingediend, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Het document bevat ook meldingen onder Item 8.01 en 9.01.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een strategische transactie die de toekomstige financiële positie van het bedrijf beïnvloedt. Dit kan leiden tot veranderingen in activa, passiva of operationele activiteiten.",
+      "risk_nl": "De aard en de voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op DevvStream Corp. niet kan worden beoordeeld. Zonder details over de tegenpartij, waarde of structuur is de economische relevantie speculatief.",
+      "invalidation_nl": "Er zijn geen specifieke details over de inhoud van de materiële definitieve overeenkomst, zoals de aard van de transactie, de betrokken partijen of de financiële voorwaarden.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is zeer recent en afkomstig van een betrouwbare bron, maar mist cruciale details voor een handelsbeslissing."
+    }
+  },
+  {
+    "time": "2026-09-14T21:45:40.071288+00:00",
+    "symbol": "FILER",
+    "company": "KKR Private Equity Conglomerate LLC (0001957845) (Filer)",
+    "event_key": "c3aaa222f25035978ddd5da77fe8a4e6d9668bdc0d560abbf0655c71160b1f78",
+    "event_family": "M_AND_A",
+    "title": "8-K - KKR Private Equity Conglomerate LLC (0001957845) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1957845/000195784526000082/0001957845-26-000082-index.htm",
+    "news_age_minutes": 23,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]

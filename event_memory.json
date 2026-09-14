@@ -4006,5 +4006,23 @@
     "symbol": "FILER",
     "title": "8-K - AirJoule Technologies Corp. (0001855474) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "76f4082fbf637dc1b6b889f26ea5e6a1e0c420b88238faa81ee48f1133f369e2": {
+    "first_alert_at": "2026-09-14T21:45:13.366419+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Clean Energy Technologies, Inc. (0001329606) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "580e4df26bf2982f02f6c0538eb2868f459b0563e2c8b35510579cc6ef93d836": {
+    "first_alert_at": "2026-09-14T21:45:28.626146+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DevvStream Corp. (0001854480) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "c3aaa222f25035978ddd5da77fe8a4e6d9668bdc0d560abbf0655c71160b1f78": {
+    "first_alert_at": "2026-09-14T21:45:38.995034+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KKR Private Equity Conglomerate LLC (0001957845) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

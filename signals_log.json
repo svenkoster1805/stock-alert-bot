@@ -10178,5 +10178,53 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-09-14T21:45:27.682163+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Clean Energy Technologies, Inc. (0001329606) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Clean Energy Technologies, Inc. heeft een 8-K-formulier ingediend met meldingen over een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen. Het document is 19 minuten geleden gepubliceerd op SEC.gov.",
+      "why_nl": "Zonder details over de aard van de overeenkomst of de voorwaarden van de aandelenverkoop, is de economische relevantie onduidelijk. Het is niet mogelijk om de impact op het bedrijf te beoordelen.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete informatie over de inhoud van de overeenkomst en de verkoop van aandelen. Dit kan leiden tot verkeerde interpretaties of speculatie.",
+      "invalidation_nl": "Er zijn geen economische details, contractwaarde of specifieke voorwaarden van de overeenkomst of aandelenverkoop bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is te algemeen om een gefundeerde beoordeling te maken over een mogelijke M&A."
+    }
+  },
+  {
+    "time": "2026-09-14T21:45:38.185807+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DevvStream Corp. (0001854480) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "DevvStream Corp. heeft op 14 september 2026 een 8-K-formulier ingediend, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Het document bevat ook meldingen onder Item 8.01 en 9.01.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een strategische transactie die de toekomstige financiële positie van het bedrijf beïnvloedt. Dit kan leiden tot veranderingen in activa, passiva of operationele activiteiten.",
+      "risk_nl": "De aard en de voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op DevvStream Corp. niet kan worden beoordeeld. Zonder details over de tegenpartij, waarde of structuur is de economische relevantie speculatief.",
+      "invalidation_nl": "Er zijn geen specifieke details over de inhoud van de materiële definitieve overeenkomst, zoals de aard van de transactie, de betrokken partijen of de financiële voorwaarden.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is zeer recent en afkomstig van een betrouwbare bron, maar mist cruciale details voor een handelsbeslissing."
+    }
+  },
+  {
+    "time": "2026-09-14T21:45:39.664360+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KKR Private Equity Conglomerate LLC (0001957845) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]
