@@ -4024,5 +4024,11 @@
     "symbol": "FILER",
     "title": "8-K - KKR Private Equity Conglomerate LLC (0001957845) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "b561898931dc2d75b846e5fece422ab536b50ece69498c3aed0ea057eaebe234": {
+    "first_alert_at": "2026-09-15T11:18:43.931339+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FibroBiologics, Inc. (0001958777) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

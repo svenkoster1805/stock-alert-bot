@@ -10226,5 +10226,21 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-09-15T11:18:56.161198+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FibroBiologics, Inc. (0001958777) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "FibroBiologics, Inc. heeft een 8-K-rapport ingediend over de 'Entry into a Material Definitive Agreement'. Dit omvat ook de ongeoorloofde verkoop van aandelen.",
+      "why_nl": "Een definitieve overeenkomst kan leiden tot een verandering in de eigendomsstructuur of bedrijfsactiviteiten van FibroBiologics. De verkoop van aandelen kan de kapitaalstructuur beïnvloeden en mogelijk nieuwe financiering of een overname signaleren.",
+      "risk_nl": "De specifieke voorwaarden en financiële impact van de definitieve overeenkomst zijn onbekend, inclusief de contractwaarde. Zonder deze details is het moeilijk om de volledige implicaties voor de aandeelhouders te beoordelen.",
+      "invalidation_nl": "De contractwaarde en de volledige financiële details van de overeenkomst zijn niet gespecificeerd in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "Een 8-K-melding van een 'Material Definitive Agreement' is een sterke indicator, maar de economische impact is onduidelijk zonder de contractwaarde."
+    }
   }
 ]

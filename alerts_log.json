@@ -16274,5 +16274,30 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-09-15T11:18:56.544450+00:00",
+    "symbol": "FILER",
+    "company": "FibroBiologics, Inc. (0001958777) (Filer)",
+    "event_key": "b561898931dc2d75b846e5fece422ab536b50ece69498c3aed0ea057eaebe234",
+    "event_family": "M_AND_A",
+    "title": "8-K - FibroBiologics, Inc. (0001958777) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1958777/000119312526391310/0001193125-26-391310-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "FibroBiologics, Inc. heeft een 8-K-rapport ingediend over de 'Entry into a Material Definitive Agreement'. Dit omvat ook de ongeoorloofde verkoop van aandelen.",
+      "why_nl": "Een definitieve overeenkomst kan leiden tot een verandering in de eigendomsstructuur of bedrijfsactiviteiten van FibroBiologics. De verkoop van aandelen kan de kapitaalstructuur beïnvloeden en mogelijk nieuwe financiering of een overname signaleren.",
+      "risk_nl": "De specifieke voorwaarden en financiële impact van de definitieve overeenkomst zijn onbekend, inclusief de contractwaarde. Zonder deze details is het moeilijk om de volledige implicaties voor de aandeelhouders te beoordelen.",
+      "invalidation_nl": "De contractwaarde en de volledige financiële details van de overeenkomst zijn niet gespecificeerd in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "Een 8-K-melding van een 'Material Definitive Agreement' is een sterke indicator, maar de economische impact is onduidelijk zonder de contractwaarde."
+    }
   }
 ]
