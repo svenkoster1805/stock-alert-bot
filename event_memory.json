@@ -4030,5 +4030,47 @@
     "symbol": "FILER",
     "title": "8-K - FibroBiologics, Inc. (0001958777) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "b484f9ef6a2fa5ff2e8f39a2f79b49f260e18913c2219c40ac7ff4444b1d79a5": {
+    "first_alert_at": "2026-09-18T20:07:01.632513+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Newton Golf Company, Inc. (0001934245) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a6c46377c560876e0f8d90eefc534cf07b50f68beba53feed93670f2edb31ccb": {
+    "first_alert_at": "2026-09-18T20:07:11.796111+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Mistras Group, Inc. (0001436126) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "54d4cc735417c2270a0eafae58c61e95d80a58fb9231ee16b8ed625d1b3c9ead": {
+    "first_alert_at": "2026-09-18T20:07:23.131566+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BEAZER HOMES USA INC (0000915840) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b2df5ec02a3a9ff34c4046b39a1d716e543bf8d96d9499eef0cd44811d7b661e": {
+    "first_alert_at": "2026-09-18T20:07:32.151013+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AMERICAS CARMART INC (0000799850) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "8ea313d74be04df6b4b02daf802ef1c7eb2383f345f2a15a0eeb42449c411886": {
+    "first_alert_at": "2026-09-18T20:07:33.115503+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HECLA MINING CO/DE/ (0000719413) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0196fc0e801047a350732f9885c9d19de7d0aa477eb086ef077b1edf5949196a": {
+    "first_alert_at": "2026-09-18T20:07:34.116005+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Zoomcar Holdings, Inc. (0001854275) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0513796aff64b07cd21db2e7ee8b6ee69abf925362acce0958107d4f83c4227c": {
+    "first_alert_at": "2026-09-18T20:07:35.215257+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PRO DEX INC (0000788920) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

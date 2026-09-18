@@ -10242,5 +10242,109 @@
       "is_already_priced": false,
       "notes": "Een 8-K-melding van een 'Material Definitive Agreement' is een sterke indicator, maar de economische impact is onduidelijk zonder de contractwaarde."
     }
+  },
+  {
+    "time": "2026-09-18T20:07:10.814413+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Newton Golf Company, Inc. (0001934245) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Newton Golf Company, Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een recente 8-K filing bij de SEC. De filing vermeldt ook niet-geregistreerde verkopen van aandelen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een fusie, overname of een andere significante transactie die de waarde van het bedrijf beïnvloedt. De verkoop van aandelen kan gerelateerd zijn aan de financiering van deze transactie.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn nog onbekend. Zonder deze details is de impact op de aandeelhouderswaarde onduidelijk.",
+      "invalidation_nl": "Er is geen concrete contractwaarde, tegenpartij of gedetailleerde voorwaarden van de overeenkomst bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is zeer recent en afkomstig van een betrouwbare bron."
+    }
+  },
+  {
+    "time": "2026-09-18T20:07:22.158864+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Mistras Group, Inc. (0001436126) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Mistras Group, Inc. heeft een materieel definitief akkoord gesloten, zoals gemeld in een recente 8-K filing. De filing vermeldt ook wijzigingen in directie en compensatieregelingen.",
+      "why_nl": "Een definitief akkoord voor een M&A kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden. Wijzigingen in de directie kunnen hieraan gerelateerd zijn en duiden op een nieuwe fase.",
+      "risk_nl": "De specifieke financiële voorwaarden en de aard van het akkoord zijn onbekend, waardoor de impact op de waarde van het bedrijf onduidelijk blijft. Zonder deze details is een accurate beoordeling van het risico niet mogelijk.",
+      "invalidation_nl": "Er is geen contractwaarde, geen specifieke voorwaarden en geen details over de overnamepartij of het overgenomen bedrijf bekendgemaakt.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt het bestaan van een materieel akkoord, maar cruciale details voor een beleggingsbeslissing ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-09-18T20:07:31.069388+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BEAZER HOMES USA INC (0000915840) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BEAZER HOMES USA INC heeft op 18 september 2026 een 8-K-rapport ingediend bij de SEC. Dit rapport vermeldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De ondertekening van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een fusie of overname. Dit kan de toekomstige financiële prestaties en marktpositie van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn nog onbekend. Zonder deze details is de impact op de waarde van het bedrijf onduidelijk.",
+      "invalidation_nl": "De contractwaarde en de exacte inhoud van de materiële definitieve overeenkomst zijn niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de overeenkomst zijn essentieel om de economische relevantie te kunnen beoordelen."
+    }
+  },
+  {
+    "time": "2026-09-18T20:07:32.151035+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AMERICAS CARMART INC (0000799850) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-09-18T20:07:33.115526+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HECLA MINING CO/DE/ (0000719413) (Filer)",
+    "score": 14,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-09-18T20:07:34.116028+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Zoomcar Holdings, Inc. (0001854275) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-09-18T20:07:35.215280+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PRO DEX INC (0000788920) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
