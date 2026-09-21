@@ -16466,5 +16466,80 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-09-21T12:15:37.870290+00:00",
+    "symbol": "FILER",
+    "company": "Inflection Point Acquisition Corp. VII (0002088805) (Filer)",
+    "event_key": "e72c68f54c148ee657ed273313172b35d0c1488e624a3ae9512e4d58edb4a488",
+    "event_family": "M_AND_A",
+    "title": "8-K - Inflection Point Acquisition Corp. VII (0002088805) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2088805/000121390026101659/0001213900-26-101659-index.htm",
+    "news_age_minutes": 8,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Inflection Point Acquisition Corp. VII heeft op 21 september 2026 een 8-K formulier ingediend bij de SEC. Dit formulier bevat een Regulation FD Disclosure en financiële overzichten en bijlagen.",
+      "why_nl": "Een 8-K filing met Regulation FD Disclosure kan economisch relevant zijn, aangezien het vaak materiële, niet-openbare informatie bevat die de aandelenkoers kan beïnvloeden.",
+      "risk_nl": "Het belangrijkste risico is dat de inhoud van de 8-K filing geen betrekking heeft op een fusie of overname, ondanks de categorisatie van het evenement, waardoor de economische impact onduidelijk is.",
+      "invalidation_nl": "De samenvatting van de 8-K filing vermeldt geen details over een fusie of overname, waardoor de categorisatie als M&A niet wordt ondersteund.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is te algemeen om een concrete M&A-gebeurtenis te bevestigen."
+    }
+  },
+  {
+    "time": "2026-09-21T12:15:48.429794+00:00",
+    "symbol": "FILER",
+    "company": "National CineMedia, Inc. (0001377630) (Filer)",
+    "event_key": "83dca0c0818e52d5e94b19a497546b71020a89a7de2ace22db5782146adc1c0c",
+    "event_family": "M_AND_A",
+    "title": "8-K - National CineMedia, Inc. (0001377630) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1377630/000119312526396098/0001193125-26-396098-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "National CineMedia, Inc. heeft een 8-K ingediend waarin het aangaan en beëindigen van materiële overeenkomsten en de voltooiing van een acquisitie of verkoop van activa worden gemeld.",
+      "why_nl": "Het aangaan van materiële overeenkomsten en de voltooiing van een acquisitie of verkoop van activa kunnen de financiële positie en strategie van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomsten, de betrokken activa en de financiële impact zijn onbekend. Zonder deze informatie is het onmogelijk de economische waarde of het risico te beoordelen.",
+      "invalidation_nl": "De bron vermeldt geen concrete economische details zoals contractwaarde, partijen of specifieke voorwaarden van de acquisitie of verkoop.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op belangrijke gebeurtenissen, maar de inhoudelijke details ontbreken om een handelsbeslissing te nemen."
+    }
+  },
+  {
+    "time": "2026-09-21T12:16:05.895927+00:00",
+    "symbol": "FILER",
+    "company": "Ocean Capital Acquisition Corp (0001926314) (Filer)",
+    "event_key": "383678eb9515789eb05ce3a80254fe3ed798e770a9452f52a9cb903bc2a0f1e5",
+    "event_family": "M_AND_A",
+    "title": "8-K - Ocean Capital Acquisition Corp (0001926314) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1926314/000149315226043481/0001493152-26-043481-index.htm",
+    "news_age_minutes": 14,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Ocean Capital Acquisition Corp heeft een 8-K-rapport ingediend bij de SEC op 21 september 2026. Het rapport is geclassificeerd als een \"Other Event\" (Item 8.01).",
+      "why_nl": "Een fusie- en overnamegebeurtenis kan de waardering van het bedrijf significant beïnvloeden door synergieën of een verandering in de bedrijfsstrategie. Dit kan leiden tot nieuwe groeikansen.",
+      "risk_nl": "De specifieke details van de M&A-gebeurtenis, zoals de betrokken partijen, voorwaarden of financiële impact, zijn niet bekend. Zonder deze informatie is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard of de voorwaarden van de M&A-transactie beschikbaar in de bron.",
+      "is_already_priced": false,
+      "notes": "De 8-K-indiening is zeer recent, maar de inhoud van Item 8.01 is niet gespecificeerd."
+    }
   }
 ]

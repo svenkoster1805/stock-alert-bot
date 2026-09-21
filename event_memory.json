@@ -4072,5 +4072,23 @@
     "symbol": "FILER",
     "title": "8-K - PRO DEX INC (0000788920) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "e72c68f54c148ee657ed273313172b35d0c1488e624a3ae9512e4d58edb4a488": {
+    "first_alert_at": "2026-09-21T12:15:24.105637+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Inflection Point Acquisition Corp. VII (0002088805) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "83dca0c0818e52d5e94b19a497546b71020a89a7de2ace22db5782146adc1c0c": {
+    "first_alert_at": "2026-09-21T12:15:38.267376+00:00",
+    "symbol": "FILER",
+    "title": "8-K - National CineMedia, Inc. (0001377630) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "383678eb9515789eb05ce3a80254fe3ed798e770a9452f52a9cb903bc2a0f1e5": {
+    "first_alert_at": "2026-09-21T12:15:48.747063+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ocean Capital Acquisition Corp (0001926314) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
