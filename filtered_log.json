@@ -1,113 +1,5 @@
 [
   {
-    "time": "2026-08-10T22:22:42.411108+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - ELITE PHARMACEUTICALS INC /NV/ (0001053369) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 75,
-    "url": "https://www.sec.gov/Archives/edgar/data/1053369/000149315226036905/0001493152-26-036905-index.htm"
-  },
-  {
-    "time": "2026-08-10T22:22:42.411120+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - UR-ENERGY INC (0001375205) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 75,
-    "url": "https://www.sec.gov/Archives/edgar/data/1375205/000110465926093457/0001104659-26-093457-index.htm"
-  },
-  {
-    "time": "2026-08-10T22:22:42.411133+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - GCT Semiconductor Holding, Inc. (0001851961) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 77,
-    "url": "https://www.sec.gov/Archives/edgar/data/1851961/000092963826002965/0000929638-26-002965-index.htm"
-  },
-  {
-    "time": "2026-08-10T22:22:42.411146+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - PENSKE AUTOMOTIVE GROUP, INC. (0001019849) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 78,
-    "url": "https://www.sec.gov/Archives/edgar/data/1019849/000162828026055334/0001628280-26-055334-index.htm"
-  },
-  {
-    "time": "2026-08-10T22:22:42.411159+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - GigaCloud Technology Inc (0001857816) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 80,
-    "url": "https://www.sec.gov/Archives/edgar/data/1857816/000185781626000077/0001857816-26-000077-index.htm"
-  },
-  {
-    "time": "2026-08-10T22:22:42.630884+00:00",
-    "reason": "te oud voor fastlane (80 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - VisionWave Holdings, Inc. (0002038439) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 80,
-    "url": "https://www.sec.gov/Archives/edgar/data/2038439/000173112226001032/0001731122-26-001032-index.htm"
-  },
-  {
-    "time": "2026-08-10T22:22:42.630945+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - HALLADOR ENERGY CO (0000788965) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 82,
-    "url": "https://www.sec.gov/Archives/edgar/data/788965/000110465926093446/0001104659-26-093446-index.htm"
-  },
-  {
-    "time": "2026-08-10T22:22:42.630963+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Tilray Brands, Inc. (0001731348) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 82,
-    "url": "https://www.sec.gov/Archives/edgar/data/1731348/000114036126032052/0001140361-26-032052-index.htm"
-  },
-  {
-    "time": "2026-08-10T22:22:42.630979+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Lexaria Bioscience Corp. (0001348362) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 82,
-    "url": "https://www.sec.gov/Archives/edgar/data/1348362/000164033426001302/0001640334-26-001302-index.htm"
-  },
-  {
-    "time": "2026-08-10T22:22:42.630991+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - FiscalNote Holdings, Inc. (0001823466) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 82,
-    "url": "https://www.sec.gov/Archives/edgar/data/1823466/000119312526342623/0001193125-26-342623-index.htm"
-  },
-  {
-    "time": "2026-08-10T22:22:42.631003+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Flowco Holdings Inc. (0002035149) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 82,
-    "url": "https://www.sec.gov/Archives/edgar/data/2035149/000119312526342622/0001193125-26-342622-index.htm"
-  },
-  {
-    "time": "2026-08-10T22:22:42.849823+00:00",
-    "reason": "te oud voor fastlane (82 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K/A - LQR House Inc. (0001843165) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 82,
-    "url": "https://www.sec.gov/Archives/edgar/data/1843165/000121390026087324/0001213900-26-087324-index.htm"
-  },
-  {
     "time": "2026-08-10T22:22:42.849903+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107890,113 @@
     "publisher": "Stock Titan",
     "age_minutes": 11,
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3k5LS1VUDNBZFRYN2JIUy1hdEZhZDVXcjRCMmVmdnlCODZ4UldISEV5aFQ0ZjI2TzZVbWlTa09zRFNXOU5VZWFpWlBtRkJaMkh2WHlCTmJVWHo3MW9UU1ZaWHVHXzFkZVk4U0ZoZWMzS2hTTG9LNDZaeWkxV1E4RHhab3V3MHRFNEVFYVdOdk4?oc=5"
+  },
+  {
+    "time": "2026-09-23T00:16:42.339830+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "LSTA",
+    "title": "Lisata Therapeutics (LSTA) Buys Marea and Signs $225M Financing. Is the Dilution Worth it? - Yahoo Finance",
+    "publisher": "Yahoo Finance",
+    "age_minutes": 8,
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVXZxd1lUOWpHSURDT21WdjZXS2F1SS0xOEwxam5wcTRnYzdYWW9SYkRHRzFFc253eGpEWW9seWRKdG8tX18tby1EVVFhdHdaSFpwY3QwREZJTlNMMTU2VjBYMURFYS1PRURWMmlrc3NQSERuVngwMFEzQWxEUWVpcE43QWZqb1ZHZnVORXhFVnJUTDVDSnFpSzdOSGg?oc=5"
+  },
+  {
+    "time": "2026-09-23T00:16:42.339848+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Form 8K Purecycle Technologies Holdings Corp For: 22 September By Investing.com - Investing.com India",
+    "publisher": "Investing.com India",
+    "age_minutes": 41,
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0YtRUpyTHdMN1gzYUZ5eWozZzBuUk56RlFkOG16MzdQMnFxM2hxTERoODZuUXY0MllVV1JqNFBPODJqNDJDaHB3VGJ3dlFtV1BsejgzQV9MMW5Pc1lQZE9EZ1luZmFOeTlJaV9QcUpJZlhPVWZ6YmxGT05vRTRDRUpvckExaXAwX0JjeU5xaHMxWS1OOEZkUVREX1lKblgzcmRoSW9tc2Z0Zmt2UWM4THpqQmotUExENVN0WW5yYw?oc=5"
+  },
+  {
+    "time": "2026-09-23T00:16:42.339862+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "CHPT",
+    "title": "Mandated tax-withholding sale planned at ChargePoint (NYSE: CHPT) - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 30,
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVXgydVRlZWVpUl94cmRaVW9yQTJCdTItQVQxU3Ztbkh1TFlKY3hoaGdnMXZIZjNvSFdYY2xiMUdrbnRDQVpQa1RheU5mbXNad2ZlZVBLd19RbEg1M1k0Z2NHQ21zc0ZxaTB6bkNJdktYSFpjdjJ6b1Zuc1F6aVI2WjhvVkxGRUVvbnpFZjhDem5LYkEtcUZCcVZkM0NQUDBCMHNXMw?oc=5"
+  },
+  {
+    "time": "2026-09-23T00:16:42.339875+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "KNTK",
+    "title": "After August share sales, Kinetik (NYSE: KNTK) 10% holder plans another - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 57,
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNmUyWmVzYVM1V0pjdXB2eDBjazd5LVVQbEh6dlB5TF85U2pUYTFHNmZhOVRnMGlUNG1hVktFd1o1NFk5bnJ6NWo1MmlOZF96WUgzLV9ZSHlHcklib003dWloTEtERGowelhVNi1pbU9TLXlmdG9yWEV3SmpPdk1uYUZSTkJfMTBVLXN4X3c0bk9WY3R4TEZRbjFLMXRtUQ?oc=5"
+  },
+  {
+    "time": "2026-09-23T00:16:42.339888+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "CHPT",
+    "title": "ChargePoint (NYSE: CHPT) flags mandatory stock sale for tax withholding - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 31,
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnhVWW55REdJUnRTTENSMEVNT1k0ZmtqTUlDa2FmMWFQNGx3TlJMUm9zeEFKUlg5WWowS0lJN3ZaU3dVdGpCQ19CSHYycWJtd2dtSEw0ZW1ySFQxalZfVGN3emtPTzZCZUpfN0xnTlhVSmdxSW5JbTM4WWdkZTNvODJrLXphX0x4c2UxVGl1eE9xZkdUSHg2RWJnQVo0Qm45VnBuRQ?oc=5"
+  },
+  {
+    "time": "2026-09-23T00:16:42.339899+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "CHPT",
+    "title": "ChargePoint (NYSE: CHPT) officer to sell 5,965 shares under mandated tax-withholding plan - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 34,
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTc1U2NxTGJzSU03NjF2YjNvMTZFZGV5UUNQQUJGUm5DWTYyMTlVRl9IODl4cV9rNTRuWmJCdjRIMDJIdEhqV1FuQWRtNXZkUGZmTjlFNzdQenFiZXdSQUF2ZG80Q19XOUttcG1STDZKeFkxYzJnc3hydzI4WHA5TDZvdFVJTTdqc3l4akQ4VEotdGZsSW9tN2lSRk1mN21BVW5pSA?oc=5"
+  },
+  {
+    "time": "2026-09-23T00:16:42.339912+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "ZipRecruiter CEO Ian Siegel sells $201,726 in shares By Investing.com - Investing.com Canada",
+    "publisher": "Investing.com Canada",
+    "age_minutes": 26,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZllpdmlFMm5Ib1lNdE5ZUjMtRXJEYy10SnVicjNXaG96a2h1d1lvVWJuNGFmNVk1VWlKUElDLU14UVVtX3F6a3ZSZldjS2RBLWs3WVVkMjJPRGpreWhHUzhRT2p4elBkWW5NR0JDQko2ZnEtaE55WFNseVdad3pJcWdWZ0dqR0pOSno3RVV2N0k0Z0s4M0R2XzhENEtVSlk2NnI2SlJnUEhRWEMtRXpCRQ?oc=5"
+  },
+  {
+    "time": "2026-09-23T00:16:42.339928+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Form 8K Goldman Sachs Private Credit Corp. For: 22 September By Investing.com - Investing.com India",
+    "publisher": "Investing.com India",
+    "age_minutes": 27,
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXNoYTJ0V1ZfMUdFQml1M3V2cVJ3UlNXTU1SSnIwVnNXY1U2ODFNRmtCWWpseks1M0FKWnE0RE1YcTVmUE9HbnEtWlhlek1SU0RtTXY1NUF2V3dPV01iTzViR3FWTVh6d0JqdTYzYWdiZGVPd3pKbDh1S2hGVGU2WnQwX0J2SW1McDE4a2RkNDRQdG5oS1ZRekN0N1ZLRXJwSThqMkl6enZVVGFWbFFyNTVpcnF0Sl9kR3RF?oc=5"
+  },
+  {
+    "time": "2026-09-23T00:16:42.339941+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "BOX",
+    "title": "Box (NYSE: BOX) CAO reports 1,925-share tax withholding, holding 103,880 shares after - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 43,
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdHk3MWg5SXVnNXFJbjBLZGFGanJTdDBJSmZISFJzelFudWpEdldvQ2hWUktVNHRmY3pxc1NhTm4wdi1kM0tIQjdzM19FYVZ3bnRMWUkyMWlyd0M1UDVCMHNQVVZNZUZMRC0tZm81QW9oZElxSURGNl85MnFLTGdqUXd3bi11SjU2a1M4ZGZjX0tYVC1jaGdhREN1d0NhNFlFMkE?oc=5"
+  },
+  {
+    "time": "2026-09-23T00:16:42.339953+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "WBI",
+    "title": "WaterBridge (WBI) COO shares withheld to cover RSU taxes - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 49,
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUFhfUWxrVFBkemtxaHhwVnR6RkJrekI2TGVIMTFLWnEzZFYzenFDT1RON0dZZll5TTFNdHBPUDZobDNrYU9TSG41dldFb2tIMlc0SzRheVltdlhJdmZRZ3VkLU1wbDlFemZWRlNSWjVwby1XR1VxeU8xOWdLWnBMcFlsb05NRmw1ejBKYXFxMHIxOVFnWTRIVG51OVFCaFNFdDNVcWJnNTM0TUlsUUpDR2JlWndYWWpncE5rZC1hX0pfZw?oc=5"
+  },
+  {
+    "time": "2026-09-23T00:16:42.339965+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Aliko Dangote to support 2m women with refinery shares - GistReel",
+    "publisher": "GistReel",
+    "age_minutes": 14,
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMnFyQ0wxZUU2aUhWbFJYMnZCUFJUdlJEaElzRkpKLXhLek1Fd2hVazE0N3hjcUliVUIxLVFrcURKc0Rmc0JSdEk1N3l3VnF1b0RXcVBQZzVYaGRzclo1WkNwZjNmV1BJTFZEUzlzallLYXVsdVgtVk5NeGFkaERTY2RvN280UHM?oc=5"
+  },
+  {
+    "time": "2026-09-23T00:16:42.339978+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Dangote to support 2m women with refinery shares - thecitizenng.com",
+    "publisher": "thecitizenng.com",
+    "age_minutes": 53,
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82WmZscW0yRnhUQTRRX3MxckFTNDQyYjdDYXNqR3Y1aERpNzlrMGlhRnFaZ0tVelNhaThrWk9QUzhRVXlOLTVyaU5OcVprdllRV2RRekh2S2lpMGxLbWU1M1A1RTdzM2UwbW96M0tMYmZ5RU50STdpUGVNZzVFaXM?oc=5"
   }
 ]
