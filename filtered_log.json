@@ -1,86 +1,5 @@
 [
   {
-    "time": "2026-08-11T11:06:21.648582+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Americas Gold & Silver Corp (0001286973) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 34,
-    "url": "https://www.sec.gov/Archives/edgar/data/1286973/000106299326004162/0001062993-26-004162-index.htm"
-  },
-  {
-    "time": "2026-08-11T11:06:21.648591+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - TJGC GROUP Ltd (0001969928) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 35,
-    "url": "https://www.sec.gov/Archives/edgar/data/1969928/000118518526003374/0001185185-26-003374-index.htm"
-  },
-  {
-    "time": "2026-08-11T11:06:21.648601+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - uCloudlink Group Inc. (0001775898) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 35,
-    "url": "https://www.sec.gov/Archives/edgar/data/1775898/000121390026087470/0001213900-26-087470-index.htm"
-  },
-  {
-    "time": "2026-08-11T11:06:21.648651+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "CAH",
-    "title": "Cardinal Health (CAH) secures $4.0B revolver and exits $4.0B prior facilities - Stock Titan",
-    "publisher": "Stock Titan",
-    "age_minutes": 27,
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRGtGMkEtSi1uMkxvQ3NXSTJZTDVhTWVYZUZua0FaODZMQkVEQ2VDbUlKMm1pdThxbzhfOWJYR0VhdjdTenpJblVSb0dDSkhpUnljbG1CNE9SOFFEaFgxQVpGWEgtb1E3MjZ2b3FkcUZYSi1ab1RZQVhoRV9PaEFYb1JWWHdsZFdhaU5oTnpuSWdJbGZSVkZyUF9qaGNMcE5UUWV6Z2VLVkFLRGs?oc=5"
-  },
-  {
-    "time": "2026-08-11T11:06:21.648663+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "MarineMax agrees $1.5bn sale to Safe Harbor - Marine Industry News",
-    "publisher": "Marine Industry News",
-    "age_minutes": 13,
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNzRlQ3N5SDlSeGo1akNZdEhUZ2tWOEdYVEM4bXg3cm1ZX2RZZms3M091LW02U1NTRTVmZnh6aDRXYk54Tm5kS3JsR1UyT3RGZG5LQ2kwOWVNMVc1ZzZQcjRRVEJfelExT0plZlhtV2k0S2Y1T0ctYVhnM1ZHeEw5RUN3?oc=5"
-  },
-  {
-    "time": "2026-08-11T11:06:21.648674+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "Volta Consolidates Springer Land Package into a Single Contiguous Block, Securing Clear Path to 100% Ownership of Springer REE-Gallium Deposit - The Globe and Mail",
-    "publisher": "The Globe and Mail",
-    "age_minutes": 33,
-    "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQU3B5M21uN0tYVVh3MWZ4SmV2dU5xdmlZQzJBVUtSd3B0RWVRVzhGWGNjc0QxTGhJSzFFdGl0YTdGc1VwUk9sbHlnaFE2UGJnTlFER25PNWVzVG9tZVo5alNxSHlZRFZPQ21lczE2b2YtUENnNC1BS1RubWJGQzQxbEV5UlZNSzE2QVRKQjVydEZVd3RpS3FkOC1kSlF6RVJyWXMybE1jWlI2U0tRbjRMVlptS3JsSXNkcXdoU1I3UmtYN0N1ZFhtN25vcTY4TU5GVlRwWEdBeHhrbG9vTkZrZzhrN1VhVEFqajJuT2F5UTVxRUpCbmF4MWZHUVNmblBlVlctcjdaVTBhU0tCSzIyRWd3MC1pc3Vma0pqV0Ria29vZC00d1hQTHUtcG1CclM5SmZmREswWGRta2libXhXOEFvdw?oc=5"
-  },
-  {
-    "time": "2026-08-11T11:06:22.451122+00:00",
-    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
-    "symbol": "",
-    "title": "Hyperscale Data Board Considers All Options to Maximize Stockholder Value, Including Potential Sale of Its Michigan Data Center - PR Newswire",
-    "publisher": "PR Newswire",
-    "age_minutes": 36,
-    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOV2hZdTcxMFl1OHVvNlVvcTREZHFVdjBHSXFJaGplYlVqZEVzU1pEZHlrbnRkN08yNXJEMGE3U3d5YVVMVGQ1V0VGM09DUmhXMFYxTlAzOEdaTlZuS3hOcFE4NHpkT1VUS3ZvUUE3Q21fWDlLcEJRY2RUdGFjc0xCZGN4NVBPSHRxVnB3eFRIT21SZ0I0ZUR5TVc1bVFEV1NZTGRBb29jTGR6alZNN0JxMDJpUDB6SjlzMy0yc1dXdTE0RGtNZ2pvTWR2d1ZxZDUtR3I1S2Q3bWVYSjNjSk9uRUFNLTUzR1Npcm9FclN5SGFEbzhoZmdSWGRBNV9sR2hXLS03Ym56MFBuOFB1SWF3?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
-    "time": "2026-08-11T11:06:22.451168+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "Datadog director Amit Agarwal sells $4.7 million in stock - Investing.com",
-    "publisher": "Investing.com",
-    "age_minutes": 21,
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMl9jaFlGb0FyZEpjMTRuUmlhSzJHbktremJMLUlBaDBHcUQ4WWsyLVlqMGt6SUNmZUpiUjlseC1hQk0zYzhjSFFON3BlVUpBVmljWHRBcl90MUxnU29ldk8tNm9acTQ5SzI4VVV1TGQ3SUhrXzU1dmY1ZWhZbVN3b29GZ0J3cFhKWHVwWlo3T3l6S0V1YlAtNlFsa3FKMExNZUx6OWtxUWVHLVEtYm5zN09nd3lvWGNtUThIbw?oc=5"
-  },
-  {
-    "time": "2026-08-11T11:06:22.451180+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "Insider Sale: Director at $EDU Sells 56,948 Shares - Quiver Quantitative",
-    "publisher": "Quiver Quantitative",
-    "age_minutes": 34,
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbDFvUFhMM0QyaXltaVc0TklLRnc2czhZYXZOOVJZQjk3UkpiUWQtZVVreUZYQWM5S0lKZHF3ZkNwaTJzdFJCVVptaHNhZnFZM2cyMkhMODhkWEJBbndsdGVqT3ZJeml4ZlhvSGxaaU9uUnViTlFPLTJlMi1oS1oyQzRST0FqZXlVQ194NVpNdlpfVm8?oc=5"
-  },
-  {
     "time": "2026-08-11T11:06:22.451193+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "",
@@ -107998,5 +107917,86 @@
     "publisher": "Free Press Journal",
     "age_minutes": 23,
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbXNmSmlXSEl4elNjV3JCVXNhOVV5MU5wZVJJcS01TXZxRy0taDBkc2FlUFM3dGpvQ2dxeWJHZENRZTFqT1ZIeTlNaVNuOW12b19uUi0xbEJNcTlzVGlCU0tpcHBNMXN1NVVJWHZSVjFYQk55ZDhsWnliLWZrMVBEYTBvTG9lNmZqekRSenRsQUVTclJpZFlQR3RFUUtYdlBINVo3a1I0cEc3NkpLV1FpN0RVemVmaEl6X1dNWU5MN1JWOXNudnlEc3lUdTB1dXNBT3l5b284V0NONC0y0gHiAUFVX3lxTE5qMjN6TGpIdFB5Q3NsbnBFYkZ5VTdpX1lCVFByelBISTZCc0pJVmVtZDgwZjlBSjR6TDc5R1hvU004bnlkTWtxWTZJYkxIa3ROT1NXX284VUctN0NtU18yRnBESTVGLWRwMjJtTW52MlhhYVNuSlRNS0VxRlVtWTE1aXF4d2taUnJUUFFXQUJrRWswWFJYUFd2bkFCMEo1dWtFUEhoSmg3TDNSUUwtQ3JYc2hvQ1M0Z1Fjd3I3dmdYRWk4RjRjcDNHOTlBY0tMcmwzN09ad1ZENVZKVlNOX2F5M2c?oc=5"
+  },
+  {
+    "time": "2026-09-23T22:15:56.635211+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "[8-K] FG Nexus Inc. Reports Material Event - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 49,
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY001andZM1hPUllqeHRIYXFwSXRVZ2d1QjF5aU5kYlpGclo4bzRGUWx5d2RYT05Nam1DOHcwRlQyUGtfZnNPSW1jOUdZcU05U1JSQ2E2bkhsR3JzS01TRWdIR2E1VEIwMkVqSElFeklLVnpQS0JhaldBVzZNdk1DWUtIM1BMZlJESWUzVF9UOUh1dTV3MmdFbTFwU3hjQ25pb2dn?oc=5"
+  },
+  {
+    "time": "2026-09-23T22:15:56.862710+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "IBAC",
+    "title": "A minimum cash condition is gone from IB Acquisition (IBAC)'s pending GNQ deal, with optional share sales added. - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 60,
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnJPM1ZhRWhTNHhoMVh4VnkyQ1lqT1ZENXlTUmxRZnd6eXVMTHU2VnpjRHVXRmZ4ZDNLblRlX0FoZDNvNTBfYkp0MkpBQUlOdkYzaGJEY1BzX1J3QU1KblJQTVNNTmhCbG9xUDRkQzh1NVNfeEJkQktpMDZrUjBhT1FFQWh6S0xISzV3WlFiVWdnRVpOM1YxcW9GVGEtNzFSc0x2QXN1SFZCTHNPamxGZkpSOXB5Mnc?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-09-23T22:15:56.862757+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Form 8K Investors Real Estate Trust For: 23 September By Investing.com - Investing.com India",
+    "publisher": "Investing.com India",
+    "age_minutes": 47,
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNWRXQ0xTV2hjcGxNb2RPQWp2Wk5uQ3lLeDdNX052ZUZDcExDbTlOeVhseUcyRXE4R2tUN1RWeTlMSlJVeXc2X21sNjY4RFphVmlyQlk0TVZaRXl5TjU2aDN6Sm1QWFdyOVV4MzI2ck1nX3gwYXB2VXl4TjZUQThQTndVSVJ1aFN2VWJibFVyakFsTG1keGRhdjNnSkt1VFNhUFVwcXI2WlF2OXJUbGo0QWoxQQ?oc=5"
+  },
+  {
+    "time": "2026-09-23T22:15:57.238906+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "EXCLUSIVE: Hellman & Friedman explores sale of Applied Systems at up to $10 billion, sources say - Reuters",
+    "publisher": "Reuters",
+    "age_minutes": 53,
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTZfeV9zUVVDa0pyd3lkNTROcWJuOGhkSkgyTFdFTnN3T25kNVE4Q01pWE1SaW1TWDVKaWdVU24yNGkzQXBpMnVKZXdkbTRtaDJhVlBHUENFS0h5ZFlMSTVuWE8zREpLY2hSN0dVUXNZU0RoNURmWlJBa1dLekJWTm82WFJrb0xVcTZzT3c0aUREeURtNWRHS0RCOFlnN2NqVW0tZTlVRFQ5bXljaGo5bGNUVlM?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-09-23T22:15:57.238962+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "RDW",
+    "title": "After exercising warrants, a 10% owner plans to sell Redwire (RDW) shares. - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 40,
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTXVSVl91cnhITUZVS2lMSmltcWdLUHByeXRMUTFaVmE1OTNidlE2SzZnRHI1QVlpNmhPMGZzTWlJaHhhVTJwMkJSNGpnWXBsNVkzWVRqRHdkbmhYRmNqckF0cE02RzNwOXFINmxuNklpZGJ1ejNMWWo1MjJyQ1F5Y25tR1lSVVloaDhia1dxcU5tZw?oc=5"
+  },
+  {
+    "time": "2026-09-23T22:15:57.238985+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Old Second Bancorp stock trades below its 52-week high - AD HOC NEWS",
+    "publisher": "AD HOC NEWS",
+    "age_minutes": 42,
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDJXTXVFVzRBQzJNVFhHNFlQRzVIMXA5UG1EdFVrM1JZRjRiOXFzNm45SV9nVUwwejJNVW9IbC11eUdSVDU3NmhsVjNsclhnNHhjcDM1ZkgyQmtXQkJzWjBwbHgyM1d2Q05POWcwMl8tV2F4LU10YWpRUWhEVzZaYjZMZzU5Y0pGYzE0azFYMWdXR3RrbEJGUGpUOFRqcFlCRkpPNFNFT3FHRnphU0J5dHhwTQ?oc=5"
+  },
+  {
+    "time": "2026-09-23T22:15:57.239047+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "MRCY",
+    "title": "At $86.52 a share, Mercury Systems (MRCY) executive Stuart Kupinsky sells stock under a trading plan. - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 37,
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZWNBb1VFSUFYVzU5X3VLYzB0U1d1U1hfMlRkSk5Wbmc0dmo1NFVseG5GbmdzZlBadkNob2h3STRRVkwwQXdfZ00wUzhPb1BTTXhhUndCMl9HeXZmMEgtSGNjMV9pNENyejdYZTZBRzBmNlEyMUlhZFhQVjU2UEI1ODh3YXRKRjN3a01TZDJfSGtGMktwcXJxdVdodERobzNuVy1MN0ZSNTV2WGtabWFoY1dTYw?oc=5"
+  },
+  {
+    "time": "2026-09-23T22:15:57.239094+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "ALNT",
+    "title": "A director moved 457 shares between accounts by selling and rebuying them, Allient (ALNT) reports. - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 52,
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFdkeDNNcEZMR21Cam8ydVhwTEFPdy0wREZoLTU2eHlqcUIzM0s5UGh1RjlBajZtR0dqNEw2cnY3R1RQdXpHd1R0OHc1YUtERVZfTFloOXBTMU1OSFdOSC1VUEozZ0NsZ0otdDZNeGlhekdzUFc4b2JkeHQ2dk56LWZyd01NZE1yN1RPSFNVVU0wdGVXOF9vUkpIVElmQXpkUkdkT3lvT2E?oc=5"
+  },
+  {
+    "time": "2026-09-23T22:15:57.239112+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Sun Communities Sells UK Operations to Refocus Strategy - TipRanks",
+    "publisher": "TipRanks",
+    "age_minutes": 33,
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDl0eGlDMmoyNEM5c2NPdlFiZ3ZoNU83QzlYbTk4UTlaQ2VmZl9YOWRBdmp2ZXkxZVhDYm9zcWJHSFJhSUtQb1hyQ29BeXFXRlNUMWRlZnB5VzBaZnNITlo2dDRJblhiVzFHaU1HOVRCNDZhcXU3RXhTeGZxQmlVNENYRzRLR2pvb25JSFdEc2ZJVXJ3WU9ZNnUwY1R2Y25YNlIwMEJHcFJ5aVk?oc=5"
   }
 ]
