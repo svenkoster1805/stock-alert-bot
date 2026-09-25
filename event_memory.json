@@ -4090,5 +4090,11 @@
     "symbol": "FILER",
     "title": "8-K - Ocean Capital Acquisition Corp (0001926314) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "e99f4827ed12500a75e95e91a63e43a4ad078a541296a308d23b05c71a180a90": {
+    "first_alert_at": "2026-09-25T15:52:29.479628+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Pinnacle Acquisition Corp (0002123955) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

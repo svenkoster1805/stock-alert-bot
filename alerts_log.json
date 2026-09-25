@@ -16541,5 +16541,30 @@
       "is_already_priced": false,
       "notes": "De 8-K-indiening is zeer recent, maar de inhoud van Item 8.01 is niet gespecificeerd."
     }
+  },
+  {
+    "time": "2026-09-25T15:52:39.055306+00:00",
+    "symbol": "FILER",
+    "company": "Pinnacle Acquisition Corp (0002123955) (Filer)",
+    "event_key": "e99f4827ed12500a75e95e91a63e43a4ad078a541296a308d23b05c71a180a90",
+    "event_family": "M_AND_A",
+    "title": "8-K - Pinnacle Acquisition Corp (0002123955) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2123955/000121390026103368/0001213900-26-103368-index.htm",
+    "news_age_minutes": 21,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Pinnacle Acquisition Corp heeft een 8-K document ingediend bij de SEC, met AccNo 0001213900-26-103368. Dit document omvat Item 8.01 (Overige Gebeurtenissen) en Item 9.01 (Financiële Overzichten en Bijlagen).",
+      "why_nl": "Een 8-K filing voor M&A kan duiden op belangrijke bedrijfsontwikkelingen die de toekomstige waarde van het bedrijf beïnvloeden. Item 8.01 wordt vaak gebruikt om materiële niet-routinematige gebeurtenissen te melden.",
+      "risk_nl": "De specifieke inhoud van de M&A-gebeurtenis is onbekend, waardoor de impact op de belegger onduidelijk is. Zonder details over de deal, zoals de tegenpartij, voorwaarden of waarde, is het risico op een ongunstige uitkomst hoog.",
+      "invalidation_nl": "Er zijn geen concrete details over de M&A-transactie, zoals de contractwaarde of de betrokken partijen, beschikbaar in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is recent en van een betrouwbare bron, maar de inhoud van de M&A-gebeurtenis is nog niet gespecificeerd."
+    }
   }
 ]
