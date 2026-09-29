@@ -10410,5 +10410,67 @@
       "is_already_priced": false,
       "notes": "De 8-K filing is recent en van een betrouwbare bron, maar de inhoud van de M&A-gebeurtenis is nog niet gespecificeerd."
     }
+  },
+  {
+    "time": "2026-09-29T12:20:22.204667+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Flash Sports & Media Holdings, Inc. (0001706524) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Flash Sports & Media Holdings, Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en de niet-geregistreerde verkoop van aandelen worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische transactie die de toekomstige bedrijfsvoering en financiële positie van Filer beïnvloedt. De verkoop van aandelen kan kapitaal aantrekken voor groei of de financiering van de overeenkomst.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de materiële definitieve overeenkomst zijn onbekend, wat het risico op ongunstige voorwaarden met zich meebrengt. Zonder details over de transactie is het onduidelijk of deze waarde creëert of vernietigt voor aandeelhouders.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de tegenpartij, de waarde en de specifieke voorwaarden, ontbreken volledig in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van de volledige 8-K filing is noodzakelijk om de aard en impact van de overeenkomst te begrijpen."
+    }
+  },
+  {
+    "time": "2026-09-29T12:20:33.517512+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Imunon, Inc. (0000749647) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Imunon, Inc. heeft een 8-K-rapport ingediend waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Het rapport vermeldt ook de niet-geregistreerde verkoop van aandelen en wijzigingen in de statuten.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische transactie, zoals een overname of fusie, die de toekomstige waarde van het bedrijf kan beïnvloeden. De verkoop van aandelen kan gerelateerd zijn aan de financiering van deze overeenkomst.",
+      "risk_nl": "Zonder details over de aard, voorwaarden en financiële impact van de overeenkomst, is de economische relevantie en het effect op de aandeelhouderswaarde onduidelijk. De specifieke tegenpartij en de waarde van de transactie zijn niet bekend.",
+      "invalidation_nl": "Er zijn geen concrete details over de tegenpartij, de contractwaarde of de specifieke voorwaarden van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de inhoudelijke details ontbreken in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-09-29T12:20:45.171099+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bloomin' Brands, Inc. (0001546417) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Bloomin' Brands, Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en een directe financiële verplichting wordt gemeld.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst en een financiële verplichting kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva en toekomstige winstgevendheid.",
+      "risk_nl": "De specifieke financiële voorwaarden, zoals de contractwaarde en de aard van de financiële verplichting, zijn niet bekend. Dit maakt een gedetailleerde beoordeling van de impact op de balans en winstgevendheid onmogelijk.",
+      "invalidation_nl": "De exacte financiële details en voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding duidt op een concrete gebeurtenis, maar cruciale details ontbreken voor een volledige analyse."
+    }
+  },
+  {
+    "time": "2026-09-29T12:20:45.866887+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TransDigm Group INC (0001260221) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

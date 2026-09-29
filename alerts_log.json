@@ -16566,5 +16566,103 @@
       "is_already_priced": false,
       "notes": "De 8-K filing is recent en van een betrouwbare bron, maar de inhoud van de M&A-gebeurtenis is nog niet gespecificeerd."
     }
+  },
+  {
+    "time": "2026-09-29T12:20:22.561370+00:00",
+    "symbol": "FILER",
+    "company": "Flash Sports & Media Holdings, Inc. (0001706524) (Filer)",
+    "event_key": "a61b38e1fb5679bafee147cbf41797d49148678d7f7ca4fed4d9b254b2d0e6a4",
+    "event_family": "M_AND_A",
+    "title": "8-K - Flash Sports & Media Holdings, Inc. (0001706524) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1706524/000121390026104324/0001213900-26-104324-index.htm",
+    "news_age_minutes": 4,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Flash Sports & Media Holdings, Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en de niet-geregistreerde verkoop van aandelen worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische transactie die de toekomstige bedrijfsvoering en financiële positie van Filer beïnvloedt. De verkoop van aandelen kan kapitaal aantrekken voor groei of de financiering van de overeenkomst.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de materiële definitieve overeenkomst zijn onbekend, wat het risico op ongunstige voorwaarden met zich meebrengt. Zonder details over de transactie is het onduidelijk of deze waarde creëert of vernietigt voor aandeelhouders.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de tegenpartij, de waarde en de specifieke voorwaarden, ontbreken volledig in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van de volledige 8-K filing is noodzakelijk om de aard en impact van de overeenkomst te begrijpen."
+    }
+  },
+  {
+    "time": "2026-09-29T12:20:33.902310+00:00",
+    "symbol": "FILER",
+    "company": "Imunon, Inc. (0000749647) (Filer)",
+    "event_key": "e7e9a9e5d4394dee0534d3eec8370924d6f032f989fe5bd171377d23d49d2543",
+    "event_family": "M_AND_A",
+    "title": "8-K - Imunon, Inc. (0000749647) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/749647/000149315226044792/0001493152-26-044792-index.htm",
+    "news_age_minutes": 19,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Imunon, Inc. heeft een 8-K-rapport ingediend waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Het rapport vermeldt ook de niet-geregistreerde verkoop van aandelen en wijzigingen in de statuten.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische transactie, zoals een overname of fusie, die de toekomstige waarde van het bedrijf kan beïnvloeden. De verkoop van aandelen kan gerelateerd zijn aan de financiering van deze overeenkomst.",
+      "risk_nl": "Zonder details over de aard, voorwaarden en financiële impact van de overeenkomst, is de economische relevantie en het effect op de aandeelhouderswaarde onduidelijk. De specifieke tegenpartij en de waarde van de transactie zijn niet bekend.",
+      "invalidation_nl": "Er zijn geen concrete details over de tegenpartij, de contractwaarde of de specifieke voorwaarden van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de inhoudelijke details ontbreken in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-09-29T12:20:45.482554+00:00",
+    "symbol": "FILER",
+    "company": "Bloomin' Brands, Inc. (0001546417) (Filer)",
+    "event_key": "438a9b63a95a4477bb7603e3b0d7fb8b6d85474a4d1ccb67177b918048e4195a",
+    "event_family": "M_AND_A",
+    "title": "8-K - Bloomin' Brands, Inc. (0001546417) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1546417/000154641726000035/0001546417-26-000035-index.htm",
+    "news_age_minutes": 19,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Bloomin' Brands, Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en een directe financiële verplichting wordt gemeld.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst en een financiële verplichting kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva en toekomstige winstgevendheid.",
+      "risk_nl": "De specifieke financiële voorwaarden, zoals de contractwaarde en de aard van de financiële verplichting, zijn niet bekend. Dit maakt een gedetailleerde beoordeling van de impact op de balans en winstgevendheid onmogelijk.",
+      "invalidation_nl": "De exacte financiële details en voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding duidt op een concrete gebeurtenis, maar cruciale details ontbreken voor een volledige analyse."
+    }
+  },
+  {
+    "time": "2026-09-29T12:20:46.277344+00:00",
+    "symbol": "FILER",
+    "company": "TransDigm Group INC (0001260221) (Filer)",
+    "event_key": "deea604328085b15589515200211f0b02dc2a21283f523252a74bce8b6d99a2c",
+    "event_family": "M_AND_A",
+    "title": "8-K - TransDigm Group INC (0001260221) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1260221/000119312526406037/0001193125-26-406037-index.htm",
+    "news_age_minutes": 20,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

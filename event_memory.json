@@ -4096,5 +4096,29 @@
     "symbol": "FILER",
     "title": "8-K - Pinnacle Acquisition Corp (0002123955) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "a61b38e1fb5679bafee147cbf41797d49148678d7f7ca4fed4d9b254b2d0e6a4": {
+    "first_alert_at": "2026-09-29T12:20:14.365492+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Flash Sports & Media Holdings, Inc. (0001706524) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e7e9a9e5d4394dee0534d3eec8370924d6f032f989fe5bd171377d23d49d2543": {
+    "first_alert_at": "2026-09-29T12:20:22.974102+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Imunon, Inc. (0000749647) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "438a9b63a95a4477bb7603e3b0d7fb8b6d85474a4d1ccb67177b918048e4195a": {
+    "first_alert_at": "2026-09-29T12:20:34.228467+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bloomin' Brands, Inc. (0001546417) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "deea604328085b15589515200211f0b02dc2a21283f523252a74bce8b6d99a2c": {
+    "first_alert_at": "2026-09-29T12:20:45.866863+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TransDigm Group INC (0001260221) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
