@@ -4120,5 +4120,11 @@
     "symbol": "FILER",
     "title": "8-K - TransDigm Group INC (0001260221) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "03bd378cd207648b5b84d904409a31c3fb307be0df4a527514f28766a9c9ea2d": {
+    "first_alert_at": "2026-09-29T18:08:45.037495+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Monroe Capital Asset-Backed Finance Company, LP (0002125316) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

@@ -10472,5 +10472,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-09-29T18:08:54.275455+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Monroe Capital Asset-Backed Finance Company, LP (0002125316) (Filer)",
+    "score": 14,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Monroe Capital Asset-Backed Finance Company, LP heeft een 8-K melding ingediend bij SEC.gov. Dit document rapporteert het aangaan van een materiële definitieve overeenkomst en wijzigingen in de statuten of het boekjaar.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan de financiële positie of strategische richting van het bedrijf significant beïnvloeden. Wijzigingen in statuten of het boekjaar kunnen ook impact hebben op governance of operationele transparantie.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de materiële overeenkomst zijn onbekend, wat de impact onzeker maakt. Zonder details over de tegenpartij, de waarde of de implicaties van de statutenwijzigingen, is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "De concrete details van de materiële definitieve overeenkomst, zoals contractwaarde en specifieke voorwaarden, ontbreken in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke gebeurtenis, maar de inhoudelijke details zijn cruciaal voor een beoordeling."
+    }
   }
 ]
