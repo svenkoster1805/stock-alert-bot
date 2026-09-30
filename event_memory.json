@@ -4126,5 +4126,11 @@
     "symbol": "FILER",
     "title": "8-K - Monroe Capital Asset-Backed Finance Company, LP (0002125316) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "bc53dd243a714761b5830bae0b2ef720f5ca56d82ea52a506ae1936a133337dd": {
+    "first_alert_at": "2026-09-30T12:05:48.153396+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Iron Horse Acquisition II Corp. (0002051985) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
