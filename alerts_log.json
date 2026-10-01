@@ -16714,5 +16714,80 @@
       "is_already_priced": false,
       "notes": "De classificatie als M&A-gebeurtenis wordt niet ondersteund door de verstrekte samenvatting van de SEC-aanmelding."
     }
+  },
+  {
+    "time": "2026-10-01T12:39:07.201947+00:00",
+    "symbol": "FILER",
+    "company": "AMERICAS CARMART INC (0000799850) (Filer)",
+    "event_key": "3bd21272672f2185f5592d594a2f69011f334c370f085030eafd6e8835c4d88a",
+    "event_family": "M_AND_A",
+    "title": "8-K - AMERICAS CARMART INC (0000799850) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/799850/000117184326006326/0001171843-26-006326-index.htm",
+    "news_age_minutes": 8,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AMERICAS CARMART INC heeft op 1 oktober 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie voor het bedrijf. Dit kan de toekomstige financiële prestaties en marktpositie van AMERICAS CARMART INC beïnvloeden.",
+      "risk_nl": "De aard en de financiële details van de materiële definitieve overeenkomst zijn nog onbekend. Zonder deze informatie is de impact op de onderneming en de aandeelhouders onduidelijk.",
+      "invalidation_nl": "Er zijn geen specifieke details over de inhoud, partijen of financiële voorwaarden van de overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de specifieke aard van de M&A-transactie is nog niet bekendgemaakt."
+    }
+  },
+  {
+    "time": "2026-10-01T12:39:18.630241+00:00",
+    "symbol": "FILER",
+    "company": "Banzai International, Inc. (0001826011) (Filer)",
+    "event_key": "f53a8817432acf211951181be5c7d081fea17928ca306cc78de99055d5384502",
+    "event_family": "M_AND_A",
+    "title": "8-K - Banzai International, Inc. (0001826011) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1826011/000149315226045262/0001493152-26-045262-index.htm",
+    "news_age_minutes": 18,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Banzai International, Inc. heeft op 1 oktober 2026 een 8-K-formulier ingediend bij SEC.gov. Dit formulier meldt het aangaan van een materiële definitieve overeenkomst en niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische transactie, zoals een overname of fusie, die de financiële positie van het bedrijf beïnvloedt. De verkoop van aandelen kan kapitaal aantrekken voor deze transactie of de eigendomsstructuur wijzigen.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de materiële definitieve overeenkomst zijn onbekend. Zonder details over de tegenpartij, de waarde of de strategische rationale is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud van de materiële definitieve overeenkomst, zoals de betrokken partijen, de contractwaarde of de specifieke voorwaarden, beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de economische details ontbreken in de verstrekte samenvatting."
+    }
+  },
+  {
+    "time": "2026-10-01T12:39:29.108126+00:00",
+    "symbol": "FILER",
+    "company": "BNB PLUS CORP. (0000744452) (Filer)",
+    "event_key": "70b33bd705f70c3a5ee7b7ed2ba4f2b90fd226f76270fd970fb65b15d3250bf6",
+    "event_family": "M_AND_A",
+    "title": "8-K - BNB PLUS CORP. (0000744452) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/744452/000110465926112587/0001104659-26-112587-index.htm",
+    "news_age_minutes": 19,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BNB PLUS CORP. heeft op 1 oktober 2026 een materiële definitieve overeenkomst gesloten. Dit is gemeld in een 8-K filing bij SEC.gov.",
+      "why_nl": "De ondertekening van een materiële definitieve overeenkomst voor een M&A-gebeurtenis kan leiden tot een significante verandering in de bedrijfsstructuur of activa. Dit kan de toekomstige financiële prestaties en waardering van het bedrijf beïnvloeden.",
+      "risk_nl": "De specifieke voorwaarden, de contractwaarde en de impact op de financiële positie van BNB PLUS CORP. zijn nog onbekend. Zonder deze details is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "De contractwaarde en de volledige voorwaarden van de overeenkomst zijn niet bekendgemaakt in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing van 237 KB kan meer details bevatten die niet in de samenvatting of snippet zijn opgenomen."
+    }
   }
 ]

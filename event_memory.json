@@ -4132,5 +4132,23 @@
     "symbol": "FILER",
     "title": "8-K - Iron Horse Acquisition II Corp. (0002051985) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "3bd21272672f2185f5592d594a2f69011f334c370f085030eafd6e8835c4d88a": {
+    "first_alert_at": "2026-10-01T12:38:55.096579+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AMERICAS CARMART INC (0000799850) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f53a8817432acf211951181be5c7d081fea17928ca306cc78de99055d5384502": {
+    "first_alert_at": "2026-10-01T12:39:07.621037+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Banzai International, Inc. (0001826011) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "70b33bd705f70c3a5ee7b7ed2ba4f2b90fd226f76270fd970fb65b15d3250bf6": {
+    "first_alert_at": "2026-10-01T12:39:19.033221+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BNB PLUS CORP. (0000744452) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
