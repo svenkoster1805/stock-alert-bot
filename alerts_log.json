@@ -16789,5 +16789,80 @@
       "is_already_priced": false,
       "notes": "De 8-K filing van 237 KB kan meer details bevatten die niet in de samenvatting of snippet zijn opgenomen."
     }
+  },
+  {
+    "time": "2026-10-02T12:03:30.199873+00:00",
+    "symbol": "FILER",
+    "company": "/A - OpenWorld, Inc. (0001104038) (Filer)",
+    "event_key": "a71661cef38b58c05f8611e05b7de9a63cc746fb3039071baf4926d02c5db15c",
+    "event_family": "M_AND_A",
+    "title": "8-K/A - OpenWorld, Inc. (0001104038) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1104038/000121465926012449/0001214659-26-012449-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-10-02T12:03:47.215212+00:00",
+    "symbol": "FILER",
+    "company": "EchoStar CORP (0001415404) (Filer)",
+    "event_key": "c0527bff32921de6741851f52d271ef9c994f1441a667c5023071a7abee260ff",
+    "event_family": "M_AND_A",
+    "title": "8-K - EchoStar CORP (0001415404) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1415404/000141540426000048/0001415404-26-000048-index.htm",
+    "news_age_minutes": 7,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-10-02T12:04:01.209262+00:00",
+    "symbol": "FILER",
+    "company": "Columbus Acquisition Corp/Cayman Islands (0002028201) (Filer)",
+    "event_key": "6f7cf4c942a6fd467330cf024dabf54cf90db167edf386aef298c2ff5378c11f",
+    "event_family": "M_AND_A",
+    "title": "8-K - Columbus Acquisition Corp/Cayman Islands (0002028201) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2028201/000121390026106089/0001213900-26-106089-index.htm",
+    "news_age_minutes": 25,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]

@@ -4150,5 +4150,23 @@
     "symbol": "FILER",
     "title": "8-K - BNB PLUS CORP. (0000744452) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "a71661cef38b58c05f8611e05b7de9a63cc746fb3039071baf4926d02c5db15c": {
+    "first_alert_at": "2026-10-02T12:03:28.573011+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - OpenWorld, Inc. (0001104038) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "c0527bff32921de6741851f52d271ef9c994f1441a667c5023071a7abee260ff": {
+    "first_alert_at": "2026-10-02T12:03:30.552974+00:00",
+    "symbol": "FILER",
+    "title": "8-K - EchoStar CORP (0001415404) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "6f7cf4c942a6fd467330cf024dabf54cf90db167edf386aef298c2ff5378c11f": {
+    "first_alert_at": "2026-10-02T12:03:47.537419+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Columbus Acquisition Corp/Cayman Islands (0002028201) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
