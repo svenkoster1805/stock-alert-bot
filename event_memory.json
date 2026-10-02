@@ -4168,5 +4168,41 @@
     "symbol": "FILER",
     "title": "8-K - Columbus Acquisition Corp/Cayman Islands (0002028201) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "eef2ee7c6449ff10cb0f95198369550449ef3c7242473093235bd5d6abc67e92": {
+    "first_alert_at": "2026-10-02T21:27:20.008576+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Planet Green Holdings Corp. (0001117057) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1fd8edf6510ba4ef62e51d19eae89c3eb0710b7a1b412b0c70a65d9a62a71d87": {
+    "first_alert_at": "2026-10-02T21:27:27.011143+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HeartSciences Inc. (0001468492) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7437cf715024afbf01f942bc2c401fcb6bc96995c264a7db723a12bf772758e4": {
+    "first_alert_at": "2026-10-02T21:27:33.016336+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BIO KEY INTERNATIONAL INC (0001019034) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "198fa833e0ba07b5f0c6353ca5f0c7e3ca3e1db9d2a72dac8d68f7e7411fdedd": {
+    "first_alert_at": "2026-10-02T21:27:52.535583+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Viking Global Technologies, Inc. (0001309082) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "9a8b27dcdb0f68c61fc0edc12f78cb4e5f6d5db0e084e1018fd44d426491d169": {
+    "first_alert_at": "2026-10-02T21:27:53.210814+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Dragonfly Energy Holdings Corp. (0001847986) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "938c8b552eafa3063c008e028cf31b5efd017cdc882ff7df548aeeb0fb9db542": {
+    "first_alert_at": "2026-10-02T21:27:53.897172+00:00",
+    "symbol": "FILER",
+    "title": "8-K - RMX INDUSTRIES, INC. (0001970743) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
