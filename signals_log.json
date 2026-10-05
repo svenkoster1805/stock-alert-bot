@@ -10706,5 +10706,193 @@
       "is_already_priced": false,
       "notes": "Verdere analyse van het volledige 8-K-document is noodzakelijk om de economische impact te kunnen bepalen."
     }
+  },
+  {
+    "time": "2026-10-05T21:18:51.488259+00:00",
+    "symbol": "FILER",
+    "title": "8-K - RenX Enterprises Corp. (0001959023) (Filer)",
+    "score": 14,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "RenX Enterprises Corp. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC op 5 oktober 2026. De filing vermeldt ook de verkoop van niet-geregistreerde aandelen en wijzigingen in de statuten.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname, verkoop van activa of een grote samenwerking. Dit kan de toekomstige inkomsten, kostenstructuur of marktpositie van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn onbekend, wat de impact op de waardering onzeker maakt. Ook de reden voor de verkoop van niet-geregistreerde aandelen en de wijzigingen in de statuten zijn nog niet duidelijk.",
+      "invalidation_nl": "Er zijn geen details over de tegenpartij, de contractwaarde of de specifieke aard van de M&A-transactie beschikbaar in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing duidt op een belangrijke gebeurtenis, maar de details ontbreken nog voor een concrete beoordeling."
+    }
+  },
+  {
+    "time": "2026-10-05T21:18:59.318373+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Odyssey Health, Inc. (0001626644) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Odyssey Health, Inc. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de bedrijfsstrategie en financiële positie van Odyssey Health significant beïnvloeden. De creatie van een financiële verplichting duidt op een concrete transactie die impact heeft op de balans.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de aard van de transactie en de financiële voorwaarden, zijn niet bekend. Zonder deze details is het onmogelijk om de potentiële impact op de aandeelhouderswaarde te beoordelen.",
+      "invalidation_nl": "De contractwaarde, de identiteit van de overnamepartner en de volledige voorwaarden van de overeenkomst zijn niet gespecificeerd in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding duidt op een belangrijke gebeurtenis, maar de essentiële details ontbreken voor een concrete beoordeling."
+    }
+  },
+  {
+    "time": "2026-10-05T21:19:13.209563+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CLEAN HARBORS INC (0000822818) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CLEAN HARBORS INC heeft een 8-K-formulier ingediend met daarin de melding van een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting. Het document is 57 MB groot en recent gepubliceerd op SEC.gov.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname, fusie of grote samenwerking. De creatie van een financiële verplichting bevestigt de potentiële economische impact voor het bedrijf.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de betrokken partijen en de financiële impact, zijn nog onbekend. Zonder deze details is de economische relevantie en de aard van de transactie niet te beoordelen.",
+      "invalidation_nl": "Er is geen concrete informatie over de inhoud van de materiële overeenkomst, zoals de betrokken partijen, de contractwaarde of de specifieke aard van de transactie.",
+      "is_already_priced": false,
+      "notes": "Verdere details uit het 8-K-document zijn essentieel om de aard en impact van deze overeenkomst te kunnen beoordelen."
+    }
+  },
+  {
+    "time": "2026-10-05T21:19:13.906767+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Fathom Holdings Inc. (0001753162) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-10-05T21:19:14.624096+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Tessera Defense & Homeland Security Inc. (0001739174) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-10-05T21:19:15.327670+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NRX Pharmaceuticals, Inc. (0001719406) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-10-05T21:19:16.101741+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NON INVASIVE MONITORING SYSTEMS INC /FL/ (0000720762) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-10-05T21:19:16.859933+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Vylor Inc. (0002128626) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-10-05T21:19:17.607510+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Launch Two Acquisition Corp. (0002023676) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-10-05T21:19:18.341630+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SOLESENCE, INC. (0000883107) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-10-05T21:19:19.075346+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Trinity Capital Inc. (0001786108) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-10-05T21:19:19.730663+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Grayscale Avalanche Staking ETF (0002035053) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-10-05T21:19:20.524431+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Grayscale Sui Staking ETF (0002034012) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

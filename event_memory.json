@@ -4210,5 +4210,83 @@
     "symbol": "FILER",
     "title": "8-K - DUOS TECHNOLOGIES GROUP, INC. (0001396536) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "ff2c353ef0af02c76a02540b68301b2e76c7aa3844555b163228d47a9dfef02d": {
+    "first_alert_at": "2026-10-05T21:18:40.550431+00:00",
+    "symbol": "FILER",
+    "title": "8-K - RenX Enterprises Corp. (0001959023) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "84cbaea25ee5b73121c3afea7dfe1aa33497300e4e9143c6930d2c7501d5bdcc": {
+    "first_alert_at": "2026-10-05T21:18:52.161200+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Odyssey Health, Inc. (0001626644) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5fbc8519d0188b118eb69cc16418aa60c1b4afdaa63ff2d800bc3bf829b178ab": {
+    "first_alert_at": "2026-10-05T21:19:00.029037+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CLEAN HARBORS INC (0000822818) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "902e1918103af0ff6bf4f99a2151e29063dedf8b4862a20ac0b8e577653ae836": {
+    "first_alert_at": "2026-10-05T21:19:13.906746+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Fathom Holdings Inc. (0001753162) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "fcd5c02a829ee3df30e8767182bef05470baa4e5a62b7685fd361c44086014d4": {
+    "first_alert_at": "2026-10-05T21:19:14.624073+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Tessera Defense & Homeland Security Inc. (0001739174) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "530d09fe4d169375c9d4698d3a4496f6c7b38640604ee512bd5af7a8aa56c14d": {
+    "first_alert_at": "2026-10-05T21:19:15.327647+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NRX Pharmaceuticals, Inc. (0001719406) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a910aeef6095089223fafd250ac20d75f186c84c91c9f10340ca65eba86af21c": {
+    "first_alert_at": "2026-10-05T21:19:16.101718+00:00",
+    "symbol": "FILER",
+    "title": "8-K - NON INVASIVE MONITORING SYSTEMS INC /FL/ (0000720762) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "88babae471600d35f162fc8ba4a2b1affc05a1c84a2563274ffd4cf4ad405ded": {
+    "first_alert_at": "2026-10-05T21:19:16.859910+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Vylor Inc. (0002128626) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "86b3050dd38c89e65023207efcd2292af5579492e703a6a25ba40b0842a6f245": {
+    "first_alert_at": "2026-10-05T21:19:17.607488+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Launch Two Acquisition Corp. (0002023676) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4a30d51c531e3746b24a4a71804bfc5b3f0474a692421d68be11183918313422": {
+    "first_alert_at": "2026-10-05T21:19:18.341608+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SOLESENCE, INC. (0000883107) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d75c8fcfef196f5ea094eb4b6ba00527d908c89b3f101525b4129a599abbf8ab": {
+    "first_alert_at": "2026-10-05T21:19:19.075320+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Trinity Capital Inc. (0001786108) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "68b7d9800c54dfb81d626ac6d1c5ad8b22de26d20282ba9b6cdb6dac681303ac": {
+    "first_alert_at": "2026-10-05T21:19:19.730643+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Grayscale Avalanche Staking ETF (0002035053) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b498bf1fe778ad202141fb83a2fe2b2d7d9c5108dac19895c3d566fb0daf4f7c": {
+    "first_alert_at": "2026-10-05T21:19:20.524409+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Grayscale Sui Staking ETF (0002034012) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
