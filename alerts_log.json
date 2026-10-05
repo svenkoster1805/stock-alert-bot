@@ -17008,5 +17008,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-10-05T13:54:36.630336+00:00",
+    "symbol": "FILER",
+    "company": "DUOS TECHNOLOGIES GROUP, INC. (0001396536) (Filer)",
+    "event_key": "7fa716558a5dd225e5a6587bd6a4c77da125e606be801aaf58aa00413a84c2a2",
+    "event_family": "M_AND_A",
+    "title": "8-K - DUOS TECHNOLOGIES GROUP, INC. (0001396536) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1396536/000107997326001318/0001079973-26-001318-index.htm",
+    "news_age_minutes": 28,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "DUOS TECHNOLOGIES GROUP, INC. heeft een 8-K-formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en de voltooiing van een acquisitie of desinvestering van activa wordt gemeld.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden, wat potentieel relevant is voor beleggers.",
+      "risk_nl": "De specifieke financiële voorwaarden, de aard van de activa en de impact op de winstgevendheid zijn nog onbekend, wat de economische waarde van de transactie onduidelijk maakt.",
+      "invalidation_nl": "Zonder de contractwaarde en gedetailleerde voorwaarden is een concrete economische beoordeling van deze transactie niet mogelijk.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van het volledige 8-K-document is noodzakelijk om de economische impact te kunnen bepalen."
+    }
   }
 ]
