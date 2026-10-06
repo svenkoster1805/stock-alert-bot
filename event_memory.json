@@ -4306,5 +4306,11 @@
     "symbol": "FILER",
     "title": "8-K - POWERCOMPUTE, INC. (0001640384) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "85aeae795fc50dcac6017b2270f5c39db84b2cf9ff3c81411238e9416a169909": {
+    "first_alert_at": "2026-10-06T18:48:19.737253+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CONDUENT Inc (0001677703) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

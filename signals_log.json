@@ -10942,5 +10942,21 @@
       "is_already_priced": false,
       "notes": "Nadere details over de beëindigde overeenkomst zijn essentieel voor een volledige beoordeling."
     }
+  },
+  {
+    "time": "2026-10-06T18:48:30.328132+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CONDUENT Inc (0001677703) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CONDUENT Inc heeft een 8-K-formulier ingediend bij de SEC, waarin de voltooiing van een acquisitie of desinvestering van activa en het aangaan van een materiële definitieve overeenkomst worden gemeld.",
+      "why_nl": "Een voltooide acquisitie of desinvestering kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden. De aard van de overeenkomst duidt op een materiële transactie.",
+      "risk_nl": "De specifieke activa, de transactiewaarde en de impact op de financiële resultaten van CONDUENT Inc zijn nog onbekend. Zonder deze details is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "Er is geen contractwaarde of gedetailleerde voorwaarden van de acquisitie/desinvestering beschikbaar in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt de voltooiing van de transactie, maar de economische impact is onduidelijk zonder verdere details uit het document."
+    }
   }
 ]
