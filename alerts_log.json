@@ -17338,5 +17338,80 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-10-06T12:57:07.073023+00:00",
+    "symbol": "FILER",
+    "company": "Blue Bird Corp (0001589526) (Filer)",
+    "event_key": "4ba4d6c8893075615c1d9e9a228b0686448b472e8d5df24ec7a4ba4c5f9973aa",
+    "event_family": "M_AND_A",
+    "title": "8-K - Blue Bird Corp (0001589526) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1589526/000158952626000053/0001589526-26-000053-index.htm",
+    "news_age_minutes": 17,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Blue Bird Corp heeft een 8-K-rapport ingediend bij de SEC, waarin de aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting worden gemeld. Dit document is op 6 oktober 2026 gepubliceerd.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst en een financiële verplichting kan de financiële positie en strategische richting van Blue Bird Corp significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of toekomstige inkomstenstromen.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de contractwaarde en de impact op de balans, zijn nog onbekend. Zonder deze details is de precieze economische impact onduidelijk.",
+      "invalidation_nl": "De concrete details van de materiële definitieve overeenkomst, zoals de tegenpartij en de financiële voorwaarden, zijn niet beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke ontwikkeling, maar de inhoudelijke details ontbreken om een volledige analyse te maken."
+    }
+  },
+  {
+    "time": "2026-10-06T12:57:23.256909+00:00",
+    "symbol": "FILER",
+    "company": "TPG RE Finance Trust, Inc. (0001630472) (Filer)",
+    "event_key": "245d4a380b03b8dc333d65624d8e35355c41930cffa9844fb2b497204260dca8",
+    "event_family": "M_AND_A",
+    "title": "8-K - TPG RE Finance Trust, Inc. (0001630472) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1630472/000119312526414993/0001193125-26-414993-index.htm",
+    "news_age_minutes": 22,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "TPG RE Finance Trust, Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting. Dit document is op 6 oktober 2026 gepubliceerd.",
+      "why_nl": "De aard en de financiële impact van de materiële overeenkomst en de financiële verplichting zijn niet gespecificeerd in de verstrekte gegevens. Zonder deze details is de economische relevantie onduidelijk.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete informatie over de inhoud van de overeenkomst. Hierdoor is het onmogelijk om de potentiële impact op het bedrijf te beoordelen.",
+      "invalidation_nl": "De verstrekte informatie bevat geen economische details over de aard, waarde of voorwaarden van de materiële overeenkomst of financiële verplichting, waardoor een beoordeling als M&A of een andere specifieke transactie onmogelijk is.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is te algemeen om als een concreet M&A-evenement te kwalificeren of om een handelsbeslissing te onderbouwen."
+    }
+  },
+  {
+    "time": "2026-10-06T12:57:38.104353+00:00",
+    "symbol": "FILER",
+    "company": "POWERCOMPUTE, INC. (0001640384) (Filer)",
+    "event_key": "e5459fc529dbee2abe5aa1280358da0224ab8d0577b1d1b689dce0616f4cf81f",
+    "event_family": "M_AND_A",
+    "title": "8-K - POWERCOMPUTE, INC. (0001640384) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1640384/000119312526414991/0001193125-26-414991-index.htm",
+    "news_age_minutes": 26,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "POWERCOMPUTE, INC. heeft een 8-K filing ingediend waarin de beëindiging van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "De beëindiging van een materiële overeenkomst kan aanzienlijke financiële en strategische gevolgen hebben voor het bedrijf. Dit kan leiden tot herziene toekomstplannen of financiële verplichtingen.",
+      "risk_nl": "De specifieke aard en waarde van de beëindigde overeenkomst zijn onbekend, wat de impact onduidelijk maakt. Mogelijke boetes of gemiste kansen kunnen de financiële positie van het bedrijf beïnvloeden.",
+      "invalidation_nl": "Er is geen informatie over de specifieke voorwaarden, de waarde van de overeenkomst of de redenen voor de beëindiging.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de beëindigde overeenkomst zijn essentieel voor een volledige beoordeling."
+    }
   }
 ]

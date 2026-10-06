@@ -4288,5 +4288,23 @@
     "symbol": "FILER",
     "title": "8-K - Grayscale Sui Staking ETF (0002034012) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "4ba4d6c8893075615c1d9e9a228b0686448b472e8d5df24ec7a4ba4c5f9973aa": {
+    "first_alert_at": "2026-10-06T12:56:58.455274+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Blue Bird Corp (0001589526) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "245d4a380b03b8dc333d65624d8e35355c41930cffa9844fb2b497204260dca8": {
+    "first_alert_at": "2026-10-06T12:57:07.667975+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TPG RE Finance Trust, Inc. (0001630472) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e5459fc529dbee2abe5aa1280358da0224ab8d0577b1d1b689dce0616f4cf81f": {
+    "first_alert_at": "2026-10-06T12:57:23.866613+00:00",
+    "symbol": "FILER",
+    "title": "8-K - POWERCOMPUTE, INC. (0001640384) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
