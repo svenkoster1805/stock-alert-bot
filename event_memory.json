@@ -4312,5 +4312,23 @@
     "symbol": "FILER",
     "title": "8-K - CONDUENT Inc (0001677703) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "591ed2aefcd4ab67bc0960ba52cce3cafcced1767f328ab68601ed01a75d3b0b": {
+    "first_alert_at": "2026-10-07T12:50:54.805203+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Launch Two Acquisition Corp. (0002023676) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "5308a7760ee63861b18dab7e7cacf299c5b89dc235611b76dc3db5d04d04b520": {
+    "first_alert_at": "2026-10-07T12:51:05.626269+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CERO THERAPEUTICS HOLDINGS, INC. (0001870404) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "92d9df6597436f45c090857d16197dffc881301dac8c15cfeb1af54541340b45": {
+    "first_alert_at": "2026-10-07T12:51:17.797154+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Charlton Aria Acquisition Corp (0002024459) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
