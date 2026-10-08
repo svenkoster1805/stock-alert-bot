@@ -4330,5 +4330,17 @@
     "symbol": "FILER",
     "title": "8-K - Charlton Aria Acquisition Corp (0002024459) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "a0435ce399f04dd017efe75e5104e407e77341ed2851a3ade7df6bca9e6164d0": {
+    "first_alert_at": "2026-10-08T12:59:39.329493+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Global Arena Holding, Inc. (0001138724) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "3b8791061781090abba525d8a99b94bfb9042475e1564dbc4199b8e05331d89e": {
+    "first_alert_at": "2026-10-08T12:59:50.039394+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Viatris Inc (0001792044) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

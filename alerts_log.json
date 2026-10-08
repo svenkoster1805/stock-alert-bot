@@ -17513,5 +17513,55 @@
       "is_already_priced": false,
       "notes": "Verdere analyse van het volledige 8-K-document is noodzakelijk om de volledige implicaties van deze overeenkomst te beoordelen."
     }
+  },
+  {
+    "time": "2026-10-08T12:59:49.483273+00:00",
+    "symbol": "FILER",
+    "company": "Global Arena Holding, Inc. (0001138724) (Filer)",
+    "event_key": "a0435ce399f04dd017efe75e5104e407e77341ed2851a3ade7df6bca9e6164d0",
+    "event_family": "M_AND_A",
+    "title": "8-K - Global Arena Holding, Inc. (0001138724) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1138724/000149315226046269/0001493152-26-046269-index.htm",
+    "news_age_minutes": 18,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Global Arena Holding, Inc. heeft op 8 oktober 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij SEC. Dit document bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een strategische verandering of acquisitie die de toekomstige financiële positie van het bedrijf beïnvloedt. Dit kan leiden tot nieuwe inkomstenstromen, kostenbesparingen of een herstructurering van de activa.",
+      "risk_nl": "De specifieke voorwaarden en financiële impact van de overeenkomst zijn nog onbekend, wat het risico op ongunstige uitkomsten vergroot. Zonder details over de contractwaarde of de aard van de transactie is de potentiële waardecreatie onduidelijk.",
+      "invalidation_nl": "De concrete financiële details en voorwaarden van de materiële definitieve overeenkomst zijn niet beschikbaar in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van de 8-K filing is nodig om de volledige impact van de overeenkomst te bepalen."
+    }
+  },
+  {
+    "time": "2026-10-08T12:59:58.535232+00:00",
+    "symbol": "FILER",
+    "company": "Viatris Inc (0001792044) (Filer)",
+    "event_key": "3b8791061781090abba525d8a99b94bfb9042475e1564dbc4199b8e05331d89e",
+    "event_family": "M_AND_A",
+    "title": "8-K - Viatris Inc (0001792044) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1792044/000114036126039024/0001140361-26-039024-index.htm",
+    "news_age_minutes": 21,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Viatris Inc. heeft een 8-K formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke transactie die de financiële positie of strategische richting van Viatris beïnvloedt. Dit kan leiden tot veranderingen in activa, passiva of toekomstige inkomstenstromen.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op Viatris niet kan worden beoordeeld. Zonder details over de tegenpartij of de transactiewaarde is de economische relevantie onduidelijk.",
+      "invalidation_nl": "De essentiële details van de materiële definitieve overeenkomst, zoals de inhoud, de tegenpartij en de financiële voorwaarden, ontbreken volledig in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een definitieve overeenkomst, maar de inhoud en financiële impact zijn nog niet bekend."
+    }
   }
 ]
