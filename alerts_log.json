@@ -17563,5 +17563,55 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een definitieve overeenkomst, maar de inhoud en financiële impact zijn nog niet bekend."
     }
+  },
+  {
+    "time": "2026-10-08T19:13:50.315135+00:00",
+    "symbol": "FILER",
+    "company": "GM Financial Consumer Automobile Receivables Trust 2026-4 (0002147611) (Filer)",
+    "event_key": "945fe141f66c490d6e073a6efe452f374a8f22d635a54681476e397216b2b87c",
+    "event_family": "M_AND_A",
+    "title": "8-K - GM Financial Consumer Automobile Receivables Trust 2026-4 (0002147611) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2147611/000119312526417854/0001193125-26-417854-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "GM Financial Consumer Automobile Receivables Trust 2026-4 heeft een 8-K formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Dit document is op 8 oktober 2026 gepubliceerd.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan de financiële positie of operationele structuur van de trust beïnvloeden. Dit kan gevolgen hebben voor de onderliggende activa of de uitstaande effecten.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn momenteel onbekend. Zonder deze details is een accurate beoordeling van de gevolgen niet mogelijk.",
+      "invalidation_nl": "Er zijn geen details over de contractwaarde, de betrokken partijen of de specifieke voorwaarden van de materiële overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke gebeurtenis, maar de inhoudelijke details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-10-08T19:14:00.924147+00:00",
+    "symbol": "FILER",
+    "company": "AFS SENSUB CORP. (0001347185) (Filer)",
+    "event_key": "72300d0e07644afd1beefdd3a328739e358ec8632230952d41419d72984e60f3",
+    "event_family": "M_AND_A",
+    "title": "8-K - AFS SENSUB CORP. (0001347185) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1347185/000119312526417854/0001193125-26-417854-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AFS SENSUB CORP. heeft een 8-K ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Dit document is op 8 oktober 2026 gepubliceerd.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie die de financiële positie van het bedrijf beïnvloedt. Dit kan leiden tot toekomstige waardeverandering.",
+      "risk_nl": "De aard en de financiële voorwaarden van de materiële definitieve overeenkomst zijn onbekend. Zonder deze details is de impact op het bedrijf onduidelijk.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud, waarde of partijen van de materiële definitieve overeenkomst beschikbaar om een handelsbeslissing te onderbouwen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke ontwikkeling, maar specifieke informatie ontbreekt nog."
+    }
   }
 ]

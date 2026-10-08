@@ -4342,5 +4342,17 @@
     "symbol": "FILER",
     "title": "8-K - Viatris Inc (0001792044) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "945fe141f66c490d6e073a6efe452f374a8f22d635a54681476e397216b2b87c": {
+    "first_alert_at": "2026-10-08T19:13:40.426628+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GM Financial Consumer Automobile Receivables Trust 2026-4 (0002147611) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "72300d0e07644afd1beefdd3a328739e358ec8632230952d41419d72984e60f3": {
+    "first_alert_at": "2026-10-08T19:13:50.663615+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AFS SENSUB CORP. (0001347185) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

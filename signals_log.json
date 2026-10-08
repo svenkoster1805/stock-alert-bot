@@ -11038,5 +11038,37 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een definitieve overeenkomst, maar de inhoud en financiële impact zijn nog niet bekend."
     }
+  },
+  {
+    "time": "2026-10-08T19:13:49.975658+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GM Financial Consumer Automobile Receivables Trust 2026-4 (0002147611) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "GM Financial Consumer Automobile Receivables Trust 2026-4 heeft een 8-K formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Dit document is op 8 oktober 2026 gepubliceerd.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan de financiële positie of operationele structuur van de trust beïnvloeden. Dit kan gevolgen hebben voor de onderliggende activa of de uitstaande effecten.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn momenteel onbekend. Zonder deze details is een accurate beoordeling van de gevolgen niet mogelijk.",
+      "invalidation_nl": "Er zijn geen details over de contractwaarde, de betrokken partijen of de specifieke voorwaarden van de materiële overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke gebeurtenis, maar de inhoudelijke details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-10-08T19:14:00.593936+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AFS SENSUB CORP. (0001347185) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "AFS SENSUB CORP. heeft een 8-K ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Dit document is op 8 oktober 2026 gepubliceerd.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie die de financiële positie van het bedrijf beïnvloedt. Dit kan leiden tot toekomstige waardeverandering.",
+      "risk_nl": "De aard en de financiële voorwaarden van de materiële definitieve overeenkomst zijn onbekend. Zonder deze details is de impact op het bedrijf onduidelijk.",
+      "invalidation_nl": "Er zijn geen concrete details over de inhoud, waarde of partijen van de materiële definitieve overeenkomst beschikbaar om een handelsbeslissing te onderbouwen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een belangrijke ontwikkeling, maar specifieke informatie ontbreekt nog."
+    }
   }
 ]
