@@ -4354,5 +4354,23 @@
     "symbol": "FILER",
     "title": "8-K - AFS SENSUB CORP. (0001347185) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "ec89be8ada15e3524597a064faef0182bc90d707ea914d94bc89355f77e1f9f2": {
+    "first_alert_at": "2026-10-09T12:45:59.098464+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TruGolf Holdings, Inc. (0001857086) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2b2b553f707ccd45901742ffffea350a6b5ced84102c6e96ec4e08b76e36b75e": {
+    "first_alert_at": "2026-10-09T12:46:15.841533+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ALTRIA GROUP, INC. (0000764180) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "60e66e0db8c85eda2d1eea2f3f3ba5bf3b7a930bfb36652ffa0668f9661b2476": {
+    "first_alert_at": "2026-10-09T12:46:28.232826+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ATOSSA THERAPEUTICS, INC. (0001488039) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

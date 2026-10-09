@@ -11070,5 +11070,53 @@
       "is_already_priced": false,
       "notes": "De 8-K melding duidt op een belangrijke ontwikkeling, maar specifieke informatie ontbreekt nog."
     }
+  },
+  {
+    "time": "2026-10-09T12:46:14.977864+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TruGolf Holdings, Inc. (0001857086) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "TruGolf Holdings, Inc. heeft een 8-K ingediend bij de SEC, waarin de voltooiing van een acquisitie of desinvestering van activa en de totstandkoming van een materiële definitieve overeenkomst worden gemeld.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden, wat economisch relevant is.",
+      "risk_nl": "De specifieke details van de acquisitie/desinvestering en de materiële overeenkomst, zoals de tegenpartij, waarde en voorwaarden, zijn niet bekend.",
+      "invalidation_nl": "De verstrekte gegevens bevatten geen essentiële economische details zoals de contractwaarde of de betrokken partijen, waardoor een beoordeling van de impact onmogelijk is.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële gebeurtenis, maar de inhoudelijke details zijn niet beschikbaar in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-10-09T12:46:27.343706+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ALTRIA GROUP, INC. (0000764180) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WATCH",
+      "confidence": 1,
+      "summary_nl": "Altria Group, Inc. heeft een 8-K-formulier ingediend waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie die de toekomstige financiële prestaties van het bedrijf kan beïnvloeden.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn onbekend, wat het risico op onverwachte gevolgen vergroot.",
+      "invalidation_nl": "Er zijn geen details over de tegenpartij, de aard van de transactie of de financiële impact beschikbaar.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de overeenkomst zijn nodig voor een volledige beoordeling."
+    }
+  },
+  {
+    "time": "2026-10-09T12:46:37.318469+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ATOSSA THERAPEUTICS, INC. (0001488039) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "ATOSSA THERAPEUTICS, INC. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en materiële wijzigingen in de rechten van effectenhouders.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een fusie, overname of andere strategische transactie. Dit kan de toekomstige waardering en operationele richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn niet gespecificeerd in de verstrekte gegevens. Zonder deze details is de impact op de aandeelhouderswaarde onzeker.",
+      "invalidation_nl": "De financiële details, zoals de contractwaarde of de exacte aard van de transactie, zijn niet bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing duidt op een significante gebeurtenis, maar de details ontbreken nog."
+    }
   }
 ]
