@@ -4378,5 +4378,23 @@
     "symbol": "FILER",
     "title": "8-K - CITIZENS, INC. (0000024090) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "df94720c131623b81c2068742fb66d7c38023737c04cfa09fc774e917c4328b9": {
+    "first_alert_at": "2026-10-13T13:45:58.633192+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cavitation Technologies, Inc. (0001376793) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "510430f94a36e63579de5a6703812d14f02cd7c6bd0279700e0fcfc631fd2b7e": {
+    "first_alert_at": "2026-10-13T13:46:08.456634+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Alaunos Therapeutics, Inc. (0001107421) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d6740b5fe228122473c23187ebd3e11c92342585c240ab3dc3aca5f85fe050a9": {
+    "first_alert_at": "2026-10-13T13:46:27.667618+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SSR MINING INC. (0000921638) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

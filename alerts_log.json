@@ -17713,5 +17713,80 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt een overeenkomst, maar de inhoud is cruciaal voor verdere analyse."
     }
+  },
+  {
+    "time": "2026-10-13T13:46:07.906530+00:00",
+    "symbol": "FILER",
+    "company": "Cavitation Technologies, Inc. (0001376793) (Filer)",
+    "event_key": "df94720c131623b81c2068742fb66d7c38023737c04cfa09fc774e917c4328b9",
+    "event_family": "M_AND_A",
+    "title": "8-K - Cavitation Technologies, Inc. (0001376793) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1376793/000168316826007778/0001683168-26-007778-index.htm",
+    "news_age_minutes": 3,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Cavitation Technologies, Inc. heeft een 8-K ingediend bij de SEC, waarin zowel het aangaan als het beëindigen van materiële definitieve overeenkomsten wordt gemeld.",
+      "why_nl": "Het aangaan van een materiële overeenkomst kan duiden op strategische veranderingen, terwijl de beëindiging ook belangrijke financiële gevolgen kan hebben.",
+      "risk_nl": "De specifieke aard, partijen en financiële voorwaarden van de genoemde overeenkomsten zijn onbekend.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard, partijen, of financiële waarde van de M&A-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding is recent en bevat tegenstrijdige informatie over het aangaan en beëindigen van materiële overeenkomsten, zonder verdere details over de M&A."
+    }
+  },
+  {
+    "time": "2026-10-13T13:46:27.112508+00:00",
+    "symbol": "FILER",
+    "company": "Alaunos Therapeutics, Inc. (0001107421) (Filer)",
+    "event_key": "510430f94a36e63579de5a6703812d14f02cd7c6bd0279700e0fcfc631fd2b7e",
+    "event_family": "M_AND_A",
+    "title": "8-K - Alaunos Therapeutics, Inc. (0001107421) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1107421/000119312526419829/0001193125-26-419829-index.htm",
+    "news_age_minutes": 17,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Alaunos Therapeutics, Inc. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst en de voltooiing van een acquisitie of desinvestering van activa worden gemeld.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst en de voltooiing van een transactie duidt op significante strategische veranderingen voor het bedrijf. Dit kan de toekomstige financiële prestaties en marktpositie van Alaunos Therapeutics beïnvloeden.",
+      "risk_nl": "De specifieke financiële voorwaarden, de aard van de activa en de identiteit van de tegenpartij zijn niet bekend. Zonder deze details is de economische impact en de potentiële waardecreatie of -vernietiging onduidelijk.",
+      "invalidation_nl": "De essentiële financiële details en voorwaarden van de transactie ontbreken, waardoor een economische beoordeling onmogelijk is.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële overeenkomst en de acquisitie/desinvestering zijn nodig voor een concrete analyse."
+    }
+  },
+  {
+    "time": "2026-10-13T13:46:35.949334+00:00",
+    "symbol": "FILER",
+    "company": "SSR MINING INC. (0000921638) (Filer)",
+    "event_key": "d6740b5fe228122473c23187ebd3e11c92342585c240ab3dc3aca5f85fe050a9",
+    "event_family": "M_AND_A",
+    "title": "8-K - SSR MINING INC. (0000921638) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/921638/000110465926115311/0001104659-26-115311-index.htm",
+    "news_age_minutes": 19,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "SSR Mining Inc. heeft een 8-K formulier ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Dit document is op 13 oktober 2026 gepubliceerd.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie. Dit kan de toekomstige waardering en operationele prestaties van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op het bedrijf onduidelijk is. Zonder deze details is het risico op een ongunstige uitkomst niet te beoordelen.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de betrokken partijen of de exacte voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de overeenkomst zijn essentieel voor een economische beoordeling."
+    }
   }
 ]
