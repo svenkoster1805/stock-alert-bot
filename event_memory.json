@@ -4408,5 +4408,11 @@
     "symbol": "FILER",
     "title": "8-K - Eton Pharmaceuticals, Inc. (0001710340) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "aafac5a0dcf6a62eef062e7726355e409e67a68d9b19b10188ec90f0ac81aa6e": {
+    "first_alert_at": "2026-10-14T15:52:21.733372+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Alpha Star Acquisition Corp (0001865111) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

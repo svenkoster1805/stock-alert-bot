@@ -11214,5 +11214,21 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt de gebeurtenis, maar de samenvatting bevat geen financiële details."
     }
+  },
+  {
+    "time": "2026-10-14T15:52:22.723218+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Alpha Star Acquisition Corp (0001865111) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]

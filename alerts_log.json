@@ -17838,5 +17838,30 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt de gebeurtenis, maar de samenvatting bevat geen financiële details."
     }
+  },
+  {
+    "time": "2026-10-14T15:52:23.131429+00:00",
+    "symbol": "FILER",
+    "company": "Alpha Star Acquisition Corp (0001865111) (Filer)",
+    "event_key": "aafac5a0dcf6a62eef062e7726355e409e67a68d9b19b10188ec90f0ac81aa6e",
+    "event_family": "M_AND_A",
+    "title": "8-K - Alpha Star Acquisition Corp (0001865111) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1865111/000149315226046953/0001493152-26-046953-index.htm",
+    "news_age_minutes": 20,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]
