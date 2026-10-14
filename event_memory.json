@@ -4396,5 +4396,17 @@
     "symbol": "FILER",
     "title": "8-K - SSR MINING INC. (0000921638) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "0cbe8944c0e553a182aa6f1033d6bb6bd134472da0812750769a6e7df7bcbc9b": {
+    "first_alert_at": "2026-10-14T11:23:26.355542+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Aquestive Therapeutics, Inc. (0001398733) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "9a9447575a0914e4252c97c81a88d973c1dd9c6e7a712efd46bf94f1f345e6f2": {
+    "first_alert_at": "2026-10-14T11:23:34.999386+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Eton Pharmaceuticals, Inc. (0001710340) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

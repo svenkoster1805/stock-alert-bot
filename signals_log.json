@@ -11182,5 +11182,37 @@
       "is_already_priced": false,
       "notes": "Verdere details over de overeenkomst zijn essentieel voor een economische beoordeling."
     }
+  },
+  {
+    "time": "2026-10-14T11:23:33.753619+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Aquestive Therapeutics, Inc. (0001398733) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Aquestive Therapeutics, Inc. heeft een materiële definitieve overeenkomst gesloten. Dit is gemeld in een 8-K filing bij SEC.gov op 14 oktober 2026.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, die de financiële positie van het bedrijf kan beïnvloeden. Dit kan leiden tot veranderingen in de waardering van het aandeel.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst, inclusief de contractwaarde en de betrokken partijen, zijn onbekend. Zonder deze details is de economische impact niet te beoordelen.",
+      "invalidation_nl": "De essentiële details van de M&A-transactie, zoals de betrokken partijen en de financiële voorwaarden, ontbreken volledig in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt het bestaan van een materiële overeenkomst, maar de inhoud ervan is niet gespecificeerd."
+    }
+  },
+  {
+    "time": "2026-10-14T11:23:56.747954+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Eton Pharmaceuticals, Inc. (0001710340) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Eton Pharmaceuticals, Inc. heeft een definitieve overeenkomst gesloten en de acquisitie of verkoop van activa voltooid, zoals gemeld in een 8-K filing bij SEC.gov.",
+      "why_nl": "Een voltooide fusie- en overnametransactie kan een significante impact hebben op de financiële positie en toekomstige strategie van het bedrijf. Dit kan leiden tot veranderingen in activa, passiva en inkomstenstromen.",
+      "risk_nl": "De specifieke financiële voorwaarden, de aard van de activa en de tegenpartij van de transactie zijn niet gespecificeerd in de samenvatting. Zonder deze details is de economische impact onbekend.",
+      "invalidation_nl": "De verstrekte informatie bevat geen contractwaarde of gedetailleerde voorwaarden van de transactie om de economische impact te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt de gebeurtenis, maar de samenvatting bevat geen financiële details."
+    }
   }
 ]
