@@ -11230,5 +11230,21 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-10-15T11:00:48.604923+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PENSKE AUTOMOTIVE GROUP, INC. (0001019849) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]

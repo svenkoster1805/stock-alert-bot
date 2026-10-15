@@ -17863,5 +17863,30 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-10-15T11:00:49.154386+00:00",
+    "symbol": "FILER",
+    "company": "PENSKE AUTOMOTIVE GROUP, INC. (0001019849) (Filer)",
+    "event_key": "43efadbad89153b96d964a86dfb699f0192ef52acb34c7397a7c383c4f49283d",
+    "event_family": "M_AND_A",
+    "title": "8-K - PENSKE AUTOMOTIVE GROUP, INC. (0001019849) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1019849/000114036126039664/0001140361-26-039664-index.htm",
+    "news_age_minutes": 0,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
   }
 ]
