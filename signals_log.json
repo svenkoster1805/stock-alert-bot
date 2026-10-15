@@ -11246,5 +11246,67 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-10-15T19:21:31.915414+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Toyota Auto Receivables 2026-D Owner Trust (0002099542) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Toyota Auto Receivables 2026-D Owner Trust heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst.",
+      "why_nl": "De aard van deze overeenkomst is niet gespecificeerd, waardoor de economische impact onduidelijk blijft.",
+      "risk_nl": "Zonder details over de inhoud van de overeenkomst kan de relevantie voor beleggers niet worden beoordeeld.",
+      "invalidation_nl": "De entiteit is een trust voor auto-ontvangsten, wat een traditionele M&A-transactie onwaarschijnlijk maakt en de aard van de overeenkomst onbekend is.",
+      "is_already_priced": false,
+      "notes": "De classificatie als M&A is misleidend voor een asset-backed securities trust."
+    }
+  },
+  {
+    "time": "2026-10-15T19:21:39.688231+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TOYOTA AUTO FINANCE RECEIVABLES LLC (0001131131) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "TOYOTA AUTO FINANCE RECEIVABLES LLC heeft een 8-K-formulier ingediend over het aangaan van een materiële definitieve overeenkomst en financiële overzichten.",
+      "why_nl": "Zonder specifieke details over de aard van de overeenkomst, zoals een overname of fusie, is de economische relevantie onduidelijk.",
+      "risk_nl": "Het grootste risico is het ontbreken van concrete informatie over de inhoud van de overeenkomst, waardoor de impact op het bedrijf onbekend blijft.",
+      "invalidation_nl": "De verstrekte informatie bevat geen details die de M&A-gebeurtenis bevestigen of economisch relevant maken.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is te algemeen om als M&A-gebeurtenis te beoordelen."
+    }
+  },
+  {
+    "time": "2026-10-15T19:21:50.397542+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Silver Point Private Credit Fund (0002033382) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Silver Point Private Credit Fund heeft een 8-K-formulier ingediend bij de SEC, waarin de aanvang en beëindiging van materiële definitieve overeenkomsten worden gemeld.",
+      "why_nl": "De aard van de overeenkomsten is niet gespecificeerd, waardoor de economische relevantie voor een mogelijke M&A onduidelijk blijft.",
+      "risk_nl": "Zonder details over de inhoud van de overeenkomsten is het onmogelijk om de impact op het bedrijf of de aandeelhouders te beoordelen.",
+      "invalidation_nl": "De verstrekte informatie bevat geen concrete details over een fusie of overname.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding specificeert geen M&A-transactie."
+    }
+  },
+  {
+    "time": "2026-10-15T19:21:51.314101+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Silver Point Specialty Lending Fund (0001646614) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

@@ -4420,5 +4420,29 @@
     "symbol": "FILER",
     "title": "8-K - PENSKE AUTOMOTIVE GROUP, INC. (0001019849) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "989bbc01d76a094b93c2564d098bb9fcd40a63bec534a7e1d815b6d9e57a5f91": {
+    "first_alert_at": "2026-10-15T19:21:22.463080+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Toyota Auto Receivables 2026-D Owner Trust (0002099542) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "99984860e1886910c99d8a56c9d4ab9e64988b68c8dd31b61f54d69ea05792ad": {
+    "first_alert_at": "2026-10-15T19:21:32.747479+00:00",
+    "symbol": "FILER",
+    "title": "8-K - TOYOTA AUTO FINANCE RECEIVABLES LLC (0001131131) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ec37170a751fc76d54d84cda353f30407772a6ee6bef46c0d3c2251200f0b1e3": {
+    "first_alert_at": "2026-10-15T19:21:40.634810+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Silver Point Private Credit Fund (0002033382) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2c57f79d316d9ca873b2c5ec0febfc10dfa80b2b0b6f128e9ac7ef1d9d301621": {
+    "first_alert_at": "2026-10-15T19:21:51.314076+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Silver Point Specialty Lending Fund (0001646614) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
