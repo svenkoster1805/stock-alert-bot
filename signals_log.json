@@ -11324,5 +11324,81 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een materiële overeenkomst en financiële verplichting, maar de details ontbreken om de impact te beoordelen."
     }
+  },
+  {
+    "time": "2026-10-16T21:46:58.006737+00:00",
+    "symbol": "FILER",
+    "title": "8-K - LQR House Inc. (0001843165) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "LQR House Inc. heeft een 8-K ingediend waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld, geclassificeerd als een M&A-gebeurtenis. Het document vermeldt ook wijzigingen in directie en compensatie.",
+      "why_nl": "Een definitieve M&A-overeenkomst kan de bedrijfsstructuur en financiële vooruitzichten van LQR House Inc. significant beïnvloeden. Dit kan leiden tot waardeverandering voor aandeelhouders.",
+      "risk_nl": "De specifieke financiële voorwaarden, de omvang van de transactie en de identiteit van de tegenpartij zijn niet bekend. Dit gebrek aan details maakt een accurate beoordeling van de economische impact onmogelijk.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de exacte voorwaarden van de M&A-overeenkomst of de betrokken partijen.",
+      "is_already_priced": false,
+      "notes": "De 8-K meldt een materiële definitieve overeenkomst, die door het systeem als M&A is gecategoriseerd."
+    }
+  },
+  {
+    "time": "2026-10-16T21:47:07.933857+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CONDUENT Inc (0001677703) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CONDUENT Inc heeft op 16 oktober 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en bevat financiële overzichten en bijlagen.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap voor het bedrijf. Dit kan de toekomstige inkomsten, kosten of activa van CONDUENT Inc aanzienlijk beïnvloeden.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de materiële overeenkomst zijn niet bekendgemaakt in de samenvatting. Zonder deze details is de economische impact op CONDUENT Inc onduidelijk en speculatief.",
+      "invalidation_nl": "Er is geen informatie over de inhoud, partijen of financiële voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de details ontbreken voor een concrete beoordeling."
+    }
+  },
+  {
+    "time": "2026-10-16T21:47:20.483657+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cipher Digital Inc. (0001819989) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Cipher Digital Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst en de verkoop van aandelen. Dit omvat ook het creëren van een directe financiële verplichting.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst en de verkoop van aandelen kan duiden op een belangrijke strategische transactie, zoals een overname of een grote financieringsronde. Dit kan de toekomstige financiële positie en groeivooruitzichten van het bedrijf aanzienlijk beïnvloeden.",
+      "risk_nl": "De specifieke aard, omvang en voorwaarden van de materiële overeenkomst en de aandelenverkoop zijn onbekend. Zonder deze details is de impact op de waardering van Cipher Digital Inc. onduidelijk.",
+      "invalidation_nl": "Er is geen informatie over de tegenpartij, de contractwaarde of de exacte voorwaarden van de overeenkomst beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is zeer recent en afkomstig van een betrouwbare bron, maar de inhoudelijke details ontbreken."
+    }
+  },
+  {
+    "time": "2026-10-16T21:47:21.187205+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Enova International, Inc. (0001529864) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-10-16T21:47:21.888787+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SentinelOne, Inc. (0001583708) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

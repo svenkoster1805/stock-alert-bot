@@ -4450,5 +4450,35 @@
     "symbol": "FILER",
     "title": "8-K - Stepstone Private Credit Fund LLC (0001950803) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "e98561deac135c77864111e9e3c6a29cfa8259472a82e027176cea37793e6bff": {
+    "first_alert_at": "2026-10-16T21:46:44.223459+00:00",
+    "symbol": "FILER",
+    "title": "8-K - LQR House Inc. (0001843165) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b72e739b907cc29acbd2dcba1ecdd2284ac01dfc18b89da20aa77ab41a6a3777": {
+    "first_alert_at": "2026-10-16T21:46:58.758654+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CONDUENT Inc (0001677703) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "79ddd44488f3f577cf7405281621cfebfac90be738a200aa720032b8d0d3598c": {
+    "first_alert_at": "2026-10-16T21:47:08.609544+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cipher Digital Inc. (0001819989) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "b40c5e42974d957a4f0796c254e58df293a1fe4e418cb71bb43744f743a7b50d": {
+    "first_alert_at": "2026-10-16T21:47:21.187181+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Enova International, Inc. (0001529864) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "254c8c0c390baada016de82c3b67bb27a77301f6243e25baa77d63ab150e7406": {
+    "first_alert_at": "2026-10-16T21:47:21.888764+00:00",
+    "symbol": "FILER",
+    "title": "8-K - SentinelOne, Inc. (0001583708) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

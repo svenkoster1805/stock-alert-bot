@@ -18011,5 +18011,126 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een materiële overeenkomst en financiële verplichting, maar de details ontbreken om de impact te beoordelen."
     }
+  },
+  {
+    "time": "2026-10-16T21:46:58.418276+00:00",
+    "symbol": "FILER",
+    "company": "LQR House Inc. (0001843165) (Filer)",
+    "event_key": "e98561deac135c77864111e9e3c6a29cfa8259472a82e027176cea37793e6bff",
+    "event_family": "M_AND_A",
+    "title": "8-K - LQR House Inc. (0001843165) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1843165/000121390026110367/0001213900-26-110367-index.htm",
+    "news_age_minutes": 16,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "LQR House Inc. heeft een 8-K ingediend waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld, geclassificeerd als een M&A-gebeurtenis. Het document vermeldt ook wijzigingen in directie en compensatie.",
+      "why_nl": "Een definitieve M&A-overeenkomst kan de bedrijfsstructuur en financiële vooruitzichten van LQR House Inc. significant beïnvloeden. Dit kan leiden tot waardeverandering voor aandeelhouders.",
+      "risk_nl": "De specifieke financiële voorwaarden, de omvang van de transactie en de identiteit van de tegenpartij zijn niet bekend. Dit gebrek aan details maakt een accurate beoordeling van de economische impact onmogelijk.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de exacte voorwaarden van de M&A-overeenkomst of de betrokken partijen.",
+      "is_already_priced": false,
+      "notes": "De 8-K meldt een materiële definitieve overeenkomst, die door het systeem als M&A is gecategoriseerd."
+    }
+  },
+  {
+    "time": "2026-10-16T21:47:08.276975+00:00",
+    "symbol": "FILER",
+    "company": "CONDUENT Inc (0001677703) (Filer)",
+    "event_key": "b72e739b907cc29acbd2dcba1ecdd2284ac01dfc18b89da20aa77ab41a6a3777",
+    "event_family": "M_AND_A",
+    "title": "8-K - CONDUENT Inc (0001677703) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1677703/000167770326000138/0001677703-26-000138-index.htm",
+    "news_age_minutes": 19,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CONDUENT Inc heeft op 16 oktober 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en bevat financiële overzichten en bijlagen.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap voor het bedrijf. Dit kan de toekomstige inkomsten, kosten of activa van CONDUENT Inc aanzienlijk beïnvloeden.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de materiële overeenkomst zijn niet bekendgemaakt in de samenvatting. Zonder deze details is de economische impact op CONDUENT Inc onduidelijk en speculatief.",
+      "invalidation_nl": "Er is geen informatie over de inhoud, partijen of financiële voorwaarden van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de details ontbreken voor een concrete beoordeling."
+    }
+  },
+  {
+    "time": "2026-10-16T21:47:20.839640+00:00",
+    "symbol": "FILER",
+    "company": "Cipher Digital Inc. (0001819989) (Filer)",
+    "event_key": "79ddd44488f3f577cf7405281621cfebfac90be738a200aa720032b8d0d3598c",
+    "event_family": "M_AND_A",
+    "title": "8-K - Cipher Digital Inc. (0001819989) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1819989/000119312526424297/0001193125-26-424297-index.htm",
+    "news_age_minutes": 20,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Cipher Digital Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst en de verkoop van aandelen. Dit omvat ook het creëren van een directe financiële verplichting.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst en de verkoop van aandelen kan duiden op een belangrijke strategische transactie, zoals een overname of een grote financieringsronde. Dit kan de toekomstige financiële positie en groeivooruitzichten van het bedrijf aanzienlijk beïnvloeden.",
+      "risk_nl": "De specifieke aard, omvang en voorwaarden van de materiële overeenkomst en de aandelenverkoop zijn onbekend. Zonder deze details is de impact op de waardering van Cipher Digital Inc. onduidelijk.",
+      "invalidation_nl": "Er is geen informatie over de tegenpartij, de contractwaarde of de exacte voorwaarden van de overeenkomst beschikbaar in de verstrekte gegevens.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is zeer recent en afkomstig van een betrouwbare bron, maar de inhoudelijke details ontbreken."
+    }
+  },
+  {
+    "time": "2026-10-16T21:47:21.537202+00:00",
+    "symbol": "FILER",
+    "company": "Enova International, Inc. (0001529864) (Filer)",
+    "event_key": "b40c5e42974d957a4f0796c254e58df293a1fe4e418cb71bb43744f743a7b50d",
+    "event_family": "M_AND_A",
+    "title": "8-K - Enova International, Inc. (0001529864) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1529864/000119312526424282/0001193125-26-424282-index.htm",
+    "news_age_minutes": 21,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-10-16T21:47:22.265641+00:00",
+    "symbol": "FILER",
+    "company": "SentinelOne, Inc. (0001583708) (Filer)",
+    "event_key": "254c8c0c390baada016de82c3b67bb27a77301f6243e25baa77d63ab150e7406",
+    "event_family": "M_AND_A",
+    "title": "8-K - SentinelOne, Inc. (0001583708) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1583708/000110465926116654/0001104659-26-116654-index.htm",
+    "news_age_minutes": 30,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
