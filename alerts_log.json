@@ -17986,5 +17986,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-10-16T18:49:04.234006+00:00",
+    "symbol": "FILER",
+    "company": "Stepstone Private Credit Fund LLC (0001950803) (Filer)",
+    "event_key": "152306a93c584599b9f3349e9afc7b2714ef6d3e5301fa9a6f8c3fec8929e92a",
+    "event_family": "M_AND_A",
+    "title": "8-K - Stepstone Private Credit Fund LLC (0001950803) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1950803/000119312526423870/0001193125-26-423870-index.htm",
+    "news_age_minutes": 28,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Stepstone Private Credit Fund LLC heeft een materiële definitieve overeenkomst gesloten en een directe financiële verplichting aangegaan, zoals gemeld in een 8-K filing bij de SEC.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en een directe financiële verplichting kan de financiële positie en strategische richting van het bedrijf beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of toekomstige winstgevendheid.",
+      "risk_nl": "De specifieke aard en voorwaarden van de materiële overeenkomst en de financiële verplichting zijn onbekend. Zonder details over de tegenpartij, de waarde of de impact op de bedrijfsvoering is de economische relevantie onduidelijk.",
+      "invalidation_nl": "De aard van de 'Material Definitive Agreement' is niet gespecificeerd als een M&A en er zijn geen concrete voorwaarden of waardes bekend.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst en financiële verplichting, maar de details ontbreken om de impact te beoordelen."
+    }
   }
 ]
