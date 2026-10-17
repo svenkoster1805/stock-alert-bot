@@ -1,32 +1,5 @@
 [
   {
-    "time": "2026-08-20T11:33:25.588402+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Performance Food Group Co (0001618673) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 28,
-    "url": "https://www.sec.gov/Archives/edgar/data/1618673/000119312526357838/0001193125-26-357838-index.htm"
-  },
-  {
-    "time": "2026-08-20T11:33:25.588439+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - UroGen Pharma Ltd. (0001668243) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 28,
-    "url": "https://www.sec.gov/Archives/edgar/data/1668243/000143774926028590/0001437749-26-028590-index.htm"
-  },
-  {
-    "time": "2026-08-20T11:33:25.588457+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Victoria's Secret & Co. (0001856437) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 31,
-    "url": "https://www.sec.gov/Archives/edgar/data/1856437/000185643726000017/0001856437-26-000017-index.htm"
-  },
-  {
     "time": "2026-08-20T11:33:25.634603+00:00",
     "reason": "te oud voor fastlane (33 min, limiet 30)",
     "symbol": "FILER",
@@ -107998,5 +107971,32 @@
     "publisher": "GuruFocus",
     "age_minutes": 45,
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRmw3ZWFQbEgtbmxPVDNrM0ZLWnYzWHRZUzdSS2NYaGpMN3gybDdNR2tzdXZjS19hdTUtOGx2SmVXWTBSc0VuUTBza0NWTS1JeU85d0VudGJUNC1jckpXUDFZSFl4enNkcUpfbURrMWVxakUyLVRNTzlkSUN1Y2J2Qjk4RW05VVhGNXBuMlA2RUJUUGxWYUVFWXpKUGhybDhZR1Y1cm83bUEwOWw4ZDNkTURlRDFRZm9zREQ1SFBzR1ZkNkNzUTFuQ3VaR0xWVy1WX0p0V2xmZHdzZw?oc=5"
+  },
+  {
+    "time": "2026-10-17T10:17:59.685928+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Restructuring: Santa Giulia remains at a standstill; share price plummets by 46.7 per cent and alarm bells ring over the accounts - Il Sole 24 ORE",
+    "publisher": "Il Sole 24 ORE",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOTV1ZTBuNU1SOEhlcWdPVFdGS1F2VDM2bVZnYVBuOEplUDZ6YUVUSE15d2RqUXhFbjBqblkzTmE4T3hxaVFuZ3RHZ1Q1NG1tcHdmXzYzOTQxRUdaMWFpMnM3OU1QY1N0RXRsdDJMU2Y1QWtHSDl0R2Voa1gtMXBmZndJYnhwdDJkTFV5d0l4WHJXa0t4RUpHME9RR21fbkdLdE9YVkNkWXlLYkhYTG5CRQ?oc=5"
+  },
+  {
+    "time": "2026-10-17T10:17:59.685942+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "IDBI Bank Q2 net profit falls 39% to Rs 2,205 crore on year-ago's one-off gain - Business Today",
+    "publisher": "Business Today",
+    "age_minutes": 42,
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQUNqX2R4TlVkT0M1aEE1N3d0MzN0NzRJSHFqN3JzM2ZOV0otb1R2bXFucUIxVGh1ejdwUnB4Q3J2Z3dPRFdzTHFrdHlpQjRYMk9HOHNUWWNUN2ZqRGpGc0ZUWWlUSGoxaDlQekNTa1BTUkNQS3ZVMHJTWXVhLVRQOG1rTE5ZWk5TV1pxVmswZGVaQUZwWnZrNnk5V2VSQUlaWXBQZmpSVUxDTGl6OWEzMGNPdUpiOXNMNmZYNjV2dUNHNnNOU0pqWUZEY2pOTEFxcWpDVHhhdWZWRGs?oc=5"
+  },
+  {
+    "time": "2026-10-17T10:17:59.685953+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Sensex, Nifty gain for second week amid stable rupee, rally in IT stock - Mid-Day",
+    "publisher": "Mid-Day",
+    "age_minutes": 59,
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2NDT1hna0RxaUVfMldmelZNN3gzMEgtM1N5X0VjTnlvZlFSb0xJNmNkdFJLemxXN214UVBkdlJ6RzVEMVJsbjB1WTJuUlMzc1V6SDh4NmNiYlFwaG5GZUQxbW1iSy02SXI5MjRlRm8zVk1iT3ZBMWFUYVAyWk04VXFncUlpeVVxTzBkVlI4cFZSMkxMX3ZVMFpXMFVRQXFoZjRwZUtyWjhBdnlzRnZKLVI4bERsa0NXVVRKdEozbHpJTGJLMkxaY3k4NWlvZw?oc=5"
   }
 ]
