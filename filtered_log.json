@@ -1,32 +1,5 @@
 [
   {
-    "time": "2026-08-20T11:33:25.634603+00:00",
-    "reason": "te oud voor fastlane (33 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Fidelity Core Real Estate Fund (0001953520) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 33,
-    "url": "https://www.sec.gov/Archives/edgar/data/1953520/000119312526357818/0001193125-26-357818-index.htm"
-  },
-  {
-    "time": "2026-08-20T11:33:25.682922+00:00",
-    "reason": "te oud voor fastlane (33 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Venu Holding Corp (0001770501) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 33,
-    "url": "https://www.sec.gov/Archives/edgar/data/1770501/000149315226039360/0001493152-26-039360-index.htm"
-  },
-  {
-    "time": "2026-08-20T11:33:25.682957+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Walmart Inc. (0000104169) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 34,
-    "url": "https://www.sec.gov/Archives/edgar/data/104169/000010416926000145/0000104169-26-000145-index.htm"
-  },
-  {
     "time": "2026-08-20T11:33:25.683043+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107971,32 @@
     "publisher": "Mid-Day",
     "age_minutes": 59,
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT2NDT1hna0RxaUVfMldmelZNN3gzMEgtM1N5X0VjTnlvZlFSb0xJNmNkdFJLemxXN214UVBkdlJ6RzVEMVJsbjB1WTJuUlMzc1V6SDh4NmNiYlFwaG5GZUQxbW1iSy02SXI5MjRlRm8zVk1iT3ZBMWFUYVAyWk04VXFncUlpeVVxTzBkVlI4cFZSMkxMX3ZVMFpXMFVRQXFoZjRwZUtyWjhBdnlzRnZKLVI4bERsa0NXVVRKdEozbHpJTGJLMkxaY3k4NWlvZw?oc=5"
+  },
+  {
+    "time": "2026-10-17T16:40:19.811288+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "VTRS",
+    "title": "Viatris (VTRS) Wins FDA Approval For RYZUMVI, Is The Upside Already Priced In? - Simply Wall Street",
+    "publisher": "Simply Wall Street",
+    "age_minutes": 1,
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnpZcElpSWdweTdFVWRLUkxUdy1zMHhtX20tYmw0QzN0WUJIQU4xbERUaHc1Mi0yS1BCSlRSYkloZXhpS20wM3k0eHV4cE9aUERjMzFUM29TaWpUZi0zRTdmcDRHQkxEVG5pZWQ0WlR6N0oyaFFtdUkwb1VqanFvc0tBQkt0dk1HLTdBZHJYdnVteWxCdml1RGFicF9OanoyU052cmVjOXk4aTViaF92bExCMW1Pb0NOWTd0MWdEZDktZ1VzTmR4NnZsTUpTbnlqUVlNXzRoV1HSAd4BQVVfeXFMTmVnVDM3Mm56OTNfcnZ2ODVhb0ZWOFJYbnR0dkFxSFhuMXlTMW41UU0zNjR1YmRwMjRmTFlCcjZGNzlhMk5vZi1RYzNNbUo4RTk1MlBKaDNhT0R1NmZ6RzNTeTZWMWZfbG1ISUhCM0JDQmYzbEtQTjV6WjFzakdUNGlPdnNjb3h3eXFXS29hSG9TVlQtT1RBU3o5aWthSGRrSHR4bUlrU0xfRmstU3pXQm1vd2tsS0gyMmlEbHY3eE9mTVZQek5zWExDb2E0SHRBSmdXVU5FMnd0UDUzeWJB?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-10-17T16:40:19.811336+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "$24K for an Old S-10? This \"Baja\" Is a Rad Racing Reference - Hagerty",
+    "publisher": "Hagerty",
+    "age_minutes": 32,
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGdYRER5TjZWOWp0ay1GYVl6dVptMTloeklGbk40RFQyZ0JmRXRDd2d2M1N4bHBodEpseWtQM0ZEcG4zTmd1b0loX2t6TlVsSFpiWXF0bWZQc3NqQ2tqbXNMU1NxSDdESEkxa2pLR00yLUxQRVVpclRKVTFQX0dvbWpjN3FoTERZQ0JjeVd2Yi14Q3lqUUtUVmRYRHUwdmpVdzRZQU4xT0JVLTQ?oc=5"
+  },
+  {
+    "time": "2026-10-17T16:40:20.491983+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Two hawkers detained over sale of Pak-made bedsheets in Motihari - The Times of India",
+    "publisher": "The Times of India",
+    "age_minutes": 56,
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOWdyTTk2a29Nc2lQSnQxa3ZpM25XOG9SVERqelB5d3lnR183ZERuWmFSTHp0SHdVRWM5WEJKVFZQc3lDdUptR0lQZFdQUDZELXQ0R0FWYllBZzc5R01KbWhFb1BuY0NyY3BMMmZ1TzVFLWNUZGdDelZtQktlY0xVZDJhblBCMUhQOFUyaFppdldnY0d1MDRWMGpmelEtQ1p0WDFXbnA0eXlJWU5jbU82Z205cWRDSDVZNXlKbWtuOVRfS29DQWtzSXJodGFDeUlINmNSSnJNeXN3U2dj0gHcAUFVX3lxTE45Z3JNOTZrb01zaVBKdDFrdmkzblc4b1JURGp6UHl3eWdHXzdkRG5aYVJMenRId1VFYzlYQkpUVlBzeUN1Sm1HSVBkV1BQNkQtdDRHQVZiWUFnNzlHTUptaEVvUG5jQ3JjcEwyZnVPNUUtY1RkZ0N6Vm1CS2VjTFVkMmFuUEIxSFA4VTJoWml2V2djR3UwNFYwamZ6US1DWnRYMVducDR5eUlZTmNtTzZnbTlxZENINVk1eUpta245VF9Lb0NBa3NJcmh0YUN5SUg2Y1JKck15c3dTZ2M?oc=5&hl=en-US&gl=US&ceid=US:en"
   }
 ]
