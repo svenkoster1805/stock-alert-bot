@@ -4480,5 +4480,23 @@
     "symbol": "FILER",
     "title": "8-K - SentinelOne, Inc. (0001583708) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "11220af20d9141ebcc4682e9735b7248088bbdbe6338846ce74767e4207f620f": {
+    "first_alert_at": "2026-10-19T12:27:23.572084+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Teamshares Inc (0002048951) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1124f575a4e9ce7e9c0bce5986d82cb88c687e17a1b2fd8d6adc53ce531e85b7": {
+    "first_alert_at": "2026-10-19T12:27:32.232463+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "02e948ee271929c0f4cc0f08febf21ba0ef737f86f220ddce3d065d6321ea7fd": {
+    "first_alert_at": "2026-10-19T12:27:47.302400+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Silence Therapeutics plc (0001479615) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

@@ -11400,5 +11400,53 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-10-19T12:27:31.416807+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Teamshares Inc (0002048951) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Teamshares Inc heeft een 8-K-rapport ingediend met betrekking tot het aangaan en beëindigen van materiële overeenkomsten, financiële verplichtingen en wijzigingen in rechten van effectenhouders.",
+      "why_nl": "Zonder specifieke details over de aard, omvang of financiële impact van de genoemde overeenkomsten, is de economische relevantie onduidelijk.",
+      "risk_nl": "Het ontbreken van concrete informatie over de betrokken partijen, contractwaarden of voorwaarden maakt een beoordeling van risico's onmogelijk.",
+      "invalidation_nl": "Er zijn geen economische details zoals contractwaarde, partijen of specifieke voorwaarden beschikbaar om de M&A-gebeurtenis te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevat tegenstrijdige informatie over het aangaan en beëindigen van materiële overeenkomsten zonder verdere context."
+    }
+  },
+  {
+    "time": "2026-10-19T12:27:46.480350+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CALLAN JMB INC. (0002032545) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CALLAN JMB INC. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan de bedrijfswaarde en -structuur significant beïnvloeden. Dit kan leiden tot een substantiële impact op de aandelenkoers van CALLAN JMB INC. zodra de details bekend zijn.",
+      "risk_nl": "De exacte financiële voorwaarden en de aard van de overeenkomst zijn nog niet bekend. Dit maakt de precieze impact op de waardering en toekomstige vooruitzichten van het bedrijf onzeker.",
+      "invalidation_nl": "De specifieke voorwaarden en financiële details van de overeenkomst zijn nog niet openbaar gemaakt.",
+      "is_already_priced": false,
+      "notes": "Verdere details over de materiële definitieve overeenkomst worden verwacht in de volledige 8-K filing."
+    }
+  },
+  {
+    "time": "2026-10-19T12:27:58.157764+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Silence Therapeutics plc (0001479615) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Silence Therapeutics plc heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een recente 8-K filing bij de SEC. Dit document bevat ook Regulation FD Disclosure en financiële bijlagen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie voor het bedrijf. Dit kan de toekomstige financiële prestaties en marktpositie beïnvloeden.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de overeenkomst zijn nog onbekend, waardoor de impact op het bedrijf onduidelijk is. Zonder details over de tegenpartij of de financiële implicaties is de economische waarde niet vast te stellen.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard van de overeenkomst, de betrokken partijen, de contractwaarde of de voorwaarden.",
+      "is_already_priced": false,
+      "notes": "De categorisatie als M&A is gegeven, maar de inhoud van de 8-K samenvatting bevestigt dit niet expliciet met details."
+    }
   }
 ]
