@@ -18232,5 +18232,55 @@
       "is_already_priced": false,
       "notes": "De verstrekte gegevens specificeren de inhoud van de 'Material Definitive Agreement' niet, waardoor de M&A-classificatie onbevestigd blijft."
     }
+  },
+  {
+    "time": "2026-10-22T19:43:20.117895+00:00",
+    "symbol": "FILER",
+    "company": "Bridgecrest Lending Auto Securitization Trust 2026-4 (0002151184) (Filer)",
+    "event_key": "44ca87fbd72b59f6ea9f0a5b569701b764b83a906f835da09cacd1e18e2cd5ce",
+    "event_family": "M_AND_A",
+    "title": "8-K - Bridgecrest Lending Auto Securitization Trust 2026-4 (0002151184) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2151184/000110465926118129/0001104659-26-118129-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Bridgecrest Lending Auto Securitization Trust 2026-4 heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC. De filing vermeldt ook 'Overige Gebeurtenissen' en 'Financiële Overzichten en Bijlagen'.",
+      "why_nl": "Een materiële overeenkomst kan de financiële positie of operationele structuur van de trust beïnvloeden. Dit kan relevant zijn voor beleggers in de uitgegeven effecten.",
+      "risk_nl": "De aard en de specifieke voorwaarden van de overeenkomst zijn onbekend, waardoor de impact op de trust en haar effecten onduidelijk is. Zonder details is de economische relevantie niet vast te stellen.",
+      "invalidation_nl": "Er is geen informatie over de contractwaarde, de betrokken partijen of de specifieke aard van de 'M&A'-transactie.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een overeenkomst, maar de inhoud is cruciaal voor een beoordeling."
+    }
+  },
+  {
+    "time": "2026-10-22T19:43:31.528900+00:00",
+    "symbol": "FILER",
+    "company": "Bridgecrest Auto Funding LLC (0001974820) (Filer)",
+    "event_key": "142d3fb14231d7f18130abe1f89c829d5303463ef1fe8b7efb458429ca521352",
+    "event_family": "M_AND_A",
+    "title": "8-K - Bridgecrest Auto Funding LLC (0001974820) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1974820/000110465926118129/0001104659-26-118129-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Bridgecrest Auto Funding LLC heeft een 8-K-formulier ingediend bij de SEC, waarin de onderneming melding maakt van het aangaan van een materiële definitieve overeenkomst.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie, zoals een fusie of overname, wat de waarde van het bedrijf kan beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn nog onbekend, wat de potentiële gevolgen onzeker maakt.",
+      "invalidation_nl": "Zonder details over de contractwaarde of de formele voorwaarden is de economische impact niet te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de inhoud is nog niet beschikbaar."
+    }
   }
 ]

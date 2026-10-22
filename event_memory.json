@@ -4504,5 +4504,17 @@
     "symbol": "FILER",
     "title": "8-K - Edible Garden AG Inc (0001809750) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "44ca87fbd72b59f6ea9f0a5b569701b764b83a906f835da09cacd1e18e2cd5ce": {
+    "first_alert_at": "2026-10-22T19:43:10.871187+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bridgecrest Lending Auto Securitization Trust 2026-4 (0002151184) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "142d3fb14231d7f18130abe1f89c829d5303463ef1fe8b7efb458429ca521352": {
+    "first_alert_at": "2026-10-22T19:43:20.603749+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Bridgecrest Auto Funding LLC (0001974820) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
