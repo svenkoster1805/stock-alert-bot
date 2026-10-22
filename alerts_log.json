@@ -18207,5 +18207,30 @@
       "is_already_priced": false,
       "notes": "De categorisatie als M&A is gegeven, maar de inhoud van de 8-K samenvatting bevestigt dit niet expliciet met details."
     }
+  },
+  {
+    "time": "2026-10-22T11:20:51.019423+00:00",
+    "symbol": "FILER",
+    "company": "Edible Garden AG Inc (0001809750) (Filer)",
+    "event_key": "5a97655dcced9a5159cb2d58fabbedd4557984721ccd62f7548d1c2dd89c5905",
+    "event_family": "M_AND_A",
+    "title": "8-K - Edible Garden AG Inc (0001809750) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1809750/000147793226006391/0001477932-26-006391-index.htm",
+    "news_age_minutes": 4,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Edible Garden AG Inc heeft een 8-K melding ingediend over het aangaan van een materiële definitieve overeenkomst op 22 oktober 2026.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting of financiële positie van het bedrijf beïnvloeden, maar de aard ervan is onbekend.",
+      "risk_nl": "Zonder details over de overeenkomst is het onmogelijk de impact op het bedrijf of de classificatie als M&A te beoordelen.",
+      "invalidation_nl": "De samenvatting bevestigt niet expliciet dat de materiële overeenkomst een M&A-transactie betreft, noch geeft het details over de aard of waarde ervan.",
+      "is_already_priced": false,
+      "notes": "De verstrekte gegevens specificeren de inhoud van de 'Material Definitive Agreement' niet, waardoor de M&A-classificatie onbevestigd blijft."
+    }
   }
 ]
