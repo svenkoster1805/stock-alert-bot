@@ -18282,5 +18282,30 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de inhoud is nog niet beschikbaar."
     }
+  },
+  {
+    "time": "2026-10-23T19:33:29.777293+00:00",
+    "symbol": "FILER",
+    "company": "Zevia PBC (0001854139) (Filer)",
+    "event_key": "46d23c6faf4b60ae53aaa48493658a4398bcec59b0666aae07e992a278668d42",
+    "event_family": "M_AND_A",
+    "title": "8-K - Zevia PBC (0001854139) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1854139/000143774926033400/0001437749-26-033400-index.htm",
+    "news_age_minutes": 5,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 14,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Zevia PBC heeft een 8-K-rapport ingediend over een materiële definitieve overeenkomst en de ongeoorloofde verkoop van aandelen. Dit omvat ook wijzigingen in de rechten van effectenhouders en statuten.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap, zoals een overname of fusie, die de toekomstige bedrijfsvoering en waardering van Zevia PBC beïnvloedt. De verkoop van aandelen en statutenwijzigingen kunnen hieraan gerelateerd zijn.",
+      "risk_nl": "De specifieke aard en financiële voorwaarden van de overeenkomst zijn onbekend, wat het onmogelijk maakt om de impact op Zevia PBC te beoordelen. Zonder details over de tegenpartij of de waarde is het risico op een ongunstige uitkomst hoog.",
+      "invalidation_nl": "De contractwaarde en gedetailleerde voorwaarden van de materiële definitieve overeenkomst zijn niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is zeer recent en afkomstig van een betrouwbare bron (SEC.gov)."
+    }
   }
 ]
