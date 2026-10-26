@@ -4522,5 +4522,17 @@
     "symbol": "FILER",
     "title": "8-K - Zevia PBC (0001854139) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "e0896c739f7dcc10a7f4bba0ccc26bc9178f87d85968419ec1e8f476ae8f69dd": {
+    "first_alert_at": "2026-10-26T12:26:50.463540+00:00",
+    "symbol": "FILER",
+    "title": "8-K - K&F GROWTH ACQUISITION CORP. II (0002029976) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4e985e9785047701d63033286e06199ed80833bf0490be741161a5864b0eb438": {
+    "first_alert_at": "2026-10-26T12:27:00.006294+00:00",
+    "symbol": "FILER",
+    "title": "8-K - GameSquare Holdings, Inc. (0001714562) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

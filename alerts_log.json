@@ -18307,5 +18307,55 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding is zeer recent en afkomstig van een betrouwbare bron (SEC.gov)."
     }
+  },
+  {
+    "time": "2026-10-26T12:26:59.569135+00:00",
+    "symbol": "FILER",
+    "company": "K&F GROWTH ACQUISITION CORP. II (0002029976) (Filer)",
+    "event_key": "e0896c739f7dcc10a7f4bba0ccc26bc9178f87d85968419ec1e8f476ae8f69dd",
+    "event_family": "M_AND_A",
+    "title": "8-K - K&F GROWTH ACQUISITION CORP. II (0002029976) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2029976/000121390026112287/0001213900-26-112287-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "K&F Growth Acquisition Corp. II heeft op 26 oktober 2026 een 8-K-rapport ingediend over niet-geregistreerde verkopen van eigen vermogen (Item 3.02). Dit document is 11 minuten geleden gepubliceerd op SEC.gov.",
+      "why_nl": "Deze verkoop van eigen vermogen kan duiden op een financieringsronde ter voorbereiding op een fusie of overname, wat de toekomstige waardering van het bedrijf kan beïnvloeden. Voor een SPAC is dit vaak een stap richting een deal.",
+      "risk_nl": "De specifieke voorwaarden van de financiering en de impact op de bestaande aandeelhouders zijn onbekend. Er is geen informatie over de identiteit van de kopers of de prijs per aandeel.",
+      "invalidation_nl": "Er is geen officiële aankondiging van een fusie of overname met concrete voorwaarden, een contractwaarde of een bevestigde doelonderneming.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing is zeer recent en afkomstig van een betrouwbare bron (SEC.gov)."
+    }
+  },
+  {
+    "time": "2026-10-26T12:27:23.619449+00:00",
+    "symbol": "FILER",
+    "company": "GameSquare Holdings, Inc. (0001714562) (Filer)",
+    "event_key": "4e985e9785047701d63033286e06199ed80833bf0490be741161a5864b0eb438",
+    "event_family": "M_AND_A",
+    "title": "8-K - GameSquare Holdings, Inc. (0001714562) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226048423/0001493152-26-048423-index.htm",
+    "news_age_minutes": 26,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WATCH",
+      "confidence": 1,
+      "summary_nl": "GameSquare Holdings, Inc. heeft een 8-K melding ingediend over de voltooiing van een acquisitie of desinvestering van activa. De melding omvat ook de verkoop van aandelen en wijzigingen in het bestuur en management.",
+      "why_nl": "De voltooiing van een acquisitie of desinvestering kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden. Wijzigingen in het bestuur en management kunnen duiden op een nieuwe koers of integratie na de transactie.",
+      "risk_nl": "De specifieke financiële details en voorwaarden van de acquisitie of desinvestering zijn niet bekend, waardoor de impact op de waarde van het bedrijf onduidelijk is. Zonder deze details is het moeilijk om de economische relevantie volledig te beoordelen.",
+      "invalidation_nl": "De contractwaarde en de exacte aard van de overgenomen of afgestoten activa zijn niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van de volledige 8-K filing is noodzakelijk voor een gedetailleerde beoordeling van de transactie."
+    }
   }
 ]
