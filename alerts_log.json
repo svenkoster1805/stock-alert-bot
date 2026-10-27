@@ -18357,5 +18357,55 @@
       "is_already_priced": false,
       "notes": "Verdere analyse van de volledige 8-K filing is noodzakelijk voor een gedetailleerde beoordeling van de transactie."
     }
+  },
+  {
+    "time": "2026-10-27T21:02:33.110678+00:00",
+    "symbol": "FILER",
+    "company": "VOLITIONRX LTD (0000093314) (Filer)",
+    "event_key": "9e9b91a1069a008b9ad0a40a134ea258a755f1c9231ea7a37589bff202c65855",
+    "event_family": "M_AND_A",
+    "title": "8-K - VOLITIONRX LTD (0000093314) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/93314/000147793226006470/0001477932-26-006470-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-10-27T21:02:41.956317+00:00",
+    "symbol": "FILER",
+    "company": "Cricut, Inc. (0001828962) (Filer)",
+    "event_key": "0cb4403f107fce706e9924c991679a121752dc0612014ee82a10e63cb5d38ca7",
+    "event_family": "M_AND_A",
+    "title": "8-K - Cricut, Inc. (0001828962) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1828962/000182896226000054/0001828962-26-000054-index.htm",
+    "news_age_minutes": 6,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Cricut, Inc. heeft een 8-K ingediend bij de SEC. Dit document meldt de totstandkoming en beëindiging van materiële definitieve overeenkomsten.",
+      "why_nl": "Het aangaan of beëindigen van materiële overeenkomsten kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in activa, passiva of toekomstige inkomstenstromen.",
+      "risk_nl": "De aard, voorwaarden en financiële impact van de genoemde materiële overeenkomsten zijn onbekend. Zonder deze details is het onmogelijk de economische relevantie of risico's te beoordelen.",
+      "invalidation_nl": "Er is geen informatie over de inhoud, partijen of financiële waarde van de materiële overeenkomsten.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt het bestaan van materiële overeenkomsten, maar de details ontbreken voor een concrete analyse."
+    }
   }
 ]

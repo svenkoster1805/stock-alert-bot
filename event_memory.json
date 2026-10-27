@@ -4534,5 +4534,17 @@
     "symbol": "FILER",
     "title": "8-K - GameSquare Holdings, Inc. (0001714562) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "9e9b91a1069a008b9ad0a40a134ea258a755f1c9231ea7a37589bff202c65855": {
+    "first_alert_at": "2026-10-27T21:01:57.335687+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VOLITIONRX LTD (0000093314) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0cb4403f107fce706e9924c991679a121752dc0612014ee82a10e63cb5d38ca7": {
+    "first_alert_at": "2026-10-27T21:02:33.502652+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Cricut, Inc. (0001828962) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
