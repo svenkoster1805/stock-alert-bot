@@ -4546,5 +4546,41 @@
     "symbol": "FILER",
     "title": "8-K - Cricut, Inc. (0001828962) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "8acf8c68d7bd8ef9573747b24ddac0b425eedf0f7852123cf4f609ff08aeb932": {
+    "first_alert_at": "2026-10-28T12:18:36.651309+00:00",
+    "symbol": "FILER",
+    "title": "8-K - OLIN Corp (0000074303) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "bd18d1d3e4bbf2c948ec5a23b8cf4d6ab9592c135885d6452d1790e9b2a19df9": {
+    "first_alert_at": "2026-10-28T12:18:46.580457+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ALLIANT ENERGY CORP (0000352541) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "90c7c7ae70eecf073b179e7390f5d19c780bc8d8ee9d0ffdedd07130abf42dd7": {
+    "first_alert_at": "2026-10-28T12:18:59.416897+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WISCONSIN POWER & LIGHT CO (0000107832) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "a428fee55019e10bdc33287bd6908b274bb86821cf9dcff4cdcb3c216c9c942b": {
+    "first_alert_at": "2026-10-28T12:19:10.352114+00:00",
+    "symbol": "FILER",
+    "title": "8-K - INTERSTATE POWER & LIGHT CO (0000052485) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e871eea008d9d4ab4cc7893177a29d79c841857580f2aa18b8d79a178d976c50": {
+    "first_alert_at": "2026-10-28T12:19:11.318821+00:00",
+    "symbol": "FILER",
+    "title": "8-K - C. H. ROBINSON WORLDWIDE, INC. (0001043277) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4afa550100b423299df28b14adb1d90214ccad8d9e24960da5a356b09febf0f3": {
+    "first_alert_at": "2026-10-28T12:19:12.231107+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Inflection Point Acquisition Corp. VII (0002088805) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
