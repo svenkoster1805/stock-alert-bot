@@ -11666,5 +11666,67 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-10-29T12:28:21.557488+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DoorDash, Inc. (0001792789) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "DoorDash, Inc. heeft een 8-K-rapport ingediend waarin de totstandkoming van een materiële definitieve overeenkomst wordt gemeld. Dit betreft een M&A-gerelateerde gebeurtenis.",
+      "why_nl": "Een materiële definitieve overeenkomst kan de strategische richting en financiële prestaties van DoorDash significant beïnvloeden. Dit kan leiden tot veranderingen in marktaandeel of synergievoordelen.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de waarde en de voorwaarden, zijn nog onbekend. Zonder deze details is de impact op de belegger onduidelijk.",
+      "invalidation_nl": "De concrete voorwaarden en financiële impact van de materiële definitieve overeenkomst zijn niet gespecificeerd in de beschikbare informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een overeenkomst, maar de inhoudelijke details ontbreken voor een volledige beoordeling."
+    }
+  },
+  {
+    "time": "2026-10-29T12:28:33.448241+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Xerox Holdings Corp (0001770450) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Xerox Holdings Corp heeft een 8-K melding ingediend bij de SEC over het aangaan van een materiële definitieve overeenkomst. Dit document bevat ook informatie over Regulation FD Disclosure en financiële overzichten.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan een significante impact hebben op de financiële positie en strategische richting van Xerox. Dit kan leiden tot veranderingen in activa, passiva of toekomstige inkomstenstromen.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn niet bekendgemaakt in de samenvatting. Zonder deze details is de economische impact onduidelijk en kan deze zowel positief als negatief zijn.",
+      "invalidation_nl": "Er is geen informatie over de tegenpartij, de aard van de transactie (bijv. overname, verkoop, joint venture) of de financiële waarde van de overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een definitieve overeenkomst, maar de inhoudelijke details ontbreken voor een concrete beoordeling."
+    }
+  },
+  {
+    "time": "2026-10-29T12:28:35.522027+00:00",
+    "symbol": "FILER",
+    "title": "8-K - XEROX CORP (0000108772) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-10-29T12:28:36.389598+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FOSTER L B CO (0000352825) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

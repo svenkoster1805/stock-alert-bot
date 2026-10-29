@@ -4582,5 +4582,29 @@
     "symbol": "FILER",
     "title": "8-K - Inflection Point Acquisition Corp. VII (0002088805) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "72f99aae521e291e4fbf220ab114153a1d8d7259c7946e7f8c596f11d5ec442c": {
+    "first_alert_at": "2026-10-29T12:27:58.577709+00:00",
+    "symbol": "FILER",
+    "title": "8-K - DoorDash, Inc. (0001792789) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "6241414cf188497502433a219dcb18f52f9a8168cf10b8681c3f5a2cf3ddf059": {
+    "first_alert_at": "2026-10-29T12:28:22.336310+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Xerox Holdings Corp (0001770450) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "4edf37da4f6fef2a1030b2870bdf46644580e17bf4aa4c228cc8d29830e4b730": {
+    "first_alert_at": "2026-10-29T12:28:34.317925+00:00",
+    "symbol": "FILER",
+    "title": "8-K - XEROX CORP (0000108772) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d11d648dae59802a44cc7367229965f441db05fe913d4d290afe96745251614a": {
+    "first_alert_at": "2026-10-29T12:28:36.389573+00:00",
+    "symbol": "FILER",
+    "title": "8-K - FOSTER L B CO (0000352825) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
