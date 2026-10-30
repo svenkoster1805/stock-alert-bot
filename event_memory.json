@@ -4606,5 +4606,17 @@
     "symbol": "FILER",
     "title": "8-K - FOSTER L B CO (0000352825) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "e115ac9fd6371d3840c98d6e05e046ae0c6859a1cb389dc36a3591710ce05d5f": {
+    "first_alert_at": "2026-10-30T12:20:09.232318+00:00",
+    "symbol": "FILER",
+    "title": "8-K - MAMMOTH ENERGY SERVICES, INC. (0001679268) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f60b6784beb7ac5b70e0f34297b5358f6a38a257ce5e975c5277c1ec6ae1c644": {
+    "first_alert_at": "2026-10-30T12:20:26.066981+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Azenta, Inc. (0000933974) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
