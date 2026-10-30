@@ -4618,5 +4618,11 @@
     "symbol": "FILER",
     "title": "8-K - Azenta, Inc. (0000933974) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "e87dd36b2f7185642ebe2c97a8266549b7652b1a3409790e40ab6c08b93d3bed": {
+    "first_alert_at": "2026-10-30T18:05:32.224677+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Texas Community Bancshares, Inc. (0001849466) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

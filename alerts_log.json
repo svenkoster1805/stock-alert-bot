@@ -18699,5 +18699,30 @@
       "is_already_priced": false,
       "notes": "Een 8-K filing met Item 1.01 is een officiële melding van een belangrijke overeenkomst."
     }
+  },
+  {
+    "time": "2026-10-30T18:05:45.824573+00:00",
+    "symbol": "FILER",
+    "company": "Texas Community Bancshares, Inc. (0001849466) (Filer)",
+    "event_key": "e87dd36b2f7185642ebe2c97a8266549b7652b1a3409790e40ab6c08b93d3bed",
+    "event_family": "M_AND_A",
+    "title": "8-K - Texas Community Bancshares, Inc. (0001849466) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1849466/000110465926120589/0001104659-26-120589-index.htm",
+    "news_age_minutes": 19,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Texas Community Bancshares, Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC op 30 oktober 2026.",
+      "why_nl": "Het sluiten van een materiële definitieve overeenkomst kan duiden op een aanstaande fusie of overname, wat doorgaans een significante impact heeft op de aandelenkoers van het betrokken bedrijf.",
+      "risk_nl": "De specifieke voorwaarden van de overeenkomst, zoals de tegenpartij en de transactiewaarde, zijn niet bekend, wat de economische impact onzeker maakt.",
+      "invalidation_nl": "Zonder details over de tegenpartij, de overnameprijs en de volledige voorwaarden is een geïnformeerde handelsbeslissing niet mogelijk.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt het bestaan van een overeenkomst, maar de cruciale details ontbreken in de samenvatting."
+    }
   }
 ]
