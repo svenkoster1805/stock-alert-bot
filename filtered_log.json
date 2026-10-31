@@ -1,77 +1,5 @@
 [
   {
-    "time": "2026-08-31T19:28:09.800254+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - EQT Exeter Real Estate Income Trust, Inc. (0001946997) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 131,
-    "url": "https://www.sec.gov/Archives/edgar/data/1946997/000119312526376236/0001193125-26-376236-index.htm"
-  },
-  {
-    "time": "2026-08-31T19:28:09.800272+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Brightwood Capital Corp I (0001895316) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 147,
-    "url": "https://www.sec.gov/Archives/edgar/data/1895316/000110465926103741/0001104659-26-103741-index.htm"
-  },
-  {
-    "time": "2026-08-31T19:28:10.099614+00:00",
-    "reason": "te oud voor fastlane (168 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Samos Energy Acquisition Corp (0002125567) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 168,
-    "url": "https://www.sec.gov/Archives/edgar/data/2125567/000121390026095583/0001213900-26-095583-index.htm"
-  },
-  {
-    "time": "2026-08-31T19:28:10.099681+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - J.P. Morgan Real Estate Income Trust, Inc. (0001893262) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 208,
-    "url": "https://www.sec.gov/Archives/edgar/data/1893262/000162828026059501/0001628280-26-059501-index.htm"
-  },
-  {
-    "time": "2026-08-31T19:28:10.099704+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Brookfield Private Equity Fund LP (0002074065) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 245,
-    "url": "https://www.sec.gov/Archives/edgar/data/2074065/000110465926103666/0001104659-26-103666-index.htm"
-  },
-  {
-    "time": "2026-08-31T19:28:10.099719+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Starwood Real Estate Income Trust, Inc. (0001711929) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 253,
-    "url": "https://www.sec.gov/Archives/edgar/data/1711929/000119312526375795/0001193125-26-375795-index.htm"
-  },
-  {
-    "time": "2026-08-31T19:28:10.099733+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - BOK FINANCIAL CORP (0000875357) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 267,
-    "url": "https://www.sec.gov/Archives/edgar/data/875357/000087535726000051/0000875357-26-000051-index.htm"
-  },
-  {
-    "time": "2026-08-31T19:28:10.099746+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Energy & Water Development Corp (0001563298) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 315,
-    "url": "https://www.sec.gov/Archives/edgar/data/1563298/000107997326001200/0001079973-26-001200-index.htm"
-  },
-  {
     "time": "2026-08-31T19:28:10.099759+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107926,77 @@
     "publisher": "TradingView",
     "age_minutes": 28,
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmRPN0wtdzlTUUxTelVGQ3FfdXpLN2dCd01iVkt1VWQtMmozY2U5SXh1bkh1S0N1c3lMTjBrc00yYUZkNmpiWEJETng3SU1Wb2F4NUVEaEp5OGJlRENxMFZaSElyOU9zU3FzbnNYeUFEMFhmZWt5dFY2UmtoVzREVWxiNGR4WFpJZVFQRDhsZndYRDN3RkFWSnJTazcxeXpLYlplQUZIUjA4MGdWQXc0eTNNQjBKZkNoT0RV?oc=5"
+  },
+  {
+    "time": "2026-10-31T16:20:14.421968+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "NTST",
+    "title": "NETSTREIT (NTST) Raises Guidance And Dividend After Earnings But Is It A Bargain - Simply Wall St",
+    "publisher": "Simply Wall St",
+    "age_minutes": 23,
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdHU4N2dFMFJqeWxsbndyeGJ1ME50YmhEekJCTDRqYVh3amp4RUxxd1prYXI1SXdYcnpZUUhTcGwxdlVuSG1IMTZuMmJGZDBCdWo0MmJkOUp4OUZjeHRDZ1QtQ0d3YXNiY2Y2REpFRHdoUXVFMmg0dmdaTlM1STlZa1Zacldna2hlLW1KR3Y4YUxqRTVodEJydkMzYWdHSTd1MllJaUxsVVhIS0pyUEt4Y1VFVlBkMXA2ZVhCZTVKSUljR3lRR3FtVtIBzgFBVV95cUxOTVBnWHpYdW1BQmRUWEtoMXZCQi1Oa0s3bFFoVzYxWHJpc2lMbzBRejZyenlOTW56TEM3NGpLUmZkZXlIUVU3VzlyRjgwMXczM2xnZGRwRVlKNE5kaEVOTlI5UGdaT1hUQVVhaDFfNGJaSnhHNTdFZGE5MGpNSHRUeWdoVDdSb1Q4WVhZVVFzS00wa1NQNWloN0dFMWxRTzE1djQ3WUZRZHBEOFEyaFl0NTNMXzZKTXM4U09DUG5mRnd6VjRwdjNuRmdONEV3QQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-10-31T16:20:15.532448+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Zelensky welcomes sale of crucial US Patriot missiles but warns delivery could take years - KQ2",
+    "publisher": "KQ2",
+    "age_minutes": 15,
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNGR1azZBTVVMY3V5SHBwaXljR3BkRWt1VDJSUEZ1SUVPbERUU2pmTTV4QUl3T3RUVU1zWWhhaWthYlVWZTh5ckZHYVNrNUdIb0tRU2NZNzhpdFU0ZzExMjhyOUlRVFRMT21ZOFNoci1sWHRLTVY1d0dvaDhCY20zVjVYREJwYkNHbnlmZFdEZHB3X1ZMVG5pYUczeGcwU2ZqOGxWUkpINnFzT2NNMEM2azhSZno3aWFDci1URWRiWWxaZ0JmYnQ0?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-10-31T16:20:15.532498+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Representative Judy Chu introduces H.R. 10921: Breast Cancer Patient Equity Act - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 37,
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYy1rYVdmanFkd0FNTVlndllsUWhUc1paUjFxTVBsYjBRT2xkVGNwaDNaY09fX0pvZXV2NER5ZDhDa01kamJOQTRUS3JtMVRBV3RTS0JCMDFFUUY1Q1BTVFBuMjdXSEw2Z1ZpNFVRdzE2YnJod0F4Z0s2MW45Nlp2SDJiTndmTDFqN2VYSG9qMVN5djdybEtmMTJkWFgydGM0TW5MbXRVT2t2ZW5UeTNKMVNSNms?oc=5"
+  },
+  {
+    "time": "2026-10-31T16:20:16.219366+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "U.S. Authorizes Sale of 500 Patriot Missiles to Ukraine in $2.1 Billion Deal - teleSUR English",
+    "publisher": "teleSUR English",
+    "age_minutes": 13,
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdlJVMUs0SG05aGJ4c0NCdldkVjJYZENQNjlyYUI1bWlreHlCaEZMamU2WTRidnp2U0EyeTdIcjRRYVpNblJrVXdOaE9QQVdSTHVOVE96Q0pUTkR3Z1pFLWU0amp6Y0taYjhYUldZZk0zQ2JEaThfQVE4LXh6ZzlWVlFkTFVfaHE0a2gtOUkxbGtma1A2ODZ6X0NDTTlyNm5pVWF3Z0xMcHVfQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-10-31T16:20:16.219411+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Representative Josh Gottheimer introduces H.R. 10928: Farmer Recovery Opportunity and Support for Temperatures Relief Act - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 37,
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdXhiSHJSRHBVNVkyY3FteVFfcmlXY0FhN2hwMlk3b3ZRVjZIck9uNHhBeFp3eDVsY0xWWThYcTltTGZCZXF1Q1ZNanF4ajVEbzlRTEdESkEyNFUteG5BaThEekxreEZsd3hmWTJxSGFYVkJVNVZ2Z0JBZW1xd3laVW9NVUNXTzBENVhlQ0ZQQlFfaVhfS19zMDRqajhmLW1rVVdXR2ZjRTNEWjhTSDM0WmxDM3FMX0FrM1ZmMzlOVTlCSGVDTFByVUZhSTdwNHExZUhjLTUtd2ZDODFtNk5MVHRPZEM2elFfaVNkNw?oc=5"
+  },
+  {
+    "time": "2026-10-31T16:20:16.219426+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "/C O R R E C T I O N - OCI Global/ - Adnkronos",
+    "publisher": "Adnkronos",
+    "age_minutes": 41,
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGJOWFd2UFdGY3NEZmo2Tm5rS09GbGtucVFfaTAwTU0zYnlxYUc5TmNjMkZDRU91UU5kVWpsdWkxSDIyZU0yQmhZVDJHS2dkRDZ6eWk0amd6X0lEdzZmdEVNUlFCX3g1VjFLX0JUcDlwS0kzbE42TzRuN0dKNnpGVnVRZUlBZVBqekcza2RORlJNZ0RObVBmQng2dTB3cU9LdE5hMEQyNA?oc=5"
+  },
+  {
+    "time": "2026-10-31T16:20:16.219436+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Representative Thomas H. Kean, Jr. introduces H.R. 10933: EMS Supporting Personnel, Operations, Upgrades, Resources, and Training Act of 2026 - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 37,
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOMXM5SWxucTlfdTRTeUF4aWtzdERmZkVjNVRUbm8tUFB4RGt5S2tIcExjVTFvUElGTEIwNmRKb0VTbWxteF9kMXBrdnZZd2NPZlJkQUpiRUswY2FHa1lJMXZZWWQ0bUFxNDZqRVRTVzFxZm1GWi1MdFlRSlYwaERQYzBtZTVHZ3QzQTJKN2diUjhzRTBPRjVTeGFXSGNuUUFrZU9KU2NSLXI1VnZyM0JIeXpFeUNzdFFkSGR0NUxzZFRvNzlDckt0WGFSVGo1bS1yRTFOaHFDM0IyTkVGUnJiSXpCYlJveWRpbGpwSzlwU0lOcUtiRmxGcHdoajBCemZWVEFyV2xmdzlUcW9Rcy1zN0FKdEk?oc=5"
+  },
+  {
+    "time": "2026-10-31T16:20:16.219444+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Representative Josh Gottheimer introduces H.R. 10926: Election Worker and Polling Place Protection Act - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 37,
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMzhpTkdrRnppbXlPOUdZTzlEV2ZqSEFwS3FMcmMyQ3NrdEdlX3RFdHNYczFpd2ZzZDVLZkxMeTUxWDZXMFRteHFRMmdFQzQ0WjVwUjhOM1lPVUxLTkRaSFFQb0tmMHNoVmE5UVkwXzVBSEt0MUpuOThaRlVkVXB0bzhXRmFURkt3aDgyMUVkQ3dQMUN5dHdTaHNYQlJiZDNwMGJlaldWTzVIOWtMM1BzTEw1a3BrNmZ4U3BzZVMycU9Kb0s2bmMtUDRBQV94TDBQc09Z?oc=5"
   }
 ]
