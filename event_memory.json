@@ -4630,5 +4630,41 @@
     "symbol": "FILER",
     "title": "8-K - ABVC BIOPHARMA, INC. (0001173313) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "bb9c88ddc92c3e022fab460d3bbc9faeafe7a702bce278a1198cbbb9a25897ed": {
+    "first_alert_at": "2026-11-03T13:47:06.022168+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Peraso Inc. (0000890394) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "d38f6a93b67b38fdc338e5a981ca1a1140ca5f6e21944410a60a2e85bf134256": {
+    "first_alert_at": "2026-11-03T13:47:17.808191+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CVR ENERGY INC (0001376139) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "78ef3ddaf6e094f7fc7f0bc17a7257491affaf4bb81da69890369471dab9619d": {
+    "first_alert_at": "2026-11-03T13:47:36.608898+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ACURA PHARMACEUTICALS, INC (0000786947) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ed6de9bf96df3e3f4a9dac901b561b8fbb7bdef27a788fffb0ca4d7ccf4c7ab6": {
+    "first_alert_at": "2026-11-03T13:47:49.700359+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Rising Dragon Acquisition Corp. (0002018145) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "432d3908db1cde25a659a3a77f7e517343211c7baf1c1f8181e451587d465446": {
+    "first_alert_at": "2026-11-03T13:47:50.421365+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Our Bond, Inc. (0001756064) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "0a9638843155a26fc33ba6639efae05bf690ab2e90eb9a70a43a9b2d1e60fd2f": {
+    "first_alert_at": "2026-11-03T13:47:51.243250+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ocean Capital Acquisition Corp (0001926314) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

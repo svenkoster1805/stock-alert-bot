@@ -11792,5 +11792,95 @@
       "is_already_priced": false,
       "notes": "De algemene aard van de 8-K melding en het ontbreken van M&A-specifieke details rechtvaardigen geen verdere analyse als M&A-event."
     }
+  },
+  {
+    "time": "2026-11-03T13:47:16.949590+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Peraso Inc. (0000890394) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Peraso Inc. heeft een materiële definitieve overeenkomst gesloten, zoals gemeld in een recente 8-K filing bij de SEC. De filing vermeldt ook ongeregistreerde verkopen van aandelen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een overname of strategische samenwerking die de toekomstige waarde van Peraso Inc. beïnvloedt. De verkoop van aandelen kan gerelateerd zijn aan de financiering van deze overeenkomst of een andere kapitaaltransactie.",
+      "risk_nl": "De specifieke financiële voorwaarden en de impact van de overeenkomst op de bedrijfsvoering van Peraso Inc. zijn nog onbekend. De details van de ongeregistreerde aandelenverkoop en de potentiële verwatering voor bestaande aandeelhouders zijn niet gespecificeerd.",
+      "invalidation_nl": "Zonder de concrete voorwaarden en financiële details van de overeenkomst is een gefundeerde beleggingsbeslissing niet mogelijk.",
+      "is_already_priced": false,
+      "notes": "Nadere details over de materiële overeenkomst en de aandelenverkoop worden verwacht in de volledige 8-K filing."
+    }
+  },
+  {
+    "time": "2026-11-03T13:47:35.846071+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CVR ENERGY INC (0001376139) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "CVR ENERGY INC heeft een materiële definitieve overeenkomst gesloten en niet-geregistreerde aandelen verkocht, zoals gemeld in een recente 8-K filing bij de SEC. Dit document is 22 minuten geleden gepubliceerd.",
+      "why_nl": "Een materiële overeenkomst kan de strategische richting en financiële positie van het bedrijf significant beïnvloeden. De verkoop van aandelen kan duiden op financiering gerelateerd aan deze overeenkomst of andere kapitaalbehoeften.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn nog onbekend. Zonder deze details is de impact op de waardering van CVR ENERGY INC onduidelijk.",
+      "invalidation_nl": "Er is geen concrete contractwaarde, overnamepartner of gedetailleerde voorwaarden van de M&A-transactie bekendgemaakt in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële gebeurtenis, maar de economische details ontbreken nog in de samenvatting."
+    }
+  },
+  {
+    "time": "2026-11-03T13:47:48.968596+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ACURA PHARMACEUTICALS, INC (0000786947) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WATCH",
+      "confidence": 1,
+      "summary_nl": "ACURA PHARMACEUTICALS, INC heeft een 8-K document ingediend over de voltooiing van een acquisitie of verkoop van activa en het aangaan van een materiële definitieve overeenkomst.",
+      "why_nl": "De voltooiing van een acquisitie of verkoop kan de financiële positie en strategische richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke financiële voorwaarden, de aard van de activa en de identiteit van de tegenpartij zijn niet bekend uit de samenvatting.",
+      "invalidation_nl": "Zonder details over de transactie (zoals waarde, activa en tegenpartij) is de economische impact niet te beoordelen.",
+      "is_already_priced": false,
+      "notes": "De volledige 8-K filing moet worden geraadpleegd voor alle relevante details."
+    }
+  },
+  {
+    "time": "2026-11-03T13:47:49.700381+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Rising Dragon Acquisition Corp. (0002018145) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-03T13:47:50.421389+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Our Bond, Inc. (0001756064) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-03T13:47:51.243274+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Ocean Capital Acquisition Corp (0001926314) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
