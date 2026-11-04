@@ -4666,5 +4666,11 @@
     "symbol": "FILER",
     "title": "8-K - Ocean Capital Acquisition Corp (0001926314) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "4f23050794b3be9f5d69f9ce524ac59b88376fbd947f79e4e269f3e795da5f5a": {
+    "first_alert_at": "2026-11-04T13:55:29.797465+00:00",
+    "symbol": "FILER",
+    "title": "8-K - reAlpha Tech Corp. (0001859199) (Filer)",
+    "event_family": "M_AND_A"
   }
 }
