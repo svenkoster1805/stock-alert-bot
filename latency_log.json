@@ -7018,5 +7018,23 @@
     "event_family": "M_AND_A",
     "news_age_minutes": 15,
     "original_time_verified": true
+  },
+  {
+    "time": "2026-11-05T14:12:10.325957+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 11,
+    "original_time_verified": true
+  },
+  {
+    "time": "2026-11-05T14:12:20.716102+00:00",
+    "symbol": "FILER",
+    "publisher": "SEC.gov",
+    "source_kind": "sec",
+    "event_family": "M_AND_A",
+    "news_age_minutes": 11,
+    "original_time_verified": true
   }
 ]

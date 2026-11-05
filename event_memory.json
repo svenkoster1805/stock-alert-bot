@@ -4672,5 +4672,17 @@
     "symbol": "FILER",
     "title": "8-K - reAlpha Tech Corp. (0001859199) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "fb350145d2c1f4e7f6dc4b2890c3f9109e9623efed064bc9e68da6d1db235faa": {
+    "first_alert_at": "2026-11-05T14:12:10.325939+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BHAV Acquisition Corp (0002097288) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e4e632a4b50bd9890816302ba187549e3460e187c34e6d2b3f6a6fb7ed23dd6a": {
+    "first_alert_at": "2026-11-05T14:12:20.716084+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HCW Biologics Inc. (0001828673) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

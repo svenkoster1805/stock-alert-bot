@@ -11898,5 +11898,37 @@
       "is_already_priced": false,
       "notes": ""
     }
+  },
+  {
+    "time": "2026-11-05T14:12:19.774231+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BHAV Acquisition Corp (0002097288) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "BHAV Acquisition Corp heeft op 5 november 2026 een 8-K formulier ingediend bij de SEC. Dit formulier bevat een Regulation FD Disclosure en financiële overzichten en bijlagen.",
+      "why_nl": "Een 8-K filing kan belangrijke materiële informatie bevatten die de waarde van het bedrijf beïnvloedt. De classificatie als M&A-event suggereert een mogelijke overname of fusie.",
+      "risk_nl": "De specifieke inhoud van de 8-K filing met betrekking tot de M&A is niet gedetailleerd. Zonder concrete voorwaarden of een definitieve overeenkomst is de impact onzeker.",
+      "invalidation_nl": "De 8-K filing bevestigt geen definitieve M&A-overeenkomst met concrete voorwaarden.",
+      "is_already_priced": false,
+      "notes": "De 8-K is een officiële melding, maar de details van de M&A zijn niet gespecificeerd in de verstrekte gegevens."
+    }
+  },
+  {
+    "time": "2026-11-05T14:12:27.946409+00:00",
+    "symbol": "FILER",
+    "title": "8-K - HCW Biologics Inc. (0001828673) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "HCW Biologics Inc. heeft op 5 november 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "De totstandkoming van een materiële definitieve overeenkomst kan de toekomstige financiële positie en strategische richting van het bedrijf significant beïnvloeden. Dit kan leiden tot veranderingen in waardering en aandeelhouderswaarde.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de aard van de transactie, de betrokken partijen en de financiële voorwaarden, zijn nog onbekend. Zonder deze informatie is de impact op HCW Biologics Inc. niet te beoordelen.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, waarde of partijen van de materiële definitieve overeenkomst beschikbaar om een geïnformeerde handelsbeslissing te nemen.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een overeenkomst, maar de essentiële details voor een analyse ontbreken in de verstrekte gegevens."
+    }
   }
 ]
