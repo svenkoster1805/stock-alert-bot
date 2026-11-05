@@ -4684,5 +4684,53 @@
     "symbol": "FILER",
     "title": "8-K - HCW Biologics Inc. (0001828673) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "7a5544067e81dbf809e8f39078e531650b73a6c17de00c924454deeb1d7bb936": {
+    "first_alert_at": "2026-11-05T21:05:23.635452+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Voyager Therapeutics, Inc. (0001640266) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2ab21232160352d2e91e7e5ef2699f229248a94f8e00fc6b2450f21f8d0087ba": {
+    "first_alert_at": "2026-11-05T21:05:38.166762+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PROSPECT CAPITAL CORP (0001287032) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "1b0f0723809e09fa21c70c6e85554ac34f1a8a614f547f08568a0b18b7f3e29d": {
+    "first_alert_at": "2026-11-05T21:05:51.992982+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BRC Group Holdings, Inc. (0001464790) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7fe5cc17cd4c470b6f4d6373ea58846f59b8c4f21903bf9ec4faabcad02f1d84": {
+    "first_alert_at": "2026-11-05T21:06:00.835944+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Acumen Pharmaceuticals, Inc. (0001576885) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "9f34d60c10e7489a0424ad1e8ddac7b4b094035ab5885f2baee515db5671caae": {
+    "first_alert_at": "2026-11-05T21:06:01.751881+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PMGC Holdings Inc. (0001840563) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "3ad15d7774554fdc250bb3e13d8711a663e890fecc5fec923812da5c939f8867": {
+    "first_alert_at": "2026-11-05T21:06:02.674276+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Renatus Tactical Acquisition Corp I (0002035173) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "f0dc54a41b97bf6264412b3dd8826832e0dbf944b4cac9f9041019e222d382f3": {
+    "first_alert_at": "2026-11-05T21:06:03.593886+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Honda Auto Receivables 2026-4 Owner Trust (0002161415) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "2049a8a71fe59aab5caa27bd6668b2a92ff7a2d5dc10ea66748ca0f94240dea0": {
+    "first_alert_at": "2026-11-05T21:06:04.480046+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AMERICAN HONDA RECEIVABLES LLC (0000890975) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

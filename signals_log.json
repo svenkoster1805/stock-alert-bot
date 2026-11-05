@@ -11930,5 +11930,123 @@
       "is_already_priced": false,
       "notes": "De 8-K-melding bevestigt een overeenkomst, maar de essentiële details voor een analyse ontbreken in de verstrekte gegevens."
     }
+  },
+  {
+    "time": "2026-11-05T21:05:37.227137+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Voyager Therapeutics, Inc. (0001640266) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Voyager Therapeutics, Inc. heeft op 5 november 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de voltooiing van een acquisitie of desinvestering van activa.",
+      "why_nl": "Een voltooide acquisitie of desinvestering kan de balans en operationele focus van een bedrijf wijzigen. Echter, zonder details over de transactie is de economische relevantie voor Voyager Therapeutics onduidelijk.",
+      "risk_nl": "Het grootste risico is het ontbreken van details over de aard, omvang en financiële voorwaarden van de transactie. Hierdoor is het onmogelijk om de impact op de waardering of toekomstige prestaties van Voyager Therapeutics te beoordelen.",
+      "invalidation_nl": "Er zijn geen specifieke details over de transactie (zoals waarde, partijen, of aard van de activa) beschikbaar om een geïnformeerde beslissing te nemen.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een gebeurtenis, maar de essentiële economische details ontbreken volledig in de verstrekte informatie."
+    }
+  },
+  {
+    "time": "2026-11-05T21:05:51.069224+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PROSPECT CAPITAL CORP (0001287032) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "PROSPECT CAPITAL CORP heeft op 5 november 2026 een materieel definitief akkoord gesloten, zoals gemeld in een 8-K filing bij de SEC. Dit akkoord valt onder Item 1.01 van de filing.",
+      "why_nl": "Een materieel definitief akkoord kan aanzienlijke financiële of strategische gevolgen hebben voor het bedrijf. De aard van de overeenkomst, hoewel nog onbekend, kan de toekomstige inkomsten en activa beïnvloeden.",
+      "risk_nl": "Het grootste risico is het ontbreken van details over de inhoud, partijen en financiële voorwaarden van het akkoord. Zonder deze informatie is de impact op de waardering van PROSPECT CAPITAL CORP onduidelijk.",
+      "invalidation_nl": "De concrete voorwaarden, de tegenpartij en de financiële impact van het materiële definitieve akkoord zijn niet gespecificeerd in de beschikbare samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing zelf zou de ontbrekende details moeten bevatten."
+    }
+  },
+  {
+    "time": "2026-11-05T21:05:59.901012+00:00",
+    "symbol": "FILER",
+    "title": "8-K - BRC Group Holdings, Inc. (0001464790) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "TRADEABLE",
+      "confidence": 1,
+      "summary_nl": "BRC Group Holdings, Inc. heeft een definitieve overeenkomst gesloten en de acquisitie of verkoop van activa voltooid, zoals gemeld in een 8-K filing bij de SEC.",
+      "why_nl": "De voltooiing van een acquisitie of verkoop van activa kan de financiële positie en toekomstige groeivooruitzichten van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke financiële voorwaarden, de omvang van de transactie en de impact op de balans zijn nog niet gedetailleerd in de verstrekte samenvatting.",
+      "invalidation_nl": "Als de volledige 8-K filing geen significante financiële impact of concrete details over de transactie onthult.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding duidt op een materiële gebeurtenis met een definitieve overeenkomst en voltooiing van een transactie."
+    }
+  },
+  {
+    "time": "2026-11-05T21:06:00.835967+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Acumen Pharmaceuticals, Inc. (0001576885) (Filer)",
+    "score": 14,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-05T21:06:01.751904+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PMGC Holdings Inc. (0001840563) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-05T21:06:02.674299+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Renatus Tactical Acquisition Corp I (0002035173) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-05T21:06:03.593909+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Honda Auto Receivables 2026-4 Owner Trust (0002161415) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-05T21:06:04.480070+00:00",
+    "symbol": "FILER",
+    "title": "8-K - AMERICAN HONDA RECEIVABLES LLC (0000890975) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
