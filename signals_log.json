@@ -12048,5 +12048,21 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-11-06T13:53:24.373329+00:00",
+    "symbol": "FILER",
+    "title": "8-K - 60 DEGREES PHARMACEUTICALS, INC. (0001946563) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "60 DEGREES PHARMACEUTICALS, INC. heeft een materieel definitieve overeenkomst gesloten, zoals gemeld in een recente 8-K filing bij de SEC. De filing omvat ook de niet-geregistreerde verkoop van aandelen en financiële overzichten.",
+      "why_nl": "De aankondiging van een materiële definitieve overeenkomst kan duiden op een significante strategische stap of transactie voor het bedrijf. Dit kan de toekomstige financiële prestaties en marktpositie beïnvloeden.",
+      "risk_nl": "De specifieke aard, omvang en financiële voorwaarden van de overeenkomst zijn nog onbekend, wat de impact op de onderneming onduidelijk maakt. Er is geen informatie over de tegenpartij of de waarde van de transactie.",
+      "invalidation_nl": "Er is geen concrete informatie over de aard van de M&A-transactie, de betrokken partijen of de financiële voorwaarden om een handelsbesluit te rechtvaardigen.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een overeenkomst, maar de details van de M&A zijn niet gespecificeerd in de samenvatting."
+    }
   }
 ]
