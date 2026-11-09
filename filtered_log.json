@@ -1,50 +1,5 @@
 [
   {
-    "time": "2026-09-08T10:48:29.939707+00:00",
-    "reason": "te oud voor fastlane (42 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - WAFD INC (0000936528) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 42,
-    "url": "https://www.sec.gov/Archives/edgar/data/936528/000114036126035826/0001140361-26-035826-index.htm"
-  },
-  {
-    "time": "2026-09-08T10:48:29.939760+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Greenland Energy Co (0002093507) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 42,
-    "url": "https://www.sec.gov/Archives/edgar/data/2093507/000182912626009787/0001829126-26-009787-index.htm"
-  },
-  {
-    "time": "2026-09-08T10:48:29.939779+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Artificial Intelligence Technology Solutions Inc. (0001498148) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 43,
-    "url": "https://www.sec.gov/Archives/edgar/data/1498148/000149315226041651/0001493152-26-041651-index.htm"
-  },
-  {
-    "time": "2026-09-08T10:48:30.267742+00:00",
-    "reason": "te oud voor fastlane (43 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Greenwave Technology Solutions, Inc. (0001589149) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 43,
-    "url": "https://www.sec.gov/Archives/edgar/data/1589149/000149315226041650/0001493152-26-041650-index.htm"
-  },
-  {
-    "time": "2026-09-08T10:48:30.582237+00:00",
-    "reason": "te oud voor fastlane (44 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Circle Internet Group, Inc. (0001876042) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 44,
-    "url": "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000267/0001876042-26-000267-index.htm"
-  },
-  {
     "time": "2026-09-08T10:48:30.582289+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107953,50 @@
     "publisher": "WSJ",
     "age_minutes": 50,
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXeUxxbXExTzE4MXFITFBYNmhsbTRVUmRWSHcxVF85TnpnbFRpai1FRGZSS01jNVRsMVNqYW5QcWFJelM3bGdqMFpmU3VQY2s4M2VsYkVJOXVYUEYtYTN3bkEwTEtmNnp0MFpsc3laZld5TFJxRDZlMnFZWUdPcEU?oc=5"
+  },
+  {
+    "time": "2026-11-09T01:39:54.986225+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Globa Terra Acquisition Corporation Announces Definitive Business Combination Agreement with Nature's Ledger Inc. and Reaffirms November 9 Shareholder Extension Vote - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 34,
+    "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOak8yTUtEN01fanFqZEVnSjJtWjN3VXdvMGMwT0hhbXZIUk5hN2FwWVM5aHJqcjI3WHVFcE9jNmJoaWZzQTU1dm54d0g3c01adUFXTEwtY1pzWWYzV2pSSi1tamM1YThSQUQ4OGM2YV9kcVpIZEduUVdMZEJPUmxKUzRUYXlGR0lFSnpWTThOc1BGUDMxdUV4SDEyN2pxV0VfMXV5UE0zWGw3d3lPSnBIYzNMN2U0eGVaQndUc0xGcDRYWWJDNWNVV1poV0REQlRrRWF6eXYxR2pOR3BNWDJ1WUhma0tmWWhUV2lldjZrTG9aM2lENzN5cjA3akVtUEIyU3BoNzZhdG5zLS00RzVFX04xS3VQTzdvVHRvSXZ1dmo3cVdiaENzaUUtS1dPWGhsMFkyekpDSUJQR21lekM5Wk1oSnJwa3M?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-09T01:39:55.498613+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "GTERA",
+    "title": "Globa Terra Acquisition Corporation (GTERA) Agrees to $323.8M Nature's Ledger Combination - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 34,
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcFUtaklTemFaTTVxemJXUGJXLXpDT1owak5KQ3FLQ1pyWHd6RzNIU1pEbW5RNnNBMzROcUc0UTk2OVlaRnQ5OHliYnBTTktRNV9TYl9QeDczNUZTNGZhU01jQTVJMnRjUl92VFg4UE9QUktDUnJ5R0hLMjVrdXBPMHJFanpMeXBvTlZGX2Q5RDVkVkMwbDRNM0NVbzdoZGxHNDc1bWd5TWlNVkY0LXBYVXF5Vkp4SUVCaGFUWEpUR2R2YVlJdU5ERHdJT2VXNnYxellRdUNCdmZhWlB4aFhkQTBR?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-09T01:39:56.402580+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "M2i Exercises Option to Acquire Graphex Subsidiary - TipRanks",
+    "publisher": "TipRanks",
+    "age_minutes": 57,
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGNDLTZ3WTF1NG9vMmVWN29XSk9jdURnSHA2Tk54UzMzZnJlT3g3MmozT0NtaDA3QWFibzBaM2tVWUhfZy1CNnNhU3FqNEpHZko0UUROTUZab3ZCS0pqa3kxV3hlUElkRDgxMGJMaVNKa1Y4N0RCWmp1dkpKaDB0d1BtYzJza0lnTGVZMk5yVlY2V3lTMEYySUt5emtEdW5DVi1pbw?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-09T01:39:56.402631+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Weekly Recap: Profit rises 53% and South Eastern Coalfields IPO filing - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 39,
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNmJMWndvZHE3TEZ6bnVWbVkwUUF1SVZOa3YzSXRYZWNOS0M4WVlwU3FlQ3dOT0gtQWdoY1FFX3dLeHp2ZzlXWW9oenNjMFpTRXFOSWVFdndPa0t1TUlGWEN3TDFFMm96Wkh3dGEtNmcxTHZvS19mVXBXLWpmNTNlNW1YOVZEckJIOERYc0pMVkN0aUpDT3JkSW9EN0ZncmtxU0NXOENSQ19vRGkzQV9ERmxNMHhpN3lsQWtfd0IwQ0ZuWE83MlNsemdR?oc=5"
+  },
+  {
+    "time": "2026-11-09T01:39:56.402654+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Hut 8 Expands AI Campus Commitments While Funding Buybacks With Bitcoin Sales - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 39,
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORHdIVFpWN19OX1dRUjNlLWdrUWJZeWIwdnM4TE9ielhENkdSV2NPMzlIc0lWOXA5NEtYd2Vqa2Z5MHZ3UEdzTUhFMGp4WFR3SE02bXM1bTFvWUxvUHZ0NWVleFVXbHBSQXFCWk5XZmFpTVJicjRBOXlhc1YzN29oV3VTZ3JtN3BSMFBHQi1FT3dqVl84VGhyQjdXQjRrb0ROR2FaVmtHeTBKV0JlNzZxcWpiMEJoSGJIai1Vbk9NcE1idzdWR0RfM0x5X1YtZGJQ?oc=5"
   }
 ]
