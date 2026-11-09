@@ -19183,5 +19183,30 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt een overeenkomst, maar de details van de M&A zijn niet gespecificeerd in de samenvatting."
     }
+  },
+  {
+    "time": "2026-11-09T15:29:35.205279+00:00",
+    "symbol": "FILER",
+    "company": "Monroe Capital Enhanced Corporate Lending Fund (0002061670) (Filer)",
+    "event_key": "29d5a84080699d2b1b3f3faf07efec21415c44fd7702739c8e5bdfbc894cba84",
+    "event_family": "M_AND_A",
+    "title": "8-K - Monroe Capital Enhanced Corporate Lending Fund (0002061670) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2061670/000110465926124272/0001104659-26-124272-index.htm",
+    "news_age_minutes": 25,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Monroe Capital Enhanced Corporate Lending Fund heeft een 8-K ingediend bij de SEC. Dit document meldt de beëindiging van een materiële overeenkomst en ongeregistreerde verkoop van aandelen.",
+      "why_nl": "De beëindiging van een materiële overeenkomst kan duiden op een strategische wijziging of het mislukken van een eerdere transactie. Ongeregistreerde aandelenverkoop kan de kapitaalstructuur en toekomstige financieringsbehoeften beïnvloeden.",
+      "risk_nl": "De specifieke aard van de beëindigde overeenkomst en de redenen hiervoor zijn onbekend. Zonder verdere details is de impact op de bedrijfsvoering of toekomstige M&A-activiteiten onduidelijk.",
+      "invalidation_nl": "Er is geen concrete M&A-transactie, contractwaarde of formele voorwaarden bekendgemaakt die een trade rechtvaardigen.",
+      "is_already_priced": false,
+      "notes": "De 8-K vermeldt de beëindiging van een overeenkomst, wat geen directe M&A-aankondiging is."
+    }
   }
 ]
