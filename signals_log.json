@@ -12080,5 +12080,21 @@
       "is_already_priced": false,
       "notes": "De 8-K vermeldt de beëindiging van een overeenkomst, wat geen directe M&A-aankondiging is."
     }
+  },
+  {
+    "time": "2026-11-10T20:58:15.758921+00:00",
+    "symbol": "FILER",
+    "title": "8-K - EXICURE, INC. (0001698530) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "EXICURE, INC. heeft een 8-K filing ingediend bij de SEC. Deze filing meldt de totstandkoming van een materiële definitieve overeenkomst.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke transactie zoals een overname of fusie. Dit kan de financiële positie, groeivooruitzichten of strategische richting van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke aard, voorwaarden en financiële impact van de overeenkomst zijn onbekend. Zonder details over de tegenpartij of de waarde is de economische relevantie niet te bepalen.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, partijen of waarde van de materiële definitieve overeenkomst.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de inhoud is nog niet bekendgemaakt in de verstrekte gegevens."
+    }
   }
 ]
