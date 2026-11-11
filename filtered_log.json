@@ -1,194 +1,5 @@
 [
   {
-    "time": "2026-09-09T18:28:02.808351+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Banco Santander, S.A. (0000891478) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 146,
-    "url": "https://www.sec.gov/Archives/edgar/data/891478/000095010326013701/0000950103-26-013701-index.htm"
-  },
-  {
-    "time": "2026-09-09T18:28:02.808363+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - British American Tobacco p.l.c. (0001303523) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 147,
-    "url": "https://www.sec.gov/Archives/edgar/data/1303523/000095015726000991/0000950157-26-000991-index.htm"
-  },
-  {
-    "time": "2026-09-09T18:28:02.808375+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - Nuran Wireless Inc. (0001680637) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 204,
-    "url": "https://www.sec.gov/Archives/edgar/data/1680637/000175392626001733/0001753926-26-001733-index.htm"
-  },
-  {
-    "time": "2026-09-09T18:28:04.227609+00:00",
-    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
-    "symbol": "",
-    "title": "Revvity, Inc. entered into a definitive agreement to acquire Human Cell Design SAS. - marketscreener.com",
-    "publisher": "marketscreener.com",
-    "age_minutes": 36,
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHhkWThwbWRkN0p6Y1FTZFpnSlFHWlB5bXl0dG10OTNLR1k3ckY4b3FEbDUtV0l4bXFJUW90cmM3c3RfSElvWUdYUlhMZ2VUYkRtcGtLZ3E1NEZSTS15OU1SOG8yZmRxcTJwSl93b2VLX1g4VmhsT3J4WXlfb1ZXYlNOLVJ4dV91OFpXY201TkV6dE5kay1QbUw5X1BtUlBDRDE2ZXJ4dW95NzN0dUppSnh2c1lRRTFCOHpZU09HZ0FfdHlVa0drSlFOV1FZdw?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
-    "time": "2026-09-09T18:28:05.187996+00:00",
-    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
-    "symbol": "",
-    "title": "Super Micro Computer Reports an Insider Sale of Company Shares Worth $7.7 Million - The Motley Fool",
-    "publisher": "The Motley Fool",
-    "age_minutes": 1,
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN09LR3NLQmRxdjdETjh2VkVqYWxGcC05Q3dMTzU0aVlZcTJJMlk0LXMta0ZFLXMyRXVNQ1psRDF5ZVQ1OUdsTE85TE9lbDFxVG80U1NZMkROeEo5UEZDNDFmY2d4M3cwLW0zWGQ3dnRJb2pjWnZSWUgySmNycXV6emEyRUlPWkdydU9qWlhwTzJlUUZqbi1oaXlxN3hlRWRFdm9uT2tpNko5czdaZHhnX3E0Nko2ZEpqSUdYNUxYSlpoaTljN2hCQ3ZPdVVHZw?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
-    "time": "2026-09-09T18:28:05.188049+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "NFLX",
-    "title": "Netflix (NASDAQ: NFLX) director plans $54.9K stock sale - Stock Titan",
-    "publisher": "Stock Titan",
-    "age_minutes": 46,
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDg5X20td3VjUlhacm9VR1NScmpScE9qT1hnYTM4Rmttb1JoZm5UWm9WVXZqYWNoOEx0NWg4ZUFuQ2dxQnRYU1NUT3ZIOXFTVlVndVp3b0djYjlHbFBlUi1lbm1VeHVJNlZzcnRySC1rNVFvb1ctWlpHbFdnRHZESklSekJzY2JSZnRNRXN6aUU2Zw?oc=5"
-  },
-  {
-    "time": "2026-09-09T18:28:05.188068+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "KTCC",
-    "title": "KEY TRONIC (NASDAQ: KTCC) Insider Mackleit Duane D Reports 20,106 Shares Following Option Exercise - Kalkine Media",
-    "publisher": "Kalkine Media",
-    "age_minutes": 13,
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb0dJRGxSTDJ5VUdjYnBCT1NSR0dUejdxYW5wZ3VDa2ZGc1BiRHZVQ3M5ckNQRHNLTTduNVRRNkN1dmxyVDh1czZaV1FGb0p6dTNaYk5rWHhENjNIcm1OUXRtdXl4Y2s3b21uNkQydjBYai01TzJJWEZta21hNWN5ZkZ6c3Rvcllvdi1HN3NPVkNzNHV3TzlJTWU2Yld5c3hXbFZ6RERKRy1CNFdFdHlFa1BPVEM3MG5uUVhsWEdwS3Brb19FdWdJZFQxUTlENmRlcFY3MzRsbXo?oc=5"
-  },
-  {
-    "time": "2026-09-09T18:28:06.190026+00:00",
-    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
-    "symbol": "",
-    "title": "Figma General Counsel Sells 109,000 Shares for $2.8 Million - The Motley Fool",
-    "publisher": "The Motley Fool",
-    "age_minutes": 39,
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOFhMYl9hR1JOc1FUaWJjSi1nQUtFamt4Y2NwdEZHeDA1NVpMbjFtMTdJNHdwYVNmUThBanZJU0RVanVocE1iM0xpX1RWTkhzZzE2bWgyWFlqUkcxQk9IVElJWkNaUVNfU0xBU0xQY1ktamxJZHpUWGVFSmZYekdoWnV5aE1XWVhaVWRmR0hEdktjTVUwZHJqajU1Z3hQTmF1cklJN2Y3c2pkelpBU0RnaQ?oc=5&hl=en-US&gl=US&ceid=US:en"
-  },
-  {
-    "time": "2026-09-09T18:28:06.190087+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "₹34 lakh tax relief for F&O trader: Why ITAT Delhi rejected the ‘speculative loss’ tag - Livemint",
-    "publisher": "Livemint",
-    "age_minutes": 4,
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQW54OWxZWEU4QlhhVExFOWRuWHZXQk9VOEtrVDQtMGRyaENsVWJYLWk1WXpoTEt4SlJMQ0daMVVyMzF2VE9ZRHVGei1BWjRRN1YwR2ZaOGlqUTZteXJNcXBfUEpKOXNmLUJkWXNSVzhoZXExUGNfY1lxdE9HTUVpUUxCQVpJWUFsWk9GajBHS1I4V05xMndvTnhTeThYWnU1YlhyMFNLbVlOZnd3cG50cHRZc1VnSGpXc21zZzhDRjNxWTlTdmhWNFFRUEE4MDd6bkU0MEUxNXFFRlczLUc5cmJDSFLSAeoBQVVfeXFMT05lS3VBTnRzNC1hV1NvQVczODJhQ1J0WWotQ2ZDS3hacDhxSHhWdWNjVmRXcHhtbGUzX0hJOVJFN1Z3M1BRQlNaaTVuUGlpSGJzSWd0b2MwN3JFLWFFWGRmMjlzQVpESlhRRFRiRU8tckRBM1o4RkZpcFhrb1RTSDZtNVd2OERqTjNnRDBtd3BLLWNRZ0dpUHpyVGt4bUdmQTQ2UzNTY3hXNm9mRGg5UDIzY0JEWWltS0UtdFBpZUZJeWw3cldYR1E1aGV3OHMzRENIcXdtdG42SnZoRXVPdlVRQWNoRWJiMlRB?oc=5"
-  },
-  {
-    "time": "2026-09-09T18:28:06.190104+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "Insider Sale: Chief Operating Officer of $GOLD Sells 6,667 Shares - Quiver Quantitative",
-    "publisher": "Quiver Quantitative",
-    "age_minutes": 12,
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLXpqRjd4VEF5UHBVR0t3MTdEUzlyVnpzTTJtOU9BTEFUdmVNUTVUUjlsdGtqNElIN0tHUmgyZFNRTkswTHhqVzMzZ0I2SVdGNno2UWM3TDJkQ285UjZkQ001TWNVSDBHbFExQlJqcnAxZzdaZnpiZ050UVVQT0pyQWtiOTVKVks1MUlid29lSDgtSmNrdFZCS19DeVhxOUFlcThvdnRocw?oc=5"
-  },
-  {
-    "time": "2026-09-09T18:28:06.190122+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "America’s Car-Mart reports $69 million quarterly loss, shares tumble - The Arkansas Democrat-Gazette",
-    "publisher": "The Arkansas Democrat-Gazette",
-    "age_minutes": 19,
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMUZMMUIxUlVZR1FIMWRwMVEtNW5Fc3ZhUURPaXFyVjhwVGF2WHl1eVZzVTRQNWlNN2NRd2lSU2FVa3ExcGpYMjIyNTZkb0xDdGpxal94eWs5bU5uU1ZRXy1EZEt5dVRmeTdrQWF0c0U3UWFURFd1Zm1oWVVrMEtaMngxRjItcVpISkpjeXdmSGRQMlNGQlltcXFiYw?oc=5"
-  },
-  {
-    "time": "2026-09-09T18:28:06.190137+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "Toro Co president & COO Edric Funk sells $13,682 in stock - Investing.com",
-    "publisher": "Investing.com",
-    "age_minutes": 24,
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQkE0V0lHZDcwTTZYUUxNSF8tQ1hLMVRSc0doeVFMZTZXVEx1b2d5b1dPS2Z6MmlYeEViNDFZWkozMFprOU5fYklsZUxCbVlzY3BWcEJ4OWVJUTM2dU1ENHFrVnZWVHo2M2JSdUFjUWlETzhURjFOWE9oSksxY3Q4QUdMejZXTE1tUjBBaTNNbXFXRTdfaWNLU0Nhd1h2R3drYk5ZZWIwaUJiSWl6eTZwLWF4a0JwOG1WSzIw?oc=5"
-  },
-  {
-    "time": "2026-09-09T18:28:06.190150+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "VZ",
-    "title": "Verizon (NYSE: VZ) executive records 1,100-share sale - Stock Titan",
-    "publisher": "Stock Titan",
-    "age_minutes": 46,
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0hXQUxoYmZhNjZBSUZsd2cwMmwtaThwek1sanFJYXB3NjBKc3lTREdFb3k1T3NnTmVmM3JZM2M2YTdoVk5LV3lPcGtyRHNqOWhhekRhRFNzZFF2elJDcTROY2tScmhiWjhESEh2aHhWU3NWck8zb2MySW51amFFNlB0Vm1lQmdmX1E2QTlDMmNCclRsd0o4UEFIU2pQaEVEb193eTJUb0k3TjhEcUh6djlVT3J6RmFLMFE?oc=5"
-  },
-  {
-    "time": "2026-09-09T18:28:06.190164+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "",
-    "title": "Saba Capital, 10% owner, sells $2.56m BlackRock ECAT shares By Investing.com - Investing.com Canada",
-    "publisher": "Investing.com Canada",
-    "age_minutes": 32,
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMW5xTW0yQnVPMHZDQm51aHpoekUxRjdkcGlrcFVkS0JxODhWYlkyLWV0VVp4emFsTG5wd3owcC10WEZxbERCTWJ1bXNGSHNGMHhIODFMcmVXUlZmZnVtZnF6YmFNOFRTM3M2NUVIQUNoQThmRnQ4dmJwWm56VU9WNm53NWI1TzlWdDJZYW9QZGNpa1ZyZDN1QjRGT3p4ajgwcF9mTVBFNlN4akgtU1FIX2dqUFgwUQ?oc=5"
-  },
-  {
-    "time": "2026-09-09T21:05:43.971248+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - COMMUNITY TRUST BANCORP INC /KY/ (0000350852) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 5,
-    "url": "https://www.sec.gov/Archives/edgar/data/350852/000035085226000072/0000350852-26-000072-index.htm"
-  },
-  {
-    "time": "2026-09-09T21:05:43.971269+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - Candel Therapeutics, Inc. (0001841387) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 14,
-    "url": "https://www.sec.gov/Archives/edgar/data/1841387/000119312526386561/0001193125-26-386561-index.htm"
-  },
-  {
-    "time": "2026-09-09T21:05:43.971285+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - CANADIAN DERIVATIVES CLEARING CORP (0000319643) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 15,
-    "url": "https://www.sec.gov/Archives/edgar/data/319643/000109991026000259/0001099910-26-000259-index.htm"
-  },
-  {
-    "time": "2026-09-09T21:05:44.013992+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - SUN COMMUNITIES INC (0000912593) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 22,
-    "url": "https://www.sec.gov/Archives/edgar/data/912593/000091259326000254/0000912593-26-000254-index.htm"
-  },
-  {
-    "time": "2026-09-09T21:05:44.014013+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - LESAKA TECHNOLOGIES INC (0001041514) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 24,
-    "url": "https://www.sec.gov/Archives/edgar/data/1041514/000106299326004866/0001062993-26-004866-index.htm"
-  },
-  {
-    "time": "2026-09-09T21:05:44.014034+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - AT&T INC. (0000732717) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 26,
-    "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312526386534/0001193125-26-386534-index.htm"
-  },
-  {
-    "time": "2026-09-09T21:05:44.014050+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - UPEXI, INC. (0001775194) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 30,
-    "url": "https://www.sec.gov/Archives/edgar/data/1775194/000147793226005490/0001477932-26-005490-index.htm"
-  },
-  {
     "time": "2026-09-09T21:05:44.014066+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "FILER",
@@ -107998,5 +107809,194 @@
     "publisher": "Stock Titan",
     "age_minutes": 58,
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTU5ra3VEUzBpcjFiUi1kU05lMlcyOTFjMFRuRnBTZnVKaTZ6UHBWQTk2ZEtuajgzNnlwSzdCZjVoak5ydjVMSDAzcnJqWm8wQXYwWDhzTlN5ZC1XR0FwRXZBUFhjajlFbWhmaUVqVm1GQVR1V29hWVQ5OVdmRThhcFJlU2hzUDB6Tmczek5BZ09RdVIxU09EMXdfb1A1NHYtWlphTjVla2N6elFDY0lWMk9POA?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:14.344806+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Altius Announces Definitive Agreement to Acquire TNR Gold Corp. - The Globe and Mail",
+    "publisher": "The Globe and Mail",
+    "age_minutes": 51,
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNVlKNzZyb3J6RmQwaUVWOGJFLUJaSzN6NWpEZWxQaTlYQ3FHc1BhUFRWZXdqMVJnUlQ2NHVFQmkyRlh1Y0ZuSE5jX3hIVkI4SEJqeWR3MUJVNVBWcHJWOUdkYUJSZ0ZSNUx2dTJHRGRDUUZFYjBQZ25YTURpZDZpSVJ1bm8xdHZsTU9MOGpFc0tBd21iUVFSdVo2NjJjSVZtTnpWYnNHV0NMMEt1cGVFTnloeEZGemlRSkdZN1BfTFk1OGYzM0ctUDRZakUzdjRxVHFiR0NYNXJiZExnSVBKbXhVR2c?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-11T13:44:14.344851+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Salesforce stock deepens voice AI strategy with Cresta deal - ad-hoc-news.de",
+    "publisher": "ad-hoc-news.de",
+    "age_minutes": 33,
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOczFIRTduWHNHdjdZSldDZllHd3l2UHN4eGV1U3cyZDcyWTNxQTFXeUpTYkpxM3pTalpvdll5SGFFeWtmYURvcmhBWUdZTWpTYU1qQWhrUUdLVkoxazNQTWIza0w2djRMSm5kdGYzZVdUMkZXSlpHT09aNEhDWUl0dTdTRklzWFhKVkNlTC1qNmdWZWIyM1NGVG8yc010VFMwak9JNHNITE13TlhMYmhyMmxFVlJqVi1YZnlRaDFBVQ?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:14.760688+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Altius Minerals to acquire TNR Gold in $122M deal - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 50,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHdDLXp4UFhvRmUxOVlqUG5Ha3ZQX2I0WXY0TWJRRFRhY2FNYTlpYmsxOU9kbzZ3Q0pGZkh2VzF2SWgyUTNrUkszOGQ2QXFQRmEwRENHaFhrSkZVb09TbnRZSC1vTjNIWXZtMGFsM0o2d1F5aE1GSzJrbkswV3VRS3ZDS2FubGlGWTN5UEhzcDRiU25XOWxCcjhCTlZtSUU2cDI5ZE1fTWE5YjJpUUs1UQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-11T13:44:15.168075+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Correction to Press Release Announcing Reverse Stock Split of Rallybio Common Stock in Connection with the Proposed Merger with Avenzo - Business Wire",
+    "publisher": "Business Wire",
+    "age_minutes": 29,
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOSmhzWG9MTW1JYlo3RnVQeThDb1d0Ym1fRkU3OWpfd1BjMGpuMnpCVDUzZkM5Y1hFTmt5NnhWdXVIZWFNOTdRU1Nmam0tX3ViOWJQR1FMOHFvUTVmdXdaTk42WkZmeWVYbVo5NHUtdmtQeFhyZTZWZFNJR3RXLXc3ay1lb1RsMW9BV1RiMnpWSHI2QWc2N1JKZFZHOWhoeW5uVV9MWVBpZ3lYRUJ5dnlsLUh0bzZVOUFTYTBLX3pMMUR4RG5wOG1zX1h3WDJHRlFBaGJuTW5jRW5oNklsRmR3aEgtMU55NzBmbkNiMXVlSEpYVXIzQldRWW56cXZERzVFVFVDeTlnWnFJb2pfZTBzNy1PbTdaazMxOEVJ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-11T13:44:15.168124+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "For C$500,000 cash and 150,000 shares, Gold X2 buys 42 claims from Bold Ventures - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzZ2dF8zbHRHeTh0aUVBaG9SQXBFUFBGZVVlYWpyN0t4eGhiYXZueGE4X2VCS0g2SVZPTWN0SW5xal9FNzIyMktNeUdMLTdPTURRQzhZZ0pPRVZUR1BwZ0tvU05SUlF4ZFp6bGlqdGZzaHhtcmR3bzBBdV94UzhPQy1HS3FiMW9fNXJKVjh4RE9NNXhpZEE0NVdwQWRBaWNHeE9fdA?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:15.168157+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "A cigar distributor earned $54,535 in Q2, while revenue remained below year-earlier levels. - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdUFXckd2RGE5VUdmeXZGYklCYVNZcHYyS0lkWlNRMGJMUDZETU8zZTNDS3FfakdwTFN6NVV1MURON0RxbzJxTHAzeUd0UzhGUkRobHVDSzM1a2FEZzNlSmhmYW9pVWZpc2NqbXkxZ01aUHZXeFZrNmpVMkwtQzlsM2xTcFRQNm1nSWFORWttaTVDaE9CdkpadHJ1c1RNZUk0MW0xd0F1anNueUIxRjVNWHNPVW1HNDZqTUh4SmdmUQ?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:15.168170+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "More U.S. brokers can now handle trades in V Ten Metals shares - Stock Titan",
+    "publisher": "Stock Titan",
+    "age_minutes": 59,
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMHpEWElQSXEzZVpzMzRjWEdrRTBnVUpOSVg1WC1BV3NYSTEySy1UWXJXMkxBMVBmN0UwSzVoUmN1R2dobkFvRkozQjNmMV8wQnREamhJaXU2N2lFTkdPSFBIaGs4MjY2TTdMRlVLTnZXUlNzRU8tamxTM0VWMnN4bFlYZ1RQRU5LaF82UU1GZURpcVk?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:15.168182+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Lumentum stock tied to $115 billion Marvell all-stock deal - ad-hoc-news.de",
+    "publisher": "ad-hoc-news.de",
+    "age_minutes": 24,
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQODMxUi1oc1lsODQwUkVhX3NmZmZpS2ZUUVhaTlBJNVdpQXktMUVQbTdnazNTU1lqOG9lRjIwT1dYZE1leDB4ai1laURhY0U3NWdmbzBQdEJQRkl6akJVdGZLelpMbDU4Sm9RNk8wcU50X01JMm1UTUFLNTd0aElSNU9KSUJmWWFlaDFGRlZjR2lQbUFTQ2gwMnZDc0ZhSEVLZ3ZjaVlmb2NyenRNOExVaElORU4tYVROSDB1cA?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:15.168193+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "National Bank of Canada stock adds Embark savings platform - ad-hoc-news.de",
+    "publisher": "ad-hoc-news.de",
+    "age_minutes": 26,
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmROb2JUejVxZk5zZTJOR2ZiRUtFVTFYUGpXbE5CenE2Ql9OZTI3Z2hGa3NibGtmM1kxWUJ1ck85b2Y1N1dvRkFabEZWZ2hLd3JGbGVKZG5hNURZNkNQMjF2Z2xhZ3VhY0lHY2hQdldIYVQ0elNJVXpUYjMwYkhsbzBNaFRERTh0TDJTUGNoNURPZEx0WmF5eXYteFlzRHRFTk55bGJYeS1aMFAyZWl5YkM0OXJRLS1ITWQ0akVB?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:15.168204+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Who will own PC Hotels Chain as Fauji Foundation, Thatta Cement reach Major Agreement? - Pakistan Observer",
+    "publisher": "Pakistan Observer",
+    "age_minutes": 5,
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcW9mQUl4TVhOajR5eVZ3Z2dHcGp5RTNqZ1RQbV9haXlSeGRaRGZEaFUwVjk3cTFmMHNFLVNPLTI1OUV5RzZaYmloSmFyX1lDdHBRYUhqYjRSOFByOFkwS0lSRVg2LVB1dlZxTkpQbXhraHg5TC1vaHhDZnBleTYzRHJwV2xVSkxvTW9OZmJnQXVuR3JybExTTklhdkpWMlkzZzk3YTNNUnFBLTY0b3c?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:15.595267+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Pandora raises guidance: mega-factory in Vietnam, diamond growth strategy, relaunch in Italy - FashionNetwork USA",
+    "publisher": "FashionNetwork USA",
+    "age_minutes": 57,
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYWM0SUtDZUNwbmtQMUtvX3FhUjBuUzZ1WHVQSnZkajJ4TGxOYzAzdXJPRVE4bWI4NjJhNVdvbnZrVFctRDhLRUVlTnQ5ejdYSVZMR0tNOFlZS2hmbVM1MWxQMjBJaUZmWi1pVFI4U3haS0lIV3U2NWFrVFp4a1FqTGlSaHhhRWFLUmUxNzJFLWM0QzN6dVVfNlA0TmFQeXJicTV2dGJTQXVfY1FFUGZ6bWtTV0ZvSWVneWY5Nks0Rmt4cFUzNi1GUllHc3FEQkNtQ3Jv?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-11T13:44:16.006500+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Green Sail Capital Partners Advises on Sale of Affiliated Ohio Wealth Management and Insurance Firms to Maridea - Yahoo Finance",
+    "publisher": "Yahoo Finance",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMGFVX3hrNWdaSVRUeDd4ZHhTWDczTlpWNF9jLTU3OHFMakV4MUV1bzVmeFh1QXdGRWxYcE8ybnlyRjB0aWo1OEtfNjdlbGxQREVUV0U4Q2V6QW5hNGxLRTVjc2FiQ1MzRzZHU2xya0Q0R1BVb05NeTlUbXN2NnBJWmw0UkxJYzA5anFlYlhkMG56SjN5WnQ5aUJqbG1EUE5EUmc?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-11T13:44:16.006542+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "CARL Maintained by Needham -- Price Target Raised to $22.00 - GuruFocus",
+    "publisher": "GuruFocus",
+    "age_minutes": 26,
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVkYxWEIwQVVNbVgzNHEzaHJLdkFRWWdQV0NNRHhldkdkOFRuOENkNkZaRnd3OERoTEozTnZzQVZUM19CbE8xb0RwVnVGX3RHNXBsaXZzRkc1ZFd0eHRrdTF0bllGTFdTOG5xRHlQTlFIWXIzbnF2T1BrakFiTU5UU0toQXNuTk5yTDRGN0RHRzk1M0JJZ2huNg?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:16.219538+00:00",
+    "reason": "Google-result zonder bevestigde oorspronkelijke publicatietijd",
+    "symbol": "BOL",
+    "title": "Bold Ventures (BOL) Closes Sale of 42 Burchell Claims - TradingView",
+    "publisher": "TradingView",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLWRqN2hyTEdNQS1oRmpQeDBXOEVwRGMzWkNHQUFQcm1SZk13dXhIM3JDSlJLVkZ5YkVmUU0zYlNqcW9DV2hyZjdtZWQyWWlwcktyTjBkdnlhMUpIa0xaamN6Y3R1NjZlZFVOanc0dWliUXNrdU5WUm1vSVpTRFZ3cUJnQ2E0MEIySXJLeE85ZTk2TWs3MU94ZnBGVkhhMDM1djlYTFBJR3BtcmVybVBibWdFQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-11T13:44:16.219622+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Form S-3ASR Southern For: 11 November By Investing.com - Investing.com Canada",
+    "publisher": "Investing.com Canada",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaWdwZ1NhRkYxQVZObmN4Tk1ubVFHSnlaR040VGQyOVE1ODRDaTNpUVdMQk9MTzcxR1FTV1dTQmdIakdEZHlDVV9QM1ZZSjZhZFNEZjUzNVRGXzZUYTdaNFI4QlBaTE1oUzU4RVBQdXllYklnS0NUVFRGdVRWVVdzbmQzbEd0dHgxMHVJVi0wM2ZncnJOY3JmWFJTUnQ?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:16.575981+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Bold Ventures Closes Sale of 42 Claim Units at Burchell - Yahoo Finance",
+    "publisher": "Yahoo Finance",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS2wzTkcwQ0I1QS1zbTlsQ0dBVUJfZHJwa0g4OEd0YUh1VFRZNkxJOG1ieXNLYVFrVURCWVF6S0otSjA4bDJaVzNHTnBScXFWc1U4RFczcWZHWXJuN2RjanhXbFdsWWRlN1VoOHVScUhpVHdQZ2ZyQlpaM25pWEVJczZic0dGWlRwcktHSDFJRnJyX2Z0YUlOVE4wckloWkk?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-11T13:44:16.576026+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Dubai’s first IPO of 2026 makes positive market debut - Arabian Gulf Business Insight | AGBI",
+    "publisher": "Arabian Gulf Business Insight | AGBI",
+    "age_minutes": 59,
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWUxakUtVGdmWXZhQ2E0dURid0loa2NvazJ6dU9IM1VwV09yTWVXVTV3OXhUNEJud09ZWDFCcEZqWTR4RzBENFlOS3dONE1PR2F6RFVhRVFrNTIzUF9MNGlGMXJSQ0tRNlZRUUdIRFNDcHF3RWhmTG4wNF9IWmh3bXh1dFN2X3gxWTQtODdCX1lqcW5v?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:16.576040+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Devon Energy stock prepares for larger buybacks after Q3 review - ad-hoc-news.de",
+    "publisher": "ad-hoc-news.de",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUUtlNkN1eDQ5cEhNYi03b0x1cF9LQVZCWXhfeHNJN1pjVlhGNXVpMXpVbkg5cXA5ZzNpVVhCOGpxbklfVHVsRHhqajNLUXN6THBXWWNhNE1BUzRPUVNrMXRiajQ5ZnBfZG01ams4M2V1NmtXQnNnWWRyRGVYUW1RNFBVbUdvQnN4S19CVnJkYTNpM3JzS3NBUS15bExfaUxfUVQtQmE5ZzBZbE8wcWVpMW9yMUZvRHhXTG9FcEFTbGwtWWk0?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:17.006437+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "Tulsyan NEC completes sale of Goa leasehold rights for ₹3.81 crore - scanx.trade",
+    "publisher": "scanx.trade",
+    "age_minutes": 36,
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQck1YRzMycWlYT3EyX1N2UXI4QXQxUkNNeDVMOVpYMU9ncFJJUC1Vb0FoSnByWGpfUTZ4aFJaV0tqdm5JbXM3T1h3OFBldFB4Y2hRajBzNi1MZEYyUUhqeWV2X0hTWlNVMVVMOEptbXE1ZVdkbTRNWDBXck5YVE1UaVpwTmpPeHZJRGhKVHBQeW90MFFfOUJRZFJHZ0NGX1hZNXRmTnJPVmY5dDZMdGJhU1pubGtFQQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-11T13:44:17.006478+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Charles Schwab stock draws attention after Form 144 filing - ad-hoc-news.de",
+    "publisher": "ad-hoc-news.de",
+    "age_minutes": 50,
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ29ldy1iNkdLdGJod1hhWXFTd3VMZnZOT3lhZWNDaXRQbVJ5cS1KZVNsX3VZZHdQdDhtVTVBOVZFc1E4V0xKbmU5eXhiaU8zeXNfemdPNmY5OGdjbUVhZUpFZmV2Z0VuM1hwY213OFE1dGRMcDFTUmIyYktfVHBrNHJLNUk1RnRKc0hidWhwNVg0cFhwWXNFR0tya1BvbWRKZWxSblhGZmVocGtTTUU0Y1MzWk9aOUlwOFVQb1F3?oc=5"
+  },
+  {
+    "time": "2026-11-11T13:44:17.006492+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "MX",
+    "title": "MagnaChip Semiconductor Corp (MX) Q3 2026 Earnings Call Highligh - GuruFocus",
+    "publisher": "GuruFocus",
+    "age_minutes": 34,
+    "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQeWJVanNVLVc1blJmVmRRek11cEFZX0tINDNBTXdFTGhlMnRRZUxFVGhzdDlpY3dDZ2NsOFJxSHhqa0VHaEZWaHQ3VEtvd1hYaXF1ZmsyLVVsSzlyNjRKYzRjSG9XUXJnRTBxMk1GTlhvR1RzWjJ1X0hka3lGd3k5dFEzRkpwdHZxTzBVU3V6N2otWl9zNHlvWDVyYWRHdmNkQmp1ZlVEbUZQZTA4eXJMTkU4OXJtTEtwWGhNVk05M0hZaVZnb0JtaE5PSTZZb19vZ3Y3OTlGNG0xUXdhVE1zcmNXQW1kbW9OMUpSVmJndUVyeFE4NXJwbm5ENTBiWTJodUF3cHNtcFU2T0hfWmUzR1ZFWC1KS1JQa0FlYzd2d3puVWJYNVg0MzRJdlJ1YURYemZqV2l5STQ2bTBxdFR0SkdjWFNnVVpkbFVVcG9zdTJCV3U5SVJ6Uk5aVjVCWllkMG1vVkxjck02LWRnMEdkSEhKenZJYm5ndUtYenNudzdwNUNNUFptQm9XYV8zak9XbmdORjlCRkRnUWhJYzRRdGp0QXlBQWc?oc=5"
   }
 ]
