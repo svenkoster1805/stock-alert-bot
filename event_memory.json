@@ -4750,5 +4750,29 @@
     "symbol": "FILER",
     "title": "8-K - EXICURE, INC. (0001698530) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "7f191ec3b57af2e01b912a30fecc5f58c955b0cd43155b01c474219249e32ad6": {
+    "first_alert_at": "2026-11-12T21:37:08.770530+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Nakamoto Inc. (0001946573) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "7918004795994a824b88272268e220f644af9cdebf35cf5310d90bfa1b0f9d54": {
+    "first_alert_at": "2026-11-12T21:37:26.315350+00:00",
+    "symbol": "FILER",
+    "title": "8-K - WhiteHawk Minerals Corp. (0001921603) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "06536c946a6efce2b6ae4108db33e874512d2a0122ba87180d51d79f344c447b": {
+    "first_alert_at": "2026-11-12T21:37:39.601770+00:00",
+    "symbol": "FILER",
+    "title": "8-K - PepGen Inc. (0001835597) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "48db87c422d167b79bd3d63483e4469454ad78525f8250ee935fd92ab81caf4a": {
+    "first_alert_at": "2026-11-12T21:37:50.043977+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Hagerty, Inc. (0001840776) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

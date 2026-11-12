@@ -19233,5 +19233,103 @@
       "is_already_priced": false,
       "notes": "De 8-K filing bevestigt een materiële overeenkomst, maar de inhoud is nog niet bekendgemaakt in de verstrekte gegevens."
     }
+  },
+  {
+    "time": "2026-11-12T21:37:25.981371+00:00",
+    "symbol": "FILER",
+    "company": "Nakamoto Inc. (0001946573) (Filer)",
+    "event_key": "7f191ec3b57af2e01b912a30fecc5f58c955b0cd43155b01c474219249e32ad6",
+    "event_family": "M_AND_A",
+    "title": "8-K - Nakamoto Inc. (0001946573) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1946573/000149315226051437/0001493152-26-051437-index.htm",
+    "news_age_minutes": 1,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Nakamoto Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van een materiële definitieve overeenkomst en een directe financiële verplichting.",
+      "why_nl": "Hoewel de 8-K-melding een materiële overeenkomst en financiële verplichting bevestigt, ontbreken alle concrete economische details om de relevantie te beoordelen.",
+      "risk_nl": "Het ontbreken van informatie over de aard, omvang en voorwaarden van de overeenkomst maakt elke inschatting van risico's of kansen onmogelijk.",
+      "invalidation_nl": "Zonder enige economische details zoals contractwaarde, tegenpartij of specifieke voorwaarden is dit nieuws niet bruikbaar voor een investeringsbeslissing.",
+      "is_already_priced": false,
+      "notes": "De officiële SEC-melding is beschikbaar, maar de verstrekte samenvatting en snippet bevatten geen inhoudelijke details."
+    }
+  },
+  {
+    "time": "2026-11-12T21:37:39.244760+00:00",
+    "symbol": "FILER",
+    "company": "WhiteHawk Minerals Corp. (0001921603) (Filer)",
+    "event_key": "7918004795994a824b88272268e220f644af9cdebf35cf5310d90bfa1b0f9d54",
+    "event_family": "M_AND_A",
+    "title": "8-K - WhiteHawk Minerals Corp. (0001921603) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1921603/000119312526458596/0001193125-26-458596-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "WhiteHawk Minerals Corp. heeft een 8-K-rapport ingediend bij de SEC, waarin de totstandkoming van een materiële definitieve overeenkomst (Item 1.01) en resultaten van operaties (Item 2.02) worden gemeld.",
+      "why_nl": "Een materiële definitieve overeenkomst kan duiden op een belangrijke bedrijfstransactie, zoals een fusie of overname, die de financiële positie kan beïnvloeden.",
+      "risk_nl": "De specifieke inhoud, omvang en financiële voorwaarden van de overeenkomst zijn onbekend, wat de impact op de aandeelhouderswaarde onzeker maakt.",
+      "invalidation_nl": "De bron vermeldt geen contractwaarde, gedetailleerde formele voorwaarden of de identiteit van de tegenpartij.",
+      "is_already_priced": false,
+      "notes": "Hoewel de 8-K een officiële melding is, ontbreken cruciale details voor een handelsbeslissing in de verstrekte samenvatting."
+    }
+  },
+  {
+    "time": "2026-11-12T21:37:49.711104+00:00",
+    "symbol": "FILER",
+    "company": "PepGen Inc. (0001835597) (Filer)",
+    "event_key": "06536c946a6efce2b6ae4108db33e874512d2a0122ba87180d51d79f344c447b",
+    "event_family": "M_AND_A",
+    "title": "8-K - PepGen Inc. (0001835597) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835597/000119312526458597/0001193125-26-458597-index.htm",
+    "news_age_minutes": 2,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "PepGen Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin de onderneming melding maakt van het aangaan van een materiële definitieve overeenkomst. Dit document is op 12 november 2026 gepubliceerd.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie die de toekomstige financiële prestaties van het bedrijf kan beïnvloeden. Dit kan de waarde van het aandeel potentieel veranderen.",
+      "risk_nl": "Het grootste risico is het ontbreken van details over de aard, de voorwaarden en de financiële impact van de overeenkomst. Zonder deze informatie is de economische relevantie onduidelijk.",
+      "invalidation_nl": "Er zijn geen specifieke details over de tegenpartij, de aard van de transactie of de financiële voorwaarden van de materiële definitieve overeenkomst beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De volledige 8-K filing zou de benodigde details moeten bevatten."
+    }
+  },
+  {
+    "time": "2026-11-12T21:37:50.371038+00:00",
+    "symbol": "FILER",
+    "company": "Hagerty, Inc. (0001840776) (Filer)",
+    "event_key": "48db87c422d167b79bd3d63483e4469454ad78525f8250ee935fd92ab81caf4a",
+    "event_family": "M_AND_A",
+    "title": "8-K - Hagerty, Inc. (0001840776) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1840776/000119312526458570/0001193125-26-458570-index.htm",
+    "news_age_minutes": 6,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
