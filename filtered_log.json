@@ -1,41 +1,5 @@
 [
   {
-    "time": "2026-09-11T20:18:39.322216+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - MANULIFE FINANCIAL CORP (0001086888) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 256,
-    "url": "https://www.sec.gov/Archives/edgar/data/1086888/000119312526388875/0001193125-26-388875-index.htm"
-  },
-  {
-    "time": "2026-09-11T20:18:39.322226+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - BARCLAYS PLC (0000312069) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 257,
-    "url": "https://www.sec.gov/Archives/edgar/data/312069/000165495426008287/0001654954-26-008287-index.htm"
-  },
-  {
-    "time": "2026-09-11T20:18:39.322236+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - SAFE BULKERS, INC. (0001434754) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 284,
-    "url": "https://www.sec.gov/Archives/edgar/data/1434754/000131786126000048/0001317861-26-000048-index.htm"
-  },
-  {
-    "time": "2026-09-11T20:18:39.322246+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "6-K - HSBC HOLDINGS PLC (0001089113) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 333,
-    "url": "https://www.sec.gov/Archives/edgar/data/1089113/000165495426008283/0001654954-26-008283-index.htm"
-  },
-  {
     "time": "2026-09-11T20:18:39.322290+00:00",
     "reason": "geen relevante catalyst of negatief corporate risk",
     "symbol": "OCSL",
@@ -107998,5 +107962,41 @@
     "publisher": "theopenpress.in",
     "age_minutes": 36,
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFZHVWU3MlVKSEhua0dleHFsM0U4N1pkSnAyZnhpUVJfVzNQc2NMbnhRalZlcmRPS003eGU4V2JLMVhuNXBtbV9ZMl9UNGM4ZmNsQktUMkZSTnkycFRmYUE3Zmxyblo4ZkhOT1FrN1pwa3VzemtHd0ZUeXp0djNzUlFJOGFxRzlPdnVjbU5tWHFGbVNjU3gyaVROMDBUdlczU3pF?oc=5"
+  },
+  {
+    "time": "2026-11-14T22:45:21.609579+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Vodafone Dials Up Guidance But Says German Unit Needs Improvement - WSJ",
+    "publisher": "WSJ",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0g5Rnp3X0hLNDVtWmFZYTd6UnprTk9tMEFUVF80X2ZlQURkSVhtNUtJT09vMTM4OEVIMEhnalMzeTBFZGpmQS1QM2pvazVNejdpem13ZFEwbHdSQ3Fta1BIdlFDakU5bG13UElpMzl0WVNHZVhEZ3FSNTl0R2pjX1lXYTZFYzk0aGUxY1JyODVHTGRZLWlQZEI3Z1lQaE5qbFVOU3ZIZjBhN3pXeWlqYw?oc=5"
+  },
+  {
+    "time": "2026-11-14T22:45:21.609590+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Riley Exploration Permian CIO sells $143,428 in stock - Investing.com",
+    "publisher": "Investing.com",
+    "age_minutes": 12,
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYkJ2NldVNWdlMG5mV3hBQjFmX1N0MzdqX1VWLTc3dl9ETnRsZ3RMeURfOEZsNXp1bzR6RlRVdk5WN3lCLXlxczFmdUJjWmJCeXBvdUZ5Zm53bnZ0WldFbnoxWVM4aXpXRXN6ek5fSkk5aUUxYUpvNEVQSUNSRDRGMGNRdGZGeVNsNFM1dnozZHhEVzdGU3NRZXhSSjlNbW9uX0ZWS1VIcHU0NElscDlPMHdybWRKNEU?oc=5"
+  },
+  {
+    "time": "2026-11-14T22:45:22.277333+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "A Texas woman fought the court-ordered sale of her marital home after a receiver received a $685,000 offe - The Times of India",
+    "publisher": "The Times of India",
+    "age_minutes": 18,
+    "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxONldZWFloNmdYS2NJNFYxTUpuX2J5MW1kUmswYXhTSEI3bUx0aVpmd05JcTdlcXZlcGUxMnBDbWgzWEFoTS00TE03TzRwWVV4dVZJaUw5RjJRYks5a0szbGZRQlZ6QzQzVGpHb3ltY3JmLXNVNFdnLXZyd3NTX3prbVRPRGNUQVBxSkhyMDVFa2tnRW1aWWR2MjZlOC1UWGNPTTBheU8ydjJBZzhzb2RMckZvVkRTMFJNdHR5TmNFSmZkUkN2YXVWOVVKcE1IeFBoeWpYZ0pheHNTVVdlM3ZCX1ZsVHd1QjBCRjlSNWxQTWxLTU5EbDVDUkY2LVBBeFFNRHBXUEdZcWFiYUo1TjRCYlppd1JmeGtVdG94dHlZRDdYa1Q0c05jRTV0SGQyVlZ5MlV2YjBkY24yYnBMOFFpRlRPcHJ3cHQ1SVZCRnBCRlRkcGFocnNuNUhVNTFPaEJ0V0JER0wzUDZLTDZaVnZaaUZQSkpkNDlpNS1rcWhlQzV2VTZueFMxWUFKOWVjdGozYVR4VTVFZ9IBnANBVV95cUxQVkxVMGNhNEFJU1FoWkNnQ3I3d3doV29NdUVwNm9HWEh4N1ViY09XTkFOWjlGSzYySl9feUU1aWM0anNLZGFic25LaFE2NG1MR09fa3d5S09ZNUI0VVRrS3UzN2lQSVJTUERtU1N0ckdfa21YQldYY3lzUE1rcjNSa2ZNeHdqeHFwRXZsc3l0OEh5clpnelZJa3pCNk9sRmY0VU5GSHFFanpWV2pyeHBOUm9obHNDWmtrelN3M3VOUzhxZ1MxbHNSeTY0Y3hTbUE5ZEoxRDd1U2YyNXVkOWMxQkZScWZtcWxfVGZMRTZPc3NnendLQTUzd1RIbTZMMU1zLW56N3ZkUm5SUkV2eHFsc3BLajJCd0xfcVlta25oNTZNM1NJVDFka19Na0xSU284cS1VaHE4UzNtdzNKZVViUWdQN1ZHNjk0RXlZN3JnUWNGcmFjSW1rRUNDTGtNVkdwVGpiMWtFdkhpbW53UU9GNjRIRzE5UklDNGsyY0V5MmstX1ZqdDRZcmV2YzROZkxqNjQ4d3VBRlJEa2tt?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-14T22:45:22.277381+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Humana chief legal officer Joseph Ventura sells $2.38M in shares - Investing.com",
+    "publisher": "Investing.com",
+    "age_minutes": 58,
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd1hWZ05aVDd3NkdLZE9fRi1MU3NMbWhJajY2ZGdTUWduN1NRbTJWU1I2UWdBanJEX1VSdWZYNl9mWEJaX0VOU0VxNno0SzZTVjZmZ3lIVHBlZ21Pem1wV3p1NlBxamlJNHM3Z2p4M0trV1pxNkl2UjRLSDk2WmtKd3lTSllmNVdONFd3ZGdJMkIyTlNNZUJ6NTZMV0Y4U000TUloQmc2aVNBaUw1VjNOUWZ6RE9TZkNqajBlT0phN3NVZEhvaFE?oc=5"
   }
 ]
