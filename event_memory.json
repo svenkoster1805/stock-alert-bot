@@ -4780,5 +4780,35 @@
     "symbol": "FILER",
     "title": "8-K - ExchangeRight Income Fund (0001771514) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "6f9c3a442fe2542dc17746ce60616465fcd2c5b2ae5a8271eb55cff0709e1c66": {
+    "first_alert_at": "2026-11-19T22:42:29.353253+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Arrive AI Inc. (0001818274) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "34bfb660bb5859c75d76c0fbc5af0625cb705eed523d9319f0aca773a8f5a1ca": {
+    "first_alert_at": "2026-11-19T22:42:42.069500+00:00",
+    "symbol": "FILER",
+    "title": "8-K - INTUIT INC. (0000896878) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "720e83581e9912142605f21f5bb32d257cb8e8d84ae5bcd7a152673cd90b8a2f": {
+    "first_alert_at": "2026-11-19T22:42:44.865266+00:00",
+    "symbol": "FILER",
+    "title": "8-K - INSIGHT ENTERPRISES INC (0000932696) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "e20990ce2a8eaaa3f46dec0a1980786c1320cdc4f080762db2abef9a3881f885": {
+    "first_alert_at": "2026-11-19T22:42:59.031095+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Inflection Point Acquisition Corp. VI (0002102041) (Filer)",
+    "event_family": "M_AND_A"
+  },
+  "ebb01ed9ab9be123f15c24d06efcd38384b82cc54d8efd86142977cba7f58060": {
+    "first_alert_at": "2026-11-19T22:42:59.893567+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Stewards, Inc. (0001795851) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

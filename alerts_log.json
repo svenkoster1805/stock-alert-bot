@@ -19356,5 +19356,126 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de details van de M&A zijn niet gespecificeerd in de samenvatting."
     }
+  },
+  {
+    "time": "2026-11-19T22:42:41.656103+00:00",
+    "symbol": "FILER",
+    "company": "Arrive AI Inc. (0001818274) (Filer)",
+    "event_key": "6f9c3a442fe2542dc17746ce60616465fcd2c5b2ae5a8271eb55cff0709e1c66",
+    "event_family": "M_AND_A",
+    "title": "8-K - Arrive AI Inc. (0001818274) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1818274/000149315226053323/0001493152-26-053323-index.htm",
+    "news_age_minutes": 11,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Arrive AI Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Dit omvat ook de niet-geregistreerde verkoop van aandelen en materiële wijzigingen in de rechten van effectenhouders.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst duidt op een significante strategische stap, mogelijk een fusie of overname. Dit kan de toekomstige financiële prestaties en de waardering van het bedrijf aanzienlijk beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de voorwaarden en de financiële impact, zijn nog onbekend. Zonder deze informatie is het onmogelijk om de potentiële waardecreatie of -vernietiging te beoordelen.",
+      "invalidation_nl": "De essentiële financiële en operationele details van de materiële definitieve overeenkomst ontbreken volledig in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een definitieve overeenkomst, maar de inhoudelijke details zijn cruciaal voor verdere analyse."
+    }
+  },
+  {
+    "time": "2026-11-19T22:42:44.333694+00:00",
+    "symbol": "FILER",
+    "company": "INTUIT INC. (0000896878) (Filer)",
+    "event_key": "34bfb660bb5859c75d76c0fbc5af0625cb705eed523d9319f0aca773a8f5a1ca",
+    "event_family": "M_AND_A",
+    "title": "8-K - INTUIT INC. (0000896878) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/0001193125-26-468834-index.htm",
+    "news_age_minutes": 15,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-11-19T22:42:58.608563+00:00",
+    "symbol": "FILER",
+    "company": "INSIGHT ENTERPRISES INC (0000932696) (Filer)",
+    "event_key": "720e83581e9912142605f21f5bb32d257cb8e8d84ae5bcd7a152673cd90b8a2f",
+    "event_family": "M_AND_A",
+    "title": "8-K - INSIGHT ENTERPRISES INC (0000932696) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/932696/000093269626000089/0000932696-26-000089-index.htm",
+    "news_age_minutes": 18,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "INSIGHT ENTERPRISES INC heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting. Verdere details over de aard van de overeenkomst zijn niet gespecificeerd in de samenvatting.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en een financiële verplichting kan duiden op een belangrijke strategische zet, zoals een overname of een grote investering, wat de toekomstige financiële prestaties kan beïnvloeden. Dit kan leiden tot veranderingen in de balans en winst- en verliesrekening van het bedrijf.",
+      "risk_nl": "Zonder details over de aard, omvang en voorwaarden van de overeenkomst is het onmogelijk de impact op het bedrijf te beoordelen. De financiële verplichting kan aanzienlijk zijn en risico's met zich meebrengen als de onderliggende transactie niet succesvol is.",
+      "invalidation_nl": "Er zijn geen concrete details over de tegenpartij, de contractwaarde of de specifieke voorwaarden van de vermeende M&A-transactie beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is officieel, maar de inhoudelijke details van de overeenkomst ontbreken in de verstrekte informatie."
+    }
+  },
+  {
+    "time": "2026-11-19T22:42:59.449206+00:00",
+    "symbol": "FILER",
+    "company": "Inflection Point Acquisition Corp. VI (0002102041) (Filer)",
+    "event_key": "e20990ce2a8eaaa3f46dec0a1980786c1320cdc4f080762db2abef9a3881f885",
+    "event_family": "M_AND_A",
+    "title": "8-K - Inflection Point Acquisition Corp. VI (0002102041) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/2102041/000121390026122300/0001213900-26-122300-index.htm",
+    "news_age_minutes": 20,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-19T22:43:00.338886+00:00",
+    "symbol": "FILER",
+    "company": "Stewards, Inc. (0001795851) (Filer)",
+    "event_key": "ebb01ed9ab9be123f15c24d06efcd38384b82cc54d8efd86142977cba7f58060",
+    "event_family": "M_AND_A",
+    "title": "8-K - Stewards, Inc. (0001795851) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1795851/000166357726000356/0001663577-26-000356-index.htm",
+    "news_age_minutes": 21,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]

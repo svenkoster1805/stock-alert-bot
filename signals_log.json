@@ -12174,5 +12174,81 @@
       "is_already_priced": false,
       "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de details van de M&A zijn niet gespecificeerd in de samenvatting."
     }
+  },
+  {
+    "time": "2026-11-19T22:42:41.259910+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Arrive AI Inc. (0001818274) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "Arrive AI Inc. heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst. Dit omvat ook de niet-geregistreerde verkoop van aandelen en materiële wijzigingen in de rechten van effectenhouders.",
+      "why_nl": "Het aangaan van een materiële definitieve overeenkomst duidt op een significante strategische stap, mogelijk een fusie of overname. Dit kan de toekomstige financiële prestaties en de waardering van het bedrijf aanzienlijk beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomst, zoals de tegenpartij, de voorwaarden en de financiële impact, zijn nog onbekend. Zonder deze informatie is het onmogelijk om de potentiële waardecreatie of -vernietiging te beoordelen.",
+      "invalidation_nl": "De essentiële financiële en operationele details van de materiële definitieve overeenkomst ontbreken volledig in de verstrekte informatie.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding bevestigt een definitieve overeenkomst, maar de inhoudelijke details zijn cruciaal voor verdere analyse."
+    }
+  },
+  {
+    "time": "2026-11-19T22:42:43.841011+00:00",
+    "symbol": "FILER",
+    "title": "8-K - INTUIT INC. (0000896878) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-11-19T22:42:58.159982+00:00",
+    "symbol": "FILER",
+    "title": "8-K - INSIGHT ENTERPRISES INC (0000932696) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "INSIGHT ENTERPRISES INC heeft een 8-K-formulier ingediend bij de SEC, waarin melding wordt gemaakt van het aangaan van een materiële definitieve overeenkomst en het creëren van een directe financiële verplichting. Verdere details over de aard van de overeenkomst zijn niet gespecificeerd in de samenvatting.",
+      "why_nl": "Het aangaan van een materiële overeenkomst en een financiële verplichting kan duiden op een belangrijke strategische zet, zoals een overname of een grote investering, wat de toekomstige financiële prestaties kan beïnvloeden. Dit kan leiden tot veranderingen in de balans en winst- en verliesrekening van het bedrijf.",
+      "risk_nl": "Zonder details over de aard, omvang en voorwaarden van de overeenkomst is het onmogelijk de impact op het bedrijf te beoordelen. De financiële verplichting kan aanzienlijk zijn en risico's met zich meebrengen als de onderliggende transactie niet succesvol is.",
+      "invalidation_nl": "Er zijn geen concrete details over de tegenpartij, de contractwaarde of de specifieke voorwaarden van de vermeende M&A-transactie beschikbaar.",
+      "is_already_priced": false,
+      "notes": "De 8-K-melding is officieel, maar de inhoudelijke details van de overeenkomst ontbreken in de verstrekte informatie."
+    }
+  },
+  {
+    "time": "2026-11-19T22:42:59.031115+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Inflection Point Acquisition Corp. VI (0002102041) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-19T22:42:59.893590+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Stewards, Inc. (0001795851) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
