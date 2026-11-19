@@ -4774,5 +4774,11 @@
     "symbol": "FILER",
     "title": "8-K - Hagerty, Inc. (0001840776) (Filer)",
     "event_family": "M_AND_A"
+  },
+  "3708fef13d94b8fb7a2b0efea4bb7443fd71ae69115073041fb95d4ae9184f0e": {
+    "first_alert_at": "2026-11-19T15:24:06.121569+00:00",
+    "symbol": "FILER",
+    "title": "8-K - ExchangeRight Income Fund (0001771514) (Filer)",
+    "event_family": "M_AND_A"
   }
 }

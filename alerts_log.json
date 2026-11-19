@@ -19331,5 +19331,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-11-19T15:24:18.006922+00:00",
+    "symbol": "FILER",
+    "company": "ExchangeRight Income Fund (0001771514) (Filer)",
+    "event_key": "3708fef13d94b8fb7a2b0efea4bb7443fd71ae69115073041fb95d4ae9184f0e",
+    "event_family": "M_AND_A",
+    "title": "8-K - ExchangeRight Income Fund (0001771514) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1771514/000119312526467957/0001193125-26-467957-index.htm",
+    "news_age_minutes": 23,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 11,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "ExchangeRight Income Fund heeft op 19 november 2026 een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst (Item 1.01).",
+      "why_nl": "De ondertekening van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap of transactie voor het bedrijf. Dit kan de toekomstige financiële prestaties en de waardering van de onderneming beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst zijn niet bekend, waardoor de impact onduidelijk is. Zonder details over de tegenpartij, waarde of inhoud is de economische relevantie moeilijk te beoordelen.",
+      "invalidation_nl": "Er zijn geen details over de inhoud, waarde of partijen van de materiële definitieve overeenkomst beschikbaar in de samenvatting.",
+      "is_already_priced": false,
+      "notes": "De 8-K melding bevestigt een materiële overeenkomst, maar de details van de M&A zijn niet gespecificeerd in de samenvatting."
+    }
   }
 ]
