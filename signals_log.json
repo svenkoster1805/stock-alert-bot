@@ -12250,5 +12250,165 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-11-20T22:12:46.285189+00:00",
+    "symbol": "FILER",
+    "title": "8-K - KIDZ AI Inc. (0002022308) (Filer)",
+    "score": 13,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "KIDZ AI Inc. heeft op 20 november 2026 een materiële definitieve overeenkomst gesloten, zoals gemeld in een 8-K filing bij de SEC. Dit document bevat ook financiële overzichten en bijlagen.",
+      "why_nl": "De melding van een materiële definitieve overeenkomst kan duiden op een belangrijke strategische stap voor het bedrijf, zoals een overname of fusie. Dit kan de toekomstige financiële prestaties en marktpositie van KIDZ AI Inc. beïnvloeden.",
+      "risk_nl": "De specifieke aard en voorwaarden van de overeenkomst zijn nog onbekend, waardoor de impact op het bedrijf en de aandeelhouders onduidelijk is. Zonder details over de tegenpartij of de financiële implicaties is het risico hoog.",
+      "invalidation_nl": "Er is geen informatie beschikbaar over de contractwaarde, de partijen betrokken bij de overeenkomst, of de specifieke voorwaarden van de M&A.",
+      "is_already_priced": false,
+      "notes": "De 8-K filing bevestigt het bestaan van een materiële overeenkomst, maar de inhoudelijke details ontbreken nog."
+    }
+  },
+  {
+    "time": "2026-11-20T22:12:59.747796+00:00",
+    "symbol": "FILER",
+    "title": "8-K - VisionWave Holdings, Inc. (0002038439) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "WAIT_FOR_CONFIRMATION",
+      "confidence": 1,
+      "summary_nl": "VisionWave Holdings, Inc. heeft een 8-K-formulier ingediend bij de SEC. Dit formulier meldt de totstandkoming van een materiële definitieve overeenkomst en de niet-geregistreerde verkoop van aandelen.",
+      "why_nl": "Een materiële definitieve overeenkomst kan een significante strategische of financiële impact hebben op het bedrijf. De verkoop van aandelen kan duiden op financiering van deze transactie.",
+      "risk_nl": "De specifieke aard, de tegenpartij en de financiële voorwaarden van de overeenkomst zijn niet bekend uit de samenvatting. Dit maakt een inschatting van de impact onmogelijk.",
+      "invalidation_nl": "De concrete financiële details en de tegenpartij van de materiële overeenkomst zijn niet gespecificeerd in de samenvatting, waardoor een handelsbesluit niet verantwoord is.",
+      "is_already_priced": false,
+      "notes": "Verdere analyse van het volledige 8-K-document is noodzakelijk om de exacte aard en impact van de overeenkomst te bepalen."
+    }
+  },
+  {
+    "time": "2026-11-20T22:13:11.767382+00:00",
+    "symbol": "FILER",
+    "title": "8-K - CNL Strategic Capital, LLC (0001684682) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "AI-review tijdelijk niet beschikbaar.",
+      "why_nl": "De eerste melding is uitsluitend op bron en eventregels verstuurd.",
+      "risk_nl": "Controleer de originele bron zelf.",
+      "invalidation_nl": "Geen tweede review beschikbaar.",
+      "is_already_priced": false,
+      "notes": ""
+    }
+  },
+  {
+    "time": "2026-11-20T22:13:12.777369+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Future Money Acquisition Corp (0002099232) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-20T22:13:13.706892+00:00",
+    "symbol": "FILER",
+    "title": "8-K/A - Copley Acquisition Corp (0002045473) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-20T22:13:14.734990+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Oyster Enterprises II Acquisition Corp (0002042182) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-20T22:13:15.694740+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Sizzle Acquisition Corp. II (0002030663) (Filer)",
+    "score": 12,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-20T22:13:16.648908+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Inflection Point Acquisition Corp. VI (0002102041) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-20T22:13:17.620820+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Enova International, Inc. (0001529864) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-20T22:13:18.625697+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Greenland Mines Ltd (0001907223) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
+  },
+  {
+    "time": "2026-11-20T22:13:19.597372+00:00",
+    "symbol": "FILER",
+    "title": "8-K - Apimeds Pharmaceuticals US, Inc. (0001894525) (Filer)",
+    "score": 11,
+    "review": {
+      "verdict": "UNAVAILABLE",
+      "confidence": 0,
+      "summary_nl": "Secondaire review niet uitgevoerd wegens drukte.",
+      "why_nl": "De bron- en eventregels zijn wel gehaald.",
+      "risk_nl": "Controleer details in de originele bron.",
+      "invalidation_nl": "Geen tweede review beschikbaar."
+    }
   }
 ]
