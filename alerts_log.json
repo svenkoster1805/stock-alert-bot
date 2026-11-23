@@ -19736,5 +19736,30 @@
       "risk_nl": "Controleer details in de originele bron.",
       "invalidation_nl": "Geen tweede review beschikbaar."
     }
+  },
+  {
+    "time": "2026-11-23T17:36:45.151801+00:00",
+    "symbol": "FILER",
+    "company": "Franklin BSP Capital Corp (0001825248) (Filer)",
+    "event_key": "b14769c3f3b7969357b381d60c647ed8d2c34a1c1667f532dff3c4d958956cdc",
+    "event_family": "M_AND_A",
+    "title": "8-K - Franklin BSP Capital Corp (0001825248) (Filer)",
+    "publisher": "SEC.gov",
+    "url": "https://www.sec.gov/Archives/edgar/data/1825248/000121390026123058/0001213900-26-123058-index.htm",
+    "news_age_minutes": 0,
+    "price_at_alert": null,
+    "day_change_pct": null,
+    "relative_volume": null,
+    "fastlane_score": 13,
+    "review": {
+      "verdict": "REJECT",
+      "confidence": 1,
+      "summary_nl": "Franklin BSP Capital Corp heeft een 8-K formulier ingediend met betrekking tot een materiële definitieve overeenkomst en de creatie van een directe financiële verplichting.",
+      "why_nl": "Een materiële definitieve overeenkomst en nieuwe financiële verplichtingen kunnen de financiële positie en toekomstige prestaties van het bedrijf significant beïnvloeden.",
+      "risk_nl": "De specifieke details van de overeenkomst en de financiële verplichting zijn niet bekend, waardoor de impact onduidelijk blijft.",
+      "invalidation_nl": "De publicatiedatum van het evenement ligt in de toekomst (2026-11-23), waardoor het op dit moment geen actueel of valide nieuws is.",
+      "is_already_priced": false,
+      "notes": "Het evenement is een 8-K filing, wat doorgaans betrouwbaar is, maar de toekomstige datum is problematisch."
+    }
   }
 ]
