@@ -1,68 +1,5 @@
 [
   {
-    "time": "2026-09-21T22:00:32.277462+00:00",
-    "reason": "te oud voor fastlane (80 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Orion180 Insurance Group Inc. (0002124472) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 80,
-    "url": "https://www.sec.gov/Archives/edgar/data/2124472/000162828026062917/0001628280-26-062917-index.htm"
-  },
-  {
-    "time": "2026-09-21T22:00:32.277509+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - PennantPark Private Income Fund (0002089126) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 85,
-    "url": "https://www.sec.gov/Archives/edgar/data/2089126/000119312526396733/0001193125-26-396733-index.htm"
-  },
-  {
-    "time": "2026-09-21T22:00:32.277522+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - PTC THERAPEUTICS, INC. (0001070081) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 85,
-    "url": "https://www.sec.gov/Archives/edgar/data/1070081/000107008126000023/0001070081-26-000023-index.htm"
-  },
-  {
-    "time": "2026-09-21T22:00:32.453943+00:00",
-    "reason": "te oud voor fastlane (89 min, limiet 30)",
-    "symbol": "FILER",
-    "title": "8-K - Integrated Wellness Acquisition Corp (0001877557) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 89,
-    "url": "https://www.sec.gov/Archives/edgar/data/1877557/000110465926109330/0001104659-26-109330-index.htm"
-  },
-  {
-    "time": "2026-09-21T22:00:32.453986+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - SOLIGENIX, INC. (0000812796) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 89,
-    "url": "https://www.sec.gov/Archives/edgar/data/812796/000110465926109329/0001104659-26-109329-index.htm"
-  },
-  {
-    "time": "2026-09-21T22:00:32.453998+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - NEONC TECHNOLOGIES HOLDINGS, INC. (0001979414) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 89,
-    "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626010282/0001829126-26-010282-index.htm"
-  },
-  {
-    "time": "2026-09-21T22:00:32.454007+00:00",
-    "reason": "geen relevante catalyst of negatief corporate risk",
-    "symbol": "FILER",
-    "title": "8-K - TurnOnGreen, Inc. (0001349706) (Filer)",
-    "publisher": "SEC.gov",
-    "age_minutes": 89,
-    "url": "https://www.sec.gov/Archives/edgar/data/1349706/000121465926011837/0001214659-26-011837-index.htm"
-  },
-  {
     "time": "2026-09-21T22:00:32.606071+00:00",
     "reason": "te oud voor fastlane (89 min, limiet 30)",
     "symbol": "FILER",
@@ -107998,5 +107935,68 @@
     "publisher": "SEC.gov",
     "age_minutes": 227,
     "url": "https://www.sec.gov/Archives/edgar/data/1991605/000121390026124141/0001213900-26-124141-index.htm"
+  },
+  {
+    "time": "2026-11-26T16:32:39.978944+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Representative Mary Gay Scanlon introduces H.R. 11117: Mental Health Justice Act of 2026 - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 49,
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQTcwZE5LMEg2eHEzamNwUmQzalZ4NW9lRlQzRkVWM3R3V3U0ZzMtRWNqZmlSX1JpMUVmLTZobHRRZFlmN21VbXdJYU9fOERHSEptcldMd2N0dFBUQ0VVNVhGSkJIcV8tRnJ1LTQ0aURNeHVaMFNmYXFqR0NRdDZKaFdOQnFPZEZVeEFoT1VLYzRQdnZuWkdYaWdCTVhfZEtZRTc0NGtRN25SQjMxOFBGRF9FWmJ3STJNS2VaejZ0VVM?oc=5"
+  },
+  {
+    "time": "2026-11-26T16:32:39.978961+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Brainbees Solutions Ltd Reports Swara Baby ₹800 Crore IPO RHP - Multibagg AI",
+    "publisher": "Multibagg AI",
+    "age_minutes": 44,
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ1Z3dEktTTdKeWlEZVdMQlZQM1BGYUJ4T29rTll4RmNTUk41ejl4eTVpTXl3OXUxRG85Si1NbjVYam9PcW9pVEk4QzV2SVVFbWhXUnBaenJycHo5bElVSGtkOEEzYlFxRXh1cFJibXQzZUl5SlpiU1JaUjFIZmUyY21ZWTdmcjBUMjRJNlJMWE1IaW9vS3BTVmVKalpOQmlVU3Fr?oc=5"
+  },
+  {
+    "time": "2026-11-26T16:32:39.978970+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Representative Chip Roy introduces H.R. 11115: Fuel Freedom Act of 2026 - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 49,
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaE1jX3pyVXlrRU0yY3I0NjlNVVh6N1plYjhlb3JOX3VadE90QnEzS1JRaUo3WW52enVQMTk1XzIyaU1OcEJqMnNTdkRnZVFUd0VSYzlKRjBOMWRWM2NCNlZRSUJjazUtTGoydzVEaGlfdThuWXk1RVpXd2tCRE5PN0p6N1NOTGRNV3hlNjVvdXMzbXotYzd0Nk10dmR4MkRQdnNEYlp3WEh1UQ?oc=5"
+  },
+  {
+    "time": "2026-11-26T16:32:39.978978+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Representative Joseph D. Morelle introduces H.R. 11108: Gun Theft Prevention Act - Quiver Quantitative",
+    "publisher": "Quiver Quantitative",
+    "age_minutes": 49,
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUZ1NmM1Q21qLURFcmxQV0twNnNnSF9DSXUzdGt4Q3pfVDNCMFZFaGQyNDZMWGZfV3Jmek1YenBVNl9WNzlaZjR0R1VIRWUwNGt5R2wybWhfdHcyemZwaTdMQ2hndmplMXpobmdWSGFiRy1oTmd2am9LMFdOUW5jN3R2TzNaYjdpMlFrMV9iVFVuMXU5b3pMT3RISkI1ZHJuUnZ5TzVWTHNOUmdOMjYzWjVFeVhfdw?oc=5"
+  },
+  {
+    "time": "2026-11-26T16:32:39.978988+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Drug Raids Across Five Bihar Districts: Patna’s Govind Mitra Road Sees Seven Inspections, Kesar Warehouse Sealed - Patna Press",
+    "publisher": "Patna Press",
+    "age_minutes": 13,
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTU1pcmxIT241cmZHd2FqRjN0c1NXakljOVI1cUhSLXRrdnA5cmMzcTF5UFZLNEJEVnFTMmZtVkpRaEpEQmkxVWpzY1BaUzFic2dWLWQ5RTA2cHYzeVBKZnBqdkJDZmJMWmREc2pTbmp4anVNT3E5ZnA0QS03VFBWcTBXNTNHSzFTVUlOdkMzbGpGdFc0bUpZVlVpUl9mVkJMRjlFYw?oc=5"
+  },
+  {
+    "time": "2026-11-26T16:32:40.274084+00:00",
+    "reason": "ticker kon niet betrouwbaar worden gekoppeld",
+    "symbol": "",
+    "title": "TG SAFE raids medical shops for illegal sale of abortion kits - The Siasat Daily",
+    "publisher": "The Siasat Daily",
+    "age_minutes": 15,
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWI4dmFoSFVHV2pHamVxaHo4V01jcmNoeXhkQ09EeHZsLVJ2Q1NCSW9LTUtvZkhMektldTAtVDMzRGRTZE9RS2RGZEdJc1p6YldveWZZbEtLa1c3eXcwa3pqR2pTam1PVkw4NGVKYXdpZG5aSDFIcWJWbTI4Q1ZJdDBQVlNCTGNzcTJacHdjMnBUNk12dlhrZNIBngFBVV95cUxOMWxQR0VKNVNuci1CbUxxWVMyWlNoUUY0NXd1ZFNfaHpacjJVOF9RSW1jMXZCM25rX0dySXBmLUpaMGxLc3MzaTNBdnRoNnI4ZHctTVFYYzFGWWNxcklEb1llcGxHanJ0Qk5mN1BjRjFYTnYyaXNJR3d4WDNWUDdORW1hcEttT2NKdWdsc0VQZGc2dFZUdHRfN3Zzc3VBUQ?oc=5&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "time": "2026-11-26T16:32:40.274130+00:00",
+    "reason": "geen relevante catalyst of negatief corporate risk",
+    "symbol": "",
+    "title": "Dispersal draft looms as Titan Ultra players set for Dec. 2 meeting with PBA - www.dugout.ph",
+    "publisher": "www.dugout.ph",
+    "age_minutes": 59,
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qQ2RqWDlER1hYZlN0MDR6aWtTTXRSb2gyTzdpRVNnVXpudUNiYmtOb1cxX0hRTlBxUWI5SE9tLTRBN2hZWjJJaHp3czdhbjZEdUV5aU1LeVRFMEJUUXBWNkJZSDR2STVxNHp6MXlBbG5wMUVQXy1qTlJKZw?oc=5"
   }
 ]
